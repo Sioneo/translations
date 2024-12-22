@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?><resources>
-    <string name="app_name">西奧小鎮</string>
+    <string name="app_name">西奧小鎮test</string>
     <string name="settings_title">設置</string>
     <string name="loadcity_title">載入城市</string>
     <string name="createcity_title">建立新城市</string>
