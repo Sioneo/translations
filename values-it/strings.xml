@@ -5,7 +5,7 @@
     <string name="createcity_title">Nuova città</string>
     <string name="settings_defaults">Predefinite</string>
     <string name="settings_apply">Conferma</string>
-    <string name="createcity_mapsize">Larghezza:</string>
+    <string name="createcity_mapsize">Dimensione:</string>
     <string name="createcity_cityname">Nome città:</string>
     <string name="control_back">Indietro</string>
     <string name="createcity_start">Inizia</string>
@@ -174,7 +174,7 @@
     <string name="ci_budget_income">Entrate (mensili)</string>
     <string name="ci_budget_spending">Uscite (mensili)</string>
     <string name="ci_budget_taxes">Tasse</string>
-    <string name="money">%1$s</string>
+    <string name="money">%1$,d₮</string>
     <string name="ci_water_title">Acqua</string>
     <string name="ci_energy_title">Energia</string>
     <string name="ci_info_title">Panoramica della città</string>
@@ -395,9 +395,7 @@
 \n
 \nÈ permesso un solo programma radio per volta. I programmi vecchi saranno rimossi.</string>
     <string name="draft_radio00_fun_title">Radio DIVERTIMENTO</string>
-    <string name="draft_radio00_fun_text">Manda in onda prevalentemente musica e un programma di intrattenimento leggero. Gli ascoltatori si sentono meglio, quindi funziona come un parco con un raggio d\'azione maggiore.
-\n
-\nnÈ permesso un solo programma radio per volta. I programmi vecchi saranno rimossi.</string>
+    <string name="draft_radio00_fun_text">Manda in onda prevalentemente musica e un programma di intrattenimento leggero. Gli ascoltatori si sentono meglio, quindi funziona come un parco con un raggio d\'azione maggiore.\n\nÈ permesso un solo programma radio per volta. I programmi vecchi saranno rimossi.</string>
     <string name="draft_radio00_faith_title">Radio fede</string>
     <string name="draft_radio00_faith_text">Manda in onda conversazioni sulla fede e sulla nostra esistenza sulla terra. Funziona praticamente come un edificio sacro con un raggio d\'azione più elevato.
 \n
@@ -646,7 +644,7 @@
     <string name="draft_carcinema00_title">Cinema drive-in</string>
     <string name="draft_carcinema00_text">Un po\' di intrattenimento per gli abitanti di TheoTown.</string>
     <string name="notify_lowbudget">Non hai più denaro. Dovresti prenderne un po\' in prestito.</string>
-    <string name="settings_rightsidebar">Barra laterale a sinistra</string>
+    <string name="settings_rightsidebar">Barra laterale a destra</string>
     <string name="settings_topstatusbar">Barra di stato in alto</string>
     <string name="settings_leftminimap">Minimappa a sinistra</string>
     <string name="settings_category_ui">Interfaccia utente</string>
@@ -739,7 +737,7 @@
     <string name="tutorial_buildbridge_c">Ok, abbiamo finito con la costruzione.</string>
     <string name="draft_beachnearwater00_title">Spiaggia</string>
     <string name="draft_beachnearwater00_text">Passa una splendida giornata in spiaggia.</string>
-    <string name="loadcity_version_premium">Versione %1$,d (Pemium)</string>
+    <string name="loadcity_version_premium">Versione %1$,d (Premium)</string>
     <string name="loadcity_preview">Città esempio</string>
     <string name="settings_autorestoresamples">Ripristina le città esempio</string>
     <string name="settings_autountouchable">Impostare i propri edifici su Intoccabile</string>
@@ -753,7 +751,7 @@
     <string name="draft_road04_text">Un bel viale alberato.</string>
     <string name="draft_marker_watermarker_title">Acqua</string>
     <string name="draft_road05_text">La strada perfetta per collegare aree lontane.</string>
-    <string name="notify_demonstration">C\'è una manifestazione nella nostra città a causa di %1s! Fa\' qualcosa o potrebbe finire male!</string>
+    <string name="notify_demonstration">C\'è una manifestazione nella nostra città a causa di %1$s! Fa\' qualcosa o potrebbe finire male!</string>
     <string name="draft_road05_title">Autostrada</string>
     <string name="draft_road04_title">Viale</string>
     <string name="happiness_general">Felicità Generale</string>
@@ -776,7 +774,7 @@
     <string name="draft_rnk_town_big_title">Cittadina grande</string>
     <string name="draft_rnk_metropolis_title">Metropoli</string>
     <string name="draft_rnk_megalopolis_title">Megalopoli</string>
-    <string name="draft_decoroad00_text">.</string>
+    <string name="draft_decoroad00_text">Un po\' di natura e ombra per i centri urbani affollati.</string>
     <string name="settings_experimental">Caratteristiche sperimentali</string>
     <string name="about_thanks">Ringraziamenti speciali a: </string>
     <string name="about_community">E il resto della nostra comunità</string>
@@ -869,7 +867,7 @@
     <string name="dialog_ffwd_text">Un gameplay più veloce per %1$,d giorni.</string>
     <string name="dialog_ffwd_cmdplayad">Video pubblicitario</string>
     <string name="game_ramaining_ffwd">%1$,d giorni veloci rimanenti</string>
-    <string name="settings_useservices">Usa i serivizi di gioco</string>
+    <string name="settings_useservices">Usa i servizi di gioco</string>
     <string name="diamonds">%1$,d</string>
     <string name="dialog_present_title">Un regalo per te</string>
     <string name="dialog_present_text">Usali saggiamente.</string>
@@ -888,8 +886,8 @@
     <string name="draft_feature_buildings00_text">Migliora la tua avventura nel costruire città con il pacchetto Variety! Questo pacchetto introduce un assortimento di edifici residenziali, commerciali e industriali piccoli, dando più vita alla città. Inoltre, puoi immergerti nel fascino delle stagioni con i contenuti invernali esclusivi che trasformeranno la tua città in una meraviglia invernale. Espandi la creatività e rendi ogni stagione piacevole per i tuoi cittadini. Effettua ora l\'upgrade e vivi la frenesia della costruzione!</string>
     <string name="dialog_redeempromo_title">Ecco dei diamanti</string>
     <string name="dialog_redeempromo_text">Sembra che questi diamanti siano tuoi adesso.</string>
-    <string name="dialog_present_cmdad">Raddopia</string>
-    <string name="dialog_connectroad_title">Connetti alle città civine</string>
+    <string name="dialog_present_cmdad">Raddoppia</string>
+    <string name="dialog_connectroad_title">Connetti alla città vicina</string>
     <string name="dialog_connectroad_text">Vuoi connettere questa strada alle città vicine?</string>
     <string name="settings_autosave">Autosalvataggio</string>
     <string name="region_unlock">Sblocca</string>
@@ -905,7 +903,7 @@
     <string name="dialog_resetcity_title">Ripristina la città</string>
     <string name="dialog_resetcity_text">Vuoi ripristinare questa città al suo stato originale?\n\nNon potrai recuperarla.</string>
     <string name="dialog_resetcity_cmdreset">Ripristina</string>
-    <string name="draft_devroad01_title">Strada nazionale a senzo unico</string>
+    <string name="draft_devroad01_title">Strada nazionale a senso unico</string>
     <string name="draft_devroad01_text">Strada a senso unico costruita e pagata dallo stato.</string>
     <string name="task_openworld_title">Regione</string>
     <string name="task_openworld_text">La tua città è solo una parte di qualcosa di più grande. Qui puoi vedere tutte le tue città</string>
@@ -913,7 +911,7 @@
     <string name="task_openrci_text">In TheoTown noi differenziamo le richieste di edifici per tipi di edifici e livelli differenti. I tipi di edifici sono residenziali, commerciali ed industriali. Ci sono 3 livelli: poveri (₮), benestanti (₮₮) e ricchi (₮₮₮).</string>
     <string name="control_gotit">Capito</string>
     <string name="task_firstcity_title">Nuovo paese</string>
-    <string name="task_firstcity_text">Benvenuto nel tuo primo paese.\n\nProva a raggiongere i 300 abitanti.</string>
+    <string name="task_firstcity_text">Benvenuto nel tuo primo paese.\n\nProva a raggiungere i 300 abitanti.</string>
     <string name="task_reachrank_title">Nuovo rango</string>
     <string name="task_reachrank_text">Congratulazioni! La tua città ha raggiunto un nuovo rango.\n\nAd ogni rango sblocchi degli edifici e ottieni una ricompensa</string>
     <string name="menu_achievements">Obiettivi</string>
@@ -953,7 +951,7 @@
     <string name="dialog_feedback_text">Se hai qualche suggerimento per migliorare il gioco, non esitare a dircelo.</string>
     <string name="dialog_feedback_cmdok">Invia suggerimento</string>
     <string name="dialog_feedback_cmdcancel">No</string>
-    <string name="dialog_buildnow_title">Finsci adesso</string>
+    <string name="dialog_buildnow_title">Finisci adesso</string>
     <string name="dialog_buildnow_text">Vorresti andare avanti di %1$,d giorni?</string>
     <string name="draft_launch_rocket_title">Lancia il missile</string>
     <string name="draft_decoconstruction00_title">Costruzione</string>
@@ -1002,7 +1000,6 @@
     <string name="dialog_presentdaily_text">Domani ne avrai di più.</string>
     <string name="dialog_presentdaily_day">Giorno %1$,d</string>
     <string name="rank_needed_xp">Almeno %1$,d punti città necessari</string>
-    <string name="currency_symbol" translatable="false">₮</string>
     <string name="settings_shortmoney">Abbrevia denaro</string>
     <string name="dialog_newsign_title">Nuova etichetta</string>
     <string name="dialog_newsign_text">Inserire un nome per quest\'area.</string>
@@ -1116,7 +1113,7 @@ Se si fornisce a TheoTown l\'accesso alla memoria esterna, TheoTown salverà le 
     <string name="draft_feature_ranger00_title">Capanna del guardaboschi</string>
     <string name="draft_feature_ranger00_text">A volte gli alberi devono essere ripiantati se l\'ambiente è troppo inquinato. La capanna del guardaboschi ripianta automaticamente gli alberi.</string>
     <string name="draft_ranger00_title">Capanna del guardaboschi</string>
-    <string name="draft_ranger00_text">Ridai vita allo sviluppo cittadino con questo pacchetto! La capanna del guardaboschi muteràla tua esperienza di gioco sul modo di piantare alberi. Di\' addio all\'inguinamento, grazie alla sua funzione di riforestazione. Effettua l\'upgrade e vivi la gioia della riforestazione automatica!</string>
+    <string name="draft_ranger00_text">A volte gli alberi devono essere ripiantati se l\'ambiente è troppo inquinato. Questa capanna ripianta automaticamente gli alberi.</string>
 
     <string name="ci_general_citypoints">Punti città: %1$s</string>
     <string name="settings_ringbuildindicator">Indicatore di costruzione</string>
@@ -1132,7 +1129,7 @@ Se si fornisce a TheoTown l\'accesso alla memoria esterna, TheoTown salverà le 
     <string name="draft_feature_letters00_title">Decorazione lettere</string>
     <string name="draft_feature_letters00_text">Sblocca il set Decorative Letter e aggiungi un tocco personale alla città! Le lettere possono essere aggiunte dovunque per decorare come si vuole. Scrivi il nome della città, oppure divertiti nel modo che preferisci con frasi particolari. Effettua l\'upgrade e metti la creatività al centro della scena!</string>
 
-    <string name="tool_eye_dropper">Seleziona un edificio</string>
+    <string name="tool_eye_dropper">Seleziona una strada o un edificio</string>
     <string name="settings_language">Lingua</string>
     <string name="settings_language_hint">Potrebbe essere necessario riavviare l\'applicazione per cambiare correttamente la lingua.</string>
     <string name="settings_language_default">Predefinita (%s)</string>
@@ -1249,7 +1246,7 @@ Se si fornisce a TheoTown l\'accesso alla memoria esterna, TheoTown salverà le 
     <string name="airport_needtower_title">Nessuna torre</string>
     <string name="airport_needtower_text">Devi costruire una torre per poter controllare l\'aeroporto</string>
     <string name="airport_needworkingtower_title">Torre non funzionante</string>
-    <string name="airport_needworkingtower_text">Dovi assicurarvi che la torre funzioni</string>
+    <string name="airport_needworkingtower_text">Devi assicurarti che la torre funzioni</string>
     <string name="airport_needworkingtower_cmdshow">Mostra</string>
     <string name="ci_airport_newlane_title">Nuova corsia</string>
     <string name="ci_airport_newlane_text">Aggiungi una nuova corsia per il tuo aeroporto</string>
@@ -1466,7 +1463,7 @@ Se si fornisce a TheoTown l\'accesso alla memoria esterna, TheoTown salverà le 
     <string name="draft_draft_prk_title">Parco</string>
     <string name="draft_draft_prk_text">Indicatore di disponibilità dei parchi.</string>
     <string name="draft_draft_sp_title">Sport</string>
-    <string name="draft_draft_sp_text">Indicatore di disponibilità di spot.</string>
+    <string name="draft_draft_sp_text">Indicatore di disponibilità dello sport.</string>
     <string name="draft_draft_fth_title">Fede</string>
     <string name="draft_draft_fth_text">Indicatore della fede degli abitanti.</string>
     <string name="draft_draft_hlth_title">Salute</string>
@@ -1477,8 +1474,8 @@ Se si fornisce a TheoTown l\'accesso alla memoria esterna, TheoTown salverà le 
     <string name="draft_draft_hlvl_text">Felicità riguardante il livello degli edifici vicini.</string>
     <string name="draft_draft_htx_title">Felicità riguardante le tasse</string>
     <string name="draft_draft_htx_text">Felicità riguardante le tasse.</string>
-    <string name="draft_draft_htr_title">Felicità per i transporti</string>
-    <string name="draft_draft_htr_text">Felicità riguardante i transporti.</string>
+    <string name="draft_draft_htr_title">Felicità per i trasporti</string>
+    <string name="draft_draft_htr_text">Felicità riguardante i trasporti.</string>
     <string name="draft_draft_hzn_title">Felicità per la zone</string>
     <string name="draft_draft_hzn_text">Felicità riguardante le zone vicine.</string>
     <string name="draft_draft_hspl_title">Felicità per le risorse</string>
@@ -1497,9 +1494,9 @@ Se si fornisce a TheoTown l\'accesso alla memoria esterna, TheoTown salverà le 
     <string name="draft_draft_hsp_text">Felicità riguardante gli edifici sportivi.</string>
     <string name="draft_draft_hgen_title">Felicità generale</string>
     <string name="draft_draft_hgen_text">Felicità in generale.</string>
-    <string name="influence_passenger_bus_title">Transporto con autobus</string>
+    <string name="influence_passenger_bus_title">Trasporto con autobus</string>
     <string name="influence_passenger_bus_text">Se le persone usano gli autobus ci sarà meno traffico.</string>
-    <string name="influence_passenger_train_title">Transporto con treni</string>
+    <string name="influence_passenger_train_title">Trasporto con treni</string>
     <string name="influence_passenger_train_text">Se le persone usano i treni ci sarà meno traffico in strada.</string>
     <string name="influence_residential_title">Area residenziale</string>
     <string name="influence_residential_text">Le persone preferiscono vivere in un\'area residenziale.</string>
@@ -1745,7 +1742,7 @@ Se si fornisce a TheoTown l\'accesso alla memoria esterna, TheoTown salverà le 
     <string name="dialog_search_text">Inserisci una parola chiave per la ricerca.</string>
     <string name="dialog_search_cmdok">Cerca</string>
     <string name="dialog_search_cmdcancel">Annulla</string>
-    <string name="search_results_title">Risultati della ricerca \"%s</string>
+    <string name="search_results_title">Risultati della ricerca \"%s\"</string>
     <string name="draft_rail01_title">Ferrovia urbana</string>
     <string name="draft_rail01_text">Ferrovia sopraelevata per le aree urbane per una maggiore velocità.</string>
     <string name="draft_nativerailwaystation01_title">Stazione ferroviaria urbana</string>
@@ -2047,7 +2044,7 @@ Contro: Meno sfide</string>
     <string name="dialog_notenoughmoneyp_text">Non abbiamo abbastanza soldi per questo in questo momento :(\n\nL\'importo mancante è %1$s</string>
     <string name="game_region">Regione %1$d/%2$d</string>
     <string name="gamemode_sandbox_title">Sandbox</string>
-    <string name="gamemode_sandbox_text">Utilizzare questa modalità per esperimenti senza costi. I tuoi abitanti hanno lo stesso delle esigenze da soddisfare.</string>
+    <string name="gamemode_sandbox_text">Utilizza questa modalità per fare esperimenti senza denaro. I tuoi abitanti hanno comunque delle esigenze da soddisfare.</string>
     <string name="dialog_ubermode_title">Modalità Uber</string>
     <string name="dialog_ubermode_text">Attivare questa modalità speciale per liberarsi di tutte le seccature in città:\n-Nessun incendio\n-Niente spazzatura\n-Nessuna malattia\n-Nessun crimine\n-Nessun decesso\n-Un\'istruzione completa\n-100% popolarità</string>
     <string name="topic_pluginsawesome">I plugin sono fantastici! Tuttavia, si consiglia di disattivare i plugin non utilizzati.</string>
@@ -2119,7 +2116,7 @@ Contro: Meno sfide</string>
     <string name="stage_gallery_update">Aggiorna</string>
     <string name="stage_gallery_noimages">Non sono state ancora caricate immagini.</string>
     <string name="stage_region_online">Regioni online</string>
-    <string name="online_city_visit">Visita il sito</string>
+    <string name="online_city_visit">Visita</string>
     <string name="store_status_notavailable">Questo plugin non è disponibile al momento</string>
     <string name="dialog_missingplugins_title">Plugin mancanti</string>
     <string name="dialog_missingplugins_text">Questa città contiene plugin che non sono stati scaricati o che non sono in esecuzione al momento:</string>
@@ -2132,7 +2129,7 @@ Contro: Meno sfide</string>
     <string name="statistics_waterneed">Acqua necessaria</string>
     <string name="ci_show_statistics">Mostra le statistiche</string>
     <string name="dialog_commentdelete_title">Cancella commento</string>
-    <string name="dialog_commentdelete_text">Ehi, vuoi davvero cancellare il commento di %1$s?</string>
+    <string name="dialog_commentdelete_text">Vuoi davvero eliminare il commento di %1$s? Non potrai annullare questa operazione.</string>
     <string name="dialog_commentdelete_cmd">Cancella</string>
     <string name="stage_comment_login">Accedi con l\'account TheoTown per commentare</string>
     <string name="dialog_report_title">Segnala</string>
@@ -2366,7 +2363,7 @@ Collegando il gioco a un account di TheoTown Forum è possibile partecipare alla
     <string name="store_cat_residential">Residenziale</string>
     <string name="store_cat_commercial">Commerciale</string>
     <string name="store_cat_industrial">Industriale</string>
-    <string name="store_cat_parks">Parks, Sports and Management</string>
+    <string name="store_cat_parks">Parchi, sport e gestione</string>
     <string name="store_cat_supply">Risorse (Energia, Acqua, Rifiuti)</string>
     <string name="store_cat_religion">Religione e Cultura</string>
     <string name="store_cat_service">Servizi (Polizia, Salute, Istruzione, ...)</string>
@@ -2381,7 +2378,7 @@ Collegando il gioco a un account di TheoTown Forum è possibile partecipare alla
     <string name="dialog_confirmsendgift_text">Fantastico! Stai per inviare un regalo a %1$s.</string>
     <string name="settings_category_tools">Strumenti</string>
     <string name="settings_category_gameplay">Gioco</string>
-    <string name="settings_autosavewhenleaving">Salva automatiamente quando esci dalla città</string>
+    <string name="settings_autosavewhenleaving">Salva automaticamente quando esci dalla città</string>
     <string name="stage_regioncity_visits">Visite: %1$,d</string>
     <string name="dialog_missingplugins_total">Plugin usati</string>
     <string name="settings_maprenderingnobackground">Sfondo trasparente nelle schermate della mappa</string>
@@ -2420,7 +2417,7 @@ Collegando il gioco a un account di TheoTown Forum è possibile partecipare alla
     <string name="dialog_externalstorage_explanation">TheoTown usa i permessi di accesso alla memoria di archiviazione esterna per salvare città e regioni in modo accessibile.
 Così facendo possiamo impedire un\'eventuale perdita di dati causata da aggiornamenti o reinstallazioni.
 \n\nIl gioco dovrebbe funzionare senza quei permessi. Tuttavia, non ci assumiamo alcuna responsabilità in caso di perdita di dati o funzionalità difettosa causata dall\'utilizzo della memoria interna.</string>
-    <string name="dialog_onlinenotifications_title">Notfiche</string>
+    <string name="dialog_onlinenotifications_title">Notifiche</string>
     <string name="dialog_onlinenotifications_time">%1$s fa</string>
     <string name="dialog_onlinenotifications_empty">Nessuna notifica</string>
     <string name="dialog_onlinenotifications_cmdempty">Notifiche</string>
@@ -2452,7 +2449,7 @@ Seleziona un comando da assegnare all\'azione.</string>
 
 
     <string name="dialog_regionnopermission_title">Nessun accesso</string>
-    <string name="dialog_regionnopermission_text">L\'app non ha accesso alla memroia di archiviazione esterna per salvare la regione in modo sicuro. Si prega ti consentire l\'accesso alla memroia di archiviazione per poter generare le regioni.</string>
+    <string name="dialog_regionnopermission_text">L\'app non ha accesso alla memoria di archiviazione esterna per salvare la regione in modo sicuro. Consenti l\'accesso alla memoria di archiviazione esterna per poter generare le regioni.</string>
     <string name="ranger_cmdselecttrees">Seleziona alberi</string>
     <string name="draft_treeplantertool00_title">Pianta-alberi</string>
     <string name="draft_treeplantertool00_text">Questo strumento fa comparire alberi in giro in modo naturale.</string>
@@ -2461,7 +2458,7 @@ Seleziona un comando da assegnare all\'azione.</string>
     <string name="treeplanter_density">Densità:</string>
     <string name="treeplanter_roughness">Irregolarità:</string>
     <string name="treeplanter_brushsize">Dimensioni:</string>
-    <string name="treeplanter_outofcash">Out of cash</string>
+    <string name="treeplanter_outofcash">Fondi insufficienti</string>
     <string name="control_about">Guida</string>
     <string name="about_framework">Impalcatura</string>
     <string name="control_undo">Annulla</string>
@@ -2493,13 +2490,13 @@ Seleziona un comando da assegnare all\'azione.</string>
     <string name="stage_files_renamecollision_title">Conflitto di nomi</string>
     <string name="stage_files_renamecollision_text">Il file %1$s esiste già!</string>
     <string name="stage_files_actiondelete">Elimina</string>
-    <string name="stage_files_actiondelete_title">Elinimare?</string>
+    <string name="stage_files_actiondelete_title">Eliminare?</string>
     <string name="stage_files_actiondelete_text">Sicuro di voler eliminare %1$s? Non potrai recuperarlo!</string>
     <string name="stage_files_settings">impostazioni</string>
     <string name="stage_files_settings_showhiddenfiles">Mostra file nascosti</string>
     <string name="stage_files_filesize">Dimensioni: %1$s</string>
     <string name="stage_files_helptitle">Aiuto</string>
-    <string name="stage_files_helptext">Benvenuto nel gestore file di TheoTown. Qui puoi acccedere e gestire le tue mappe, regioni, plugin e altro ancora.</string>
+    <string name="stage_files_helptext">Benvenuto nel gestore file di TheoTown. Qui puoi accedere e gestire le tue mappe, regioni, plugin e altro ancora.</string>
     <string name="unit_sizebytes">%1$,d bytes</string>
     <string name="unit_sizekb">%1$,.1f KB</string>
     <string name="unit_sizemb">%1$,.1f MB</string>
@@ -2586,7 +2583,7 @@ Seleziona un comando da assegnare all\'azione.</string>
     <string name="dialog_screenshot_cmdshare">Condividi</string>
     <string name="settings_targetfps">Fissa FPS</string>
     <string name="settings_targetfps_auto">Auto</string>
-    <string name="dialog_nointernetaccess_title">Nessua conessione</string>
+    <string name="dialog_nointernetaccess_title">Nessuna connessione</string>
     <string name="dialog_nointernetaccess_text">Sei offline.</string>
     <string name="dialog_nointernetaccess_cmdgotit">Ok</string>
     <string name="store_modebestrated">Miglior voto</string>
@@ -2601,7 +2598,7 @@ Seleziona un comando da assegnare all\'azione.</string>
         l tempo.</string>
     <string name="ci_health_help">La salute in una città può essere un problema. Costruisci strutture mediche per tenere gli abitanti sani e felici.</string>
     <string name="ci_energy_help">Molti edifici necessitano di energia per essere agibili. Assicurati di produrre abbastanza energia e che tutti siano connessi alla rete.</string>
-    <string name="ci_info_help">Qui puoi vedere le infromazioni generali della tua città.</string>
+    <string name="ci_info_help">Qui puoi vedere le informazioni generali sulla tua città.</string>
     <string name="ci_education_help">L\'istruzione è essenziale per migliorare lo stile di vita degli abitanti, ma anche per attirare lavoratori e investitori istruiti.</string>
     <string name="ci_airport_help">Questa è la tua torre di controllo del traffico aereo per gli aeroporti. Puoi scegliere le aerovie dalla mappa, comprare aerei e assegnarli alle aerovie.</string>
     <string name="ci_water_help">L\'acqua è essenziale per la vita e lo stesso vale per i tuoi abitanti. Assicurati che ci sia sufficiente acqua e che sia collegata dovunque con le tubature. Se collochi i tubi in zone inquinate, i tuoi abitanti si ammaleranno.</string>
@@ -2618,15 +2615,15 @@ Seleziona un comando da assegnare all\'azione.</string>
 
     <string name="control_save">Salva</string>
     <string name="control_load">Carica</string>
-    <string name="draft_biomeMaker_cmdsavepreset">Salva regalo</string>
-    <string name="draft_biomeMaker_cmdloadpreset">Carica regalo</string>
+    <string name="draft_biomeMaker_cmdsavepreset">Salva preset</string>
+    <string name="draft_biomeMaker_cmdloadpreset">Carica preset</string>
     <string name="draft_biomeMaker_cmdreset">Reimposta</string>
     <string name="draft_biomeMaker_dialogconfigure_title">Configurazione</string>
     <string name="draft_biomeMaker_ground">Terreno</string>
     <string name="draft_biomeMaker_slope">Pendenza</string>
     <string name="draft_biomeMaker_decoration">Decorazione</string>
     <string name="draft_biomeMaker_atground">Costruisci su terreno</string>
-    <string name="draft_biomeMaker_atslope">Costruisci su pendneza</string>
+    <string name="draft_biomeMaker_atslope">Costruisci su pendenza</string>
     <string name="draft_biomeMaker_useslope">Usa pendenza fornita</string>
     <string name="draft_biomeMaker_nogroundtype">Nessun terreno selezionato</string>
     <string name="draft_biomeMaker_noslopetype">Nessuna pendenza selezionata</string>
@@ -2867,7 +2864,7 @@ Seleziona un comando da assegnare all\'azione.</string>
     <string name="draft_dsa_helium3_upgrade_req1_text">Già estratto</string>
     <string name="draft_dsa_dyson_upgrade_title">Sfera Dyson</string>
     <string name="draft_dsa_dyson_upgrade_text">Costruisci una megastruttura intorno a una stella che può catturare un\'elevata percentuale di energia.\nPer ricevere tale energia è necessaria un\'antenna a microonde.</string>
-    <string name="draft_dsa_dyson_upgrade_req1_text">Già construita</string>
+    <string name="draft_dsa_dyson_upgrade_req1_text">Già costruita</string>
     <string name="draft_dsa_dyson_upgrade_req2_text">Richiede: ${dyson_progress}/5000 Poccolonum</string>
     <string name="draft_dsa_moon_drillingstation01_text">Edificio per conservare e refinire Elio-3.</string>
     <string name="draft_dsa_moon_drillingstation02_text">Edificio per conservare e refinire Genericum.</string>
@@ -3028,14 +3025,14 @@ Seleziona un comando da assegnare all\'azione.</string>
     <string name="draft_highway_sign00_text">Viaggia con sile con i segnali autostradali in città.</string>
     <string name="draft_road05_ramp00_title">Raccordo autostradale (senso unico)</string>
     <string name="draft_road05_ramp00_text">Collega le autostrade alle strade comuni per creare intersezioni elaborate.</string>
-    <string name="settings_units">Unità di musira</string>
+    <string name="settings_units">Unità di misura</string>
     <string name="settings_units_auto">Auto (%s)</string>
     <string name="settings_units_metric">Metrico (esempio: km)</string>
     <string name="settings_units_imperial">Imperiale (esempio: mi)</string>
-    <string name="draft_fence_tallwooden00_title">Recinsione alta di legno</string>
+    <string name="draft_fence_tallwooden00_title">Recinzione alta di legno</string>
     <string name="draft_fence_tallwooden00_text">Mantiene gli intrusi alla larga.</string>
-    <string name="draft_fence_chainlink00_title">Recinsione a maglie metalliche</string>
-    <string name="draft_fence_chainlink00_text">Recinsione alta fatta di maglie metalliche.</string>
+    <string name="draft_fence_chainlink00_title">Recinzione a maglie metalliche</string>
+    <string name="draft_fence_chainlink00_text">Recinzione alta fatta di maglie metalliche.</string>
     <string name="draft_fence_metalrailing00_title">Ringhiera di metallo</string>
     <string name="draft_fence_metalrailing00_text">Una ringhiera nera bassa per proteggere i pedoni.</string>
     <string name="draft_fence_guardrail00_title">Guardrail</string>
@@ -3047,11 +3044,11 @@ Seleziona un comando da assegnare all\'azione.</string>
     <string name="draft_dsarocket_requirement_launchOngoing">Lancio in corso</string>
     <string name="draft_dsarocket_requirement_supplies">Scorte: %s/%s</string>
     <string name="draft_dsarocket_requirement_price">Prezzo: %s</string>
-    <string name="draft_dsarocket_test_text">Spedisci un razzo vuoto nello spazio per ottenere infprmazioni e prepararti ad altre operazioni.</string>
+    <string name="draft_dsarocket_test_text">Spedisci un razzo vuoto nello spazio per ottenere informazioni e prepararti ad altre operazioni.</string>
     <string name="draft_dsarocket_animal_text">Spedisci nello spazio un razzo con un gatto di nome Akial per ottenere informazioni vitali.</string>
     <string name="draft_dsarocket_navigation_text">Spedisci nello spazio un razzo con un uomo per effettuare test di navigazione.</string>
     <string name="draft_dsarocket_exploration_text">Spedisci un razzo per una missione esplorativa per trovare un luogo da colonizzare.</string>
-    <string name="draft_dsarocket_sdi_text">Lancia una serie di razzi nello spazio per assembralre un\'inziatva di difesa.</string>
+    <string name="draft_dsarocket_sdi_text">Lancia una serie di razzi nello spazio per assemblare l\'iniziativa di difesa spaziale.</string>
     <string name="draft_dsarocket_deprecated_text">La rampa di lancio è stata aggiornata, dovrai distruggere questa e costruirne un\'altra.</string>
     <string name="stage_createcity_terrain">Terreno...</string>
     <string name="dialog_terrain_title">Terreno</string>
@@ -3066,24 +3063,24 @@ Seleziona un comando da assegnare all\'azione.</string>
     <string name="createcity_roughness_more">Alta</string>
     <string name="createcity_roughness_extreme">Estrema</string>
     <string name="buildingicon_illness">Le persone di questo edificio sono malate. Manda un medico.</string>
-    <string name="buildingicon_noroad">Questo edifico non è collegato a una strada agibile.</string>
-    <string name="buildingicon_noenergy">Questo edficio non riceve abbastanza energia.</string>
-    <string name="buildingicon_nowater">Questo edifico non riceve abbastanza acqua.</string>
-    <string name="buildingicon_overloaded">Questo edifcio è pieno. Offri più spazio.</string>
+    <string name="buildingicon_noroad">Questo edificio non è collegato a una strada agibile.</string>
+    <string name="buildingicon_noenergy">Questo edificio non riceve abbastanza energia.</string>
+    <string name="buildingicon_nowater">Questo edificio non riceve abbastanza acqua.</string>
+    <string name="buildingicon_overloaded">Questo edificio è sovraccarico. Aumenta la capacità.</string>
     <string name="buildingicon_unhappy">Le persone di questo edificio sono infelici.</string>
     <string name="buildingicon_waste">In questo edificio ci sono rifiuti non ritirati.</string>
     <string name="buildingicon_wasteoverloaded">Questa discarica è piena.</string>
     <string name="buildingicon_deadbodies">In questo edificio ci sono cadaveri non recuperati.</string>
     <string name="buildingicon_deadbodiesoverloaded">Questo cimitero è pieno.</string>
     <string name="buildingicon_crimegraffiti">Qualcuno ha fatto dei graffiti qui.</string>
-    <string name="buildingicon_crimeburglary">Qualcuno ha fatto irruzine qui.</string>
+    <string name="buildingicon_crimeburglary">Qualcuno ha fatto irruzione qui.</string>
     <string name="buildingicon_crimemurder">Qualcuno è stato ucciso qui.</string>
     <string name="buildingicon_crimeriot">Delle persone stanno protestando qui.</string>
     <string name="dialog_scriptpolicy_title">Politiche degli script del plugin</string>
     <string name="dialog_scriptpolicy_help_title">Gli script dei plugin possono essere pericolosi.</string>
     <string name="dialog_scriptpolicy_help_text">TU hai il potere di approvare gli script per plugin esterni. Approva solo quelli da fonti sicure (come te, per esempio, se lavori su un plugin).\n
 \n
-Se hai subbi, NON attivare lo script senza aver prima revisionato il codice.\n
+Se hai dubbi, NON attivare lo script senza aver prima revisionato il codice.\n
 \n
 I plugin che necessitano di uno script per funzionare potrebbero non dare l\'esito previsto se disabilitati. Per applicare gli effetti è necessario riavviare il gioco.</string>
     <string name="settings_openscriptpolicy">Politiche degli script del plugin</string>
@@ -3142,7 +3139,7 @@ I soldi dei prestiti vengono detratti automaticamente ogni mese. Non si devono r
 C\'è un server Discord ufficiale!
     </string>
     <string name="tip_topic_discord_text">
-TIl server Discord è un posto dove giocatori e creator si incontrano, mostrano le loro creazioni e fanno amicizia. Il link si trova tra le impostazioni del gioco.
+Il server Discord è un posto dove giocatori e creator si incontrano, mostrano le loro creazioni e fanno amicizia. Il link si trova tra le impostazioni del gioco.
     </string>
     <string name="tip_topic_making_plugins_title">
 Puoi creare i tuoi plugin. È facile!™
@@ -3193,7 +3190,7 @@ Costruisci cimiteri e forni crematori per i defunti
 Se l\'icona di un defunto appare su alcuni edifici, vuol dire che sono richiesti cimiteri o crematori. I cimiteri o crematori sono buoni per un inizio, ma la città cresce, dovranno essere svuotati spesso. Un crematorio è quindi una soluzione a lungo temine.
     </string>
     <string name="tip_topic_neighbourhood_commercial_title">
-PEr avere più entrate, attiva il commercio tra quartieri
+Per avere più entrate, attiva il commercio tra quartieri
     </string>
     <string name="tip_topic_neighbourhood_commercial_text">
 Può essere fatto solo con città confinanti attive. C\'è una scheda per il commercio tra quartieri. Regolando i valori, puoi importare o esportare da altre città. Ciò non è possibile nella modalità online, né se una o più città sono in modalità sandbox o uber.
@@ -3205,7 +3202,7 @@ L\'aeroporto è un buon investimento a lungo termine
 Per rendere l\'aeroporto funzionante, costruisci tutti gli edifici richiesti, aggiungi le piste e assegna aerei. Diventa redditizio quando viene usato. Ciò significa che, una volta soddisfatti i costi iniziali, si può pensare a come trarne un buon profitto.
     </string>
     <string name="tip_topic_youtube_title">
-YouTube ha di tutorial utili
+YouTube ha dei tutorial utili
     </string>
     <string name="tip_topic_youtube_text">
 Ci sono alcuni creatori e giocatori esperti di TheoTown che pubblicano video su YouTube. Vanno da video ispirazionali velocizzati, a video che possono essere utili per la vostra esperienza di goco.
@@ -3229,7 +3226,7 @@ Puoi disattivare le catastrofi dalle impostazioni
 Le catastrofi possono essere disattivate dalle impostazioni, oppure puoi scegliere con quali giocare. Se si utilizzano le stazioni minerarie DSA o i missili militari, la città potrebbe comunque subire dei terremoti o altre catastrofi.
     </string>
     <string name="tip_topic_taxes_percentage_title">
-La maggiorparte dei tuoi guadagni proviene dalle tasse, ma non superare il 9%
+La maggior parte dei tuoi guadagni proviene dalle tasse, ma non superare il 9%
     </string>
     <string name="tip_topic_taxes_percentage_text">
 Soprattutto all\'inizio, il 90% o più delle tue entrate viene dalle tasse. Una buona somma da riscattare va dal 7% al 9%. Se il valore è più alto, c\'è rischio di rivolte e di abitanti che abbandonano la città.
@@ -3277,7 +3274,7 @@ Non tutti gli edifici si possono ruotare
 Alcuni semplici edifici non possono essere ruotati. Soprattutto se sono plugin. Questo perché l\'autore non ha creato altre angolazioni. Si può notare toccando un edificio e vedendo se in alto a destra sono presenti i pulsanti \"precedente\" e \"prossimo\".
     </string>
     <string name="tip_topic_map_rotation_title">
-Cambia orientamento mapap dalla minimappa
+Cambia l\'orientamento della mappa dalla minimappa
     </string>
     <string name="tip_topic_map_rotation_text">
 La minimappa può essere usata come strumento per ruotare la mappa. Toccala e usa le frecce per ruotare. Nota: gli edific non ruotabili, nuo ruoteranno.
@@ -3621,7 +3618,7 @@ Tocca la strada da costruire. Poi, dal menu Costruzione, tocca una casella e sel
     <string name="stage_musicmanager_alreadyimported">`%s` già presente in libreria</string>
     <string name="control_active">Attivata</string>
     <string name="control_inactive">Disattivata</string>
-    <string name="control_delete">Eimina</string>
+    <string name="control_delete">Elimina</string>
     <string name="dialog_deletemusic_title">Elimina brano</string>
     <string name="dialog_deletemusic_text">Vuoi davvero eliminare `%s`?</string>
     <string name="gamemenu_catmusic">Musica</string>
@@ -3667,5 +3664,34 @@ Tocca la strada da costruire. Poi, dal menu Costruzione, tocca una casella e sel
     <string name="legend_mixed_voltage">Entrambi i voltaggi</string>
     <string name="legend_metro">Metropolitana</string>
     <string name="legend_ts_edit">%s (in modifica)</string>
+
+
+    <string name="dialog_url_title">Aprire il sito web?</string>
+    <string name="dialog_url_text">Il plugin "%s" vuole aprire un sito web esterno. Potrebbe contenere pubblicità. Procedi solo se ti fidi della fonte:</string>
+    <string name="dialog_url_cmdopen">Apri</string>
+    <string name="settings_adaptive_ground_blending">Miscelazione adattiva del terreno</string>
+
+    <string name="empty_cause_unknown">Andato via per ragioni sconosciute.</string>
+    <string name="empty_cause_low_demand">Andato via a causa della bassa domanda.</string>
+    <string name="empty_cause_low_happiness">Andato via a causa della bassa soddisfazione riguardo a %s.</string>
+    <string name="empty_cause_crime">Andato via a causa della criminalità (%s).</string>
+    <string name="empty_cause_illness">Andato via a causa della contaminazione.</string>
+    <string name="stage_files_folderfiles">Contiene %d file</string>
+
+    <string name="notbuildablereason_generic">Impossibile costruire qui</string>
+    <string name="notbuildablereason_land">Richiede terra</string>
+    <string name="notbuildablereason_water">Richiede acqua</string>
+    <string name="notbuildablereason_zone">Zona errata</string>
+    <string name="notbuildablereason_maxcount">Limite di costruzione raggiunto</string>
+    <string name="notbuildablereason_terrain">Terreno inadatto</string>
+    <string name="notbuildablereason_nomoney">Fondi insufficienti</string>
+    <string name="notbuildablereason_blocked">L\'area è bloccata</string>
+
+    <string name="recovery_mode_title">Oops</string>
+    <string name="recovery_mode_text">TheoTown non è riuscito ad avviarsi più volte.\n\nVuoi avviare il gioco in Modalità di Recupero?\n\nLa Modalità di Recupero disabilita temporaneamente tutti i plugin, permettendoti di rimuovere o correggere qualsiasi plugin che potrebbe causare il problema. I plugin verranno caricati normalmente al prossimo riavvio del gioco.</string>
+    <string name="recovery_mode_normal">Avvio normale</string>
+    <string name="recovery_mode_recovery">Modalità di Recupero</string>
+
+    <string name="settings_draw_neighbors">Disegna città vicine</string>
 
 </resources>

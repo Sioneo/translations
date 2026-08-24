@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?><resources>
-    <string name="app_name">TheoTown </string>
+    <string name="app_name">TheoTown</string>
     <string name="settings_title">設定</string>
     <string name="loadcity_title">続き</string>
     <string name="createcity_title">新しい街</string>
     <string name="settings_defaults">デフォルト</string>
-    <string name="settings_apply">追加</string>
+    <string name="settings_apply">適用</string>
     <string name="createcity_mapsize">大きさ:</string>
     <string name="createcity_cityname">街名:</string>
     <string name="control_back">戻る</string>
@@ -35,14 +35,14 @@
     <string name="settings_drawsmoke">煙を表示する</string>
     <string name="settings_transparencybuildmode">ビルドモードでの透過性</string>
     <string name="settings_buildgrid">ビルドモードでのグリッド</string>
-    <string name="settings_doublecardrawing">ダブルカー図面</string>
+    <string name="settings_doublecardrawing">車を二重描画する</string>
     <string name="settings_drawwatersparkle">水の輝きを表示する</string>
     <string name="settings_drawmapedges">マップの端を表示</string>
     <string name="loadcity_errordialog_title">ロード失敗</string>
-    <string name="loadcity_errordialog_text">街を読み込む事が出来ません、ファイルが破損しているようです.\n\nごめんなさい。</string>
+    <string name="loadcity_errordialog_text">街を読み込めません。ファイルが破損しているようです。\n\n申し訳ありません。</string>
     <string name="loadcity_errordialog_cmdcancel">キャンセル</string>
     <string name="dialog_screenshot_title">スクリーンショット撮影完了</string>
-    <string name="dialog_screenshot_text"> %1$sとして保存されました</string>
+    <string name="dialog_screenshot_text">画像を%1$sとして保存しました。</string>
     <string name="dialog_screenshot_cmdok">はい</string>
     <string name="draftselector_titleparks">公園</string>
     <string name="draftselector_titlepublics">公共施設</string>
@@ -57,7 +57,7 @@
     <string name="draftselector_monthlyprice">月間維持費: %s</string>
     <string name="draftselector_id">ID：%1$s</string>
     <string name="loadcity_cmddelete">削除</string>
-    <string name="loadcity_deletedialog_text">本当に削除しますか?</string>
+    <string name="loadcity_deletedialog_text">本当に削除しますか？この操作は元に戻せません。</string>
     <string name="loadcity_deletedialog_title">街を削除</string>
     <string name="loadcity_deletedialog_cmdcancel">キャンセル</string>
     <string name="loadcity_deletedialog_cmddelete">削除</string>
@@ -69,7 +69,7 @@
     <string name="savewaiting_title">保存中</string>
     <string name="loadwaiting_title">ロード中</string>
     <string name="dialog_invalidcityname_title">この名前は使用できません</string>
-    <string name="dialog_invalidcityname_text">名前を記入して下さい</string>
+    <string name="dialog_invalidcityname_text">街の名前を空欄にはできません。</string>
     <string name="dialog_invalidcityname_cmdok">はい</string>
     <string name="dialog_hugesize_title">超巨大</string>
     <string name="dialog_hugesize_text">このサイズは実験的なものであり、お使いの端末では動作しない可能性があります。本当に超巨大なマップが必要ですか?</string>
@@ -100,7 +100,7 @@
     <string name="draft_bigpark00_text">住民は大きな公園を気に入るでしょう</string>
     <string name="draft_park03_text">住民は喜ぶでしょう</string>
     <string name="draft_medic00_title">診療所</string>
-    <string name="draft_medic00_text">ここで住民は医者に合える</string>
+    <string name="draft_medic00_text">ここで住民は医者に会える</string>
     <string name="draft_medic01_title">病院</string>
     <string name="draft_medic01_text">住民は病院の近くだと安心する</string>
     <string name="draft_school00_title">小学校</string>
@@ -173,7 +173,7 @@
     <string name="ci_budget_income">収入 (毎月)</string>
     <string name="ci_budget_spending">支出 (毎月)</string>
     <string name="ci_budget_taxes">税金</string>
-    <string name="money">%1$s</string>
+    <string name="money">%1$,d₮</string>
     <string name="ci_water_title">水道</string>
     <string name="ci_energy_title">電力</string>
     <string name="ci_info_title">町一覧</string>
@@ -218,7 +218,7 @@
     <string name="buildinginfo_habitants">住民: %1$,d/%2$,d</string>
     <string name="buildinginfo_worker">労働者: %1$,d/%2$,d</string>
     <string name="topic_giveup">あきらめてはいけない</string>
-    <string name="dialog_screenshot_error">%1$s.の保存ファイルを作成していない可能性があります。アプリの権限を確認してください</string>
+    <string name="dialog_screenshot_error">%1$sの保存先ディレクトリを作成できませんでした。アプリの権限を確認してください。</string>
     <string name="settings_energysaving">省エネモード</string>
     <string name="about_idea">アイデア</string>
     <string name="about_programming">プログラミング</string>
@@ -250,18 +250,18 @@
     <string name="draft_busstop00_title">バス停</string>
     <string name="draft_busstop00_text">ここから住民はバスを使って町の他の部分に行くことができます</string>
     <string name="settings_orientation">画面の向き</string>
-    <string name="settings_orientationlandscape">縦向き</string>
-    <string name="settings_orientationportrait">横向き</string>
+    <string name="settings_orientationlandscape">横向き</string>
+    <string name="settings_orientationportrait">縦向き</string>
     <string name="settings_orientationauto">自動</string>
     <string name="draft_busdepot00_title">バスターミナル</string>
     <string name="draft_busdepot00_text">バスの停留所、バスターミナルがないとバスが発車できません</string>
     <string name="settings_debugmode">開発者モード</string>
-    <string name="unknown">ヴルストブロート</string>
+    <string name="unknown">Wurstbrot</string>
     <string name="draftselector_titleremove">撤去</string>
     <string name="draftselector_titleview">一覧</string>
     <string name="toolremove_default_title">撤去</string>
     <string name="toolremove_default_text">このツールで水道管と地区以外は全て撤去出来ます</string>
-    <string name="toolremove_pipe_text">このツールを使用して水道管を撤去すことができます</string>
+    <string name="toolremove_pipe_text">このツールを使用して水道管を撤去することができます</string>
     <string name="toolremove_pipe_title">水道管 撤去</string>
     <string name="draftselector_cmdremove">撤去</string>
     <string name="draftselector_cmdview">一覧</string>
@@ -314,7 +314,7 @@
     <string name="buildinginfo_upgrade">アップグレード</string>
     <string name="draft_pool00_title">市民プール</string>
     <string name="draft_pool00_text">市民プールがあったら住民達は喜ぶでしょう</string>
-    <string name="draft_pool00_waterslide_title">ウオータースライド</string>
+    <string name="draft_pool00_waterslide_title">ウォータースライド</string>
     <string name="draft_pool00_waterslide_text">ウオータースライドと日傘</string>
     <string name="blank_text">ここにあなたの広告を掲示することができます</string>
     <string name="draft_middlepark00_title">中央公園</string>
@@ -327,8 +327,8 @@
     <string name="draft_middlepark00_lights_text">ここで住民達はゆっくりする事が出来ます</string>
     <string name="draft_middlepark00_clock_title">時計</string>
     <string name="draft_middlepark00_clock_text">時刻を教えてくれます</string>
-    <string name="notify_power_low">電気があまり残ってません、新しい発電所を建設する必要があリます</string>
-    <string name="notify_water_low">水があまり残ってません、新しいポンプ場を建設する必要があリます</string>
+    <string name="notify_power_low">電力に余裕がありません。新しい発電所を建設する必要があります</string>
+    <string name="notify_water_low">水に余裕がありません。新しいポンプ場を建設する必要があります</string>
     <string name="notify_religion">もっと宗教建築物を作ってください</string>
     <string name="notify_park">もっと公園を作ってください</string>
     <string name="notify_sport">もっと運動が出来る所を作ってください</string>
@@ -351,7 +351,7 @@
     <string name="draft_alert_police00_title">警察を呼ぶ</string>
     <string name="draft_alert_police00_text">犯罪を止めるために警察を呼んでください。</string>
     <string name="draft_alert_fire00_title">消防隊を呼ぶ</string>
-    <string name="draft_alert_fire00_text">何かが燃えている場合は、消防隊にを呼んでください。</string>
+    <string name="draft_alert_fire00_text">何かが燃えている場合は、消防隊を呼んでください。</string>
     <string name="draft_alert_medic00_title">救急車を呼ぶ</string>
     <string name="draft_alert_medic00_text">事故が起こったときは救急車を呼んでください。</string>
     <string name="buildinginfo_powerusage">使用率: %1$.01f%%</string>
@@ -566,7 +566,7 @@
     <string name="draft_zoneharbor_text">あなたの町の水辺地帯のための工業地区</string>
     <string name="settings_auto_road_for_zones">地区ツールで道路を構築する</string>
     <string name="settings_relaxed_line_tool">簡単なラインツール</string>
-    <string name="topic_fstapril">初四月おめでとうございます</string>
+    <string name="topic_fstapril">エイプリルフールおめでとう</string>
     <string name="draftselector_residential">住宅</string>
     <string name="draftselector_commercial">商業</string>
     <string name="draftselector_industrial">工業</string>
@@ -612,7 +612,7 @@
     <string name="ci_water_waste">排水: %1$.1f%%</string>
     <string name="shader_fancy2">X-ファンシー</string>
     <string name="draft_sewerpipe00_title">下水パイプ</string>
-    <string name="draft_sewerpipe00_text">自然に廃水を放出することによって水質汚染を減少させる。悪影響を及ぼしている</string>
+    <string name="draft_sewerpipe00_text">未処理の下水を周囲に放出し、近隣を汚染します。下水処理問題への手早く粗雑な解決策です。</string>
     <string name="settings_lowresmapscreenshot">地図のスクリーンショットの解像度を下げます</string>
     <string name="draft_marina00_title">マリーナ</string>
     <string name="draft_marina00_text">遊覧船と小型ボートのための係留機構を備えた特別に設計された港です</string>
@@ -632,9 +632,9 @@
     <string name="draft_buoy00_title">ブイ</string>
     <string name="draft_buoy00_text">船を誘導する</string>
     <string name="ci_general_seed">地形: %1$s</string>
-    <string name="draft_decores00_text">.</string>
-    <string name="draft_decocom00_text">.</string>
-    <string name="draft_decoind00_text">.</string>
+    <string name="draft_decores00_text">住宅地区向けの装飾です。</string>
+    <string name="draft_decocom00_text">商業地区向けの装飾です。</string>
+    <string name="draft_decoind00_text">工業地区向けの装飾です。</string>
     <string name="ci_budget_title_nomoney">金融 (理論的)</string>
     <string name="dialog_notification_cmdok">はい</string>
     <string name="draft_nuclearplant00_title">原子力発電所</string>
@@ -691,7 +691,7 @@
     <string name="influence_management_text">あなたの町を管理します</string>
     <string name="happiness_management">管理</string>
     <string name="dialog_oldmap_title">古都</string>
-    <string name="dialog_oldmap_text">TheoTownはこの町が創設されて以来、多くの発展を遂げました。したがって、期待どおりに動作しない可能性があります。期待どうりに動作しない場合は私達に文句を言わないでください。(◕‿◕✿)</string>
+    <string name="dialog_oldmap_text">この街が作成されてからTheoTownは大きく変わりました。そのため、期待どおりに動作しない可能性があります。</string>
     <string name="dialog_oldmap_cmdproceed">続行</string>
     <string name="dialog_oldmap_cmdcancel">キャンセル</string>
     <string name="notify_bad_health">低い健康状態。環境価値を向上させるか、または医療機関を建設する必要があります</string>
@@ -747,7 +747,7 @@
     <string name="settings_winter">冬</string>
     <string name="notify_riot_reason">%1$sが問題で暴動があります!</string>
     <string name="notify_riot_noreason">何の理由もない暴動が起きた！</string>
-    <string name="notify_demonstration">%1sのために私たちの町にデモが起きました！何かをしないと悪いことが起きます!</string>
+    <string name="notify_demonstration">%1$sのために私たちの町にデモが起きました！何かをしないと悪いことが起きます!</string>
     <string name="draft_marker_powermarker_title">電力</string>
     <string name="draft_marker_watermarker_title">水道</string>
     <string name="draft_road04_title">大通り</string>
@@ -774,7 +774,7 @@
     <string name="draft_rnk_megalopolis_title">地方</string>
     <string name="rank_needed_people">少なくとも%1$,d人の住民</string>
     <string name="draft_decoroad00_title">大通り</string>
-    <string name="draft_decoroad00_text">.</string>
+    <string name="draft_decoroad00_text">にぎやかな都心に自然と木陰を少し加えます。</string>
     <string name="settings_experimental">実験的な要素</string>
     <string name="about_thanks">特別感謝状</string>
     <string name="about_community">そして、コミュニティの皆さん</string>
@@ -930,11 +930,11 @@
     <string name="dialog_renameregion_text">新しい地方の名前を入力してください:</string>
     <string name="shop_diamonds">%2$sでダイヤモンド%1$s個</string>
     <string name="draft_townhall02_title">大きな市役所</string>
-    <string name="draft_townhall02_text">大都市のための大きな市役所 /n100万ダウンロードありがとうございます！</string>
+    <string name="draft_townhall02_text">大都市のための大きな市役所\n100万ダウンロードありがとうございます！</string>
     <string name="notify_pollutedwaterpump">このポンプ場は汚染された場所に建設されています。水を清潔に保つために、他の場所に建設してください</string>
     <string name="notify_destroyedtiles">住民達が気づく前に、このゴミを処分するのがよいでしょう</string>
     <string name="notify_loweducationneeded">小学校を建設して、子供達に学力を身につけよう</string>
-    <string name="notify_higheducationneeded">高校を建設して、学生のの学力を伸ばそう</string>
+    <string name="notify_higheducationneeded">高校を建設して、学生の学力を伸ばそう</string>
     <string name="dialog_ffwd1_text">より速いゲーム速度を%1$s使用できます</string>
     <string name="notify_badtraffic">この道路には交通量が多すぎます。私はより多くの道路やより良い道路を建設することをお勧めします</string>
     <string name="dialog_wb_title">おかえり</string>
@@ -951,7 +951,7 @@
     <string name="dialog_feedback_text">どのようにゲームを改善することができるか提案があったら私たちに教えてください</string>
     <string name="dialog_feedback_cmdok">提案があります</string>
     <string name="dialog_feedback_cmdcancel">提案がありません</string>
-    <string name="dialog_buildnow_title">今すく完成させる</string>
+    <string name="dialog_buildnow_title">今すぐ完成させる</string>
     <string name="dialog_buildnow_text">%1$,d日間をスキップしますか？</string>
     <string name="draft_launch_rocket_title">ロケット 発射!</string>
     <string name="draft_decoconstruction00_title">建設 装飾</string>
@@ -1765,7 +1765,7 @@
     <string name="draft_feature_landmarks04_text">いくつかの素晴らしい建物を持っています。</string>
     <string name="draft_roaddeco_barrier_open00_title">バリア</string>
     <string name="draft_roaddeco_barrier_open00_text">タップして閉じる。渋滞を作るのに最適な方法です。</string>
-    <string name="selectable_find">探す(%,d</string>
+    <string name="selectable_find">探す (%,d)</string>
     <string name="gallery_upload_success">投稿成功</string>
     <string name="gallery_upload_fail">投稿失敗</string>
     <string name="draft_medic02_title">小規模病院</string>
@@ -2118,11 +2118,11 @@
     <string name="dialog_report_title">報告書</string>
     <string name="dialog_report_text">報告する理由を明記してください%1$s。</string>
     <string name="dialog_report_appendix">追加情報は report@theotown.com までお送りください。</string>
-    <string name="dialog_reported_title">了</string>
+    <string name="dialog_reported_title">報告完了</string>
     <string name="dialog_reported_text">ご報告ありがとうございます。ご報告いただいた内容を確認し、対応させていただきます。\n必要に応じて、追加情報を report@theotown.com までお送りいただいても構いません。</string>
     <string name="dialog_report_cmd">報告書</string>
     <string name="stage_comment_reportsubject">%1$sさんのコメント</string>
-    <string name="stage_store_reportsubject">プラグイン「%1$s</string>
+    <string name="stage_store_reportsubject">プラグイン「%1$s」</string>
     <string name="stage_comment_noperm">そのプラグインにコメントすることはできません。</string>
     <string name="store_modecommented">コメント</string>
     <string name="report_sexual">性的な内容</string>
@@ -2188,7 +2188,7 @@
     <string name="weather_lighting">雷雨</string>
     <string name="weather_auto">ダイナミック</string>
     <string name="store_local_plugins">ローカル プラグイン</string>
-    <string name="dialog_missingplugins_localpluginby">-%1$s by (#1##) (ローカルプラグイン)</string>
+    <string name="dialog_missingplugins_localpluginby">•%1$s（%2$s 作、ローカルプラグイン）</string>
     <string name="dialog_storedisclaimer_title">他にも...</string>
     <string name="dialog_storedisclaimer_text">プラグインストアへようこそ!ここでは、世界中のプレイヤーが作ったTheoTown用の追加コンテンツを数百個手に入れることができます\n
 \n
@@ -2319,10 +2319,10 @@
     <string name="dialog_configureregion_password_desc">ここで新しいパスワードを設定することができます。現在のパスワードを再利用する場合は、空白のままにしてください。</string>
     <string name="dialog_configureregion_enforepassword">パスワードを要求する</string>
     <string name="dialog_regionstats_title">地域統計</string>
-    <string name="ci_energy_produced_short">プロデュースしました。%1$,.0fkW</string>
-    <string name="ci_energy_consumed_short">中古です。%1$,.0fkW</string>
-    <string name="ci_water_consumed_short">中古です。%1$,.0fL/h</string>
-    <string name="ci_water_produced_short">プロデュースしました。%1$,.0fL/h</string>
+    <string name="ci_energy_produced_short">発電量: %1$,.0fkW</string>
+    <string name="ci_energy_consumed_short">使用量: %1$,.0fkW</string>
+    <string name="ci_water_consumed_short">使用量: %1$,.0fL/h</string>
+    <string name="ci_water_produced_short">供給量: %1$,.0fL/h</string>
     <string name="dialog_regionstats_general">一般的な</string>
     <string name="dialog_regionstats_cities">%1$d / %2$dの都市</string>
     <string name="regionlist_cat_popular">人気</string>
@@ -2623,13 +2623,13 @@
     <string name="draft_dsaresearch_title">研究センター</string>
     <string name="draft_dsaresearch_text">DSA執行評議会が承認した先進技術の中枢。</string>
     <string name="draft_dsa_research00_title">高度な物資</string>
-    <string name="draft_dsa_research00_text">new experimental advanced supply systemsを研究します。</string>
+    <string name="draft_dsa_research00_text">新しい実験的な高度補給システムを研究します。</string>
     <string name="draft_dsa_research01_title">収容</string>
-    <string name="draft_dsa_research01_text">for ways to contain organisms and particlesを研究します。</string>
+    <string name="draft_dsa_research01_text">生物や粒子を収容する方法を研究します。</string>
     <string name="draft_dsa_research02_title">高度なロケット工学</string>
-    <string name="draft_dsa_research02_text">new rocket technology to explore and colonise other space bodies in the universeを研究します。</string>
+    <string name="draft_dsa_research02_text">宇宙の他の天体を探査し、植民するための新しいロケット技術を研究します。</string>
     <string name="draft_dsa_research03_title">未来技術</string>
-    <string name="draft_dsa_research03_text">mind and physics bending technologiesを研究します。</string>
+    <string name="draft_dsa_research03_text">精神や物理法則を覆すような技術を研究します。</string>
     <string name="draft_dsaclockstore_title">目立たない時計店</string>
     <string name="draft_dsaclockstore_text">まったく怪しくない時計屋です。</string>
     <string name="draft_dsa_deco00_title">DSA装飾</string>
@@ -2803,13 +2803,13 @@
     <string name="draft_dsa_moon_storage_text">食料や重要な物資を保管する建物。\n内容:\n食料: ${food_storage/10}/${total_food_storage/10}</string>
     <string name="draft_dsa_helium3_upgrade_title">ヘリウム3を輸出</string>
     <string name="draft_dsa_helium3_upgrade_text">ヘリウム3をTheoniaへ輸出し、核融合炉で利用します。\n${helium_amount}基分の発電所を動かせる量を輸出します。</string>
-    <string name="draft_dsa_helium3_upgrade_req_text">必要: Helium 3 mining</string>
+    <string name="draft_dsa_helium3_upgrade_req_text">必要: ヘリウム3採掘</string>
     <string name="draft_dsa_helium3_upgrade_req1_text">すでに輸出済み</string>
     <string name="draft_dsa_dyson_upgrade_title">ダイソン球</string>
     <string name="draft_dsa_dyson_upgrade_text">恒星の周囲に巨大構造物を建設し、恒星の出力の大部分を回収します。\n受電にはマイクロ波アンテナが必要です。</string>
     <string name="draft_dsa_dyson_upgrade_req1_text">すでに建設済み</string>
     <string name="draft_dsa_dyson_upgrade_req2_text">必要: ${dyson_progress}/5000 Poccolonum</string>
-    <string name="draft_dsa_dyson_upgrade_req3_text">必要: Help Pickles on the Moon</string>
+    <string name="draft_dsa_dyson_upgrade_req3_text">必要: 月のピクルスを助ける</string>
     <string name="draft_dsa_moon_drillingstation01_text">ヘリウム3を採掘・精製する施設。</string>
     <string name="draft_dsa_moon_drillingstation02_text">ジェネリカムを採掘・精製する施設。</string>
     <string name="draft_dsa_moon_drillingstation03_text">ポッコロナムを採掘・精製する施設。</string>
@@ -3400,7 +3400,7 @@
     <string name="dialog_restore_title">都市を復元</string>
     <string name="dialog_restore_nobackups">バックアップが利用できません :(</string>
     <string name="dialog_restore_current">(アクティブ)</string>
-    <string name="draft_part_of_plugin">Plugin: %s</string>
+    <string name="draft_part_of_plugin">プラグイン: %s</string>
     <string name="stage_special_offer_text">ダイヤモンドを使わずに建設できるように、以下の建物のロックを永続的に解除します。</string>
     <string name="settings_edge_gradients">画面端のグラデーション</string>
     <string name="legend_pipe">パイプ</string>
@@ -3422,5 +3422,34 @@
     <string name="legend_mixed_voltage">両方の電圧</string>
     <string name="legend_metro">メトロ</string>
     <string name="legend_ts_edit">%s (編集中)</string>
+
+
+    <string name="dialog_url_title">ウェブサイトを開きますか？</string>
+    <string name="dialog_url_text">プラグイン「%s」が外部ウェブサイトを開こうとしています。広告が含まれる場合があります。信頼できる場合のみ続行してください：</string>
+    <string name="dialog_url_cmdopen">開く</string>
+    <string name="settings_adaptive_ground_blending">適応型地面ブレンディング</string>
+
+    <string name="empty_cause_unknown">不明な理由で去りました。</string>
+    <string name="empty_cause_low_demand">需要が低いため去りました。</string>
+    <string name="empty_cause_low_happiness">%sに対する満足度が低いため去りました。</string>
+    <string name="empty_cause_crime">犯罪（%s）のため去りました。</string>
+    <string name="empty_cause_illness">汚染のため去りました。</string>
+    <string name="stage_files_folderfiles">%d個のファイルが含まれています</string>
+
+    <string name="notbuildablereason_generic">ここには建設できません</string>
+    <string name="notbuildablereason_land">土地が必要です</string>
+    <string name="notbuildablereason_water">水が必要です</string>
+    <string name="notbuildablereason_zone">ゾーンが違います</string>
+    <string name="notbuildablereason_maxcount">建設制限に達しました</string>
+    <string name="notbuildablereason_terrain">不適切な地形です</string>
+    <string name="notbuildablereason_nomoney">資金が不足しています</string>
+    <string name="notbuildablereason_blocked">エリアがブロックされています</string>
+
+    <string name="recovery_mode_title">おっと</string>
+    <string name="recovery_mode_text">TheoTownが数回起動できませんでした。\n\n回復モードでゲームを起動しますか？\n\n回復モードではすべてのアドオンが一時的に無効になり、問題の原因となっている可能性のあるアドオンを削除または修正できます。次回ゲームを再起動したときに、アドオンは通常通り再度読み込まれます。</string>
+    <string name="recovery_mode_normal">通常起動</string>
+    <string name="recovery_mode_recovery">回復モード</string>
+
+    <string name="settings_draw_neighbors">隣接する都市を描画する</string>
 
 </resources>

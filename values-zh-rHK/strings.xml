@@ -256,7 +256,7 @@
     <string name="draft_busdepot00_title">巴士庫</string>
     <string name="draft_busdepot00_text">巴士由呢度出庫，但喺上落客需要喺巴士站進行。</string>
     <string name="settings_debugmode">偵錯模式</string>
-    <string name="unknown">腸仔包</string>
+    <string name="unknown">Wurstbrot</string>
     <string name="draftselector_titleremove">摧毀</string>
     <string name="draftselector_titleview">顯示</string>
     <string name="toolremove_default_title">摧毀</string>
@@ -334,7 +334,7 @@
     <string name="notify_sport">我們希望有能夠做體育活動嘅地方</string>
     <string name="buildinginfo_happiness">整體滿意度：%1$.0f%%</string>
     <string name="notify_noenergy">有些建築處於斷電狀態！ （請注意，斷電會導致建築廢棄）</string>
-    <string name="notify_nowater">有些建築物冇水！(请注意，缺少水源會导致建築废弃)</string>
+    <string name="notify_nowater">有啲建築物冇水！請注意，缺水會導致建築物荒廢。</string>
     <string name="draft_footballstadion00_roof_title">頂棚</string>
     <string name="draft_footballstadion00_roof_text">安裝頂棚之後，可以喺任何天氣情況下進行足球比賽</string>
     <string name="draft_footballstadion00_fanshop_title">球迷商店</string>
@@ -747,7 +747,7 @@
     <string name="settings_winter">冬季</string>
     <string name="notify_riot_reason">呢度因為%1$s而引發了一場暴亂</string>
     <string name="notify_riot_noreason">呢度無緣無故發生一場暴亂!（市長，你係咪喐咗災難設置？）</string>
-    <string name="notify_demonstration">呢度因為%1s! 發生一場遊行!!試吓做啲嘢嚟平息佢 !</string>
+    <string name="notify_demonstration">呢度因為%1$s! 發生一場遊行!!試吓做啲嘢嚟平息佢 !</string>
     <string name="draft_marker_powermarker_title">能源</string>
     <string name="draft_marker_watermarker_title">水</string>
     <string name="draft_road04_title">林蔭大道</string>
@@ -774,7 +774,7 @@
     <string name="draft_rnk_megalopolis_title">大都會</string>
     <string name="rank_needed_people">假假地 %1$,d 名居民</string>
     <string name="draft_decoroad00_title">林廕大道裝飾</string>
-    <string name="draft_decoroad00_text">.</string>
+    <string name="draft_decoroad00_text">為繁忙嘅市中心增添一點自然同樹蔭。</string>
     <string name="settings_experimental">實驗性功能</string>
     <string name="about_thanks">特別鳴謝</string>
     <string name="about_community">以及其他嘅社區成員</string>
@@ -1000,7 +1000,6 @@
     <string name="dialog_presentdaily_text">聽日會得到更多嘅鑽石!</string>
     <string name="dialog_presentdaily_day">第 %1$,d日</string>
     <string name="rank_needed_xp">需要至少 %1$,d 城市積分</string>
-    <string name="currency_symbol" translatable="false">₮</string>
     <string name="settings_shortmoney">縮寫金錢數目</string>
     <string name="dialog_newsign_title">新建標籤</string>
     <string name="dialog_newsign_text">為呢個地區輸入一個名。</string>
@@ -2275,7 +2274,7 @@
     <string name="region_onlinecity_acquired">這是你嘅地塊。 你可以喺呢度搵到一個城市。</string>
     <string name="region_onlinecity_wait">等一會再佔領其他城市。</string>
     <string name="dialog_savingissue_title">保存失敗</string>
-    <string name="dialog_savingissue_text">好不幸你嘅城市並不能被保存。 \n提示：% s\n\n請重試。</string>
+    <string name="dialog_savingissue_text">好可惜，你嘅城市無法儲存。\n提示：%s\n\n請再試一次。</string>
     <string name="dialog_onlineinfo_title">在線模式</string>
     <string name="dialog_onlineinfo_text">歡迎來到在線模式，你可以喺呢度同朋友一起建造城市！ 你甚至可以上傳你自己嘅區域嚟同朋友玩！ \n\n "這真是太酷了！" -一名社區管理員嘅話。</string>
     <string name="dialog_outdated_title">舊版本</string>
@@ -3149,7 +3148,7 @@
 你可以透過每日獎勵嚟獲得鑽石
     </string>
     <string name="tip_topic_diamonds_text">
-点击每日奖励（移動端）會獲得鑽石。 一旦你獲得第7天的最終獎勵，它就會重置並重新開始。 此外，你仲可以每30分钟觀看一次免費廣告以獲取鑽石。
+每日登入（流動裝置）會獲得鑽石。連續每日登入會有更多獎勵，領取最終獎勵後週期會重新開始。此外，你仲可以每 30 分鐘觀看一次影片嚟獲取鑽石。
     </string>
     <string name="tip_topic_supplies_title">
 火箭供給由某些工業建築供應！
@@ -3164,9 +3163,9 @@
 巴士站和火車站可能會顯示 目前冇乘客。 但是，它們有一定嘅交通影響力。  可以提升居民嘅滿意度。  因此，請務必與佢哋一齊覆蓋成個區域。
     </string>
     <string name="tip_topic_vandalism_title">
-犯罪現場の噴漆圖標，警察局建設刻不容緩！    </string>
+噴漆圖示代表有人破壞公物，記得建警署！    </string>
     <string name="tip_topic_vandalism_text">
-当建築物旁沒有警察局時，會出現噴漆圖標。 住宅、商業和工業建築需要喺警察局嘅覆蓋半徑內。
+建築物冇受到警力覆蓋時，就會出現噴漆圖示。住宅、商業同工業建築都需要警力覆蓋，記得為佢哋提供保護。
     </string>
     <string name="tip_topic_cemetary_cremetorium_title">
 塵歸塵，土歸土：建造墓地，讓靈魂安息~
@@ -3202,7 +3201,7 @@ YouTube 和 Bilibili上有好多有用嘅教程！
 感覺遊戲中嘅條條框框過多？請喺沙盒/烏托邦模式下玩！
     </string>
     <string name="tip_topic_creative_gameplay_text">
-呢啲模式允許玩家喺冇資金限制嘅情況下進行建造。 而且喺占烏托邦佤模式時不需要擔心居民嘅幸福度或需求。 可以不受限制嘅進行創作。 </string>
+呢啲模式畀玩家唔受資金限制咁建造；喺烏托邦模式下，連居民滿意度同需求都唔使擔心，可以更自由咁創作。 </string>
     <string name="tip_topic_toggle_disasters_title">
 你可以喺遊戲設置欄中關閉自動災難~
     </string>
@@ -3243,7 +3242,7 @@ DSA機構：月球，我哋嚟咗！
 你可以透過論壇下載插件！
     </string>
     <string name="tip_topic_forum_plugins_text">
-一些插件創建者選擇喺論壇上獨家發佈一些插件。 插件库内可能沒有嗰啲插件。 呢啲係免費下載嘅，必須手動放置喺設備嘅插件文件夾中。 請注意，呢啲插件冇經過審核，可能有一定嘅安全風險。
+一些插件創建者選擇喺論壇上獨家發佈一些插件。 插件庫內可能冇嗰啲插件。 呢啲係免費下載嘅，必須手動放置喺設備嘅插件文件夾中。 請注意，呢啲插件冇經過審核，可能有一定嘅安全風險。
     </string>
     <string name="tip_topic_toll_happiness_title">
 收費站提供了額外收入，但會降低居民嘅整體滿意度~
@@ -3267,7 +3266,7 @@ DSA機構：月球，我哋嚟咗！
 注意需求線以上嘅部分~
     </string>
     <string name="tip_topic_demands_text">
-当特定建築物嘅需求高於需求線時，表明相應需求嘅人或企業希望搬到您的城市。 因此，您應該為他們提供對應嘅設施。 当需求低於需求線時。 表示要建設其他類型嘅建築和配套設施（公園、警察等）。
+當需求高於基準線時，代表相應類型嘅居民或企業想搬入你嘅城市，因此應提供相應設施。當需求低於基準線時，就應考慮興建其他區域或配套設施，例如公園同警署。
     </string>
     <string name="tip_topic_happiness_title">
 按喺建築物上，睇吓佢哋最低嘅滿意度~
@@ -3276,7 +3275,7 @@ DSA機構：月球，我哋嚟咗！
 點擊並查看建築物有助於確定該建築內嘅居民滿意度過低嘅原因。 同時也能查看該建築對應嘅平均滿意度。 一旦確定了該建築物內居民最低的一項滿意度。 你就可以採取行動嚟解決它。 例如，如果一棟建築因為缺乏公園設施而導致滿意度降低。 喺建築物嘅地方放置一個公園以提升滿意度身。
     </string>
     <string name="tip_topic_game_extentions_title">
-插件库上有官方遊戲擴展~
+插件庫有官方遊戲擴充內容
     </string>
     <string name="tip_topic_game_extentions_text">
 官方遊戲擴展由用Lobby發佈。 呢啲通常係免費嘅。
@@ -3290,7 +3289,7 @@ DSA機構：月球，我哋嚟咗！
 建設十字路口時开启整合道路~
     </string>
     <string name="tip_topic_road_connection_text">
-點擊道路，然後按右上角嘅“整合道路”将会自動合併另一側嘅道路。將有助於避免道路因未正確連接而無法正常工作。
+點擊所選道路，再按右上角嘅「整合道路」，就會自動連接正在興建嘅道路，避免因連接錯誤而無法正常使用。
     </string>
     <string name="tip_topic_epidemic_prevention_title">
 安置醫院以阻止瘟疫嘅傳播~
@@ -3335,8 +3334,8 @@ DSA機構：月球，我哋嚟咗！
     <string name="settings_notify_noise">噪音污染</string>
     <string name="settings_notify_water_waste">供水過剩</string>
     <string name="settings_notify_unhappy">低滿意度</string>
-    <string name="settings_notify_unlocked">未解鎖建築</string>
-    <string name="settings_notify_low_budget">稅收滿意度低</string>
+    <string name="settings_notify_unlocked">已解鎖建築</string>
+    <string name="settings_notify_low_budget">預算不足</string>
     <string name="settings_notify_zone_needed">需要區域</string>
     <string name="settings_notify_polluted_pump">水污染</string>
     <string name="settings_notify_school_overloaded">學校超負荷運轉</string>
@@ -3403,7 +3402,7 @@ DSA機構：月球，我哋嚟咗！
     <string name="dialog_scenarios_cmdopen">特定場景</string>
     <string name="dialog_scenarios_title">特定場景</string>
     <string name="dialog_scenarios_generalinfo_title">呢個係咩? </string>
-    <string name="dialog_scenarios_generalinfo_text">係具有特殊條件嘅預製地圖。\n你可以在某些特定場景下建造城市，例如資金有限或使用指定的插件規則。\n当場景結束時，您可以上傳你的城市，與其他玩家進行一場友好嘅競賽。</string>
+    <string name="dialog_scenarios_generalinfo_text">係具有特殊條件嘅預製地圖。\n你可以在某些特定場景下建造城市，例如資金有限或使用指定的插件規則。\n當場景結束時，你可以上傳你嘅城市，與其他玩家進行一場友好嘅競賽。</string>
     <string name="dialog_scenarios_cmdreset">重置</string>
     <string name="dialog_scenarios_cmdremove">刪除</string>
     <string name="dialog_scenarios_cmdmove">移動</string>
@@ -3486,7 +3485,7 @@ DSA機構：月球，我哋嚟咗！
     <string name="ts_vehicle_count_depot_limit">%s（由車廠限制）</string>
     <string name="ts_vehicle_count_station_limit">%s (由車站所限制)</string>
     <string name="ts_buy_vehicle">購買車輛</string>
-    <string name="ts_build_depot">建造車站</string>
+    <string name="ts_build_depot">建造車廠</string>
     <string name="ts_vehicle_assign">分配</string>
     <string name="ts_vehicle_unassign">取消指派</string>
     <string name="ts_buy_vehicle_buy_more">首先購買一輛車輛才能分配它</string>
@@ -3581,18 +3580,18 @@ DSA機構：月球，我哋嚟咗！
     <string name="ts_names_water_lakeside">湖邊</string>
     <string name="ts_names_water_seaside">海邊</string>
     <string name="ts_names_water_beachfront">海濱</string>
-    <string name="draft_pmono_tracks00_title">單軌鐵路軌道</string>
-    <string name="draft_pmono_tracks00_text">用於單軌運營的高架軌道。</string>
-    <string name="draft_pmono_roaddeco_roof00_title">單軌鐵路站屋頂</string>
-    <string name="draft_pmono_roaddeco_roof00_text">用於覆蓋單軌火車站月台的屋頂元素。</string>
+    <string name="draft_pmono_tracks00_title">單軌鐵路路軌</string>
+    <string name="draft_pmono_tracks00_text">供單軌列車行駛嘅高架路軌。</string>
+    <string name="draft_pmono_roaddeco_roof00_title">單軌鐵路站上蓋</string>
+    <string name="draft_pmono_roaddeco_roof00_text">用於覆蓋單軌鐵路站月台嘅上蓋構件。</string>
     <string name="draft_pmono_station00_title">單軌鐵路站</string>
     <string name="draft_pmono_station00_text">一個針對當地單軌交通的模塊化車站。</string>
     <string name="draft_pmono_station_prebuilt00_title">單軌鐵路站</string>
     <string name="draft_pmono_station_prebuilt00_text">一個為本地交通而預先建造的單軌火車站。</string>
     <string name="draft_pmono_station_prebuilt01_title">大型單軌火車站</string>
     <string name="draft_pmono_station_prebuilt01_text">擁有擴展容量的大型預建單軌電車站。</string>
-    <string name="draft_pmono_train00_title">Monorail 2000</string>
-    <string name="draft_ts_native_monorail00_title">Monorail</string>
+    <string name="draft_pmono_train00_title">單軌 2000</string>
+    <string name="draft_ts_native_monorail00_title">單軌鐵路</string>
 
 
     <string name="stage_musicmanager_title">音樂庫</string>
@@ -3626,7 +3625,7 @@ DSA機構：月球，我哋嚟咗！
     <string name="dialog_restore_title">恢復城市</string>
     <string name="dialog_restore_nobackups">無可用的備份 :(</string>
     <string name="dialog_restore_current">(活躍中)</string>
-    <string name="draft_part_of_plugin">Plugin: %s</string>
+    <string name="draft_part_of_plugin">插件：%s</string>
     <string name="stage_special_offer_text">永久解鎖以下建築物，讓你無需鑽石就能建設。</string>
     <string name="settings_edge_gradients">屏幕邊緣漸變</string>
     <string name="legend_pipe">管道</string>
@@ -3648,5 +3647,34 @@ DSA機構：月球，我哋嚟咗！
     <string name="legend_mixed_voltage">混合電壓</string>
     <string name="legend_metro">地鐵</string>
     <string name="legend_ts_edit">%s (編輯中)</string>
+
+
+    <string name="dialog_url_title">開啟網站？</string>
+    <string name="dialog_url_text">外掛「%s」想要開啟一個外部網站。該網站可能包含廣告。僅在你信任來源時繼續：</string>
+    <string name="dialog_url_cmdopen">開啟</string>
+    <string name="settings_adaptive_ground_blending">自適應地面混合</string>
+
+    <string name="empty_cause_unknown">因未知原因離開。</string>
+    <string name="empty_cause_low_demand">由於需求低而離開。</string>
+    <string name="empty_cause_low_happiness">由於對%s的滿意度低而離開。</string>
+    <string name="empty_cause_crime">由於犯罪（%s）而離開。</string>
+    <string name="empty_cause_illness">由於污染而離開。</string>
+    <string name="stage_files_folderfiles">包含 %d 個檔案</string>
+
+    <string name="notbuildablereason_generic">此處無法建造</string>
+    <string name="notbuildablereason_land">需要土地</string>
+    <string name="notbuildablereason_water">需要水</string>
+    <string name="notbuildablereason_zone">錯誤的區域</string>
+    <string name="notbuildablereason_maxcount">已達到建築上限</string>
+    <string name="notbuildablereason_terrain">地形不合適</string>
+    <string name="notbuildablereason_nomoney">資金不足</string>
+    <string name="notbuildablereason_blocked">區域已被封鎖</string>
+
+    <string name="recovery_mode_title">哎呀</string>
+    <string name="recovery_mode_text">TheoTown 多次無法啟動。\n\n你想在修復模式下啟動遊戲嗎？\n\n修復模式會暫時停用所有插件，讓你移除或修復可能導致問題的插件。下次重新啟動遊戲時，插件將會再次正常載入。</string>
+    <string name="recovery_mode_normal">正常啟動</string>
+    <string name="recovery_mode_recovery">修復模式</string>
+
+    <string name="settings_draw_neighbors">繪製相鄰城市</string>
 
 </resources>

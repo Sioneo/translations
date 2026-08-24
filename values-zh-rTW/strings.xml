@@ -256,7 +256,7 @@
     <string name="draft_busdepot00_title">公車車庫</string>
     <string name="draft_busdepot00_text">公交車由這裡出庫。</string>
     <string name="settings_debugmode">Debug模式</string>
-    <string name="unknown">香腸麵包</string>
+    <string name="unknown">Wurstbrot</string>
     <string name="draftselector_titleremove">摧毀</string>
     <string name="draftselector_titleview">視圖</string>
     <string name="toolremove_default_title">刪除</string>
@@ -280,7 +280,7 @@
     <string name="ci_water_produced">製造：%1$,.0fL/h (%2$,d建築物)</string>
     <string name="ci_water_ratio">負荷率：%1$.1f%%</string>
     <string name="ci_general_cityname">城市名稱：%1$s</string>
-    <string name="ci_general_population">居民總數：%1$s,d</string>
+    <string name="ci_general_population">居民總數：%1$,d</string>
     <string name="draftselector_titlerawbuilding">所有建築物</string>
     <string name="budget_busdepot">公車車庫</string>
     <string name="ci_budget_overallincome">總收入</string>
@@ -632,9 +632,9 @@
     <string name="draft_buoy00_title">浮標</string>
     <string name="draft_buoy00_text">給船隻指路。</string>
     <string name="ci_general_seed">隨機值：%1$s</string>
-    <string name="draft_decores00_text">.</string>
-    <string name="draft_decocom00_text">.</string>
-    <string name="draft_decoind00_text">.</string>
+    <string name="draft_decores00_text">一些適合住宅區的裝飾。</string>
+    <string name="draft_decocom00_text">一些適合商業區的裝飾。</string>
+    <string name="draft_decoind00_text">一些適合工業區的裝飾。</string>
     <string name="ci_budget_title_nomoney">財產(虛擬)</string>
     <string name="dialog_notification_cmdok">確認</string>
     <string name="draft_nuclearplant00_title">核電站</string>
@@ -747,7 +747,7 @@
     <string name="settings_winter">冬天</string>
     <string name="notify_riot_reason">這裡因為%1$s而引發了一起暴亂！</string>
     <string name="notify_riot_noreason">這裡無緣無故發生了一起暴亂！</string>
-    <string name="notify_demonstration">這裡因為%1s發生了一起遊行！試著做點什麼來平息它。</string>
+    <string name="notify_demonstration">這裡因為%1$s發生了一起遊行！試著做點什麼來平息它。</string>
     <string name="draft_marker_powermarker_title">能源</string>
     <string name="draft_marker_watermarker_title">水</string>
     <string name="draft_road04_title">林蔭大道</string>
@@ -774,7 +774,7 @@
     <string name="draft_rnk_megalopolis_title">巨大都市</string>
     <string name="rank_needed_people">至少%1$,d居民</string>
     <string name="draft_decoroad00_title">林蔭大道裝飾</string>
-    <string name="draft_decoroad00_text">.</string>
+    <string name="draft_decoroad00_text">為繁忙的市中心增添一些自然與綠蔭。</string>
     <string name="settings_experimental">實驗性功能</string>
     <string name="about_thanks">特別感謝</string>
     <string name="about_community">以及其他的社區成員</string>
@@ -1590,7 +1590,7 @@
     <string name="draft_cat_industrial00_title">工業</string>
     <string name="offerstage_saving">你會節省 %d%%</string>
     <string name="draft_pickle00_title">全能黃瓜怪</string>
-    <string name="draft_pickle00_text">啊哈！我懂了！這個黃瓜成精了！\n\n會制造小黃瓜</string>
+    <string name="draft_pickle00_text">.</string>
 
     <string name="settings_newtoolbar">使用新的工具欄</string>
 
@@ -1771,7 +1771,7 @@
     <string name="lang_pirate">海盜話（英文）</string>
 
     <string name="draft_church10_title">巴洛克式教堂</string>
-    <string name="draft_church10_text">為你的城市修建這個美麗的教堂兼修道院。\n\n科普：\n巴洛克（Baroque)，是一種代表歐洲文化的典型藝朮風格。</string>string&gt;
+    <string name="draft_church10_text">為你的城市修建這個美麗的教堂兼修道院。\n\n科普：\n巴洛克（Baroque)，是一種代表歐洲文化的典型藝朮風格。</string>gt;
     <string name="draft_roaddeco_construction00_title">挖掘機</string>
     <string name="draft_roaddeco_construction00_text">等等，我們還在修路⋯\n微小的不便，換來巨大的好處。\n\n挖掘技术哪家强？中国山东找蓝翔！</string>
 
@@ -2419,7 +2419,7 @@
     <string name="dialog_insufficientspace2_text">如果你認為這是一個報告問題，請確保該應用實際上有權訪問外部存儲空間。</string> <!-- To be translated -->
     <string name="dialog_uploadregiontoobig_title">上傳區域</string>
     <string name="dialog_uploadregiontoobig_text">這個區域太大了，無法上傳 :/</string>
-    <string name="channel_onlinemode_title">线上模式</string>
+    <string name="channel_onlinemode_title">線上模式</string>
     <string name="channel_onlinemode_text">線上模式下有關您城市的新資訊。</string>
     <string name="dialog_externalstorage_proceedwithout">自行承擔風險</string>
     <string name="dialog_externalstorage_title">無法訪問外部儲存</string>
@@ -2433,7 +2433,7 @@
     <string name="dialog_onlinenotifications_cmdnonempty">(%1$,d)</string>
     <string name="dialog_reason_title">原因</string>
     <string name="dialog_reason_text">為了繼續，您必須指定此操作的原因。</string>
-    <string name="store_realtitle">插件商店e</string>
+    <string name="store_realtitle">插件商店</string>
     <string name="settings_pushnotificationsonline">關於線上模式的通知</string>
     <string name="settings_verticaltoolbar">垂直工具欄</string>
     <string name="settings_darktoolbar">深色工具欄</string>
@@ -3120,7 +3120,7 @@
 居民們不喜歡污染。為了節省移動建築物的麻煩，特別是在規劃良好的城市中，你可以選擇種樹。樹木可以阻止污染。種植更多的樹木有利於減少污染。 這通常也是更具成本效益的方法，因為樹木相當便宜。要放置的樹木數量取決於樹木的污染程度和影響強度。
     </string>
     <string name="tip_topic_traffic_networking_title">
-使用單行路和十字路口來優化交通
+使用單行道和交流道來緩解壅塞
     </string>
     <string name="tip_topic_traffic_networking_text">
 通常，高速公路和工業區等地方可能會因交通擁堵而變得擁擠。這需要一個合適的道路網路來優化它。單行路和十字路口可以對此有所幫助。 遊戲和插件中都有預建的立交橋。你也可以以現實生活中的立交橋為參考自己製作。這將允許更好的交通流量，減少您所在城市的交通流量。
@@ -3174,7 +3174,7 @@
 每天登入將獲得鑽石獎勵。透過一週內每天登入，您將獲得更多獎勵。一旦你獲得最終獎勵，它就會重置並重新開始。此外，您可以每30分鐘觀看一次廣告影片來獲得的鑽石。
     </string>
     <string name="tip_topic_supplies_title">
-火箭供應品可以一些工業建築提供
+火箭補給由特定的工業建築提供
     </string>
     <string name="tip_topic_supplies_text">
 供應石油的建築分佈在不同級別的行業。這些包括石油開採建築、儲存建築和加工建築。這些將為您的火箭提供供應品。在火箭附近擁有更多的建築將有助於更快地供應它。
@@ -3465,7 +3465,7 @@ YouTube上有很多實用的教程
     <string name="ts_vehicles">車輛</string>
     <string name="ts_cityview">城市視圖</string>
     <string name="ts_routemap">路線圖</string>
-    <string name="ts_dialog_buy_vehicle_title">购买车辆</string>
+    <string name="ts_dialog_buy_vehicle_title">購買車輛</string>
     <string name="ts_dialog_select_vehicle_title">選擇一輛車輛</string>
     <string name="ts_missing_reqs">缺少要求</string>
     <string name="ts_warn_no_routes">沒有路線</string>
@@ -3479,12 +3479,12 @@ YouTube上有很多實用的教程
     <string name="ts_route_set_vehicle">設定車輛</string>
     <string name="ts_route_edit">Route</string>
     <string name="ts_route_more">更多</string>
-    <string name="ts_route_duplicate">复制</string>
+    <string name="ts_route_duplicate">複製</string>
     <string name="ts_route_rename">重新命名</string>
     <string name="ts_dialog_route_rename_title">路線名稱</string>
     <string name="ts_route_delete">刪除</string>
     <string name="ts_station_routes_for">為的路線</string>
-    <string name="ts_station_routes">路线：</string>
+    <string name="ts_station_routes">路線：</string>
     <string name="ts_station_waiting">等待中:</string>
     <string name="ts_station_usage">使用：</string>
     <string name="ts_station_locate">定位</string>
@@ -3496,13 +3496,13 @@ YouTube上有很多實用的教程
     <string name="ts_station_show_routes">路線</string>
     <string name="ts_vehicle_capacity">容量:</string>
     <string name="ts_vehicle_speed">速度：</string>
-    <string name="ts_vehicle_price">价格：</string>
+    <string name="ts_vehicle_price">價格：</string>
     <string name="ts_vehicle_transferred">總共轉移:</string>
-    <string name="ts_vehicle_on_board">在船上：</string>
+    <string name="ts_vehicle_on_board">車上人數：</string>
     <string name="ts_vehicle_assigned_to">分配至</string>
     <string name="ts_vehicle_not_assigned">未分配到路線</string>
     <string name="ts_vehicle_locate">定位</string>
-    <string name="ts_vehicle_delete">删除</string>
+    <string name="ts_vehicle_delete">刪除</string>
     <string name="ts_dialog_sell_vehicle_title">賣出？</string>
     <string name="ts_dialog_sell_vehicle_text">您是否想要出售`%s`？\n
 價值：%s</string>
@@ -3510,7 +3510,7 @@ YouTube上有很多實用的教程
     <string name="ts_vehicle_count">%d/%d 輛車輛</string>
     <string name="ts_vehicle_count_depot_limit">%s (由車庫限制)</string>
     <string name="ts_vehicle_count_station_limit">%s (由車站限制)</string>
-    <string name="ts_buy_vehicle">购买车辆</string>
+    <string name="ts_buy_vehicle">購買車輛</string>
     <string name="ts_build_depot">建立儲存所</string>
     <string name="ts_vehicle_assign">分配</string>
     <string name="ts_vehicle_unassign">取消分配</string>
@@ -3606,18 +3606,18 @@ YouTube上有很多實用的教程
     <string name="ts_names_water_lakeside">湖畔</string>
     <string name="ts_names_water_seaside">海邊</string>
     <string name="ts_names_water_beachfront">海灘前線</string>
-    <string name="draft_pmono_tracks00_title">單軌鐵路軌道</string>
-    <string name="draft_pmono_tracks00_text">用於單軌運營的高架軌道。</string>
-    <string name="draft_pmono_roaddeco_roof00_title">單軌火車站屋頂</string>
-    <string name="draft_pmono_roaddeco_roof00_text">用於覆蓋單軌火車站平台的屋頂元素。</string>
-    <string name="draft_pmono_station00_title">單軌電車站</string>
-    <string name="draft_pmono_station00_text">一個用於當地單軌交通的模塊化車站。</string>
-    <string name="draft_pmono_station_prebuilt00_title">單軌火車站</string>
-    <string name="draft_pmono_station_prebuilt00_text">一個適用於當地交通的預建單軌車站。</string>
-    <string name="draft_pmono_station_prebuilt01_title">大型單軌火車站</string>
-    <string name="draft_pmono_station_prebuilt01_text">具有擴大容量的較大型預建單軌火車站。</string>
-    <string name="draft_pmono_train00_title">Monorail 2000</string>
-    <string name="draft_ts_native_monorail00_title">Monorail</string>
+    <string name="draft_pmono_tracks00_title">單軌軌道</string>
+    <string name="draft_pmono_tracks00_text">供單軌列車運行的高架軌道。</string>
+    <string name="draft_pmono_roaddeco_roof00_title">單軌車站屋頂</string>
+    <string name="draft_pmono_roaddeco_roof00_text">用於覆蓋單軌車站月台的屋頂構件。</string>
+    <string name="draft_pmono_station00_title">單軌車站</string>
+    <string name="draft_pmono_station00_text">供當地單軌交通使用的模組化車站。</string>
+    <string name="draft_pmono_station_prebuilt00_title">單軌車站</string>
+    <string name="draft_pmono_station_prebuilt00_text">供當地交通使用的預建單軌車站。</string>
+    <string name="draft_pmono_station_prebuilt01_title">大型單軌車站</string>
+    <string name="draft_pmono_station_prebuilt01_text">容量較大的預建單軌車站。</string>
+    <string name="draft_pmono_train00_title">單軌 2000</string>
+    <string name="draft_ts_native_monorail00_title">單軌</string>
 
 
     <string name="stage_musicmanager_title">音樂庫</string>
@@ -3651,7 +3651,7 @@ YouTube上有很多實用的教程
     <string name="dialog_restore_title">恢復城市</string>
     <string name="dialog_restore_nobackups">無可用的備份 :(</string>
     <string name="dialog_restore_current">(活動中)</string>
-    <string name="draft_part_of_plugin">Plugin: %s</string>
+    <string name="draft_part_of_plugin">插件：%s</string>
     <string name="stage_special_offer_text">永久解鎖以下建築物，讓您可以不用鑽石就能進行建造。</string>
     <string name="settings_edge_gradients">螢幕邊緣漸變</string>
     <string name="legend_pipe">管道</string>
@@ -3673,5 +3673,34 @@ YouTube上有很多實用的教程
     <string name="legend_mixed_voltage">混合電壓</string>
     <string name="legend_metro">地鐵</string>
     <string name="legend_ts_edit">%s (正在編輯)</string>
+
+
+    <string name="dialog_url_title">開啟網站？</string>
+    <string name="dialog_url_text">外掛「%s」想要開啟一個外部網站。該網站可能包含廣告。僅在您信任來源時繼續：</string>
+    <string name="dialog_url_cmdopen">開啟</string>
+    <string name="settings_adaptive_ground_blending">自適應地面混合</string>
+
+    <string name="empty_cause_unknown">因未知原因離開。</string>
+    <string name="empty_cause_low_demand">由於需求低而離開。</string>
+    <string name="empty_cause_low_happiness">由於對%s的滿意度低而離開。</string>
+    <string name="empty_cause_crime">由於犯罪（%s）而離開。</string>
+    <string name="empty_cause_illness">由於污染而離開。</string>
+    <string name="stage_files_folderfiles">包含 %d 個檔案</string>
+
+    <string name="notbuildablereason_generic">此處無法建造</string>
+    <string name="notbuildablereason_land">需要土地</string>
+    <string name="notbuildablereason_water">需要水</string>
+    <string name="notbuildablereason_zone">錯誤的區域</string>
+    <string name="notbuildablereason_maxcount">已達到建築上限</string>
+    <string name="notbuildablereason_terrain">地形不合適</string>
+    <string name="notbuildablereason_nomoney">資金不足</string>
+    <string name="notbuildablereason_blocked">區域已被封鎖</string>
+
+    <string name="recovery_mode_title">哎呀</string>
+    <string name="recovery_mode_text">TheoTown 多次無法啟動。\n\n您想在修復模式下啟動遊戲嗎？\n\n修復模式會暫時停用所有插件，讓您移除或修復可能導致問題的插件。下次重新啟動遊戲時，插件將會再次正常載入。</string>
+    <string name="recovery_mode_normal">正常啟動</string>
+    <string name="recovery_mode_recovery">修復模式</string>
+
+    <string name="settings_draw_neighbors">繪製相鄰城市</string>
 
 </resources>

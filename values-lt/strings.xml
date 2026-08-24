@@ -57,12 +57,12 @@
     <string name="draftselector_monthlyprice">Mėnesinė kaina: %s</string>
     <string name="draftselector_id">ID: %1$s</string>
     <string name="loadcity_cmddelete">Ištrinti</string>
-    <string name="loadcity_deletedialog_text">Ar jūs tikrai norite ištrinti?</string>
+    <string name="loadcity_deletedialog_text">Ar tikrai norite ištrinti? Šio veiksmo anuliuoti negalima.</string>
     <string name="loadcity_deletedialog_title">Ištrinti miestą</string>
     <string name="loadcity_deletedialog_cmdcancel">Atšaukti</string>
     <string name="loadcity_deletedialog_cmddelete">Ištrinti</string>
     <string name="createcity_sizebigbig">Didžiulis</string>
-    <string name="dialog_leave_text">Are Jūs tikras, kad norite išeiti iš TheoTown?</string>
+    <string name="dialog_leave_text">Ar tikrai norite išeiti iš TheoTown?</string>
     <string name="dialog_leave_title">Išeiti iš TheoTown</string>
     <string name="dialog_leave_cmdcancel">Atšaukti</string>
     <string name="dialog_leave_cmdleave">Išeiti</string>
@@ -72,7 +72,7 @@
     <string name="dialog_invalidcityname_text">Prašome pasirinkti kitą miesto pavadinimą. Jis negali būti tuščias.</string>
     <string name="dialog_invalidcityname_cmdok">Gerai</string>
     <string name="dialog_hugesize_title">Didžiulis žemėlapis</string>
-    <string name="dialog_hugesize_text">Šis dydis yra ekspermentinis ir galbūt neveiks ant Jūsų įrenginio. Ar Jums tikrai reikia didžiulio žemėlapio?</string>
+    <string name="dialog_hugesize_text">Šis dydis yra eksperimentinis ir gali neveikti jūsų įrenginyje. Ar tikrai norite sukurti didžiulį žemėlapį?</string>
     <string name="dialog_hugesize_cmdyes">Taip</string>
     <string name="dialog_hugesize_cmdno">Ne</string>
     <string name="draft_church00_title">Bažnyčia</string>
@@ -86,7 +86,7 @@
     <string name="draft_coalplant00_title">Anglies elektrinė</string>
     <string name="draft_coalplant00_text">Anglies elektrinės pagamina daug energijos, tačiau daro blogą įtaką aplinkai.</string>
     <string name="draft_solarpanels00_title">Saulės baterijos</string>
-    <string name="draft_solarpanels00_text">Saulės baterijos yra geros aplinkai ir jie neteršia aplinkos.</string>
+    <string name="draft_solarpanels00_text">Saulės baterijos gamina elektrą iš saulės energijos, tačiau nėra labai galingos.</string>
     <string name="draft_park00_title">Mažas gėlių parkas</string>
     <string name="draft_park00_text">Gyventojams tai patiks.</string>
     <string name="draft_park01_title">Mažas parkas</string>
@@ -104,11 +104,11 @@
     <string name="draft_medic01_title">Ligoninė</string>
     <string name="draft_medic01_text">Gyventojai jaučiasi saugesni prie ligoninės.</string>
     <string name="draft_school00_title">Pradinė mokykla</string>
-    <string name="draft_school00_text">Vietą kur vaikai išmoksta dalykus.</string>
+    <string name="draft_school00_text">Vieta, kurioje mokosi maži vaikai.\nŠvietimas leidžia turtingesniems žmonėms apsigyventi jūsų mieste.</string>
     <string name="draft_school01_title">Vidurinė mokykla</string>
-    <string name="draft_school01_text">Vietą kur vyresni vaikai išmoksta dalykus.</string>
+    <string name="draft_school01_text">Vieta, kurioje mokosi vyresni vaikai.\nŠvietimas leidžia turtingesniems žmonėms apsigyventi jūsų mieste.</string>
     <string name="draft_museum00_title">Muziejus</string>
-    <string name="draft_museum00_text">Vieta kur seni žmonės išmoksta dalykus.</string>
+    <string name="draft_museum00_text">Vieta susipažinti su menu, mokslu ir kultūra. Suteikia daug abiejų lygių švietimo.</string>
     <string name="draft_pipe00_title">Vandentiekio vamzdis</string>
     <string name="draft_pipe00_text">Vandentiekio vamzdžiai gali būti panaudoti vandens tiekimui jūsų pastatams.</string>
     <string name="draft_waterpump00_title">Vandens siurblys</string>
@@ -196,7 +196,7 @@
     <string name="shader_old">Senas</string>
     <string name="topic_narcissistic">Nekreipkite dėmesio į narcisistinius žmones</string>
     <string name="topic_great">Tu man patinki! &lt;3</string>
-    <string name="settings_ultrafastspeed">Iron greitas greitis</string>
+    <string name="settings_ultrafastspeed">Itin didelis greitis</string>
     <string name="draftselector_power">Elektra: %1$,dkW</string>
     <string name="draftselector_water">Vanduo: %1$,dL/h</string>
     <string name="notify_welcome">Ei, sveiki atvykę į %1$s.</string>
@@ -299,14 +299,14 @@
     <string name="ci_general_population1">Vidutinių pajamų gyventojai (₮₮): %1$,d</string>
     <string name="ci_general_population2">Turtingi gyventojai (₮₮₮): %1$,d</string>
     <string name="draft_footballfield00_title">Futbolo aikštė</string>
-    <string name="draft_footballfield00_text">Futbolo aikštė padaris jūsų gyventojus laimingus.</string>
+    <string name="draft_footballfield00_text">Futbolo aikštė padarys jūsų gyventojus laimingus.</string>
     <string name="loadcity_kbsize">%1$,d KB</string>
-    <string name="draftselector_upgrades">%1$,d Parobulimas(ai) prieinamas(i)</string>
-    <string name="buildinginfo_upgrades">%1$,d/%2$,d Parobulimas(ai)</string>
-    <string name="buildinginfo_construction">statoma: %1$.0f%% (%2$,d diena(os) liko)</string>
+    <string name="draftselector_upgrades">Galimi patobulinimai: %1$,d</string>
+    <string name="buildinginfo_upgrades">Patobulinimai: %1$,d/%2$,d</string>
+    <string name="buildinginfo_construction">Statoma: %1$.0f%% (liko dienų: %2$,d)</string>
     <string name="draft_footballstadion00_title">Stadionas</string>
     <string name="draft_footballstadion00_text">futbolo stadionas.</string>
-    <string name="buildinginfo_cmdupgrade">Parobulimas</string>
+    <string name="buildinginfo_cmdupgrade">Patobulinti</string>
     <string name="draft_footballstadion00_lights_title">Šviesos</string>
     <string name="draft_footballstadion00_lights_text">Keletas šviesų stadionui.</string>
     <string name="buildinginfo_upgraded">Jau patobulinta</string>
@@ -326,7 +326,7 @@
     <string name="draft_middlepark00_lights_title">Paviljonas</string>
     <string name="draft_middlepark00_lights_text">Paviljonas, kuriame gali vykti vakarėliai.</string>
     <string name="draft_middlepark00_clock_title">Laikrodis</string>
-    <string name="draft_middlepark00_clock_text">Laikrodis pasakis jūsų gyventojiems laiką.</string>
+    <string name="draft_middlepark00_clock_text">Laikrodis padės jūsų gyventojams žinoti laiką.</string>
     <string name="notify_power_low">Daug galios jau nebeliko. Jums gali tekti statyti naujas elektrines.</string>
     <string name="notify_water_low">Jums daug vandens jau nebeliko. Gal jums reikėtų statyti naujus vandens siurblius.</string>
     <string name="notify_religion">Prašau mums pastatyti keletą religingesnių pastatų?</string>
@@ -348,8 +348,8 @@
     <string name="draft_radio00_title">Radijo stotis</string>
     <string name="draft_radio00_text">Jūsų gyventojams patiks radijo programa.</string>
     <string name="draftselector_cmdalert">Eikit!</string>
-    <string name="draft_alert_police00_title">Iškviesti policija</string>
-    <string name="draft_alert_police00_text">Iškviesti policija kad sustabdyti kriminalus.</string>
+    <string name="draft_alert_police00_title">Iškviesti policiją</string>
+    <string name="draft_alert_police00_text">Iškvieskite policiją, kad sustabdytų nusikaltėlius ir protestus.</string>
     <string name="draft_alert_fire00_title">Iškviesti ugniagesių brigadą</string>
     <string name="draft_alert_fire00_text">Iškviesti ugniagesių brigadą gaisro gesinimui.</string>
     <string name="draft_alert_medic00_title">Iškviesti gydytoją</string>
@@ -426,14 +426,14 @@
     <string name="tutorial_buildpipe_a">Bet vien tik vandens bokšto neužteks, Jums reikės padėti dar ir vandentiekio vamzdžius bei juos sujungti.</string>
     <string name="tutorial_buildpipe_b">Padėkite vamzdžius išilgai ant pažymėtų laukelių.</string>
     <string name="tutorial_buildpipe_c">Šaunu. Dabar galite pradėti nuo zonų deklaravimo.</string>
-    <string name="tutorial_buildzones">Zonos nustatyto, kas ir kur gali statyti. Jų yra trys tipai.</string>
+    <string name="tutorial_buildzones">Zonos nustato, kas ir kur gali statyti. Jų yra trys tipai.</string>
     <string name="tutorial_buildresidential_a">Nustatykime rezidentinę zoną. Gyventojai ten galės statyti savo namus.</string>
     <string name="tutorial_buildresidential_b">Padėkite zoną ant pažymėto laukelio.</string>
     <string name="tutorial_buildresidential_c">Puiku.</string>
     <string name="tutorial_buildcommercial_a">Tęskime su komercine zona. Ten bus statomi komerciniai pastatai.</string>
     <string name="tutorial_buildcommercial_b">Padėkite zoną ant pažymėto laukelio.</string>
     <string name="tutorial_buildcommercial_c">Nuostabu.</string>
-    <string name="tutorial_buildindustrial_a">Paskutinė, bet ne prasčiausios zona - pramonės zona. Čia bus statomos gamyklos.</string>
+    <string name="tutorial_buildindustrial_a">Paskutinė, bet ne mažiau svarbi – pramonės zona. Čia bus statomos gamyklos ir sandėliai.</string>
     <string name="tutorial_buildindustrial_b">Padėkite zoną ant pažymėto laukelio.</string>
     <string name="tutorial_buildindustrial_c">Nuostabu. Dabar bus statomi pastatai.</string>
     <string name="tutorial_industrial_keepaway">Dėl taršos ir triukšmo, pramoninės zonos turėtų būti statomos atokiau nuo kitų zonų.</string>
@@ -487,12 +487,12 @@
     <string name="settings_disaster_nuke">Branduolinis ginklas</string>
     <string name="disaster_nuke_title">Branduolinis ginklas</string>
     <string name="disaster_nuke_text">Atrodo nekenksmingas.</string>
-    <string name="disaster_nuke_cmdtext">Išbandykime Mes jį</string>
+    <string name="disaster_nuke_cmdtext">Išbandykime!</string>
     <string name="budget_loans">Paskolos</string>
     <string name="ci_loan_loanlist">Aktyvios paskolos (iš viso %1$s iš %2$,d/%3$,d paskolų):</string>
-    <string name="ci_loan_remaining_runtime">Likęs laikas: %2$,d Mėnesis(iai), %1$,d Diena(os)</string>
+    <string name="ci_loan_remaining_runtime">Likęs laikas: %2$,d mėn., %1$,d d.</string>
     <string name="ci_loan_paybackcost">Grąžinimo kaina: %1$s</string>
-    <string name="ci_loan_estate">Turtas: %1$s</string>
+    <string name="ci_loan_estate">Likutis: %1$s</string>
     <string name="topic_support_ads">Galite palaikyti mus žiūrėdami skelbimus :)</string>
     <string name="settings_disaster_tornado">Viesulas</string>
     <string name="disaster_tornado_title">Viesulas</string>
@@ -603,7 +603,7 @@
     <string name="draft_filterplant00_title">Filtravimo sistema</string>
     <string name="draft_filterplant00_text">Valo nuotekas pakartotiniam naudojimui.</string>
     <string name="topic_fun">Pasilinksmink! :)</string>
-    <string name="topic_android">Tik Android operaciniai sistemai</string>
+    <string name="topic_android">Tik „Android“</string>
     <string name="topic_tryharder">Labiau pasistenk</string>
     <string name="topic_nature">Saugok gamtą</string>
     <string name="topic_time">Skirkite šiek tiek laiko</string>
@@ -612,14 +612,14 @@
     <string name="ci_water_waste">Nuotekos: %1$.1f%%</string>
     <string name="shader_fancy2">X-Įmantrūs</string>
     <string name="draft_sewerpipe00_title">Kanalizacijos vamzdis</string>
-    <string name="draft_sewerpipe00_text">Sumažina vandens taršą išleidžiant nuotekas į gamtą. Turi blogą įtaką.</string>
+    <string name="draft_sewerpipe00_text">Išleidžia nevalytas nuotekas ir teršia aplinkinę teritoriją. Greitas, bet taršus nuotekų tvarkymo sprendimas.</string>
     <string name="settings_lowresmapscreenshot">Mažesnė ekrano skiriamoji geba, ekrano kopijai</string>
     <string name="draft_marina00_title">Marina</string>
     <string name="draft_marina00_text">Pramogos turtingiems gyventojams.</string>
     <string name="loadcity_version">Versija %1$,d</string>
     <string name="loadcity_memdialog_title">Negalima pasiekti išorinės atminties</string>
     <string name="loadcity_memdialog_text">Miestai bus išsaugojami vidinėje atmintyje. Jūs neturėsite prieigos prie jų.</string>
-    <string name="loadcity_memdialog_cmdremind">Primink mane</string>
+    <string name="loadcity_memdialog_cmdremind">Priminti</string>
     <string name="loadcity_memdialog_cmdok">Nekreipk dėmesio</string>
     <string name="about_translation">Vertimas</string>
     <string name="draft_decocom00_title">Komercinė zona</string>
@@ -632,9 +632,9 @@
     <string name="draft_buoy00_title">Plūduras</string>
     <string name="draft_buoy00_text">Padeda laivams rasti kelią.</string>
     <string name="ci_general_seed">Sėkla: %1$s</string>
-    <string name="draft_decores00_text">.</string>
-    <string name="draft_decocom00_text">.</string>
-    <string name="draft_decoind00_text">.</string>
+    <string name="draft_decores00_text">Keletas dekoracijų gyvenamosioms zonoms.</string>
+    <string name="draft_decocom00_text">Keletas dekoracijų komercinėms zonoms.</string>
+    <string name="draft_decoind00_text">Keletas dekoracijų pramoninėms zonoms.</string>
     <string name="ci_budget_title_nomoney">Finansai (teoriniai)</string>
     <string name="dialog_notification_cmdok">Gerai</string>
     <string name="draft_nuclearplant00_title">Atominė jėgainė</string>
@@ -680,7 +680,7 @@
     <string name="createcity_sizebigbigbig">Milžiniškas</string>
     <string name="locale">lt</string>
     <string name="draft_police02_title">S.W.A.T. Būstinė</string>
-    <string name="draft_police02_text">Ši policijos nuovada jūsų mieste padaris tvarką ir tylą.</string>
+    <string name="draft_police02_text">Čia įsikūrusios specialiosios policijos pajėgos, skirtos kovoti su sunkiais nusikaltimais ir malšinti riaušes.</string>
     <string name="settings_blur">Suliejimas</string>
     <string name="happiness_supply">Tiekimas</string>
     <string name="happiness_environment">Aplinka</string>
@@ -712,7 +712,7 @@
     <string name="control_cancel">Atšaukti</string>
     <string name="createcity_settings">Daugiau...</string>
     <string name="createcity_cityauthor">Autorius:</string>
-    <string name="about_homepage">Įveskite naują autorių</string>
+    <string name="about_homepage">Pagrindinis puslapis</string>
     <string name="oome_title">Neužtenka atminties</string>
     <string name="oome_text">Atsiprašome, bet jūsų įrenginyje nėra pakankamai RAM, kad būtų galima paleisti „TheoTown“.</string>
     <string name="createcity_trees">Medžiai</string>
@@ -747,14 +747,14 @@
     <string name="settings_winter">Žiema</string>
     <string name="notify_riot_reason">Kilo riaušės nes %1$s!</string>
     <string name="notify_riot_noreason">Kilo riaušės be jokios priežasties!</string>
-    <string name="notify_demonstration">Mūsų mieste vyksta demonstracija dėl % 1s! Padarykite ką nors arba nutiks kažkas blogo!</string>
+    <string name="notify_demonstration">Mūsų mieste vyksta demonstracija dėl %1$s! Padarykite ką nors arba nutiks kažkas blogo!</string>
     <string name="draft_marker_powermarker_title">Energija</string>
     <string name="draft_marker_watermarker_title">Vanduo</string>
     <string name="draft_road04_title">Aveniu</string>
     <string name="draft_road05_title">Greitkelis</string>
     <string name="draft_road04_text">Gražus kelias su medžiais.</string>
     <string name="draft_road05_text">Puikus kelias tolimoms vietovėms sujungti.</string>
-    <string name="notify_unhappy">Žmonės čia nepatenkinti dėl % 1 $ s. Turėtumėte pabandyti pagerinti pasitenkinimą.</string>
+    <string name="notify_unhappy">Žmonės čia nepatenkinti dėl %1$s. Turėtumėte pabandyti pagerinti pasitenkinimą.</string>
     <string name="happiness_general">Bendras pasitenkinimas</string>
     <string name="draft_rnk_isolateddwelling_title">Izoliuotas būstas</string>
     <string name="draft_rnk_hamlet_title">Kaimelis</string>
@@ -774,7 +774,7 @@
     <string name="draft_rnk_megalopolis_title">Megalopolija</string>
     <string name="rank_needed_people">Bent %1$,d gyventojų</string>
     <string name="draft_decoroad00_title">Alelių medžiai</string>
-    <string name="draft_decoroad00_text">.</string>
+    <string name="draft_decoroad00_text">Šiek tiek gamtos ir pavėsio judriems miestų centrams.</string>
     <string name="settings_experimental">Eksperimentinės funkcijos</string>
     <string name="about_thanks">Ypatingas ačiū</string>
     <string name="about_community">Ir visa likusi bendruomenė</string>
@@ -826,7 +826,7 @@
     <string name="draft_feature_premium00_title">Premium</string>
     <string name="features_money">Gaukite %1$s už %2$s</string>
     <string name="features_getrank">Gaukite laipsnį dabar</string>
-    <string name="settings_hide_rank_features">Slėpti lapisnio Parobulimus</string>
+    <string name="settings_hide_rank_features">Slėpti lygio patobulinimus</string>
     <string name="draftselector_titleairport">Oro uostas</string>
     <string name="disaster_ufo_title">NSO</string>
     <string name="disaster_ufo_text">Neatpažintas skraidantis objektas užpuola jūsų miestą!</string>
@@ -1000,7 +1000,6 @@
     <string name="dialog_presentdaily_text">Jūs gausite daugiau rytoj.</string>
     <string name="dialog_presentdaily_day">Diena %1$,d</string>
     <string name="rank_needed_xp">Bent %1$,d miesto taškų reikiama</string>
-    <string name="currency_symbol" translatable="false">₮</string>
     <string name="settings_shortmoney">Pinigų santrumpa</string>
     <string name="dialog_newsign_title">Nauja etiketė</string>
     <string name="dialog_newsign_text">Įveskite šios vietovės pavadinimą.</string>
@@ -1307,8 +1306,8 @@ Jei suteiksite „TheoTown“ prieigą prie išorinės saugyklos, ji išsaugos m
     <string name="disaster_pink_slime_cmdtext">Gleivės!</string>
     <string name="draft_hydroplant00_title">Hidroelektrinė</string>
     <string name="draft_hydroplant00_text">Hidroelektrinė, kuri gali būti naudojama elektros energijai gaminti naudojant upių galią. Nesukelia taršos.</string>
-    <string name="draft_feature_slime00_title">Slime disaster</string>
-    <string name="draft_feature_slime00_text">Slime disasters will eat up your city. Of course, only if you want it to do so.</string>
+    <string name="draft_feature_slime00_title">Gleivių katastrofa</string>
+    <string name="draft_feature_slime00_text">Gleivių katastrofos praris jūsų miestą. Žinoma, tik jei patys to norėsite.</string>
 
     <string name="settings_terrainshading">Reljefo užtemimas</string>
     <string name="draft_deco_chr_tree00_title">Kalėdų eglutė</string>
@@ -2379,7 +2378,7 @@ Mėnesio išlaidos: %3$s</string>
     <string name="store_cat_commercial">Komercija</string>
     <string name="store_cat_industrial">Pramonė</string>
     <string name="store_cat_parks">Parkai, sportas ir valdymas</string>
-    <string name="store_cat_supply">Supply (Energy, Water, Waste Disposal)</string>
+    <string name="store_cat_supply">Tiekimas (energija, vanduo, atliekų šalinimas)</string>
     <string name="store_cat_religion">Religija ir Kultūra</string>
     <string name="store_cat_service">Paslaugos (Policija, sveikatos priežiūra, švietimas,...)</string>
     <string name="store_cat_award">Apdovanojimai ir Specialūs</string>
@@ -2530,7 +2529,7 @@ Paspauskite mygtuką, kad priskirtumėte jį šiai veiksmui.</string>
     <string name="stage_files_importherefiles">Failas(-ai)</string>
     <string name="stage_files_importherefolders">Aplankas</string>
     <string name="draft_mosque10_title">Hassano II mečetė</string>
-    <string name="draft_mosque10_text">The Hassan II Mosque is a mosque in Casablanca, Morocco. It is the largest functioning mosque in Africa and is the 7th largest in the world. Its minaret is the world\'s second tallest minaret at 210 metres (689 ft).Completed in 1993, it was designed by Michel Pinseau under the guidance of King Hassan II and built by Moroccan artisans from all over the kingdom. The minaret is 60 stories high topped by a laser, the light from which is directed towards Mecca.The mosque stands on a promontory looking out to the Atlantic Ocean; worshippers can pray over the sea but there is no glass floor looking into the sea. The walls are of hand-crafted marble and the roof is retractable. A maximum of 105,000 worshippers can gather together for prayer: 25,000 inside the mosque hall and another 80,000 on the mosque\'s outside ground.</string>
+    <string name="draft_mosque10_text">Hassano II mečetė yra Kasablankoje, Maroke. Tai didžiausia veikianti mečetė Afrikoje ir septinta pagal dydį pasaulyje. Jos 210 metrų (689 pėdų) aukščio minaretas yra antras pagal aukštį pasaulyje. 1993 m. baigtą mečetę, vadovaujant karaliui Hassanui II, suprojektavo Michelis Pinseau, o pastatė Maroko amatininkai iš visos karalystės. 60 aukštų minareto viršuje įrengtas lazeris, kurio šviesa nukreipta Mekos link. Mečetė stovi ant kyšulio, žvelgiančio į Atlanto vandenyną; tikintieji gali melstis virš jūros, tačiau stiklinių grindų, pro kurias būtų matoma jūra, nėra. Sienos pagamintos iš rankomis apdirbto marmuro, o stogas yra atveriamas. Vienu metu melstis gali iki 105 000 tikinčiųjų: 25 000 mečetės salėje ir dar 80 000 lauke.</string>
     <string name="dialog_filesrestart_title">Perkrauti</string>
     <string name="dialog_filesrestart_text">Tam, kur keitimai turėtų įsigalioti, gali tekti iš naujo paleisti žaidimą.\n
 \n
@@ -2572,7 +2571,7 @@ Ar norite iš naujo paleisti žaidimą dabar?</string>
 
 
     <string name="settings_darkbuildtool">Tamsus statybos įrankis</string>
-    <string name="forum_cmdforgot">Forgot?</string>
+    <string name="forum_cmdforgot">Pamiršote?</string>
     <string name="store_rating">Įvertinimas</string>
     <string name="store_rating_unrated">NEĮVERTINTA</string>
     <string name="store_rating_verynegative">LABAI NEIGIAMAS</string>
@@ -2588,9 +2587,9 @@ Ar norite iš naujo paleisti žaidimą dabar?</string>
     <string name="draft_tree_alder00_title">Alksnis</string>
     <string name="draft_tree_alder00_text">Medis, kuris gali užaugti iki 30 metrų ir atrodo gana įprastai.</string>
     <string name="stage_gallery_loadingimages">Kraunamos nuotraukos...</string>
-    <string name="ci_neighbor_help">Here, you can import/export energy, water, waste, and deceased bodies from/to neighboring cities.</string>
-    <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
-    <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
+    <string name="ci_neighbor_help">Čia galite importuoti iš kaimyninių miestų arba į juos eksportuoti energiją, vandenį, atliekas ir mirusiųjų palaikus.</string>
+    <string name="ci_budget_help">Čia galite peržiūrėti ir keisti mokesčius bei matyti mėnesio išlaidas. Turtingesni gyventojai ir darbuotojai moka daugiau mokesčių. Jei mokesčiai bus per dideli, gyventojai bus nepatenkinti ir išvyks iš miesto, todėl pasitenkinimas mokesčiais sumažės. Rekomenduojame nustatyti mokesčius nuo 6.5 iki 8.0.</string>
+    <string name="ci_budget_help_nomoney">Čia galite peržiūrėti ir keisti mokesčius bei matyti mėnesio išlaidas. Turtingesni gyventojai ir darbuotojai moka daugiau mokesčių. Jei mokesčiai bus per dideli, gyventojai bus nepatenkinti ir išvyks iš miesto, todėl pasitenkinimas mokesčiais sumažės. Rekomenduojame nustatyti mokesčius nuo 6.5 iki 8.0.</string>
 
 
     <string name="stage_account_pro_gallery">Įkelkite savo miestų nuotraukas į internetinę galeriją</string>
@@ -2657,12 +2656,12 @@ Ar norite iš naujo paleisti žaidimą dabar?</string>
     <string name="dialog_migratefb_text">Atrodo, kad esate prisijungęs naudodamiesi „Facebook“ paskyra. Deja, šis prisijungimo būdas yra pasenęs ir nebegali būti palaikomas.\n
 Prašome prisijungti naudojant forumo paskyrą, kad perkeltumėte savo duomenis.</string>
     <string name="dialog_migratefb_cmdaccountsettings">Paskyros nustatymai</string>
-    <string name="draft_feature_opera00_title">Opera House</string>
-    <string name="draft_feature_opera00_text">Unleash the magic of culture with our Cultural Delight Bundle! Experience the grandeur of an Opera House, accompanied by a serene park and enchanting fountain. Elevate your city\'s atmosphere and inspire your citizens with the harmonious blend of music, nature, and artistic allure. Upgrade now and let your city shine as a cultural masterpiece!</string>
-    <string name="draft_opera00_title">Operatic Oasis</string>
-    <string name="draft_opera00_text">Step into the Melody Manor, your city\'s cultural heartbeat! This stunning Opera House adds a touch of elegance and finesse to your metropolis. Watch as it influences your citizens, turning them into refined connoisseurs of the arts. Let the harmonious vibes flow and the laughter rise!</string>
-    <string name="draft_opera_park00_title">Serene Symphony Park</string>
-    <string name="draft_opera_park00_text">Nestled beside the Opera House, Serene Symphony Park is an enchanting haven where nature dances to the melodies of opera. Relax in its lush green spaces, enjoy impromptu performances, and let the harmonious fusion of culture and nature rejuvenate your soul.</string>
+    <string name="draft_feature_opera00_title">Operos teatras</string>
+    <string name="draft_feature_opera00_text">Atrakinkite kultūros magiją su mūsų kultūros malonumų rinkiniu! Pajuskite operos teatro didybę, kurią papildo ramus parkas ir žavus fontanas. Praturtinkite miesto atmosferą ir įkvėpkite gyventojus harmoningu muzikos, gamtos ir meno žavesio deriniu. Patobulinkite dabar ir leiskite savo miestui suspindėti kaip kultūros šedevrui!</string>
+    <string name="draft_opera00_title">Operos oazė</string>
+    <string name="draft_opera00_text">Užsukite į Melodijų rūmus – savo miesto kultūros širdį! Šis įspūdingas operos teatras suteikia jūsų didmiesčiui elegancijos ir rafinuotumo. Stebėkite, kaip jis veikia gyventojus ir paverčia juos išprususiais meno žinovais. Tegul liejasi harmonija ir skamba juokas!</string>
+    <string name="draft_opera_park00_title">Ramiosios simfonijos parkas</string>
+    <string name="draft_opera_park00_text">Šalia operos teatro įsikūręs Ramiosios simfonijos parkas – žavinga užuovėja, kurioje gamta šoka pagal operos melodijas. Atsipalaiduokite vešliose žaliosiose erdvėse, mėgaukitės netikėtais pasirodymais ir leiskite harmoningai kultūros bei gamtos sintezei atgaivinti sielą.</string>
     <string name="stage_comment_plugin_acquirefirst">Prašome įsigyti šį priedą pirmiausia</string>
 
     <string name="draft_feature_dsa00_title">DSA</string>
@@ -3104,11 +3103,11 @@ Daugiau nereikia laukti - kartu kurkime epines miestus!</string>
     <string name="buildingicon_crimeriot">Žmonės čia riaušiuojasi.</string>
     <string name="dialog_scriptpolicy_title">Įskiepių scenarijaus politikos</string>
     <string name="dialog_scriptpolicy_help_title">Įskiepių scenarijai gali būti rizikingi</string>
-    <string name="dialog_scriptpolicy_help_text">YOU have the power to approve script execution for external plugins. Only whitelist scripts from sources you trust (e.g. yourself, if you are working on a plugin).\n
+    <string name="dialog_scriptpolicy_help_text">JŪS galite patvirtinti išorinių įskiepių scenarijų vykdymą. Į baltąjį sąrašą įtraukite tik scenarijus iš šaltinių, kuriais pasitikite (pvz., savo, jei kuriate įskiepį).\n
 \n
-If in doubt, DO NOT enable script execution without inspecting the code yourself.\n
+Jei abejojate, NEĮJUNKITE scenarijų vykdymo, kol patys nepatikrinote kodo.\n
 \n
-Plugins that require script execution to work may not function as expected if disabled. You have to restart the game for changes to have an effect.</string>
+Įskiepiai, kuriems veikti reikia scenarijų vykdymo, jį išjungus gali veikti ne taip, kaip tikėtasi. Kad pakeitimai įsigaliotų, turite iš naujo paleisti žaidimą.</string>
     <string name="settings_openscriptpolicy">Įskiepių Scenarijaus Politika</string>
     <string name="stage_files_itemcount">%d daiktas(-ai)</string>
     <string name="tips_title">Patarimai</string>
@@ -3127,7 +3126,7 @@ Plugins that require script execution to work may not function as expected if di
     <string name="tip_topic_traffic_volume_text">Norint reguliuoti eismo intensyvumą nustatymuose, pirmiausia įjunkite derinimo režimą, jis turėtų būti ten pat. Kai derinimo režimas įjungtas, jums siūloma galimybė mažinti ar didinti eismą. Kurį procentą pasirinksite, priklauso nuo to, kiek eismo turite ir kiek iššūkio pageidaujate.</string>
     <string name="tip_topic_more_cash_title">Norėdami gauti daugiau pinigų, pasiskolinkite</string>
     <string name="tip_topic_more_cash_text">
-Press the income icon and then switch to the tab with the green cash icon. Then press "raise". The amount of money offered on the loan depends on the estate and up to 5 loans can be taken out at a time.
+Paspauskite pajamų piktogramą, tada pereikite į skirtuką su žalia pinigų piktograma. Tuomet paspauskite „padidinti“. Siūlomos paskolos suma priklauso nuo jūsų turto, o vienu metu galima turėti iki 5 paskolų.
     </string>
     <string name="tip_topic_loan_repayment_title">Paskolos automatiškai grąžinamos kiekvieną mėnesį</string>
     <string name="tip_topic_loan_repayment_text">Paskolos grąžinimai yra automatiškai atimami iš jūsų mėnesio pajamų kiekvieną mėnesį žaidimo. Jie nereikalauja manualinio mokėjimo, nors galėtumėte sumažinti mėnesines išlaidas tai atlikdami. Grąžinimo laikotarpį galite peržiūrėti paskolų skiltyje.</string>
@@ -3533,5 +3532,34 @@ Vertė: %s</string>
     <string name="legend_mixed_voltage">Abiejų rūšių įtampa</string>
     <string name="legend_metro">Metro</string>
     <string name="legend_ts_edit">%s (redagavimas)</string>
+
+
+    <string name="dialog_url_title">Atidaryti svetainę?</string>
+    <string name="dialog_url_text">Įskiepis „%s“ nori atidaryti išorinę svetainę. Joje gali būti reklamų. Tęskite tik jei pasitikite šaltiniu:</string>
+    <string name="dialog_url_cmdopen">Atidaryti</string>
+    <string name="settings_adaptive_ground_blending">Prisitaikantis žemės maišymas</string>
+
+    <string name="empty_cause_unknown">Paliko dėl nežinomų priežasčių.</string>
+    <string name="empty_cause_low_demand">Paliko dėl mažos paklausos.</string>
+    <string name="empty_cause_low_happiness">Paliko dėl mažo pasitenkinimo %s.</string>
+    <string name="empty_cause_crime">Paliko dėl nusikalstamumo (%s).</string>
+    <string name="empty_cause_illness">Paliko dėl užterštumo.</string>
+    <string name="stage_files_folderfiles">Yra %d failas(-ai)</string>
+
+    <string name="notbuildablereason_generic">Čia statyti negalima</string>
+    <string name="notbuildablereason_land">Reikia sausumos</string>
+    <string name="notbuildablereason_water">Reikia vandens</string>
+    <string name="notbuildablereason_zone">Neteisinga zona</string>
+    <string name="notbuildablereason_maxcount">Pasiektas pastatų limitas</string>
+    <string name="notbuildablereason_terrain">Netinkamas reljefas</string>
+    <string name="notbuildablereason_nomoney">Nepakanka pinigų</string>
+    <string name="notbuildablereason_blocked">Teritorija užblokuota</string>
+
+    <string name="recovery_mode_title">Oi</string>
+    <string name="recovery_mode_text">TheoTown kelis kartus nepavyko paleisti.\n\nAr norėtumėte paleisti žaidimą atkūrimo režimu?\n\nAtkūrimo režimas laikinai išjungia visus papildinius, todėl galite pašalinti arba pataisyti bet kurį papildinį, kuris gali sukelti problemą. Papildiniai bus įkelti įprastai kitą kartą, kai iš naujo paleisite žaidimą.</string>
+    <string name="recovery_mode_normal">Paleisti įprastai</string>
+    <string name="recovery_mode_recovery">Atkūrimo režimas</string>
+
+    <string name="settings_draw_neighbors">Piešti kaimyninius miestus</string>
 
 </resources>

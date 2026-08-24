@@ -28,7 +28,7 @@
     <string name="settings_resolutionbigbig">Molt alta</string>
     <string name="settings_resolution">Resolució</string>
     <string name="dialog_nocities_title">No s\'ha trobat cap ciutat.</string>
-    <string name="dialog_nocities_text">No s\'ha pogut trobar a cap ciutat.</string>
+    <string name="dialog_nocities_text">No s\'ha pogut trobar cap ciutat.</string>
     <string name="dialog_nocities_cmdback">Cancel·la</string>
     <string name="dialog_nocities_cmdnewcity">Ciutat nova</string>
     <string name="settings_drawcars">Mostra els cotxes</string>
@@ -82,7 +82,7 @@
     <string name="draft_wire00_title">Cablejat</string>
     <string name="draft_wire00_text">Els cables elèctrics transporten l\'energia de les centrals elèctriques a la ciutat.</string>
     <string name="draft_windturbine00_title">Aerogenerador</string>
-    <string name="draft_windturbine00_text">Els generadors eòlics transformen l\'energia del vent en energia elèctrica. No contaminen l\'entorn, però genera soroll.</string>
+    <string name="draft_windturbine00_text">Els generadors eòlics transformen l\'energia del vent en energia elèctrica. No contaminen l\'entorn, però generen soroll.</string>
     <string name="draft_coalplant00_title">Central tèrmica</string>
     <string name="draft_coalplant00_text">Les centrals tèrmiques generen electricitat cremant carbó. Generen molta contaminació i cal mantenir-les lluny de les zones residencials.</string>
     <string name="draft_solarpanels00_title">Plaques fotovoltaiques</string>
@@ -99,20 +99,20 @@
     <string name="draft_bigpark00_title">Parc gran</string>
     <string name="draft_bigpark00_text">Un parc gran on s\'hi poden fer esdeveniments i reunions. Als habitants els agrada viure i treballar a prop d\'espais verds o places.</string>
     <string name="draft_park03_text">Als habitants els agradarà.</string>
-    <string name="draft_medic00_title">Consulta mèdica</string>
-    <string name="draft_medic00_text">El metge podrà visitar als habitants que ho necessitin.</string>
-    <string name="draft_medic01_title">Clínica petita</string>
-    <string name="draft_medic01_text">Una clínica ajudarà als habitants amb les consultes i emergències bàsiques.</string>
+    <string name="draft_medic00_title">Clínica petita</string>
+    <string name="draft_medic00_text">Una clínica ajudarà els habitants amb les malalties i emergències més bàsiques.</string>
+    <string name="draft_medic01_title">Hospital</string>
+    <string name="draft_medic01_text">Un hospital gran pot atendre molts pacients i respondre ràpidament a les emergències.</string>
     <string name="draft_school00_title">Escola</string>
     <string name="draft_school00_text">Els nens hi aprenen coses i reben educació.\nL\'educació permet que gent amb major nivell econòmic s\'interessi a viure a la zona.</string>
     <string name="draft_school01_title">Institut de secundària</string>
     <string name="draft_school01_text">Aquí els adolescents continuen la seva formació.\nL\'educació permet que gent amb major nivell econòmic s\'interessi a viure a la zona.</string>
     <string name="draft_museum00_title">Museu</string>
-    <string name="draft_museum00_text">Un lloc d\'exploració de les arts, les ciències i la cultura. Proporciona un ampli ventall educatiu, tnat per a nivell de primària com de secundària.</string>
+    <string name="draft_museum00_text">Un lloc d\'exploració de les arts, les ciències i la cultura. Proporciona un ampli ventall educatiu, tant per al nivell de primària com per al de secundària.</string>
     <string name="draft_pipe00_title">Canonada d\'aigua</string>
     <string name="draft_pipe00_text">Les canonades s\'utilitzen per a transportar aigua als edificis.</string>
     <string name="draft_waterpump00_title">Bomba d\'aigua</string>
-    <string name="draft_waterpump00_text">Proporciona molta aigua aigua als edificis. No necessita tenir aigua a prop!</string>
+    <string name="draft_waterpump00_text">Proporciona molta aigua als edificis. No necessita tenir aigua a prop!</string>
     <string name="draft_watertower00_title">Torre d\'aigua</string>
     <string name="draft_watertower00_text">Proporciona una mica d\'aigua als edificis.</string>
     <string name="settings_areazonetool">Utilitza l\'eina de zona d\'àrea</string>
@@ -231,11 +231,11 @@
     <string name="draftselector_titletransport">Transports</string>
     <string name="draftselector_titlezone">Zones</string>
     <string name="draft_zoneresidential_title">Residencial</string>
-    <string name="draft_zoneresidential_text">Zona per a què els habitants hi construeixin cases per a viure-hi.</string>
+    <string name="draft_zoneresidential_text">Zona perquè els habitants hi construeixin cases per a viure-hi.</string>
     <string name="draft_zonecommercial_title">Comercial</string>
-    <string name="draft_zonecommercial_text">Zona per a què s\'hi construeixin oficines i edificis comercials.</string>
+    <string name="draft_zonecommercial_text">Zona perquè s\'hi construeixin oficines i edificis comercials.</string>
     <string name="draft_zoneindustrial_title">Industrial</string>
-    <string name="draft_zoneindustrial_text">Zona per a què s\'hi construeixin indústries.</string>
+    <string name="draft_zoneindustrial_text">Zona perquè s\'hi construeixin indústries.</string>
     <string name="draft_road00_title">Camí de terra</string>
     <string name="draft_road00_text">Un camí de terra senzill i barat. Mantenir-lo costa poc, però tampoc s\'hi pot circular gaire de pressa.</string>
     <string name="draft_road01_title">Carrer</string>
@@ -308,7 +308,7 @@
     <string name="draft_footballstadion00_text">Un estadi enorme per a partits importants, concerts i altres esdeveniments.\n\nEls residents amb diners valoren les instal·lacions esportives.</string>
     <string name="buildinginfo_cmdupgrade">Millora</string>
     <string name="draft_footballstadion00_lights_title">Focus</string>
-    <string name="draft_footballstadion00_lights_text">Instal·la il·luminació adicional per a esdeveniments nocturns.</string>
+    <string name="draft_footballstadion00_lights_text">Instal·la il·luminació addicional per a esdeveniments nocturns.</string>
     <string name="buildinginfo_upgraded">Ja s\'ha millorat.</string>
     <string name="buildinginfo_upgradenotavail">No disponible</string>
     <string name="buildinginfo_upgrade">Millores</string>
@@ -326,7 +326,7 @@
     <string name="draft_middlepark00_lights_title">Pavelló</string>
     <string name="draft_middlepark00_lights_text">Serveix per a fer-hi festes pel vespre o per a descansar una mica del sol del migdia.</string>
     <string name="draft_middlepark00_clock_title">Torre amb rellotge</string>
-    <string name="draft_middlepark00_clock_text">Una torre amb un rellotge ormnamental enorme que ajudarà a què els habitants siguin puntuals.</string>
+    <string name="draft_middlepark00_clock_text">Una torre amb un rellotge ornamental enorme que ajudarà els habitants a ser puntuals.</string>
     <string name="notify_power_low">Les centrals elèctriques estan al límit. Potser en caldrà construir més.</string>
     <string name="notify_water_low">A la ciutat no hi ha prou aigua potable. Potser cal construir més bombes o torres d\'aigua.</string>
     <string name="notify_religion">La fe és la base de la ciutat. Podríeu construir més edificis religiosos?</string>
@@ -349,7 +349,7 @@
     <string name="draft_radio00_text">Emet música, notícies i debats per tota la ciutat. Als habitants els agrada entretenir-se.</string>
     <string name="draftselector_cmdalert">Vés-hi!</string>
     <string name="draft_alert_police00_title">Envia a la policia</string>
-    <string name="draft_alert_police00_text">Envieu a la policia per a aturar als delinqüents.</string>
+    <string name="draft_alert_police00_text">Envieu la policia per a aturar els delinqüents.</string>
     <string name="draft_alert_fire00_title">Envia als bombers</string>
     <string name="draft_alert_fire00_text">Envieu a la brigada de bombers si quelcom es crema.</string>
     <string name="draft_alert_medic00_title">Envia als metges</string>
@@ -465,7 +465,7 @@
     <string name="disaster_illness_text">Allibera un patogen molt contagiós.</string>
     <string name="disaster_illness_cmdtext">Infecta!</string>
     <string name="disaster_flooding_title">Inundació</string>
-    <string name="disaster_flooding_text">Es produiran inundiacions per l\'arribada de grans quantitats d\'aigua.</string>
+    <string name="disaster_flooding_text">Es produiran inundacions per l\'arribada de grans quantitats d\'aigua.</string>
     <string name="disaster_flooding_cmdtext">Inundació!</string>
     <string name="buildinginfo_influences">Influències</string>
     <string name="ci_loan_title">Préstecs</string>
@@ -473,9 +473,9 @@
     <string name="ci_loan_get">Augmenta</string>
     <string name="ci_loan_donate_text">Si us plau, doneu-me un cèntim... Em fa tanta falta :(</string>
     <string name="draft_crater4x4_title">Cràter de meteorit</string>
-    <string name="draft_crater4x4_text">Un cràter gran causat per l\'impacte d\'un meteorit. Probablment sigui recomanable aplanar el terreny.</string>
+    <string name="draft_crater4x4_text">Un cràter gran causat per l\'impacte d\'un meteorit. Probablement sigui recomanable aplanar el terreny.</string>
     <string name="draft_crater1x1_title">Cràter de meteorit</string>
-    <string name="draft_crater1x1_text">Un cràter petit causat per l\'impacte d\'un meteorit. Probablment sigui recomanable aplanar el terreny.</string>
+    <string name="draft_crater1x1_text">Un cràter petit causat per l\'impacte d\'un meteorit. Probablement sigui recomanable aplanar el terreny.</string>
     <string name="settings_disaster_nuke">Bombes nuclears</string>
     <string name="disaster_nuke_title">Bomba nuclear</string>
     <string name="disaster_nuke_text">Sembla inofensiva.</string>
@@ -488,7 +488,7 @@
     <string name="topic_support_ads">Ens podeu donar suport tocant anuncis :)</string>
     <string name="settings_disaster_tornado">Tornados</string>
     <string name="disaster_tornado_title">Tornado</string>
-    <string name="disaster_tornado_text">Crea un tornado que sembrarà el caos per la ciutat i destruirà tot el que es trobi pel seu camí inpredictible.</string>
+    <string name="disaster_tornado_text">Crea un tornado que sembrarà el caos per la ciutat i destruirà tot el que es trobi pel seu camí impredictible.</string>
     <string name="disaster_tornado_cmdtext">Provoca un tornado</string>
     <string name="buildinginfo_untouchable">Intocable</string>
     <string name="draft_zoneresidential_lvl2_title">Zona residencial densa</string>
@@ -498,7 +498,7 @@
     <string name="draft_zoneindustrial_lvl2_title">Zona industrial densa</string>
     <string name="draft_zoneindustrial_lvl2_text">Zona industrial amb una densitat elevada.\n\nLes zones més denses poden encabir més gent en el mateix espai; principalment, amb construccions més altes.</string>
     <string name="draft_zonefarm_title">Zona de granges</string>
-    <string name="draft_zonefarm_text">Una zona barata per a edificis agrícoles. La zona mínima de le granges és de 4x4.\nLes granges només satisfan la demanda industrial ₮.</string>
+    <string name="draft_zonefarm_text">Una zona barata per a edificis agrícoles. La zona mínima de les granges és de 4x4.\nLes granges només satisfan la demanda industrial ₮.</string>
     <string name="requirement_peoplecount_all">Cal: Una població de %1$,d</string>
     <string name="requirement_peoplecount_poor">Cal: Una població de classe baixa de %1$,d</string>
     <string name="requirement_peoplecount_middle">Cal: Una població de classe mitjana de %1$,d</string>
@@ -544,7 +544,7 @@
     <string name="influence_firedep_text">Els parcs de bombers prevenen els incendis a la seva zona d\'acció.</string>
     <string name="influence_health_text">Els metges ajuden a mantenir sans als habitants.</string>
     <string name="influence_noise_text">Ningú voldria viure en una zona sorollosa.</string>
-    <string name="influence_park_text">Els habitants estan són més feliços si tenen a prop espais verds i bonics.</string>
+    <string name="influence_park_text">Els habitants són més feliços si tenen a prop espais verds i bonics.</string>
     <string name="influence_police_text">La policia augmenta la seguretat i redueix la criminalitat. La criminalitat té un impacte important en la felicitat.</string>
     <string name="influence_pollution_text">Ningú voldria viure en una zona contaminada.</string>
     <string name="influence_religion_text">Molts habitants tenen necessitats espirituals i religioses que cal atendre.</string>
@@ -739,7 +739,7 @@
     <string name="settings_winter">Hivern</string>
     <string name="notify_riot_reason">Hi ha disturbis per culpa de de %1$s! Feu arribar-hi les forces de l\'ordre abans que la massa de gent violenta creixi més!</string>
     <string name="notify_riot_noreason">Hi ha disturbis però en desconeixem el motiu! Feu arribar-hi les forces de l\'ordre abans que la massa de gent violenta creixi més!</string>
-    <string name="notify_demonstration">Hi ha disturbis a la ciutat a causa de %1s! Truqueu a la policia o resoleu el problema abans que la cosa s\'ens escapi de les mans!</string>
+    <string name="notify_demonstration">Hi ha disturbis a la ciutat a causa de %1$s! Truqueu a la policia o resoleu el problema abans que la cosa s\'ens escapi de les mans!</string>
     <string name="draft_marker_powermarker_title">Energia</string>
     <string name="draft_marker_watermarker_title">Aigua</string>
     <string name="draft_road04_title">Avinguda</string>
@@ -1227,7 +1227,7 @@ Si proporcioneu accés al TheoTown a l\'emmagatzematge extern, desarà ciutats a
     <string name="dialog_airplanes_selected">Actual</string>
     <string name="dialog_airplanes_inuse">En ús</string>
     <string name="dialog_renameairplane_title">Canvia el nom de l\'avió</string>
-    <string name="dialog_renameairplane_text">Escriviu el nom nou per a l\'avio:</string>
+    <string name="dialog_renameairplane_text">Escriviu el nom nou per a l\'avió:</string>
     <string name="draft_airplane00_title">T340</string>
     <string name="draft_airplane00_text">Un avió de gran abast construït per TheoAir.</string>
     <string name="draft_prm_airplane00_title">T340 Gold</string>
@@ -1745,7 +1745,7 @@ Si proporcioneu accés al TheoTown a l\'emmagatzematge extern, desarà ciutats a
 
 
     <string name="draft_igloo00_title">Iglú</string>
-    <string name="draft_igloo00_text">Sorprenentment, no als iglús no fa fred.</string>
+    <string name="draft_igloo00_text">Sorprenentment, als iglús no fa fred.</string>
     <string name="features_more">Més contingut</string>
     <string name="features_diamonds">Obtén diamants</string>
 
@@ -1759,7 +1759,7 @@ Si proporcioneu accés al TheoTown a l\'emmagatzematge extern, desarà ciutats a
     <string name="draft_metrostation00_title">Estació de metro</string>
     <string name="draft_metrostation00_text">Una estació per a accedir al metro.</string>
     <string name="draft_metroline00_title">Túnel de metro</string>
-    <string name="draft_metroline00_text">Un túnel de metro. No ho podreu veure-hi perquè és fosc.</string>
+    <string name="draft_metroline00_text">Un túnel de metro. No hi podreu veure perquè és fosc.</string>
     <string name="feature_coming_soon">Pròximament</string>
     <string name="dialog_search_title">Cerca</string>
     <string name="dialog_search_text">Introduïu una paraula clau.</string>
@@ -2520,7 +2520,7 @@ Premeu una tecla per a assignar-la a aquesta acció.</string>
     <string name="ci_neighbor_se">SE</string>
     <string name="ci_neighbor_ne">NE</string>
     <string name="ci_neighbor_nw">NO</string>
-    <string name="ci_neighbor_sw">SE</string>
+    <string name="ci_neighbor_sw">SO</string>
     <string name="dialog_removewithprice_title">Cost de traure</string>
     <string name="dialog_removewithprice_text">El preu de traure la selecció és de %1$s. Voleu continuar?</string>
 
@@ -3229,7 +3229,7 @@ Pot parèixer que autobusos i trens no tinguin passatgers. No obstant, sí que s
 La pintura d\'esprai indica vandalisme. Construïu-hi comissaries a prop.
     </string>
     <string name="tip_topic_vandalism_text">
-Les pintades apareixen si no hi ha policies a prop. Els edificis residencials, comercials i industrials necessiten vigilància policial per a que no s\'hi produeixin delictes en el futur.
+Les pintades apareixen si no hi ha policies a prop. Els edificis residencials, comercials i industrials necessiten vigilància policial perquè no s\'hi produeixin delictes en el futur.
     </string>
     <string name="tip_topic_cemetary_cremetorium_title">
 Construïu cementiris i crematoris per a les persones que es morin.
@@ -3712,5 +3712,34 @@ Premeu la carretera que voleu construir. Tot seguit, mentre esteu al menú de co
     <string name="legend_mixed_voltage">Ambdós</string>
     <string name="legend_metro">Metro</string>
     <string name="legend_ts_edit">%s (en edició)</string>
+
+
+    <string name="dialog_url_title">Obrir el lloc web?</string>
+    <string name="dialog_url_text">El connector "%s" vol obrir un lloc web extern. Pot contenir publicitat. Continua només si confies en la font:</string>
+    <string name="dialog_url_cmdopen">Obrir</string>
+    <string name="settings_adaptive_ground_blending">Barreja adaptativa del terreny</string>
+
+    <string name="empty_cause_unknown">Se n\'ha anat per raons desconegudes.</string>
+    <string name="empty_cause_low_demand">Se n\'ha anat a causa de la baixa demanda.</string>
+    <string name="empty_cause_low_happiness">Se n\'ha anat a causa de la baixa satisfacció amb %s.</string>
+    <string name="empty_cause_crime">Se n\'ha anat a causa de la criminalitat (%s).</string>
+    <string name="empty_cause_illness">Se n\'ha anat a causa d\'una malaltia o contaminació.</string>
+    <string name="stage_files_folderfiles">Conté %d fitxer(s)</string>
+
+    <string name="notbuildablereason_generic">No es pot construir aquí</string>
+    <string name="notbuildablereason_land">Requereix terra</string>
+    <string name="notbuildablereason_water">Requereix aigua</string>
+    <string name="notbuildablereason_zone">Zona incorrecta</string>
+    <string name="notbuildablereason_maxcount">Límit d\'edificis assolit</string>
+    <string name="notbuildablereason_terrain">Terreny inadequat</string>
+    <string name="notbuildablereason_nomoney">No hi ha prou diners</string>
+    <string name="notbuildablereason_blocked">L\'àrea està bloquejada</string>
+
+    <string name="recovery_mode_title">Vaja</string>
+    <string name="recovery_mode_text">TheoTown no s\'ha pogut iniciar diverses vegades.\n\nVols iniciar el joc en mode de recuperació?\n\nEl mode de recuperació desactiva temporalment tots els connectors, la qual cosa et permet eliminar o arreglar qualsevol connector que pugui estar causant el problema. Els connectors es tornaran a carregar normalment la propera vegada que reiniciïs el joc.</string>
+    <string name="recovery_mode_normal">Inici normal</string>
+    <string name="recovery_mode_recovery">Mode de recuperació</string>
+
+    <string name="settings_draw_neighbors">Dibuixa ciutats veïnes</string>
 
 </resources>

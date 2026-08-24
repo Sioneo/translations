@@ -741,7 +741,7 @@
     <string name="settings_winter">Winter</string>
     <string name="notify_riot_reason">The city is in turmoil because of %1$s! Deploy law enforcement to restore order before the violent crowd spreads!</string>
     <string name="notify_riot_noreason">The city is in turmoil! Deploy law enforcement to restore order before the violent crowd spreads!</string>
-    <string name="notify_demonstration">The inhabitants are protesting because of %1s! Call the police or resolve the issue before it spirals out of control!</string>
+    <string name="notify_demonstration">The inhabitants are protesting because of %1$s! Call the police or resolve the issue before it spirals out of control!</string>
     <string name="draft_marker_powermarker_title">Energy</string>
     <string name="draft_marker_watermarker_title">Water</string>
     <string name="draft_road04_title">Avenue</string>
@@ -3084,7 +3084,7 @@ Plugins that require script execution to work may not function as expected if di
 Culture is provided by some landmarks, awards and plugins!
     </string>
     <string name="tip_topic_culture_text">
-Most smaller landmarks up to the Eiffel tower produce a culture influence as well as awards with cultural significance in the real world. More plugins which provide culture can be downloaded through the plugin store and forum.
+Most smaller landmarks up to the Eiffel Tower produce a culture influence as well as awards with cultural significance in the real world. More plugins which provide culture can be downloaded through the plugin store and forum.
     </string>
     <string name="tip_topic_fire_too_frequent_title">
 If buildings catch fire too often, place a fire station close by!
@@ -3657,5 +3657,33 @@ Press the road to be built. Then while in the build menu, press a tile and then 
     <string name="legend_mixed_voltage">Both</string>
     <string name="legend_metro">Metro</string>
     <string name="legend_ts_edit">%s (editing)</string>
+
+    <string name="dialog_url_title">Open website?</string>
+    <string name="dialog_url_text">The plugin "%s" wants to open an external website. This may include advertisements. Only proceed if you trust the source:</string>
+    <string name="dialog_url_cmdopen">Open</string>
+    <string name="settings_adaptive_ground_blending">Adaptive ground blending</string>
+
+    <string name="empty_cause_unknown">Left for unknown reasons.</string>
+    <string name="empty_cause_low_demand">Left due to low demand.</string>
+    <string name="empty_cause_low_happiness">Left due to low happiness about %s.</string>
+    <string name="empty_cause_crime">Left due to crime %s.</string>
+    <string name="empty_cause_illness">Left due to contamination.</string>
+    <string name="stage_files_folderfiles">Contains %d file(s)</string>
+
+    <string name="notbuildablereason_generic">Cannot build here</string>
+    <string name="notbuildablereason_land">Requires land</string>
+    <string name="notbuildablereason_water">Requires water</string>
+    <string name="notbuildablereason_zone">Wrong zone</string>
+    <string name="notbuildablereason_maxcount">Building limit reached</string>
+    <string name="notbuildablereason_terrain">Unsuitable terrain</string>
+    <string name="notbuildablereason_nomoney">Not enough money</string>
+    <string name="notbuildablereason_blocked">Area is blocked</string>
+
+    <string name="recovery_mode_title">Oops</string>
+    <string name="recovery_mode_text">TheoTown was unable to start several times.\n\nWould you like to launch the game in Recovery Mode?\n\nRecovery Mode temporarily disables all plugins, allowing you to remove or fix any plugin that may be causing the issue. Plugins will be loaded normally again the next time you restart the game.</string>
+    <string name="recovery_mode_normal">Start normal</string>
+    <string name="recovery_mode_recovery">Recovery Mode</string>
+
+    <string name="settings_draw_neighbors">Draw neighboring cities</string>
 
 </resources>

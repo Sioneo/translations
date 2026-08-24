@@ -8,8 +8,8 @@
     <string name="createcity_mapsize">Grootte:</string>
     <string name="createcity_cityname">Stadsnaam:</string>
     <string name="control_back">Terug</string>
-    <string name="createcity_start">Begin met</string>
-    <string name="loadcity_load">Begin met</string>
+    <string name="createcity_start">Start</string>
+    <string name="loadcity_load">Start</string>
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">Inwoners: %1$,d</string>
     <string name="game_cityname">%1$s</string>
@@ -19,7 +19,7 @@
     <string name="createcity_sizebig">Groot</string>
     <string name="createcity_sizeother">Anders</string>
     <string name="game_monthlyincome">%1$,+d$</string>
-    <string name="game_estate">Waarde: %1$,d$</string>
+    <string name="game_estate">Saldo: %1$s</string>
     <string name="game_rating">%1$d</string>
     <string name="settings_resolutionlowlow">Zeer laag</string>
     <string name="settings_resolutionlow">Laag</string>
@@ -54,7 +54,7 @@
     <string name="draftselector_titlefiredepartment">Brandweer</string>
     <string name="draftselector_cmdbuild">Bouw</string>
     <string name="draftselector_price">Prijs: %s</string>
-    <string name="draftselector_monthlyprice">Maandelijkse prijs: %1$s$</string>
+    <string name="draftselector_monthlyprice">Maandelijkse prijs: %1$s</string>
     <string name="draftselector_id">ID: %1$s</string>
     <string name="loadcity_cmddelete">Verwijder</string>
     <string name="loadcity_deletedialog_text">Weet je zeker dat je het wilt verwijderen?</string>
@@ -69,14 +69,14 @@
     <string name="savewaiting_title">Stad opslaan</string>
     <string name="loadwaiting_title">Stad laden</string>
     <string name="dialog_invalidcityname_title">Ongeldige naam</string>
-    <string name="dialog_invalidcityname_text">Gebruik alsjeblieft een andere naam for je stad. Het is niet toegestaan niets in te vullen.</string>
+    <string name="dialog_invalidcityname_text">Gebruik alsjeblieft een andere naam voor je stad. Het is niet toegestaan niets in te vullen.</string>
     <string name="dialog_invalidcityname_cmdok">Oke</string>
     <string name="dialog_hugesize_title">Enorme map</string>
-    <string name="dialog_hugesize_text">Dit Formaat is experimenteel and werkt misschien niet op jouw apparaat, wil je doorgaan?</string>
+    <string name="dialog_hugesize_text">Dit formaat is experimenteel en werkt misschien niet op jouw apparaat. Wil je doorgaan?</string>
     <string name="dialog_hugesize_cmdyes">Ja</string>
     <string name="dialog_hugesize_cmdno">Nee</string>
     <string name="draft_church00_title">Kleine kerk</string>
-    <string name="draft_church00_text">Elke dorpje heeft een kerk nodig.</string>
+    <string name="draft_church00_text">Elk dorpje heeft een kerk nodig.</string>
     <string name="draft_townhall00_title">Gemeentehuis</string>
     <string name="draft_townhall00_text">Een kleine stad heeft een gemeentehuis nodig. Inwoners zullen het leuk vinden.</string>
     <string name="draft_wire00_title">Hoogspanningskabels</string>
@@ -86,7 +86,7 @@
     <string name="draft_coalplant00_title">Kolencentrale</string>
     <string name="draft_coalplant00_text">De kolencentrale produceert veel stroom, maar is slecht voor het milieu.</string>
     <string name="draft_solarpanels00_title">Zonnepanelen</string>
-    <string name="draft_solarpanels00_text">Zonnepanelen zijn goed voor het mileu en produceren geen vervuling.</string>
+    <string name="draft_solarpanels00_text">Zonnepanelen zijn goed voor het milieu en produceren geen vervuiling.</string>
     <string name="draft_park00_title">Klein bloemenparkje</string>
     <string name="draft_park00_text">Inwoners zullen het leuk vinden.</string>
     <string name="draft_park01_title">Klein parkje</string>
@@ -110,7 +110,7 @@
     <string name="draft_museum00_title">Museum</string>
     <string name="draft_museum00_text">Een plek waar oudere mensen dingen leren.</string>
     <string name="draft_pipe00_title">Waterleiding</string>
-    <string name="draft_pipe00_text">Waterledingen kunnen worden gebruikt om water naar je gebouwen te brengen.</string>
+    <string name="draft_pipe00_text">Waterleidingen kunnen worden gebruikt om water naar je gebouwen te brengen.</string>
     <string name="draft_waterpump00_title">Pompgebouw</string>
     <string name="draft_waterpump00_text">Zorgt voor water voor je gebouwen.</string>
     <string name="draft_watertower00_title">Watertoren</string>
@@ -256,7 +256,7 @@
     <string name="draft_busdepot00_title">Busdepot</string>
     <string name="draft_busdepot00_text">Een busdepot is nodig om bussen te onderhouden en te parkeren.</string>
     <string name="settings_debugmode">Debugmodus</string>
-    <string name="unknown">Worstenbroodje</string>
+    <string name="unknown">Wurstbrot</string>
     <string name="draftselector_titleremove">Verwijder</string>
     <string name="draftselector_titleview">Bekijk</string>
     <string name="toolremove_default_title">Verwijder</string>
@@ -265,7 +265,7 @@
     <string name="toolremove_pipe_title">Verwijder waterleidingen</string>
     <string name="draftselector_cmdremove">Verwijder</string>
     <string name="draftselector_cmdview">Bekijk</string>
-    <string name="busstopinfo_usage">Wachtend: %2$d/%3$d\nUsage: %1$.1f%%</string>
+    <string name="busstopinfo_usage">Wachtend: %2$d/%3$d\nGebruik: %1$.1f%%</string>
     <string name="ci_rating_title">Beoordeling</string>
     <string name="ci_energy_networks">%1$d netwerk(en)</string>
     <string name="ci_energy_produced">Geproduceerd: %1$,.0fkWh (%2$,d gebouwen)</string>
@@ -284,7 +284,7 @@
     <string name="draftselector_titlerawbuilding">Alle gebouwen</string>
     <string name="budget_busdepot">Busdepots</string>
     <string name="ci_budget_overallincome">Totaal inkomen</string>
-    <string name="ci_budget_overallspending">To</string>
+    <string name="ci_budget_overallspending">Totale uitgaven</string>
     <string name="ci_rci_title">Behoeven</string>
     <string name="ci_rci_res0">Res ₮</string>
     <string name="ci_rci_res1">Res ₮₮</string>
@@ -318,7 +318,7 @@
     <string name="draft_pool00_waterslide_text">Een waterglijbaan en ligstoelen.</string>
     <string name="blank_text">Hier kan uw advertentie staan</string>
     <string name="draft_middlepark00_title">Normaal park</string>
-    <string name="draft_middlepark00_text">Het gras is net gemaaid.</string>
+    <string name="draft_middlepark00_text">Een ruim park met wat groen. Het kan worden uitgebreid met een blikvanger.\n\nInwoners wonen en werken graag in de buurt van groen en pleinen.</string>
     <string name="draft_basketball00_title">Basketbalveld</string>
     <string name="draft_basketball00_text">Sportievelingen waarderen dit.</string>
     <string name="draft_tennis00_title">Tennisveld</string>
@@ -483,13 +483,13 @@
     <string name="draft_crater4x4_title">Meteoriet krater</string>
     <string name="draft_crater4x4_text">Een grote meteoriet krater. Je kan het maar beter verwijderen.</string>
     <string name="draft_crater1x1_title">Meteoriet krater</string>
-    <string name="draft_crater1x1_text">Een grote meteoriet krater. Je kan het maar beter verwijderen.</string>
+    <string name="draft_crater1x1_text">Een kleine meteorietkrater. Je kunt hem maar beter verwijderen.</string>
     <string name="settings_disaster_nuke">Atoombom</string>
     <string name="disaster_nuke_title">Atoombom</string>
     <string name="disaster_nuke_text">Ziet er onschuldig uit.</string>
     <string name="disaster_nuke_cmdtext">Probeer het</string>
     <string name="budget_loans">Leningen</string>
-    <string name="ci_loan_loanlist">Actieve leningen (overall %1$s in %2$,d/%3$,d loans):</string>
+    <string name="ci_loan_loanlist">Actieve leningen (totaal %1$s in %2$,d/%3$,d leningen):</string>
     <string name="ci_loan_remaining_runtime">Tijd over: %2$d maand(en), %1$d dag(en)</string>
     <string name="ci_loan_paybackcost">Terugbetaal prijs: %1$s</string>
     <string name="ci_loan_estate">Landgoed: %1$s</string>
@@ -502,11 +502,11 @@
     <string name="draft_zoneresidential_lvl2_title">Dichtbevolkt residentieel</string>
     <string name="draft_zoneresidential_lvl2_text">Een dichtbevolkt residenteel gebied.</string>
     <string name="draft_zonecommercial_lvl2_title">Dichtbevolkt commercieel</string>
-    <string name="draft_zonecommercial_lvl2_text">Een dichtbevolkt comercieel gebied.</string>
+    <string name="draft_zonecommercial_lvl2_text">Een dichtbevolkt commercieel gebied.</string>
     <string name="draft_zoneindustrial_lvl2_title">Dichtbevolkt industrieel</string>
     <string name="draft_zoneindustrial_lvl2_text">Een dichtbevolkt industrieel gebied.</string>
     <string name="draft_zonefarm_title">Boerderij</string>
-    <string name="draft_zonefarm_text">Een goedkoop gebied voor een boerderij. Minimale groote voor een boerderij is 4x4.</string>
+    <string name="draft_zonefarm_text">Een goedkoop gebied voor boerderijen. De minimale grootte voor boerderijen is 4x4.\nBoerderijen voldoen alleen aan de vraag naar Industrie ₮.</string>
     <string name="requirement_peoplecount_all">Nodig: Een bevolking van %1$,d</string>
     <string name="requirement_peoplecount_poor">Nodig: Een arme bevolking van %1$,d</string>
     <string name="requirement_peoplecount_middle">Nodig: Een middenklasse bevolking van %1$,d</string>
@@ -632,10 +632,10 @@
     <string name="draft_buoy00_title">Boei</string>
     <string name="draft_buoy00_text">Helpt schepen om de weg te vinden.</string>
     <string name="ci_general_seed">Zaad: %1$s</string>
-    <string name="draft_decores00_text">.</string>
-    <string name="draft_decocom00_text">.</string>
-    <string name="draft_decoind00_text">.</string>
-    <string name="ci_budget_title_nomoney">Financieen (theoretisch)</string>
+    <string name="draft_decores00_text">Enkele decoraties voor je woongebieden.</string>
+    <string name="draft_decocom00_text">Enkele decoraties voor je commerciële gebieden.</string>
+    <string name="draft_decoind00_text">Enkele decoraties voor je industriegebieden.</string>
+    <string name="ci_budget_title_nomoney">Financiën (theoretisch)</string>
     <string name="dialog_notification_cmdok">Ok</string>
     <string name="draft_nuclearplant00_title">Kerncentrale</string>
     <string name="draft_nuclearplant00_text">Krachtiger dan een kolencentrale. Veel duurder om te onderhouden en het heeft VEEL water nodig om te koelen. Kan exploderen zonder water.</string>
@@ -747,7 +747,7 @@
     <string name="settings_winter">Winter</string>
     <string name="notify_riot_reason">Er is een rel vanwege %1$s!</string>
     <string name="notify_riot_noreason">Er is een rel zonder enige reden!</string>
-    <string name="notify_demonstration">Er is een demonstratie in de stad vanwege %1s! Doe er iets aan of slechte dingen gaan gebeuren</string>
+    <string name="notify_demonstration">Er is een demonstratie in de stad vanwege %1$s! Doe er iets aan of slechte dingen gaan gebeuren</string>
     <string name="draft_marker_powermarker_title">Energie</string>
     <string name="draft_marker_watermarker_title">Water</string>
     <string name="draft_road04_title">Alley</string>
@@ -774,7 +774,7 @@
     <string name="draft_rnk_megalopolis_title">Megalopool</string>
     <string name="rank_needed_people">Ten minste %1$,d inwoners</string>
     <string name="draft_decoroad00_title">Bomen aan straten</string>
-    <string name="draft_decoroad00_text">.</string>
+    <string name="draft_decoroad00_text">Een beetje natuur en schaduw voor drukke stadscentra.</string>
     <string name="settings_experimental">Experimentele functies</string>
     <string name="about_thanks">Speciale dank</string>
     <string name="about_community">En de rest van onze gemeenschap</string>
@@ -882,9 +882,9 @@
     <string name="game_remaining_doubleincome">Verdubbeld je inkomen voor %1$,d dagen</string>
     <string name="dialog_diamondshop_title">Winkel</string>
     <string name="features_notenough">Niet genoeg %1$s</string>
-    <string name="dialog_getrank_text">Je kan deze rank onmiddelijk ontgrendelen, als je dat wilt.</string>
+    <string name="dialog_getrank_text">Je kunt deze rang onmiddellijk ontgrendelen als je dat wilt.</string>
     <string name="features_buy">Haal het nu</string>
-    <string name="draft_feature_buildings00_text">Wat kleine ressidentieel, commercieel and industrieel gebouwen voor meer variatie in je stad. Graphics voor winter inbegrepen.</string>
+    <string name="draft_feature_buildings00_text">Wat kleine residentiële, commerciële en industriële gebouwen voor meer variatie in je stad. Wintergraphics inbegrepen.</string>
     <string name="dialog_redeempromo_title">Je hebt wat diamanten gekregen</string>
     <string name="dialog_redeempromo_text">Het lijkt erop dat deze diamanten nu van jou zijn.</string>
     <string name="dialog_present_cmdad">Verdubbel het</string>
@@ -949,7 +949,7 @@
     <string name="dialog_rate_cmdok">Ik vind het leuk</string>
     <string name="dialog_rate_cmdcancel">Ik vind het niet leuk</string>
     <string name="dialog_feedback_title">Geef ons feedback</string>
-    <string name="dialog_feedback_text">SUggesties om het spel te verbeteren? Vertel het ons!</string>
+    <string name="dialog_feedback_text">Suggesties om het spel te verbeteren? Vertel het ons!</string>
     <string name="dialog_feedback_cmdok">Ik heb feedback</string>
     <string name="dialog_feedback_cmdcancel">Ik heb geen feedback</string>
     <string name="dialog_buildnow_title">Nu afmaken</string>
@@ -995,7 +995,7 @@
     <string name="notification00_title">NIEUWS: %1$s heeft te veel geld!</string>
     <string name="notification00_text">Burgemeester, je moet je geld uitgeven</string>
     <string name="roadinfo_bridgetype">Brug type</string>
-    <string name="draft_feature_buildings01_text">Groot residentieel, commercieel and industrieel gebouwen voor meer variatie in de stad. Verhoogd levensstandaard van je inwoners.</string>
+    <string name="draft_feature_buildings01_text">Grote residentiële, commerciële en industriële gebouwen voor meer variatie in de stad. Verhoogt de levensstandaard van je inwoners.</string>
     <string name="dialog_diamondshop_recommended">Aanbevolen</string>
     <string name="dialog_presentdaily_title">Dagelijkse levering</string>
     <string name="dialog_presentdaily_text">Je krijgt morgen meer!</string>
@@ -1049,13 +1049,13 @@
     <string name="tut_build06">Het bouwen van de zonnepanelen duurt even. Je kan wachten, of het proces gratis versnellen.</string>
     <string name="tut_build07">Oke, we hebben elektriciteit nu. Maar wacht, wat is dat? Mensen willen ook water?</string>
     <string name="tut_build08">Dat is niet zo moeilijk. Laten we een water toren bouwen om mensen water te brengen.</string>
-    <string name="tut_build09">Ook hier moeten we wachten todat het gebouwd it. We kunnen het ook kopen met diamanten in plaats van te wachten.</string>
+    <string name="tut_build09">Ook hier moeten we wachten totdat het gebouw klaar is. In plaats van te wachten kunnen we het met diamanten voltooien.</string>
     <string name="tut_build10">Met waterleidingen verplaatsen we het naar de gebouwen. Bouw er alvast maar wat voor de toekomst.</string>
     <string name="tut_build11">Mooi, we hebben nu inwoners, electriciteit en water. Wacht, toch mist er nog iets...</string>
     <string name="tut_build110">Burgemeester, we hebben geen banen of een plek om dingen te kopen!</string>
     <string name="tut_build12">Oke, we hebben commercieel en industrieel gebied nodig. Laten we kijken in het vereisten overview.</string>
     <string name="tut_build13">Hier kan je de vereisten voor res (residentieel), com (commercieel) en ind (industrieel) gebouwen.</string>
-    <string name="tut_build14">Voor elk type (res, com of ind) zijn drie welvaartsniveaus: ₮, ₮₮ and ₮₮₮ , wat staat voor arm, gemiddeld en rijk.</string>
+    <string name="tut_build14">Er zijn drie welvaartsniveaus: ₮, ₮₮ en ₮₮₮, die overeenkomen met arm, gemiddeld en rijk.</string>
     <string name="tut_build15">We willen natuurlijk alleen rijke inwoners, maar we moeten langzaam beginnen. ZOals je ziet hebben we nu wat commercieel T nodig.</string>
     <string name="tut_build16">Verklaar nog maar wat commercieel gebied? Dat moet wel lukken.</string>
     <string name="tut_build17">Goed gedaan! Volgens de vereisten grafiek is er vraag naar industrieel gebied. Laten we het bij ons residentieel gebied verklaren.</string>
@@ -1070,7 +1070,7 @@
     <string name="tut_build28">En nu weer terug naar normale snelheid...</string>
     <string name="tut_build29">Sorry om je te onderbreken, maar er zijn ook niet magische dingen. Geld bijvoorbeeld.</string>
     <string name="tut_build30">Een kort overzicht over ons geld. We verdienen geld door de belastingen, dus het is in ons belang meer inwoners te krijgen.</string>
-    <string name="tut_build31">Soms moeten we misschien een lening aanvragen... later we hopen dat dit neit gebeurt.</string>
+    <string name="tut_build31">Soms moeten we misschien een lening afsluiten... laten we hopen dat dit niet gebeurt.</string>
     <string name="tut_build32">Ik denk dat we genoeg geld hebben... voor nu. Laten we ons richten op bouwen. Laten we wat parken bouwen. De mensen houden van parken.</string>
     <string name="tut_build33">Oeps, dat is een park meer dan dat ik wilde. Verwijder er eentje.</string>
     <string name="tut_build34">Goed werk tot nu toe. Nu wil ik je de rank indicator laten zien. Het laat de huidige rank van je stad zien.</string>
@@ -1284,7 +1284,7 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="ci_airport_lane_unassign">Afdanken</string>
     <string name="tool_airplanelane_title">Klik op een vrije baan</string>
     <string name="draft_feature_starter_pack00_title">Beginnerspakket</string>
-    <string name="draft_feature_starter_pack00_text">Met het beginnerspakket krijg je:</string>
+    <string name="draft_feature_starter_pack00_text">Met het beginnerspakket krijg je: (gebouwen voor permanent gebruik)</string>
     <string name="pluginerror_cmdchecksyntax">Controleer syntax online</string>
 
     <string name="fb_login_title">Verbind met Facebook</string>
@@ -1438,11 +1438,11 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="settings_saveonappswitch">Sla op op app switch</string>
     <string name="settings_saveforscreenshot">Sla op als screenshot</string>
     <string name="draft_eiffeltower00_title">Eiffeltoren</string>
-    <string name="draft_eiffeltower00_text">De Eiffeltoren is het bekendste momument van Frankrijk.. De toren is 324 meter hoog en was geopend in 1889.</string>
-    <string name="dialog_wb_text02">Wil je %1$s ophalen? Dit heeft je stad verdient toen je weg was.\n\n%2$s</string>
+    <string name="draft_eiffeltower00_text">De Eiffeltoren in Parijs is het bekendste monument van Frankrijk. De toren is 324 meter hoog en werd voltooid in 1889.</string>
+    <string name="dialog_wb_text02">Wil je ophalen wat %1$s heeft verdiend terwijl je weg was?\n\n%2$s</string>
     <string name="dialog_wb_cmdtake">Neem dit</string>
     <string name="dialog_wb_cmdforfeit">Forfait</string>
-    <string name="dialog_diamondtool_title">Vesnel de bouw</string>
+    <string name="dialog_diamondtool_title">Versnel de bouw</string>
     <string name="dialog_diamondtool_text">Moeten we doorwerken?</string>
     <string name="draft_feature_valentinesday00_title">Fijne Valentijnsdag</string>
     <string name="draft_feature_valentinesday00_text">Ontgrendel deze gebouwen voor altijd</string>
@@ -1545,7 +1545,7 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="dialog_adreward_cmdwatch">Haal ze nu in je stad</string>
     <string name="draftselector_titlelandmark">Bezienswaardigheden</string>
     <string name="draft_bigben00_title">Big Ben</string>
-    <string name="draft_bigben00_text">Big Ben is een klokkentoren in London dat 96 meter hoog is en gebouwd werdt in 1859.</string>
+    <string name="draft_bigben00_text">Big Ben is een klokkentoren in Londen die 96 meter hoog is en in 1859 werd gebouwd.</string>
     <string name="draft_angelofindependence00_title">Engel van Onafhankelijkheid</string>
     <string name="draft_angelofindependence00_text">De Angel of Independence is een monument in Mexico City dat gebouwd in 1910 werd gebouwd om Mexico\'s onafhankelijkheidsoorlog te herdenken.</string>
     <string name="draft_statueofliberty00_title">Het vrijheidsbeeld</string>
@@ -1567,14 +1567,14 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="notify_tutorial_reminder_title">Laten we beginnen</string>
     <string name="notify_tutorial_reminder_text">Hé burgemeester, weet je nog dat je beloofd hebt om een mooie stad te maken?</string>
     <string name="dialog_insufficientspace_title">Er is weinig plaats over</string>
-    <string name="dialog_insufficientspace_text"> Je hebt weinig vrije opslagruimte op je apparaat (%,d MB).\n\nCities zou misschien niet kunnen opslaan door te weinig vrij geheugen!</string>
+    <string name="dialog_insufficientspace_text">Je hebt weinig vrije opslagruimte op je apparaat (%,d MB).\n\nSteden worden mogelijk niet opgeslagen door onvoldoende ruimte!</string>
     <string name="dialog_insufficientspace_cmdproceed">Ga verder op eigen risico</string>
     <string name="draft_sydneyoperahouse00_title">Sydney Opera House</string>
-    <string name="draft_sydneyoperahouse00_text">Het Sydney Opera House is een veelzijdig kunstcentrum in Sydney, Australië. Het werdt geopend in 1973 en is 65 meter hoog.</string>
+    <string name="draft_sydneyoperahouse00_text">Het Sydney Opera House is een veelzijdig kunstcentrum in Sydney, Australië. Het werd voltooid in 1973 en is 65 meter hoog.</string>
     <string name="draft_onerafflesplace00_title">Een Raffles Plaats</string>
-    <string name="draft_onerafflesplace00_text">The One Raffles Place is een wolkenkrabber in de stad Singapore dat in 1986 werdt gebouwd en 280 meter hoog is.</string>
+    <string name="draft_onerafflesplace00_text">One Raffles Place is een wolkenkrabber in de stad Singapore die in 1986 werd gebouwd en 280 meter hoog is.</string>
     <string name="draft_willistower00_title">Willis Toren</string>
-    <string name="draft_willistower00_text">The Willis Tower (ook bekend als de Sears Tower) is een wolkenkrabber uit Chicago, Verenigde Staten. Het gebouw werd gebouwd in 1973 en is 442 meter hoog.</string>
+    <string name="draft_willistower00_text">De Willis Tower (ook bekend als de Sears Tower) is een wolkenkrabber uit Chicago, Verenigde Staten. Het gebouw werd gebouwd in 1973 en is 442 meter hoog.</string>
     <string name="draft_feature_landmarks01_title">Bezienswaardigheden II</string>
     <string name="draft_feature_landmarks01_text">Bevat de volgende gebouwen:</string>
 
@@ -1854,7 +1854,7 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="draft_disaster_picklehuge00_title">Almachtige augurk</string>
     <string name="draft_disaster_picklehuge00_text">Een gigantische gemuteerde augurkengod.</string>
     <string name="draft_disaster_picklehuge01_title">Augurk verslagen</string>
-    <string name="draft_disaster_picklehuge01_text">Een iets te grote groente. Het kan beschaafde augurken schapen die wegen gebruiken.</string>
+    <string name="draft_disaster_picklehuge01_text">Een iets te groot gegroeide groente. Er kunnen beschaafde augurken uit ontstaan die wegen gebruiken.</string>
 
 
     <string name="draft_discord_statue00_title">Discordbeeld</string>
@@ -1896,7 +1896,7 @@ Contra: Minder uitdagend</string>
     <string name="dialog_cemeteryclear_text">Ik denk dat we wat van de ruimte hier kunnen hergebruiken.</string>
     <string name="cemetery_cmdclear">Nu legen</string>
     <string name="cemetery_clear">VEEG om wat ruimte vrij te maken.</string>
-    <string name="draft_cemetery00_text">Een plek waar de overblijfselen van dode mensen begrafen zijn.</string>
+    <string name="draft_cemetery00_text">Een plek waar de stoffelijke resten van overledenen worden begraven.</string>
     <string name="draft_crematory00_text">Dode mensen worden hier verbrand.</string>
     <string name="notify_bodydisposal_needer00">Beste burgemeester, ik dring erop aan dat u een begraafplaats bouwt om de doden te begraven.</string>
     <string name="notify_bodydisposal_producer00">Er is geen ruimte meer in deze begraafplaats. Maak het leeg of bouw een nieuwe begraafplaats of crematorium.</string>
@@ -2424,7 +2424,7 @@ Door het spel te verbinden met een TheoTown Forum-account kun je deelnemen aan c
     <string name="store_cat_residential">Residentieel</string>
     <string name="store_cat_commercial">Commercieel</string>
     <string name="store_cat_industrial">Industrieel</string>
-    <string name="store_cat_parks">Parken, Sport and beheer</string>
+    <string name="store_cat_parks">Parken, sport en beheer</string>
     <string name="store_cat_supply">Aanvoer (Energie, Water, Afval verwerking)</string>
     <string name="store_cat_religion">Religie en cultuur</string>
     <string name="store_cat_service">Diensten (Politie, Gezondheidszorg, Onderwijs,...)</string>
@@ -2468,9 +2468,9 @@ Door het spel te verbinden met een TheoTown Forum-account kun je deelnemen aan c
     <string name="dialog_deletegift_cmd">Verwijder</string>
 
 
-    <string name="dialog_insufficientspace2_text">Als je denkt dat dit een reporting probleem is, controleer dat de app toegang heeft tot je externe opslag.</string>
+    <string name="dialog_insufficientspace2_text">Als je denkt dat dit een rapportageprobleem is, controleer dan of de app daadwerkelijk toegang heeft tot je externe opslag.</string>
     <string name="dialog_uploadregiontoobig_title">Upload regio</string>
-    <string name="dialog_uploadregiontoobig_text">Deze regio is te groot om geupload te worden :/</string>
+    <string name="dialog_uploadregiontoobig_text">Deze regio is te groot om geüpload te worden :/</string>
     <string name="channel_onlinemode_title">Online modus</string>
     <string name="channel_onlinemode_text">Nieuwe informatie over je steden in online modus.</string>
     <string name="dialog_externalstorage_proceedwithout">Ga door op eigen risico</string>
@@ -2576,7 +2576,7 @@ Druk op een toets om de actie toe te wijzen.</string>
     <string name="stage_files_importherefiles">Bestand(en)</string>
     <string name="stage_files_importherefolders">Folder</string>
     <string name="draft_mosque10_title">Hassan II Moskee</string>
-    <string name="draft_mosque10_text">The Hassan II Moskee is a Moskee in Casablanca, Marokko. Het is de grootste funtionerende moskee in Afrika en het is de 7ste grootste in de hele wereld. het minaret van de moskee is de een na grootste met een hoogte van 210 meter. Afgemaakt in 1993, het was ontworpen door Michel Pinseau onder leiding van koning Hassan II en is gebouwt door Marrokaanse ambachtslieden over het hele koninkrijk. De minaret is 60 verdiepingen hoog en heeft een laser op de bovenkant, het licht ervan weist naar Mecca. De moskee staat op een gebergte met uitzicht op de Atlantische Oceaan; gelovigen kunnen in de richting van de zee bidden, maar er is geen glazen vloer die in de zee kijkt. De muren zijn van handgemaakt marmer gemaakt en het dak kan ingeschoven worden. Maximaal 105,000 aanbidders kunnen samenkomen: 25,000 in de hal van de moskee en 80,000 buiten binnen de muren van de moskee.</string>
+    <string name="draft_mosque10_text">De Hassan II-moskee is een moskee in Casablanca, Marokko. Het is de grootste functionerende moskee in Afrika en de op zeven na grootste ter wereld. De minaret van de moskee is met een hoogte van 210 meter de op één na hoogste ter wereld. De moskee werd voltooid in 1993, ontworpen door Michel Pinseau onder leiding van koning Hassan II en gebouwd door Marokkaanse ambachtslieden uit het hele koninkrijk. De minaret is 60 verdiepingen hoog en heeft bovenop een laser waarvan het licht naar Mekka wijst. De moskee staat op een landtong met uitzicht op de Atlantische Oceaan; gelovigen kunnen in de richting van de zee bidden, maar er is geen glazen vloer die uitzicht op zee biedt. De muren zijn gemaakt van handgemaakt marmer en het dak kan worden ingeschoven. Maximaal 105.000 gelovigen kunnen er samenkomen: 25.000 in de gebedshal en 80.000 buiten op het terrein van de moskee.</string>
     <string name="dialog_filesrestart_title">Herstart</string>
     <string name="dialog_filesrestart_text">Je moet het spel herstarten voordat de veranderingen effectief worden. \n\nWil je het spel nu opniew opstarten?</string>
     <string name="dialog_filesrestart_cmdrestart">Herstarten</string>
@@ -2611,7 +2611,7 @@ Druk op een toets om de actie toe te wijzen.</string>
     <string name="settings_smoothzoom_fast">Snel</string>
     <string name="settings_regionoriginbackup">Optie om steden opnieuw te beginnen in nieuw gegenereerde regio\'s</string>
     <string name="settings_translateplugins">Vertaal plugins</string>
-    <string name="stage_region_greeter_welcome">Welcome tot</string>
+    <string name="stage_region_greeter_welcome">Welkom bij</string>
     <string name="stage_region_greeter_madewith">Een spel gemaakt met</string>
 
 
@@ -2633,8 +2633,8 @@ Druk op een toets om de actie toe te wijzen.</string>
     <string name="draft_tree_alder00_text">Een boom die maximaal 30 meter hoog kan worden en er ordinair uitziet.</string>
     <string name="stage_gallery_loadingimages">Afbeeldingen laden...</string>
     <string name="ci_neighbor_help">Hier kun je energie, water, afval en lijken in- en exporteren met naastgelegen steden.</string>
-    <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
-    <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
+    <string name="ci_budget_help">Hier kun je je belastingen bekijken en aanpassen en je maandelijkse uitgaven bekijken. Rijkere inwoners en werknemers betalen meer belasting. Als de belastingen te hoog zijn, worden je inwoners ongelukkig en verlaten ze je stad, wat resulteert in een lage belastingtevredenheid. We raden aan je belastingen tussen 6,5% en 8,0% in te stellen.</string>
+    <string name="ci_budget_help_nomoney">Hier kun je je belastingen bekijken en aanpassen en je maandelijkse uitgaven bekijken. Rijkere inwoners en werknemers betalen meer belasting. Als de belastingen te hoog zijn, worden je inwoners ongelukkig en verlaten ze je stad, wat resulteert in een lage belastingtevredenheid. We raden aan je belastingen tussen 6,5% en 8,0% in te stellen.</string>
 
 
     <string name="stage_account_pro_gallery">Upload screenshots van je steden naar de online gallerij</string>
@@ -2650,20 +2650,20 @@ Druk op een toets om de actie toe te wijzen.</string>
     <string name="dialog_nointernetaccess_cmdgotit">Begrepen</string>
     <string name="store_modebestrated">Als best beoordeeld</string>
     <string name="dialog_pluginqualityunsure_title">Wees voorzichtig</string>
-    <string name="dialog_pluginqualityunsure_text">De plugin die je gaat downloading heeft nog niet veel downloads of beoordelingen. Het is mogelijk dat het niet is wat je verwacht.</string>
+    <string name="dialog_pluginqualityunsure_text">De plugin die je gaat downloaden heeft nog niet veel downloads of beoordelingen. Het is mogelijk dat deze niet is wat je verwacht.</string>
     <string name="dialog_pluginqualityunsure_gotit">Begrepen</string>
     <string name="dialog_pluginqualityunsure_dontshowagain">Laat dit niet weer zien</string>
     <string name="store_modecertifiedcreators">Erkende makers</string>
     <string name="ci_rating_help">Hier kun je de tevredenheid van je inwoners zien. Een hogere tevredenheid trekt meer inwoners aan. Tik op een rij om het tevredenheidsniveau op verschillende plekken in je stad te zien.</string>
     <string name="ci_rank_help">De rankering van een stad laat zien hoe ver ontwikkeld het is. Je kund stadspunten krijgen voor het volgende level door meer inwoners te krijgen of om de stad verder te ontwikkelen. Een hogere rank krijgen kan nieuwe gebouwen beschikbaar maken.</string>
     <string name="ci_loan_help">Geen geld over? Je kunt een lening nemen om verder te kunnen bouwen. Onthouw wel dat je de lening in de loop van de tijd moet terugbetalen.</string>
-    <string name="ci_health_help">Gezond blijven in een grote stad kan moeilijk zijn. Bouw medische gebouwen om je inwoners gezond and tevreden te houden.</string>
+    <string name="ci_health_help">Gezond blijven in een grote stad kan moeilijk zijn. Bouw medische gebouwen om je inwoners gezond en tevreden te houden.</string>
     <string name="ci_energy_help">Veel gebouwen hebben stroom nodig om te functioneren. Zorg ervoor dat je genoeg stroom produceerd en dat alles verbonden is met het stroomnetwerk.</string>
     <string name="ci_info_help">Hier zie je wat algemene informatie over je stad.</string>
     <string name="ci_education_help">Opvoeding is essentieel voor inwoners, zodat ze hun leefomstandigheden kunnen verbeteren, maar ook om geleerde werkers en investeerders aan te trekken.</string>
     <string name="ci_airport_help">Dit is de luchtverkeerleidingstoren jij je vliegveld kan besturen. Je kunt hier landingsbanen selecteren, vliegtuigen kopen en de vliegtuigen aan een landingsbaan koppelen.</string>
     <string name="ci_water_help">Water is essentieel voor leven en je inwoners zijn geen uitzondering. Zorg ervoor dat je genoeg water levert en dat alles met leidingen verbonden is. Plaats waterpompen niet in vervuilde gebieden, anders worden je inwoners ziek </string>
-    <string name="ci_statistics_help">Deze grafieken helpen je de ontwikkeling van je stad te volgen. Gebruik de pijlen aan de rechterkant om tussen verschillende grafieken te wisselen. Gebruik the +/- knoppen om in en uit te zoomen.</string>
+    <string name="ci_statistics_help">Deze grafieken helpen je de ontwikkeling van je stad te volgen. Gebruik de pijlen aan de rechterkant om tussen verschillende grafieken te wisselen. Gebruik de +/- knoppen om in en uit te zoomen.</string>
 
 
     <string name="store_cat_shaders">Shaders</string>
@@ -2683,7 +2683,7 @@ Druk op een toets om de actie toe te wijzen.</string>
     <string name="draft_biomeMaker_ground">Grond</string>
     <string name="draft_biomeMaker_slope">Helling</string>
     <string name="draft_biomeMaker_decoration">Decoraties</string>
-    <string name="draft_biomeMaker_atground">Bouw op ground</string>
+    <string name="draft_biomeMaker_atground">Bouw op de grond</string>
     <string name="draft_biomeMaker_atslope">Bouw op hellingen</string>
     <string name="draft_biomeMaker_useslope">Gebruik gekozen helling(en)</string>
     <string name="draft_biomeMaker_nogroundtype">Geen type geselecteerd voor de groep</string>
@@ -2701,12 +2701,12 @@ Druk op een toets om de actie toe te wijzen.</string>
     <string name="dialog_migratefb_text">Het lijkt erop dat je bent ingelogd met een Facebook-account. Helaas wordt dit soort toegang als verouderd beschouwd en kan het niet langer worden ondersteund. \n
 Log in met een forumaccount om je gegevens te migreren.</string>
     <string name="dialog_migratefb_cmdaccountsettings">Accountinstellingen</string>
-    <string name="draft_feature_opera00_title">Opera House</string>
-    <string name="draft_feature_opera00_text">Unleash the magic of culture with our Cultural Delight Bundle! Experience the grandeur of an Opera House, accompanied by a serene park and enchanting fountain. Elevate your city\'s atmosphere and inspire your citizens with the harmonious blend of music, nature, and artistic allure. Upgrade now and let your city shine as a cultural masterpiece!</string>
-    <string name="draft_opera00_title">Operatic Oasis</string>
-    <string name="draft_opera00_text">Step into the Melody Manor, your city\'s cultural heartbeat! This stunning Opera House adds a touch of elegance and finesse to your metropolis. Watch as it influences your citizens, turning them into refined connoisseurs of the arts. Let the harmonious vibes flow and the laughter rise!</string>
-    <string name="draft_opera_park00_title">Serene Symphony Park</string>
-    <string name="draft_opera_park00_text">Nestled beside the Opera House, Serene Symphony Park is an enchanting haven where nature dances to the melodies of opera. Relax in its lush green spaces, enjoy impromptu performances, and let the harmonious fusion of culture and nature rejuvenate your soul.</string>
+    <string name="draft_feature_opera00_title">Operacomplex</string>
+    <string name="draft_feature_opera00_text">Ontgrendel permanent het operagebouw en het aangrenzende operapark. Deze culturele gebouwen verbeteren het visuele karakter van je stad en kunnen dienen als een centraal herkenningspunt in stedelijke wijken.</string>
+    <string name="draft_opera00_title">Operagebouw</string>
+    <string name="draft_opera00_text">Een belangrijk cultureel herkenningspunt dat muziek en uitvoerende kunsten in je stad vertegenwoordigt. Het operagebouw draagt bij aan het prestige van de stad en biedt een onderscheidend architectonisch middelpunt.</string>
+    <string name="draft_opera_park00_title">Operapark</string>
+    <string name="draft_opera_park00_text">Een decoratief park ontworpen als aanvulling op het operagebouw. Het voegt groene ruimte en visuele aantrekkingskracht toe aan de omgeving, waardoor het zeer geschikt is voor culturele en centrale wijken.</string>
     <string name="stage_comment_plugin_acquirefirst">Verwerf eerst deze plugin</string>
 
     <string name="draft__dsa_ask00_text">Burgemeester, moeten we wat geld investeren voor herstel van rampen voor het geval alles fout gaat?</string>
@@ -2719,7 +2719,7 @@ Log in met een forumaccount om je gegevens te migreren.</string>
     <string name="draft_dsa_bear_lua_notify00_text">Een grote gelukkige verjaardag van mij en de gemeenschap! Ik hoop dat je een geweldige dag hebt!</string>
     <string name="draft_dsa_deco00_text">Een decoratie voor uw DSA basis.</string>
     <string name="draft_dsa_deco00_title">DSA decoratie</string>
-    <string name="draft_dsa_detect_op00_text">That wasn\'t very cash money of you, but ok.</string>
+    <string name="draft_dsa_detect_op00_text">Dat was niet bepaald netjes van je.</string>
     <string name="draft_dsa_dsaicbmpad_req2_text">Slechts één per stad</string>
     <string name="draft_dsa_icbm_marker_text">Een flare gebruikt om het doel voor „X-treme“ ICBM markeren</string>
     <string name="draft_dsa_icbm_marker_title">ICBM flare</string>
@@ -2752,7 +2752,7 @@ Log in met een forumaccount om je gegevens te migreren.</string>
     <string name="draft_dsa_notify07_text">Dit loopt uit de hand... Tijd voor protocol „Explosive Stop“.</string>
     <string name="draft_dsa_notify08_text">Kwantumkernen zijn explosief. Wist je dat niet?</string>
     <string name="draft_dsa_notify09_text">Start landingsprocedure.\nStand-by.</string>
-    <string name="draft_dsa_notify10_text">Oh hello there, Mr. Hacker, you wouldn\'t mind a black hole, would ya?</string>
+    <string name="draft_dsa_notify10_text">O, hallo daar, meneer Hacker. Je hebt toch niets tegen een zwart gat?</string>
     <string name="draft_dsa_outpost00_text">Lokaal DSA-kantoor met de meeste gekwalificeerde vertegenwoordigers.</string>
     <string name="draft_dsa_outpost00_title">DSA-kantoor</string>
     <string name="draft_dsa_research01_text">Onderzoek naar manieren om organismen en deeltjes te bevatten.</string>
@@ -2769,30 +2769,30 @@ Log in met een forumaccount om je gegevens te migreren.</string>
     <string name="draft_dsa_ultra_road00_title">DSA MK3.2 weg</string>
     <string name="draft_dsa_zone_text">Zone om DSA-gebied in de stad te verklaren.</string>
     <string name="draft_dsa_zone_title">DSA zone</string>
-    <string name="draft_dsaARR_requirement">Need: Geavanceerd raketonderzoek</string>
+    <string name="draft_dsaARR_requirement">Vereist: Geavanceerd raketonderzoek</string>
     <string name="draft_dsa_category00_title">Agentschap</string>
     <string name="draft_dsaclockstore_text">Een totaal onopvallende plek om uw klokken te kopen.</string>
     <string name="draft_dsaclockstore_title">Onopvallende klokkenwinkel</string>
-    <string name="draft_dsacommand_requirement">Need: DSA hoofdkantoor</string>
+    <string name="draft_dsacommand_requirement">Vereist: DSA hoofdkantoor</string>
     <string name="draft_dsacontainingwalls_text">Onverwoestbare muren ontworpen om destructieve stoffen op afstand te houden.</string>
     <string name="draft_dsacontainingwalls_title">Insluitingswanden</string>
     <string name="draft_dsacontainmentfacility_text">Een BSL-4 insluitingsfaciliteit met de gevaarlijkste stoffen die de mens kent, waaronder het beruchte poccolovirus.</string>
     <string name="draft_dsacontainmentfacility_title">Insluitingsfaciliteit</string>
-    <string name="draft_dsaCR_requirement">Need: Insluitingsonderzoek</string>
+    <string name="draft_dsaCR_requirement">Vereist: Insluitingsonderzoek</string>
     <string name="draft_dsadevcat_title">DSA Debug</string>
     <string name="draft_dsadrill01_text">Upgrade de boorkop om resources sneller en efficiënter te delven.</string>
     <string name="draft_dsadrill01_title">Gouden beplating</string>
     <string name="draft_dsadrill02_text">Upgrade de boorkop nog sneller en efficiënter naar de mijnebronnen.</string>
     <string name="draft_dsadrill02_title">Diamant beplanting</string>
-    <string name="draft_dsaDYSON_requirement">Need: Dyson sphere</string>
-    <string name="draft_dsaFTR_requirement">Need: Futuristisch technologieonderzoek</string>
-    <string name="draft_dsaHELIUM_requirement">Need: Helium 3</string>
+    <string name="draft_dsaDYSON_requirement">Vereist: Dyson sphere</string>
+    <string name="draft_dsaFTR_requirement">Vereist: Futuristisch technologieonderzoek</string>
+    <string name="draft_dsaHELIUM_requirement">Vereist: Helium 3</string>
     <string name="draft_dsahouse00_text">De CEO van DSA woont hier en zorgt ervoor dat DSA zijn werk doet.</string>
     <string name="draft_dsahouse00_title">CEO\'s huis</string>
     <string name="draft_dsahouse01_text">Een herenhuis van DSA\'s, Domkisas\' leider en „God“ zelf.</string>
     <string name="draft_dsahouse01_title">JustAnyone\'s herenhuis</string>
     <string name="draft_dsahq_text">Het hoofdkantoor voor alle DSA-operaties in het gebied.</string>
-    <string name="draft_dsahq_title">DSA headquarters</string>
+    <string name="draft_dsahq_title">DSA-hoofdkantoor</string>
     <string name="draft_dsahqupAR_text">Richt DSA-onderzoeksafdeling op die uitkijkt op onderzoekscentra en bases in het gebied.</string>
     <string name="draft_dsahqupAR_title">RD instellen</string>
     <string name="draft_dsahqupHW_text">Richt DSA-afdeling op voor hulpdiensten die de openbare veiligheid verhogen door speciale teams te sturen.</string>
@@ -2808,10 +2808,10 @@ Log in met een forumaccount om je gegevens te migreren.</string>
     <string name="draft_dsapower00_title">Fusiecentrale</string>
     <string name="draft_dsapower01_text">Antenne gebruikt voor het overbrengen van kracht van Dyson bol terug naar Theonia met behulp van microgolf radiogolven.\n\nLet op: het vermogen is hoogspanning.</string>
     <string name="draft_dsapower01_title">Microgolfantenne</string>
-    <string name="draft_dsaRD_requirement">Need: Onderzoeksafdeling</string>
+    <string name="draft_dsaRD_requirement">Vereist: Onderzoeksafdeling</string>
     <string name="draft_dsaresearch_text">Het huis voor alle geavanceerde technologieën van DSA goedgekeurd door de uitvoerende raad van DSA.</string>
     <string name="draft_dsaresearch_title">Onderzoekscentrum</string>
-    <string name="draft_dsaRMD_requirement">Need: RMD afdeling</string>
+    <string name="draft_dsaRMD_requirement">Vereist: RMD afdeling</string>
     <string name="draft_dsaroad_text">Sneller dan normaal weg ontworpen door DSA.</string>
     <string name="draft_dsaroad_title">DSA MK2.0 weg</string>
     <string name="draft_dsarocket_text">De plek waar DSA lanceert zijn raketten van.\nVereist toegang tot de weg tot de industrie.</string>
@@ -2821,7 +2821,7 @@ Log in met een forumaccount om je gegevens te migreren.</string>
     <string name="draft_dsarocket_upg2_text">Start een raket met kat binnen genaamd Akial naar de ruimte om vitale informatie te verzamelen.\nBereidheid: ${_dsareadiness}/2500</string>
     <string name="draft_dsarocket_upg2_title">Dierentransport</string>
     <string name="draft_dsarocket_upg3_text">Lanceer een raket met een man naar de ruimte om navigatietests uit te voeren.\nBereidheid: ${_dsareadiness}/5000</string>
-    <string name="draft_dsarocket_upg3_title">Navigation</string>
+    <string name="draft_dsarocket_upg3_title">Navigatie</string>
     <string name="draft_dsarocket_upg4_text">Lanceer een raket met weinig sattelites naar de ruimte om een satellietnetwerk op te zetten.\nBereidheid: ${_dsareadiness}/7500</string>
     <string name="draft_dsarocket_upg4_title">Satellieten</string>
     <string name="draft_dsarocket_upg5_text">Lanceer een raket naar de verkenningsmissie om een geschikte plek te vinden voor kolonisatie.\nBereidheid: ${_dsareadiness}/10000</string>
@@ -2835,7 +2835,7 @@ Log in met een forumaccount om je gegevens te migreren.</string>
     <string name="draft_dsarockettestdone_requirement">Eerdere rakettests worden gedaan</string>
     <string name="draft_dsarockettestundone_requirement">Eerdere rakettests zijn onvolledig</string>
     <string name="draft_dsa_space_category00_title">Ruimtebasis</string>
-    <string name="draft_dsaSR_requirement">Need: Geavanceerd aanbodonderzoek</string>
+    <string name="draft_dsaSR_requirement">Vereist: Geavanceerd aanbodonderzoek</string>
     <string name="draft_dsawalls_text">Biedt bescherming tegen lawaai en vervuiling voor uw burgers.</string>
     <string name="draft_dsawalls_title">DSA muren</string>
     <string name="draft_dsawater00_text">Produceert water uit synthesereactie van waterstof en zuurstof.</string>
@@ -2858,7 +2858,7 @@ Log in met een forumaccount om je gegevens te migreren.</string>
     <string name="draft_moon_auto_deco00_title">Onbekende structuur</string>
     <string name="draft_moon_dsa_rocks00_text">Misschien zitten er wat edele metalen in.</string>
     <string name="draft_moon_dsa_rocks00_title">Glanzende rotsen</string>
-    <string name="draft_Olsken.LobbysCake_text">Een limited edition taart speciaal gemaakt voor Lobby uit de gemeenschap!\nHappy Birthday to Lobby!</string>
+    <string name="draft_Olsken.LobbysCake_text">Een taart in beperkte oplage, speciaal voor Lobby gemaakt door de community!\nFijne verjaardag, Lobby!</string>
     <string name="draft_Olsken.LobbysCake_title">Lobby\'s taart</string>
     <string name="draft_picklebparty00_text">Een komkommercake in een augurkkruik. Luister er niet naar als het iets zegt.</string>
     <string name="draft_picklebparty00_title">Pickled Cake</string>
@@ -2882,7 +2882,7 @@ Log in met een forumaccount om je gegevens te migreren.</string>
     <string name="draft_dsa_award00_title">Een rots</string>
     <string name="draft_dsa_award00_text">Waar komt deze steen vandaan?</string>
     <string name="draft_dsadrill_text">Wordt gebruikt om waardevolle grondstoffen te verzamelen die met winst kunnen worden verkocht, let echter op dat het aardbevingen kan veroorzaken.</string>
-    <string name="draft_dsa_drill_upgrade_no_earthquake_title">Stability upgrade</string>
+    <string name="draft_dsa_drill_upgrade_no_earthquake_title">Stabiliteitsupgrade</string>
     <string name="draft_dsa_drill_upgrade_no_earthquake_text">Upgrade het station om hulpbronnen te verzamelen zonder inmenging in het milieu.\n
 \n
 Slechts één upgrade is tegelijkertijd toegestaan. Oude upgrades worden verwijderd.</string>
@@ -2893,12 +2893,12 @@ Slechts één upgrade is tegelijkertijd toegestaan. Oude upgrades worden verwijd
     <string name="draft_dsa_moon_notify07_text">Hoe dan ook, veel succes, burgemeester! Onthoud, je kunt altijd hier terugkomen door de kaart in je lijst met enkele steden te vinden.</string>
     <string name="draft_dsa_time_machine00_title">Tijdmachine</string>
     <string name="draft_dsa_time_machine00_text">GEHEIM</string>
-    <string name="draft_dsa_moon_command00_title">Space Command</string>
+    <string name="draft_dsa_moon_command00_title">Ruimtecommando</string>
     <string name="draft_dsa_moon_command00_text">Gebouw dat alle lokale en ruimteoperaties in de omgeving beheert.</string>
-    <string name="draft_dsacomingsoon_text">COMING SOON</string>
-    <string name="draft_dsa_moon_spaceport_title">Spaceport</string>
+    <string name="draft_dsacomingsoon_text">BINNENKORT BESCHIKBAAR</string>
+    <string name="draft_dsa_moon_spaceport_title">Ruimtehaven</string>
     <string name="draft_dsa_moon_spaceport_text">Gebouw dat wordt gebruikt voor het eenvoudig vervoeren van goederen, materialen of mensen in de ruimte.</string>
-    <string name="draft_dsa_moon_sport00_title">Fitness center</string>
+    <string name="draft_dsa_moon_sport00_title">Fitnesscentrum</string>
     <string name="draft_dsa_moon_sport00_text">Een plek voor kolonisten om fit en gezond te blijven.</string>
     <string name="draft_dsa_moon_faith00_title">Heilig Huis</string>
     <string name="draft_dsa_moon_faith00_text">Gebouw voor kolonistengeloof en religie.</string>
@@ -3010,8 +3010,8 @@ LET OP: vanwege veiligheidsredenen is de AI uit dit model verwijderd.</string>
     <string name="draft_space_storyline_ending_04">Vaarwel, vrienden!</string>
     <string name="draft_space_storyline_ending_cutscene">De raket stijgt op</string>
     <string name="draft_dsa_park00_title">Akial square</string>
-    <string name="draft_dsa_park00_text">A tribute to the first animal ever launched into Earth orbit.</string>
-    <string name="draft_rocket_akial_requirement">Need: Animal carriage test</string>
+    <string name="draft_dsa_park00_text">Een eerbetoon aan het eerste dier dat ooit in een baan om de aarde werd gebracht.</string>
+    <string name="draft_rocket_akial_requirement">Vereist: Dierentransporttest</string>
 
     <string name="draft_space_storyline_stage_4_06">Oh, je hebt er geen beschikbaar? Laat me een goocheltruc doen...</string>
     <string name="draft_tollbooth00_passedbycars">Door auto\'s gepasseerd:</string>
@@ -3127,7 +3127,7 @@ Geen wachten meer - laten we samen epische steden bouwen!</string>
     <string name="dialog_missingmanifest_text">De volgende plugins definiëren geen plugin manifest bestand (plugin.manifest). Dit kan problemen veroorzaken met andere plugins en de online modus. Toekomstige compatibiliteit kan niet worden gegarandeerd:</string>
     <string name="dialog_missingmanifest_cmdhelp">Wat is dat?</string>
     <string name="createcity_rivers">Rivieren</string>
-    <string name="createcity_roughness">Ruwhheid</string>
+    <string name="createcity_roughness">Ruwheid</string>
     <string name="createcity_roughness_flat">Vlak</string>
     <string name="createcity_roughness_less">Minder</string>
     <string name="createcity_roughness_default">Standaard</string>
@@ -3149,11 +3149,7 @@ Geen wachten meer - laten we samen epische steden bouwen!</string>
     <string name="buildingicon_crimeriot">Mensen hier zijn aan het rellen.</string>
     <string name="dialog_scriptpolicy_title">Plugin Script Beleid</string>
     <string name="dialog_scriptpolicy_help_title">Plug-in Scripts kunnen riskant zijn</string>
-    <string name="dialog_scriptpolicy_help_text">YOU have the power to approve script execution for external plugins. Only whitelist scripts from sources you trust (e.g. yourself, if you are working on a plugin).\n
-\n
-If in doubt, DO NOT enable script execution without inspecting the code yourself.\n
-\n
-Plugins that require script execution to work may not function as expected if disabled. You have to restart the game for changes to have an effect.</string>
+    <string name="dialog_scriptpolicy_help_text">JIJ hebt de macht om de uitvoering van scripts voor externe plug-ins goed te keuren. Zet alleen scripts op de witte lijst van bronnen die u vertrouwt (bijv. uzelf, als u aan een plug-in werkt).\n\nSchakel bij twijfel de uitvoering van scripts NIET in zonder de code zelf te inspecteren.\n\nPlug-ins die scriptuitvoering vereisen om te werken, functioneren mogelijk niet zoals verwacht als ze zijn uitgeschakeld. U moet het spel opnieuw opstarten om de wijzigingen effect te laten hebben.</string>
     <string name="settings_openscriptpolicy">Plugin Script Beleid</string>
     <string name="stage_files_itemcount">%d item(s)</string>
     <string name="tips_title">Tips</string>
@@ -3172,7 +3168,7 @@ Plugins that require script execution to work may not function as expected if di
     <string name="tip_topic_traffic_volume_text">Om het verkeersvolume in de instellingen aan te passen, schakel eerst de debug-modus in, deze zou ook daar moeten zijn. Zodra de debug-modus is ingeschakeld, wordt de optie aangeboden om het verkeer te verminderen of te verhogen. Welk percentage je kiest, hangt af van hoeveel verkeer je hebt en hoeveel uitdaging je wilt.</string>
     <string name="tip_topic_more_cash_title">Om meer geld te krijgen, neem een lening</string>
     <string name="tip_topic_more_cash_text">
-Press the income icon and then switch to the tab with the green cash icon. Then press "raise". The amount of money offered on the loan depends on the estate and up to 5 loans can be taken out at a time.
+Druk op het inkomstenpictogram en ga vervolgens naar het tabblad met het groene geldpictogram. Druk vervolgens op "raise". Het geldbedrag dat op de lening wordt aangeboden, hangt af van het landgoed en er kunnen maximaal 5 leningen tegelijk worden afgesloten.
     </string>
     <string name="tip_topic_loan_repayment_title">Leningen worden automatisch elke maand terugbetaald</string>
     <string name="tip_topic_loan_repayment_text">Leningbetalingen worden automatisch elke maand door het spel afgetrokken. Ze hoeven niet handmatig te worden betaald, hoewel je de maandelijkse uitgaven zou kunnen verminderen door dit wel te doen. De terugbetaalperiode is te bekijken door naar het leningentabblad te gaan.</string>
@@ -3526,7 +3522,7 @@ Waarde: %s</string>
 
 
     <string name="stage_musicmanager_title">Muziekbibliotheek</string>
-    <string name="stage_musicmanager_original">Original</string>
+    <string name="stage_musicmanager_original">Origineel</string>
     <string name="stage_musicmanager_import">Muziek importeren</string>
     <string name="stage_musicmanager_volume">Volume</string>
     <string name="stage_musicmanager_alreadyimported">`%s` is al geïmporteerd</string>
@@ -3543,7 +3539,7 @@ Waarde: %s</string>
     <string name="ts_tool_add_random_station">Willekeurig station toevoegen</string>
     <string name="ts_reached_vehicle_limit">Aan deze route kunnen niet meer dan %d voertuigen worden toegewezen!</string>
     <string name="musictype_game">Spel</string>
-    <string name="musictype_action">Action</string>
+    <string name="musictype_action">Actie</string>
     <string name="musictype_default">%s (standaard)</string>
     <string name="dialog_unlink_steam_title">Account ontkoppelen?</string>
     <string name="dialog_unlink_steam_text">Dit ontkoppelt je forumaccount van je Steam-account. Dit kan bijwerkingen hebben en moet alleen worden gedaan als dat nodig is. Het spel zal na het ontkoppelen opnieuw opstarten.</string>
@@ -3578,5 +3574,34 @@ Waarde: %s</string>
     <string name="legend_mixed_voltage">Beide gemengde spanningen</string>
     <string name="legend_metro">Metro</string>
     <string name="legend_ts_edit">%s (bewerken)</string>
+
+
+    <string name="dialog_url_title">Website openen?</string>
+    <string name="dialog_url_text">De plugin "%s" wil een externe website openen. Deze kan advertenties bevatten. Ga alleen verder als je de bron vertrouwt:</string>
+    <string name="dialog_url_cmdopen">Openen</string>
+    <string name="settings_adaptive_ground_blending">Adaptieve terreinmenging</string>
+
+    <string name="empty_cause_unknown">Vertrokken om onbekende redenen.</string>
+    <string name="empty_cause_low_demand">Vertrokken vanwege lage vraag.</string>
+    <string name="empty_cause_low_happiness">Vertrokken vanwege lage tevredenheid over %s.</string>
+    <string name="empty_cause_crime">Vertrokken vanwege criminaliteit (%s).</string>
+    <string name="empty_cause_illness">Vertrokken vanwege besmetting.</string>
+    <string name="stage_files_folderfiles">Bevat %d bestand(en)</string>
+
+    <string name="notbuildablereason_generic">Kan hier niet bouwen</string>
+    <string name="notbuildablereason_land">Vereist land</string>
+    <string name="notbuildablereason_water">Vereist water</string>
+    <string name="notbuildablereason_zone">Verkeerde zone</string>
+    <string name="notbuildablereason_maxcount">Bouwlimiet bereikt</string>
+    <string name="notbuildablereason_terrain">Ongeschikt terrein</string>
+    <string name="notbuildablereason_nomoney">Niet genoeg geld</string>
+    <string name="notbuildablereason_blocked">Gebied is geblokkeerd</string>
+
+    <string name="recovery_mode_title">Oeps</string>
+    <string name="recovery_mode_text">TheoTown kon meerdere keren niet starten.\n\nWilt u het spel starten in de Herstelmodus?\n\nDe Herstelmodus schakelt tijdelijk alle plug-ins uit, zodat u elke plug-in die het probleem veroorzaakt kunt verwijderen of repareren. De plug-ins worden de volgende keer dat u het spel opnieuw start weer normaal geladen.</string>
+    <string name="recovery_mode_normal">Normaal starten</string>
+    <string name="recovery_mode_recovery">Herstelmodus</string>
+
+    <string name="settings_draw_neighbors">Naburige steden tekenen</string>
 
 </resources>

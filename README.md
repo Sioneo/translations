@@ -18,7 +18,7 @@ When your changes are done, create a pull request so they can be reviewed and, i
 ### Languages ###
 Each directory in this repository contains a `strings.xml` file for a specific language.
 Here is a list of currently supported languages:
-- `values`: English (*default language*) ← **Always up to date**<br/>
+- `values`: English (*default language*) ← **Always up to date**
 - `values-af`: Afrikaans
 - `values-ar`: Arabic
 - `values-b+fil`: Filipino
@@ -27,7 +27,7 @@ Here is a list of currently supported languages:
 - `values-de`: German ← **Always up to date**
 - `values-es`: Spanish
 - `values-eu`: Basque
-- `values-fa`: Farsi
+- `values-fa`: Persian
 - `values-fr`: French
 - `values-hu`: Hungarian
 - `values-id`: Indonesian
@@ -40,6 +40,7 @@ Here is a list of currently supported languages:
 - `values-nl`: Dutch
 - `values-pl`: Polish
 - `values-pt`: Portuguese
+- `values-pt-rPT`: Portuguese (Portugal)
 - `values-ru`: Russian
 - `values-sk`: Slovak
 - `values-sr`: Serbian
@@ -47,9 +48,9 @@ Here is a list of currently supported languages:
 - `values-tr`: Turkish
 - `values-uk`: Ukrainian
 - `values-vi`: Vietnamese
-- `values-zh-rHK`: Hong Kong Chinese
-- `values-zh-rTW`: Traditional Chinese
 - `values-zh`: Chinese
+- `values-zh-rHK`: Chinese (Hong Kong)
+- `values-zh-rTW`: Chinese (Taiwan)
 
 The list above reflects the languages currently supported by TheoTown. If you are interested in a language that is not listed, please contact us before starting a translation, as additional languages are only considered on a case-by-case basis.
 

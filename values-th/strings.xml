@@ -37,7 +37,7 @@
     <string name="settings_buildgrid">ตารางในโหมดก่อสร้าง</string>
     <string name="settings_doublecardrawing">แสดงยานพาหนะ 2 ระดับ</string>
     <string name="settings_drawwatersparkle">แสดงประกายผิวน้ำ</string>
-    <string name="settings_drawmapedges">แสดงของแผนที่</string>
+    <string name="settings_drawmapedges">แสดงขอบแผนที่</string>
     <string name="loadcity_errordialog_title">การโหลดล้มเหลว</string>
     <string name="loadcity_errordialog_text">ไม่สามารถโหลดเมืองได้ เนื่องจากไฟล์มีความเสียหาย \n\nขออภัยเป็นอย่างยิ่ง :(</string>
     <string name="loadcity_errordialog_cmdcancel">ยกเลิก</string>
@@ -45,7 +45,7 @@
     <string name="dialog_screenshot_text">ภาพถ่ายถูกบันทึกในชื่อ %1$s.</string>
     <string name="dialog_screenshot_cmdok">โอเค ขอบคุณ</string>
     <string name="draftselector_titleparks">สวนสาธารณะ</string>
-    <string name="draftselector_titlepublics">สาธาระสมบัติ</string>
+    <string name="draftselector_titlepublics">สาธารณะ</string>
     <string name="draftselector_titleenergy">ไฟฟ้า</string>
     <string name="draftselector_titlewater">น้ำประปา</string>
     <string name="draftselector_titleschool">การศึกษา</string>
@@ -72,9 +72,9 @@
     <string name="dialog_invalidcityname_text">กรุณาใช้ชื่ออื่นสำหรับเมืองของคุณ ชื่อเมืองนั้นไม่สามารถเว้นว่างไว้ได้</string>
     <string name="dialog_invalidcityname_cmdok">ตกลง</string>
     <string name="dialog_hugesize_title">มโหฬาร</string>
-    <string name="dialog_hugesize_text">ขนาดแผนที่นี้ยังอยู่ในขั้นทดลองและไม่อาจใช้งานได้กับอุปกรณ์ของคุณ คุณตำเป็นต้องใช้แผนที่ที่ใหญ่ขนาดนี้หรือไม่?</string>
+    <string name="dialog_hugesize_text">ขนาดแผนที่นี้ยังอยู่ในขั้นทดลองและอาจใช้งานไม่ได้กับอุปกรณ์ของคุณ คุณต้องการสร้างแผนที่ขนาดใหญ่นี้จริงหรือไม่?</string>
     <string name="dialog_hugesize_cmdyes">ใช่ ฉันต้องการ</string>
-    <string name="dialog_hugesize_cmdno">ไมเป็นไร</string>
+    <string name="dialog_hugesize_cmdno">ไม่</string>
     <string name="draft_church00_title">โบสถ์</string>
     <string name="draft_church00_text">หมู่บ้านทุกแห่งต้องการโบสถ์(วัด)ทั้งนั้นแหละ</string>
     <string name="draft_townhall00_title">ศาลากลาง</string>
@@ -84,7 +84,7 @@
     <string name="draft_windturbine00_title">กังหันลม</string>
     <string name="draft_windturbine00_text">กังหันลมรักษ์โลก! เสียงดังหน่อย แต่ไม่มีมลพิษนะ</string>
     <string name="draft_coalplant00_title">โรงไฟฟ้าถ่านหิน</string>
-    <string name="draft_coalplant00_text">โรงไฟฟ้าถ่ายหินนั้นสามารถผลิตพลังงานไฟฟ้าได้เยอะ แต่ว่ามันแย่ต่อสิ่งแวดล้อมนะ</string>
+    <string name="draft_coalplant00_text">โรงไฟฟ้าถ่านหินสามารถผลิตพลังงานไฟฟ้าได้มาก แต่ก่อมลพิษสูง จึงควรอยู่ห่างจากเขตที่พักอาศัย</string>
     <string name="draft_solarpanels00_title">แผงโซล่าเซลล์</string>
     <string name="draft_solarpanels00_text">ดีต่อสิ่งแวดล้อม &amp; ไร้มลพิษ ไม่มีอะไรเสียหาย!</string>
     <string name="draft_park00_title">สวนดอกไม้ขนาดเล็ก</string>
@@ -99,11 +99,11 @@
     <string name="draft_bigpark00_title">สวนขนาดใหญ่</string>
     <string name="draft_bigpark00_text">เป็นที่ชื่นชอบของผู้คนแน่นอน</string>
     <string name="draft_park03_text">เป็นที่ชื่นชอบของผู้คนแน่นอน</string>
-    <string name="draft_medic00_title">คลีนิก</string>
-    <string name="draft_medic00_text">ผู้คนสามารถมาพบหมอและปรีกษาเรื่องการแพทย์ได้</string>
+    <string name="draft_medic00_title">คลินิกขนาดเล็ก</string>
+    <string name="draft_medic00_text">คลินิกช่วยรักษาอาการเจ็บป่วยพื้นฐานและรับมือเหตุฉุกเฉินให้ประชาชนได้</string>
     <string name="draft_medic01_title">โรงพยาบาล</string>
     <string name="draft_medic01_text">ผู้คนรู้สึกอุ่นใจได้แน่นอนถ้ามีโรงพยาบาลนี้อยู่ใกล้ๆ พยายามอย่าให้คนรอคิวล้นหล่ะ</string>
-    <string name="draft_school00_title">โรงเรียนอนุบาล</string>
+    <string name="draft_school00_title">โรงเรียนประถม</string>
     <string name="draft_school00_text">นำเด็กๆเข้าสู่ระบบการศึกษาและเปิดโลกความรู้ให้กับพวกเขา!</string>
     <string name="draft_school01_title">โรงเรียนมัธยม</string>
     <string name="draft_school01_text">ให้เด็กที่โตขึ้นมานั้นได้ศึกษาหาความรู้!</string>
@@ -113,7 +113,7 @@
     <string name="draft_pipe00_text">ส่งต่อน้ำสะอาดจากแหล่งผลิตไปถึงบ้านเรือน</string>
     <string name="draft_waterpump00_title">เครื่องสูบน้ำ</string>
     <string name="draft_waterpump00_text">สูบน้ำขึ้นมาเพื่อนำไปให้ประชาชนใช้</string>
-    <string name="draft_watertower00_title">หอเก็บน้า</string>
+    <string name="draft_watertower00_title">หอเก็บน้ำ</string>
     <string name="draft_watertower00_text">นำน้ำมาให้ประชาชนได้ใช้</string>
     <string name="settings_areazonetool">ใช้เครื่องมือกำกับเขต</string>
     <string name="createcity_gamemode">โหมด :</string>
@@ -277,7 +277,7 @@
     <string name="ci_water_single">ระบบเดี่ยว</string>
     <string name="ci_water_networks">%1$,d ระบบ</string>
     <string name="ci_water_consumed">ปริมาณการใช้: %1$,.0fL/h (%2$,d อาคาร)</string>
-    <string name="ci_water_produced">กำลังผลิต : %1$,.0fL/h (%2$,d buildings)</string>
+    <string name="ci_water_produced">กำลังผลิต : %1$,.0fL/h (%2$,d อาคาร)</string>
     <string name="ci_water_ratio">การใช้งาน : %1$.1f%%</string>
     <string name="ci_general_cityname">ชื่อเมือง : %1$s</string>
     <string name="ci_general_population">ประชากรโดยรวม: %1$,d</string>
@@ -303,7 +303,7 @@
     <string name="loadcity_kbsize">%1$,d KB</string>
     <string name="draftselector_upgrades">%1$,d อัปเกรดที่สามารถสร้างเพิ่มได้</string>
     <string name="buildinginfo_upgrades">%1$,d/%2$,d อัปเกรด</string>
-    <string name="buildinginfo_construction">อยู่ระหว่างการก่อสร้าง : %1$.0f%% (%2$,d day(s) remaining)</string>
+    <string name="buildinginfo_construction">อยู่ระหว่างการก่อสร้าง : %1$.0f%% (เหลือ %2$,d วัน)</string>
     <string name="draft_footballstadion00_title">สนามกีฬาใหญ่</string>
     <string name="draft_footballstadion00_text">สนามกีฬาฟุตบอลพร้อมอัฒจันทร์รอบด้าน</string>
     <string name="buildinginfo_cmdupgrade">อัปเกรด</string>
@@ -442,7 +442,7 @@
     <string name="tutorial_speed_normal">แต่ตอนนี้ตั้งกลับไปที่ความเร็วปกติก่อนละกันนะ</string>
     <string name="tutorial_money_task">เป้าหมายของคุณ คือการเก็บภาษีไปสร้างสาธารณูปโภคต่างๆเพื่อขยายเมือง เพื่อเอาภาษีเข้าเพิ่มขึ้น เพื่อขยายเมืองเพิ่มขึ้น!!</string>
     <string name="tutorial_money_info">แตะที่มุมขวาล่างเพื่อดูข้อมูลเกี่ยวกับสภาวะการเงินของเมืองคุณ คุณสามารถเพิ่มภาษี, กู้เงิน, ขายไฟฟ้า/น้ำประปาให้เมืองเพื่อนบ้าน หรือแลกเปลี่ยนเงินเพื่อเพิ่มทุนได้</string>
-    <string name="tutorial_congrats">เย้!! แค่นี้คุณก็สามารถสร้างเมืองของคุณเองได้แล้ว! ถ้าหากว่าคุณมีปัญหาอะไรที่ต้องการสอบถาม สามารถเข้าไปที่ฟอรั่มทางการของเราได้เลย! We welcome you! :D</string>
+    <string name="tutorial_congrats">ยินดีด้วย! คุณได้เรียนรู้พื้นฐานของ TheoTown แล้ว ตอนนี้คุณสามารถเริ่มสร้างเมืองของคุณเองได้ :)</string>
     <string name="draft_road03_title">ถนนเดินรถทางเดียว</string>
     <string name="draft_road03_text">รถสามารถขับได้แค่ทิศทางเดียวบนถนนนี้ หวังว่าจะไม่มีพวกย้อนศรนะ ;)</string>
     <string name="budget_sports">การกีฬา</string>
@@ -632,9 +632,9 @@
     <string name="draft_buoy00_title">ทุ่นกลางน้ำ</string>
     <string name="draft_buoy00_text">ช่วยให้เรือสามารถสัญจรได้</string>
     <string name="ci_general_seed">เมล็ด: %1$s</string>
-    <string name="draft_decores00_text">.</string>
-    <string name="draft_decocom00_text">.</string>
-    <string name="draft_decoind00_text">.</string>
+    <string name="draft_decores00_text">ของตกแต่งสำหรับเขตที่อยู่อาศัย</string>
+    <string name="draft_decocom00_text">ของตกแต่งสำหรับเขตพาณิชย์</string>
+    <string name="draft_decoind00_text">ของตกแต่งสำหรับเขตอุตสาหกรรม</string>
     <string name="ci_budget_title_nomoney">การเงิน (ตามทฤษฎี)</string>
     <string name="dialog_notification_cmdok">ตกลง</string>
     <string name="draft_nuclearplant00_title">โรงไฟฟ้านิวเคลียร์</string>
@@ -644,7 +644,7 @@
     <string name="draft_carcinema00_title">โรงหนังกลางแปลง</string>
     <string name="draft_carcinema00_text">โรงหนังแบบ Drive-In  ความบันเทิงส่งตรงถึงรถคุณ</string>
     <string name="notify_lowbudget">ตอนนี้เงินไม่พอแล้ว คุณสามารถขอกู้เงินได้</string>
-    <string name="settings_rightsidebar">แถบข้างไว้ด้านซ้าย</string>
+    <string name="settings_rightsidebar">แถบข้างไว้ด้านขวา</string>
     <string name="settings_topstatusbar">แถบสถานะไว้ด้างบน</string>
     <string name="settings_leftminimap">แผนที่ย่อด้านซ้าย</string>
     <string name="settings_category_ui">หน้าจอใช้งาน</string>
@@ -662,7 +662,7 @@
     <string name="budget_railstation">สถานีรถไฟ</string>
     <string name="draft_marker_ticketmarker_title">ตั๋วรถไฟ</string>
     <string name="draft_marker_ticketmarker_text">แสดงปริมาณตั๋วรถไฟที่ถูกใช้งาน</string>
-    <string name="trainstationinfo_usage">ผู้โดยสารที่รอ: %2$,d/%3$,d\nUsage: %1$.1f%%</string>
+    <string name="trainstationinfo_usage">ผู้โดยสารที่รอ: %2$,d/%3$,d\nการใช้งาน: %1$.1f%%</string>
     <string name="draft_firedepartment01_title">สถานดับเพลิงขนาดเล็ก</string>
     <string name="draft_firedepartment01_text">ป้องกัน &amp; ปราบปรามเหตุไฟไหม้  มีรถฉุกเฉินแค่คันเดียว</string>
     <string name="draft_police01_title">สถานีตำรวจขนาดเล็ก</string>
@@ -743,11 +743,11 @@
     <string name="settings_autountouchable">ตั้งค่าอาคารที่วางเองให้ไม่สามารถถูกสร้างทับได้</string>
     <string name="draft_alert_swat00_title">เรียกหน่วย SWAT</string>
     <string name="draft_alert_swat00_text">ถ้าหากว่ามีเหตุชุมนุมก่อการร้าย  เฉพาะหน่วย SWAT เท่านั้นที่สามารถเข้าปราบปรามได้</string>
-    <string name="control_continue">มาพักผ่อนดูบรรยากาศชายหาดริมน้ำ</string>
+    <string name="control_continue">ดำเนินการต่อ</string>
     <string name="settings_winter">ฤดูหนาว</string>
     <string name="notify_riot_reason">เกิดเหตุประท้วงเนื่องจาก%1$s!</string>
     <string name="notify_riot_noreason">เกิดเหตุประท้วงโดยไร้สาเหตุ?!</string>
-    <string name="notify_demonstration">เกิดเหตุชุมนุมเนื่องจาก%1s! ทำอะไรซักอย่างก่อนที่เหตุจะลุกลาม!</string>
+    <string name="notify_demonstration">เกิดเหตุชุมนุมเนื่องจาก%1$s! ทำอะไรซักอย่างก่อนที่เหตุจะลุกลาม!</string>
     <string name="draft_marker_powermarker_title">ไฟฟ้า</string>
     <string name="draft_marker_watermarker_title">น้ำประปา</string>
     <string name="draft_road04_title">ถนนใหญ่</string>
@@ -774,7 +774,7 @@
     <string name="draft_rnk_megalopolis_title">อภิมหานคร★★</string>
     <string name="rank_needed_people">อย่างน้อย %1$,d ผู้อยู่อาศัย</string>
     <string name="draft_decoroad00_title">ถนนต้นไม้</string>
-    <string name="draft_decoroad00_text">.</string>
+    <string name="draft_decoroad00_text">เติมธรรมชาติและร่มเงาให้ใจกลางเมืองที่พลุกพล่าน</string>
     <string name="settings_experimental">คุณสมบัติการทดลอง</string>
     <string name="about_thanks">ขอขอบคุณเป็นพิเศษกับ</string>
     <string name="about_community">และส่วนที่เหลือในชุมชนของเรา</string>
@@ -839,7 +839,7 @@
     <string name="topic_news">ข่าวดีทุกคน!</string>
     <string name="topic_welcome">ยินดีต้อนรับการกลับมา :)</string>
     <string name="topic_spoon">ไม่มีช้อน</string>
-    <string name="topic_relax">ผ่อนคลายมัน\'s แค่เกม</string>
+    <string name="topic_relax">ผ่อนคลายเถอะ มันก็แค่เกม</string>
     <string name="topic_cats">น้อนนนแมว น่ารักผุดๆ</string>
     <string name="topic_force">ขอพลังจงสถิตอยู่กับท่าน</string>
     <string name="topic_plugins">ขณะนี้เรามีปลั๊กอิน</string>
@@ -860,9 +860,9 @@
     <string name="control_off">ปิด</string>
     <string name="draft_school03_title">โรงเรียนมัธยมขนาดใหญ่</string>
     <string name="draft_school03_text">โรงเรียนมัธยม ที่รองรับเด็กแสบๆได้มากขึ้น</string>
-        <string name="gamemode_easy_desc">ในโหมดเกมนี้ คุณเริ่มต้นด้วยเงินจำนวนมากและ\'s ค่อนข้างที่จะเล่นง่าย</string>
-    <string name="gamemode_middle_desc">โหมดเกมเริ่มต้น คุณเริ่มต้นด้วยจำนวนเงินที่ดีและไม่\'t ยากที่จะสร้างเมืองในฝันของคุณ</string>
-    <string name="gamemode_hard_desc">คุณเป็นมืออาชีพใน TheoTown หรือไม่? นี่คือโหมดที่เหมาะสมสำหรับคุณ คุณเริ่มต้นด้วยเงินจำนวนเล็กน้อยและ\'s โดยภาพรวมแล้วค่อนข้างเล่นยาก.</string>
+        <string name="gamemode_easy_desc">เริ่มต้นด้วยเงินทุนก้อนใหญ่ รายได้จากภาษีสูงขึ้น และอาคารราคาถูกลง เหมาะสำหรับผู้เล่นใหม่หรือผู้ที่ต้องการเล่นแบบสบาย ๆ</string>
+    <string name="gamemode_middle_desc">โหมดเกมมาตรฐาน เริ่มต้นด้วยเงินทุนที่เพียงพอและสร้างเมืองในฝันได้ไม่ยากเกินไป</string>
+    <string name="gamemode_hard_desc">งบประมาณจำกัด รายได้จากภาษีต่ำลง และเงินเฟ้อสูง เหมาะสำหรับนายกเทศมนตรีที่มีประสบการณ์และผู้ที่ต้องการความท้าทาย</string>
     <string name="dialog_ffwd_title">เร่งความเร็ว</string>
     <string name="dialog_ffwd_text">การเล่นเกมที่เร็วขึ้นสำหรับ %1$,d วัน.</string>
     <string name="dialog_ffwd_cmdplayad">ฟรี</string>
@@ -901,14 +901,14 @@
     <string name="draft_devroad00_title">ถนนหลวงชนบท</string>
     <string name="draft_devroad00_text">ถนนในชนบทสร้างและจ่ายโดยรัฐ</string>
     <string name="dialog_resetcity_title">รีเซ็ตเมือง</string>
-    <string name="dialog_resetcity_text">คุณต้องการตั้งค่าเมืองนี้ใหม่หรือไม่\'s สภาพเดิม? สิ่งนี้ไม่สามารถยกเลิกได้</string>
+    <string name="dialog_resetcity_text">คุณต้องการรีเซ็ตเมืองนี้กลับสู่สภาพเดิมหรือไม่?\n\nการดำเนินการนี้ไม่สามารถย้อนกลับได้</string>
     <string name="dialog_resetcity_cmdreset">รีเซ็ต</string>
     <string name="draft_devroad01_title">ถนนหลวงวันเวย์</string>
     <string name="draft_devroad01_text">วันเวย์ที่รัฐสร้างและจ่ายให้ </string>
     <string name="task_openworld_title">ภูมิภาค</string>
     <string name="task_openworld_text">เมืองของคุณเป็นเพียงส่วนหนึ่งของสิ่งที่ใหญ่กว่า ที่นี่คุณสามารถดูเมืองทั้งหมดของคุณ</string>
     <string name="task_openrci_title">ความต้องการอาคาร</string>
-    <string name="task_openrci_text">ใน TheoTown เราแยกแยะความต้องการอาคารสำหรับอาคารประเภทต่างๆ และระดับต่างๆ ประเภทอาคารเป็นที่อยู่อาศัย พาณิชยกรรม และอุตสาหกรรม  มีสามระดับ, poor (₮), medium (₮₮) and rich (₮₮₮).</string>
+    <string name="task_openrci_text">ใน TheoTown ความต้องการอาคารแบ่งตามประเภทและระดับ ได้แก่ ที่อยู่อาศัย พาณิชยกรรม และอุตสาหกรรม โดยมีสามระดับคือ ยากจน (₮) ปานกลาง (₮₮) และร่ำรวย (₮₮₮)</string>
     <string name="control_gotit">เข้าใจแล้ว</string>
     <string name="task_firstcity_title">เมืองใหม่</string>
     <string name="task_firstcity_text">ยินดีต้อนรับสู่เมืองแรกของคุณ\n\nพยายามเพิ่มประชากรให้เป็น 300 คน</string>
@@ -1437,7 +1437,7 @@
     <string name="dialog_wb_cmdtake">รับไว้</string>
     <string name="dialog_wb_cmdforfeit">สูญเสีย</string>
     <string name="dialog_diamondtool_title">เสร็จสิ้นการก่อสร้าง</string>
-    <string name="dialog_diamondtool_text">Sเราจะสร้างสิ่งนั้นหรือไม่?</string>
+    <string name="dialog_diamondtool_text">จะสร้างให้เสร็จเลยหรือไม่?</string>
     <string name="draft_feature_valentinesday00_title">สุขสันต์วันวาเลนไทน์</string>
     <string name="draft_feature_valentinesday00_text">ปลดล็อกสิ่งก่อสร้างเหล่านี้อย่างถาวร</string>
     <string name="tool_removetunnel_title">ลบอุโมงค์</string>
@@ -2545,7 +2545,7 @@
 
 
     <string name="settings_darkbuildtool">แถบเครื่องมือแบบมืด</string>
-    <string name="forum_cmdforgot">Forgot?</string>
+    <string name="forum_cmdforgot">ลืมข้อมูลเข้าสู่ระบบ?</string>
     <string name="store_rating">เรตติง</string>
     <string name="store_rating_unrated">ไม่ได้จัดเรต</string>
     <string name="store_rating_verynegative">เชิงลบอย่างมาก</string>
@@ -2577,7 +2577,7 @@
     <string name="dialog_nointernetaccess_title">ไม่มีการเชื่อมต่อ</string>
     <string name="dialog_nointernetaccess_text">คุณกำลังออฟไลน์</string>
     <string name="dialog_nointernetaccess_cmdgotit">เข้าใจแล้ว</string>
-    <string name="store_modebestrated">Best rated</string>
+    <string name="store_modebestrated">คะแนนสูงสุด</string>
     <string name="dialog_pluginqualityunsure_title">โปรดระวัง</string>
     <string name="dialog_pluginqualityunsure_text">ปลั๊กอินที่คุณกำลังจะดาวน์โหลดนั้นไม่ได้มียอดดาวน์โหลดหรือการให้คะแนนที่มากมาย มันอาจจะไม่ตรงตามที่คุณคาดหวังก็ได้</string>
     <string name="dialog_pluginqualityunsure_gotit">เข้าใจแล้ว</string>
@@ -2684,8 +2684,8 @@
     <string name="draft_dsa_deco00_text">ตกแต่งสำหรับฐาน DSA ของคุณ</string>
     <string name="draft_dsa_award00_title">หิน</string>
     <string name="draft_dsa_award00_text">หินนี้มาจากที่ไหนนะ?</string>
-    <string name="draft_dsa_park00_title">Akial square</string>
-    <string name="draft_dsa_park00_text">A tribute to the first animal ever launched into Earth orbit.</string>
+    <string name="draft_dsa_park00_title">จัตุรัส Akial</string>
+    <string name="draft_dsa_park00_text">อนุสรณ์แด่สัตว์ตัวแรกที่ถูกส่งขึ้นสู่วงโคจรรอบโลก</string>
     <string name="draft_dsadrill_text">ใช้สำหรับการรวบรวมทรัพยากรที่มีค่าที่จะขายได้ด้วยกำไร แต่ต้องระวังที่จะสร้างแผ่นดินไหวได้</string>
     <string name="draft_dsadrill01_title">Laser upgrade</string>
     <string name="draft_dsadrill01_text">อัปเกรดเลเซอร์ให้แรงขึ้นและรวบรวมทรัพยากรได้เร็วขึ้น\n
@@ -2725,7 +2725,7 @@
     <string name="draft_dsarockettestdone_requirement">การทดสอบก่อนหน้านี้เสร็จสิ้นแล้ว</string>
     <string name="draft_dsarocketfinalundone_requirement">การทดสอบยังไม่สมบูรณ์</string>
     <string name="draft_dsarocketfinaldone_requirement">การทดสอบจรวดเสร็จสิ้นแล้ว</string>
-    <string name="draft_rocket_akial_requirement">Need: Animal carriage test</string>
+    <string name="draft_rocket_akial_requirement">ต้องการ: การทดสอบขนส่งสัตว์</string>
     <string name="draft_dsaHELIUM_requirement">ต้องการ: พบฮีเลียม 3 ในอวกาศ</string>
     <string name="draft_dsaDYSON_requirement">ต้องการ: สร้าง Dyson Sphere ในอวกาศ</string>
     <string name="draft_dsaLORE10_requirement">ช่วยกิ่งผักชียักษ์บนดวงจันทร์</string>
@@ -2793,7 +2793,7 @@
     <string name="draft_dsarocket_upg6_text">เปิดตัวชุดของร็อกเก็ตขึ้นอวกาศเพื่อสร้างนิติบัญญัติป้องกันอวกาศ\n
 วัสดุ: ${_dsareadiness}/15000</string>
     <string name="draft_Olsken.LobbysCake_title">เค้กของล็อบบี้</string>
-    <string name="draft_Olsken.LobbysCake_text">A limited edition cake made specifically for Lobby from the community!\nHappy Birthday to Lobby!</string>
+    <string name="draft_Olsken.LobbysCake_text">เค้กรุ่นพิเศษที่ชุมชนทำขึ้นเพื่อ Lobby โดยเฉพาะ!\nสุขสันต์วันเกิด Lobby!</string>
     <string name="draft_dsa_notify00_text">สวัสดีครับ! ฉันคือ CEO ของ DSA และฉันจะช่วยคุณจัดการทุกๆ การดำเนินงานท้องถิ่นของ DSA</string>
     <string name="draft_dsa_notify01_text">ดูเหมือนว่าที่ดินเริ่มสั่น!</string>
     <string name="draft_dsa_notify02_text">นายกเทศมนตรีครับ เนื่องจากมีความเสี่ยงจากระเบิดแผ่นดินไหว เราจึงทำการเบิกเงินเพื่อการฟื้นฟูหลังจากเหตุการณ์ฉุกเฉิน</string>
@@ -2843,10 +2843,10 @@
     <string name="draft_dsa_time_machine00_text">ลับมาก</string>
     <string name="draft_dsa_moon_command00_title">Space Command</string>
     <string name="draft_dsa_moon_command00_text">อาคารสั่งการทั้งหมดในการดำเนินการท้องถิ่นและอวกาศในบริเวณใกล้เคียง</string>
-    <string name="draft_dsacomingsoon_text">COMING SOON</string>
+    <string name="draft_dsacomingsoon_text">เร็ว ๆ นี้</string>
     <string name="draft_dsa_moon_spaceport_title">Spaceport</string>
     <string name="draft_dsa_moon_spaceport_text">อาคารที่ใช้สำหรับการขนส่งสินค้า, วัสดุ หรือคนไปยังอวกาศได้ง่าย</string>
-    <string name="draft_dsa_moon_sport00_title">Fitness center</string>
+    <string name="draft_dsa_moon_sport00_title">ศูนย์ออกกำลังกาย</string>
     <string name="draft_dsa_moon_sport00_text">สถานที่สำหรับผู้อยู่อาศัยในฮีเรดิตุสำหรับการรักษาสภาพสุขภาพและทรงพลัง</string>
     <string name="draft_dsa_moon_faith00_title">บ้านศักดิ์สิทธิ์</string>
     <string name="draft_dsa_moon_faith00_text">สร้างสิ่งก่อสร้างเพื่อศรัทธาและศาสนาของผู้อยู่ในดวงดาวอื่น</string>
@@ -2967,9 +2967,9 @@
     <string name="settings_modifymouse">ปรับแต่งเคอร์เซอร์</string>
     <string name="settings_cursorstyle">รูปแบบเคอร์เซอร์</string>
     <string name="settings_cursorstyle_default">ค่าเริ่มต้น</string>
-    <string name="settings_cursorstyle_dark">การตั้งค่า_สไตล์เคอร์เซอร์_มืด</string>
+    <string name="settings_cursorstyle_dark">มืด</string>
     <string name="settings_cursorstyle_blue">สีน้ำเงิน</string>
-    <string name="settings_cursorstyle_gold">Gold</string>
+    <string name="settings_cursorstyle_gold">ทอง</string>
     <string name="shop_restore">คืนค่าการซื้อก่อนหน้านี้</string>
     <string name="shop_restored_dialog_title">การซื้อถูกกู้คืนแล้ว</string>
     <string name="shop_restored_dialog_text">การซื้อของคุณทั้งหมดในอดีตได้รับการคืนค่าแล้ว คุณอาจต้องเริ่มเกมใหม่เพื่อดูผลลัพธ์</string>
@@ -2983,20 +2983,20 @@
     <string name="settings_ground_blending">การผสมผสานพื้น</string>
     <string name="draft_biome_aspen_forest00_title">ป่าอัสเพน</string>
     <string name="draft_biome_deciduous_forest00_title">ป่าผลัดใบ</string>
-    <string name="draft_biome_coniferous_forest00_title">ป่าสนวิปริต</string>
+    <string name="draft_biome_coniferous_forest00_title">ป่าสน</string>
     <string name="draft_biome_mixed_forest00_title">ป่าผสมผสาน</string>
     <string name="draft_biome_boreal_forest00_title">ป่าบอรีอัล</string>
     <string name="draft_biome_redwood_forest00_title">ป่าไม้สนแดง</string>
     <string name="draft_biome_desert00_title">ทะเลทราย</string>
     <string name="draft_biome_snow00_title">หิมะ</string>
-    <string name="draft_biome_rainforest00_title">วนป่าสภาพฝน</string>
+    <string name="draft_biome_rainforest00_title">ป่าฝน</string>
     <string name="draft_biome_coast00_title">ชายฝั่ง</string>
     <string name="draft_biome_grassland00_title">ที่ราบสมบูรณ์</string>
-    <string name="draft_biome_steppe00_title">Steppe</string>
+    <string name="draft_biome_steppe00_title">ทุ่งหญ้าสเตปป์</string>
     <string name="draft_biome_flowerygrassland00_title">ทุ่งหญ้าที่มีดอกไม้</string>
-    <string name="draft_biome_sakura00_title">Sakura</string>
-    <string name="draft_biome_cursedland00_title">แผ่นดินถูกสาปสัญญาณ</string>
-    <string name="draft_ground_asphalt00_title">Asphalt</string>
+    <string name="draft_biome_sakura00_title">ซากุระ</string>
+    <string name="draft_biome_cursedland00_title">ดินแดนต้องคำสาป</string>
+    <string name="draft_ground_asphalt00_title">แอสฟัลต์</string>
     <string name="draft_ground_asphalt00_text">พื้นผิวที่สมบูรณ์แบบสำหรับรถและยานพาหนะอื่นๆ</string>
     <string name="draft_ground_concrete00_title">คอนกรีต</string>
     <string name="draft_ground_concrete00_text">การให้โดสที่เหมาะสมของคอนกรีตนั้นดี</string>
@@ -3008,8 +3008,8 @@
     <string name="draft_ground_wildgrass00_text">หญ้าป่าที่อบแห้งด้วยแสงอาทิตย์ สมบูรณ์แบบสำหรับทุ่งนาหรือที่ราบสูง</string>
     <string name="draft_ground_darkgrass00_title">หญ้าที่มืด</string>
     <string name="draft_ground_darkgrass00_text">หญ้าที่มืดมัวจากป่าลึกลับ</string>
-    <string name="draft_ground_rockysand00_title">ทรายที่ระลึกล้วน</string>
-    <string name="draft_ground_rockysand00_text">ทรายขาวที่ผสมกับหินขนาดเล็ก</string>
+    <string name="draft_ground_rockysand00_title">ทรายปนหิน</string>
+    <string name="draft_ground_rockysand00_text">ทรายหยาบที่ผสมกับหินก้อนเล็ก ๆ</string>
     <string name="draft_ground_forestgrass00_title">หญ้าในป่า</string>
     <string name="draft_ground_forestgrass00_text">หญ้าที่มีความชื้นและเขียวขจี ที่สมบูรณ์สำหรับป่าที่ประจำเกิดที่ป่าประจำชีวิต</string>
     <string name="draft_ground_cursedland00_title">ที่ดินที่ถูกสาปแช่ง</string>
@@ -3071,12 +3071,12 @@
     <string name="dialog_missingmanifest_text">ปลั๊กอินต่อไปนี้ไม่ได้กำหนดไฟล์ข้อมูลปลั๊กอิน (plugin.manifest) ซึ่งสามารถทำให้เกิดปัญหากับปลั๊กอินอื่นๆ และโหมดออนไลน์ ไม่สามารถรับประกันความเข้ากันได้ในอนาคต:</string>
     <string name="dialog_missingmanifest_cmdhelp">นั่นคืออะไร?</string>
     <string name="createcity_rivers">แม่น้ำ</string>
-    <string name="createcity_roughness">ความหยาบคาย</string>
+    <string name="createcity_roughness">ความขรุขระ</string>
     <string name="createcity_roughness_flat">แบน</string>
     <string name="createcity_roughness_less">น้อยลง</string>
     <string name="createcity_roughness_default">ค่าเริ่มต้น</string>
     <string name="createcity_roughness_more">เพิ่มเติม</string>
-    <string name="createcity_roughness_extreme">หยาบคายสุดขั้ว</string>
+    <string name="createcity_roughness_extreme">ขรุขระมาก</string>
     <string name="buildingicon_illness">คนในอาคารนี้ป่วย คุณควรส่งแพทย์มา</string>
     <string name="buildingicon_noroad">อาคารนี้ไม่ได้เชื่อมต่อกับถนนที่เหมาะสม</string>
     <string name="buildingicon_noenergy">อาคารนี้ได้รับพลังงานไม่เพียงพอ</string>
@@ -3084,20 +3084,20 @@
     <string name="buildingicon_overloaded">อาคารนี้โหลดมากเกินไป ให้บริการความจุเพิ่มเติม</string>
     <string name="buildingicon_unhappy">ผู้คนในอาคารนี้ไม่มีความสุข</string>
     <string name="buildingicon_waste">ในอาคารนี้มีขยะที่ไม่ได้รับการเก็บกวาด</string>
-    <string name="buildingicon_wasteoverloaded">ที่ฝังกลางนี้เต็มแล้ว</string>
-    <string name="buildingicon_deadbodies">มีร่างกายที่ไม่ได้รับการเก็บศพอยู่ในอาคารนี้</string>
+    <string name="buildingicon_wasteoverloaded">บ่อขยะนี้เต็มแล้ว</string>
+    <string name="buildingicon_deadbodies">มีศพที่ยังไม่ได้เก็บออกจากอาคารนี้</string>
     <string name="buildingicon_deadbodiesoverloaded">สุสานนี้เต็มแล้ว</string>
     <string name="buildingicon_crimegraffiti">มีคนทำการวาดกราฟฟิติผิดกฎหมายที่นี่</string>
     <string name="buildingicon_crimeburglary">มีคนเข้ามาที่นี่โดยไม่ได้รับอนุญาต</string>
     <string name="buildingicon_crimemurder">ที่นี่มีคนถูกฆ่าตาย</string>
-    <string name="buildingicon_crimeriot">ผู้คนที่นี่กำลังจิ้นหวน</string>
+    <string name="buildingicon_crimeriot">ผู้คนที่นี่กำลังก่อจลาจล</string>
     <string name="dialog_scriptpolicy_title">นโยบายสคริปต์ปลั๊กอิน</string>
     <string name="dialog_scriptpolicy_help_title">สคริปต์ปลั๊กอินอาจเสี่ยง</string>
-    <string name="dialog_scriptpolicy_help_text">YOU have the power to approve script execution for external plugins. Only whitelist scripts from sources you trust (e.g. yourself, if you are working on a plugin).\n
+    <string name="dialog_scriptpolicy_help_text">คุณสามารถอนุมัติการเรียกใช้สคริปต์สำหรับปลั๊กอินภายนอกได้ ให้เพิ่มในรายการที่อนุญาตเฉพาะสคริปต์จากแหล่งที่คุณเชื่อถือเท่านั้น (เช่น สคริปต์ของคุณเอง หากคุณกำลังพัฒนาปลั๊กอิน)\n
 \n
-If in doubt, DO NOT enable script execution without inspecting the code yourself.\n
+หากไม่แน่ใจ อย่าเปิดใช้งานสคริปต์โดยไม่ได้ตรวจสอบโค้ดด้วยตนเองก่อน\n
 \n
-Plugins that require script execution to work may not function as expected if disabled. You have to restart the game for changes to have an effect.</string>
+ปลั๊กอินที่ต้องใช้สคริปต์อาจทำงานไม่ถูกต้องหากปิดการเรียกใช้สคริปต์ คุณต้องเริ่มเกมใหม่เพื่อให้การเปลี่ยนแปลงมีผล</string>
     <string name="settings_openscriptpolicy">นโยบายสคริปต์ปลั๊กอิน</string>
     <string name="stage_files_itemcount">%d รายการ</string>
     <string name="tips_title">เคล็ดลับ</string>
@@ -3278,9 +3278,9 @@ Press the income icon and then switch to the tab with the green cash icon. Then 
     <string name="dialog_scenarios_cmdreset">รีเซ็ต</string>
     <string name="dialog_scenarios_cmdremove">ลบ</string>
     <string name="dialog_scenarios_cmdmove">ย้าย</string>
-    <string name="dialog_scenarios_cmdinfo">Info</string>
+    <string name="dialog_scenarios_cmdinfo">ข้อมูล</string>
     <string name="dialog_scenarios_cmdplay">เล่น</string>
-    <string name="dialog_scenarios_cmdstart">Start</string>
+    <string name="dialog_scenarios_cmdstart">เริ่ม</string>
     <string name="dialog_scenarios_reset_title">รีเซ็ต</string>
     <string name="dialog_scenarios_reset_text">คุณแน่ใจหรือว่าต้องการรีเซ็ตความก้าวหน้าของคุณ? คุณสามารถย้ายไปยังเมืองที่คุณเป็นเจ้าของเพื่อดำเนินการเล่นต่อ หรือลบทิ้งไปเลย</string>
     <string name="dialog_scenarios_empty">ไม่มีสถานการณ์ที่สามารถใช้งานได้ในขณะนี้</string>
@@ -3323,7 +3323,7 @@ Press the income icon and then switch to the tab with the green cash icon. Then 
     <string name="ts_route_path_broken">เส้นทางถูกหักเป็นสอง</string>
     <string name="ts_route_usage">การใช้งาน:</string>
     <string name="ts_route_set_vehicle">ตั้งค่ายานพาหนะ</string>
-    <string name="ts_route_edit">Route</string>
+    <string name="ts_route_edit">เส้นทาง</string>
     <string name="ts_route_more">เพิ่มเติม</string>
     <string name="ts_route_duplicate">ทำซ้ำ</string>
     <string name="ts_route_rename">เปลี่ยนชื่อ</string>
@@ -3402,7 +3402,7 @@ Press the income icon and then switch to the tab with the green cash icon. Then 
     <string name="control_copy">คัดลอก</string>
     <string name="control_paste">วาง</string>
     <string name="dialog_colorpicker_title">เลือกสี</string>
-    <string name="ts_location_west">%s West</string>
+    <string name="ts_location_west">%s ตะวันตก</string>
     <string name="ts_location_south">%s ทางทิศใต้</string>
     <string name="ts_location_north">%s ทางทิศเหนือ</string>
     <string name="ts_location_east">%s ตะวันออก</string>
@@ -3467,7 +3467,7 @@ Press the income icon and then switch to the tab with the green cash icon. Then 
 
 
     <string name="stage_musicmanager_title">ห้องสมุดดนตรี</string>
-    <string name="stage_musicmanager_original">Original</string>
+    <string name="stage_musicmanager_original">ต้นฉบับ</string>
     <string name="stage_musicmanager_import">นำเข้าเพลง</string>
     <string name="stage_musicmanager_volume">ระดับเสียง</string>
     <string name="stage_musicmanager_alreadyimported">"%s" ถูกนำเข้าแล้ว</string>
@@ -3484,7 +3484,7 @@ Press the income icon and then switch to the tab with the green cash icon. Then 
     <string name="ts_tool_add_random_station">เพิ่มสถานีแบบสุ่ม</string>
     <string name="ts_reached_vehicle_limit">ไม่สามารถกำหนดรถยนต์มากกว่า %d คันให้กับเส้นทางนี้ได้!</string>
     <string name="musictype_game">เกม</string>
-    <string name="musictype_action">Action</string>
+    <string name="musictype_action">แอ็กชัน</string>
     <string name="musictype_default">%s (ค่าเริ่มต้น)</string>
     <string name="dialog_unlink_steam_title">ยกเลิกการเชื่อมต่อบัญชี?</string>
     <string name="dialog_unlink_steam_text">การดำเนินการนี้จะยกเลิกการเชื่อมโยงบัญชีฟอรัมของคุณกับบัญชี Steam ของคุณ การดำเนินการนี้อาจมีผลข้างเคียงและควรทำเฉพาะเมื่อจำเป็น หลังจากยกเลิกการเชื่อมโยงแล้ว เกมจะเริ่มต้นใหม่</string>
@@ -3497,7 +3497,7 @@ Press the income icon and then switch to the tab with the green cash icon. Then 
     <string name="dialog_restore_title">เรียกคืนเมือง</string>
     <string name="dialog_restore_nobackups">ไม่มีการสำรองข้อมูลที่ใช้ได้ :(</string>
     <string name="dialog_restore_current">(ใช้งานอยู่)</string>
-    <string name="draft_part_of_plugin">Plugin: %s</string>
+    <string name="draft_part_of_plugin">ปลั๊กอิน: %s</string>
     <string name="stage_special_offer_text">ปลดล็อคอาคารต่อไปนี้อย่างถาวรสำหรับการก่อสร้างโดยไม่ต้องใช้เพชร</string>
     <string name="settings_edge_gradients">การไล่ระดับสีของขอบหน้าจอ</string>
     <string name="legend_pipe">ท่อ</string>
@@ -3519,5 +3519,34 @@ Press the income icon and then switch to the tab with the green cash icon. Then 
     <string name="legend_mixed_voltage">ทั้งสองแรงดัน</string>
     <string name="legend_metro">รถไฟใต้ดิน</string>
     <string name="legend_ts_edit">%s (กำลังแก้ไข)</string>
+
+
+    <string name="dialog_url_title">เปิดเว็บไซต์?</string>
+    <string name="dialog_url_text">ปลั๊กอิน "%s" ต้องการเปิดเว็บไซต์ภายนอก ซึ่งอาจมีโฆษณา โปรดดำเนินการต่อหากคุณเชื่อถือแหล่งที่มาเท่านั้น:</string>
+    <string name="dialog_url_cmdopen">เปิด</string>
+    <string name="settings_adaptive_ground_blending">การผสมพื้นดินแบบปรับได้</string>
+
+    <string name="empty_cause_unknown">ถูกทิ้งร้างด้วยเหตุผลที่ไม่ทราบสาเหตุ</string>
+    <string name="empty_cause_low_demand">ถูกทิ้งร้างเนื่องจากความต้องการต่ำ</string>
+    <string name="empty_cause_low_happiness">ถูกทิ้งร้างเนื่องจากความพึงพอใจต่ำเกี่ยวกับ %s</string>
+    <string name="empty_cause_crime">ถูกทิ้งร้างเนื่องจากอาชญากรรม (%s)</string>
+    <string name="empty_cause_illness">ถูกทิ้งร้างเนื่องจากการปนเปื้อน</string>
+    <string name="stage_files_folderfiles">ประกอบด้วย %d ไฟล์</string>
+
+    <string name="notbuildablereason_generic">ไม่สามารถสร้างที่นี่ได้</string>
+    <string name="notbuildablereason_land">ต้องการพื้นดิน</string>
+    <string name="notbuildablereason_water">ต้องการน้ำ</string>
+    <string name="notbuildablereason_zone">โซนไม่ถูกต้อง</string>
+    <string name="notbuildablereason_maxcount">ถึงขีดจำกัดจำนวนอาคารแล้ว</string>
+    <string name="notbuildablereason_terrain">ภูมิประเทศไม่เหมาะสม</string>
+    <string name="notbuildablereason_nomoney">เงินไม่พอ</string>
+    <string name="notbuildablereason_blocked">พื้นที่ถูกปิดกั้น</string>
+
+    <string name="recovery_mode_title">อุ๊ปส์</string>
+    <string name="recovery_mode_text">TheoTown ไม่สามารถเริ่มการทำงานได้หลายครั้ง\n\nคุณต้องการเปิดเกมในโหมดกู้คืนหรือไม่?\n\nโหมดกู้คืนจะปิดการใช้งานปลั๊กอินทั้งหมดชั่วคราว เพื่อให้คุณสามารถลบหรือแก้ไขปลั๊กอินที่อาจก่อให้เกิดปัญหาได้ ปลั๊กอินจะถูกโหลดตามปกติอีกครั้งในการเริ่มเกมครั้งถัดไป</string>
+    <string name="recovery_mode_normal">เริ่มแบบปกติ</string>
+    <string name="recovery_mode_recovery">โหมดกู้คืน</string>
+
+    <string name="settings_draw_neighbors">วาดเมืองใกล้เคียง</string>
 
 </resources>

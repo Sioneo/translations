@@ -107,7 +107,7 @@
     <string name="draft_school00_text">Hier lernen Kinder von klein auf.</string>
     <string name="draft_school00_title">Grundschule</string>
     <string name="draft_school01_title">Hochschule</string>
-    <string name="draft_school01_text">Eine Schule für heranwachsende Jugendliche.</string>
+    <string name="draft_school01_text">Eine Hochschule für Studenten.</string>
     <string name="draft_waterpump00_title">Wasserpumpe</string>
     <string name="draft_waterpump00_text">Stellt viel Wasser für Gebäude zur Verfügung.</string>
     <string name="draft_pipe00_title">Wasserleitung</string>
@@ -216,7 +216,7 @@
     <string name="buildinginfo_habitants">Bewohner: %1$,d/%2$,d</string>
     <string name="buildinginfo_worker">Arbeiter: %1$,d/%2$,d</string>
     <string name="topic_giveup">Gib niemals auf</string>
-    <string name="dialog_screenshot_error">Zielordner für %1$s konnte nicht erstellt werden. Bitte Prüfe die Befugnisse der App.</string>
+    <string name="dialog_screenshot_error">Zielordner für %1$s konnte nicht erstellt werden. Bitte prüfe die Berechtigungen der App.</string>
     <string name="settings_energysaving">Energiesparmodus</string>
     <string name="about_engine">Grafikengine</string>
     <string name="about_graphics">Grafik</string>
@@ -260,7 +260,7 @@
     <string name="draft_zoneresidential_title">Wohngebiet</string>
     <string name="toolremove_default_title">Löschen</string>
     <string name="toolremove_default_text">Mit diesem Werkzeug kann nahezu alles entfernt werden. Für Zonen verwende das separate Werkzeug.</string>
-    <string name="toolremove_pipe_text">Mit diesem Werkzeug lassen sich Wasserrohe entfernen.</string>
+    <string name="toolremove_pipe_text">Mit diesem Werkzeug lassen sich Wasserrohre entfernen.</string>
     <string name="toolremove_pipe_title">Wasserrohre löschen</string>
     <string name="draftselector_cmdremove">Abreißen</string>
     <string name="draftselector_cmdview">Anzeigen</string>
@@ -485,7 +485,7 @@
     <string name="draft_crater1x1_text">Hier ist ein kleiner Brocken eingeschlagen. Wer räumt das wieder weg?</string>
     <string name="settings_disaster_nuke">Atombombe</string>
     <string name="disaster_nuke_cmdtext">Lass es krachen</string>
-    <string name="disaster_nuke_text">Was kann schon passieren?</string>
+    <string name="disaster_nuke_text">Zündet eine extrem starke Sprengladung, die das betroffene Gebiet radioaktiv verseucht.</string>
     <string name="disaster_nuke_title">Atombombe</string>
     <string name="budget_loans">Darlehen</string>
     <string name="ci_loan_loanlist">Aufgenommenes Darlehen (insgesamt %1$s in %2$,d/%3$,d Darlehen):</string>
@@ -501,7 +501,7 @@
     <string name="draft_zoneresidential_lvl2_title">Dichtes Wohngebiet</string>
     <string name="draft_zonecommercial_lvl2_text">Ein Gewerbegebiet, das eine höhere Bebauungsdichte ermöglicht.</string>
     <string name="draft_zonecommercial_lvl2_title">Dichtes Gewerbegebiet</string>
-    <string name="draft_zonefarm_text">Diese Zone ist für die Landwirtschaftliche Nutzung gedacht. Auf ihr können Bauernhöfen errichtet werden. Die kleinste Größe ist 4x4.</string>
+    <string name="draft_zonefarm_text">Diese Zone ist für die landwirtschaftliche Nutzung gedacht. Auf ihr können Bauernhöfe errichtet werden. Die kleinste Größe ist 4x4.</string>
     <string name="draft_zonefarm_title">Landwirtschaft</string>
     <string name="draft_zoneindustrial_lvl2_text">Ein Industriegebiet das eine hohe Bebauungsdichte ermöglicht.</string>
     <string name="draft_zoneindustrial_lvl2_title">Dichtes Industriegeb.</string>
@@ -559,7 +559,7 @@
     <string name="influence_sport_text">Wenn ihre Einwohner regelmäßig Sport machen, hält sie das fit und munter.</string>
     <string name="ca_education_high_text">Hochschulbildung: %1$,d/%2$,d Studenten</string>
     <string name="ca_education_low_text">Grundschulbildung: %1$,d/%2$,d Schüler</string>
-    <string name="ca_health_text">Gesunderheitsversorgung: %1$,d/%2$,d Patienten</string>
+    <string name="ca_health_text">Gesundheitsversorgung: %1$,d/%2$,d Patienten</string>
     <string name="draft_zoneharbor_title">Hafengelände</string>
     <string name="draft_zoneharbor_text">Industrie für die Küstenlinie.</string>
     <string name="settings_auto_road_for_zones">Baue Straße bei Zonenauswahl</string>
@@ -607,8 +607,8 @@
     <string name="topic_nature">Schütze die Natur</string>
     <string name="topic_time">Nimm dir etwas Zeit</string>
     <string name="topic_big">Mache was großartiges daraus</string>
-    <string name="buildinginfo_waterwaste">Wasserverschmutzung: %1$.1f%%</string>
-    <string name="ci_water_waste">Verschmutzt: %1$.1f%%</string>
+    <string name="buildinginfo_waterwaste">Abwasser: %1$.1f%%</string>
+    <string name="ci_water_waste">Abwasser: %1$.1f%%</string>
     <string name="shader_fancy2">X-Fein</string>
     <string name="draft_sewerpipe00_title">Abflussrohr</string>
     <string name="draft_sewerpipe00_text">Lässt verschmutztes Wasser in die freie Natur ab. Senkt Wasserverschmutzung des Rohrsystems, verschmutzt jedoch die Umgebung. </string>
@@ -631,9 +631,9 @@
     <string name="draft_buoy00_text">Hilft Schiffen bei der Navigation.</string>
     <string name="draft_buoy00_title">Boje</string>
     <string name="ci_general_seed">Zufallswert: %1$s</string>
-    <string name="draft_decocom00_text">.</string>
-    <string name="draft_decoind00_text">.</string>
-    <string name="draft_decores00_text">.</string>
+    <string name="draft_decocom00_text">Einige Dekorationen für deine Gewerbegebiete.</string>
+    <string name="draft_decoind00_text">Einige Dekorationen für deine Industriegebiete.</string>
+    <string name="draft_decores00_text">Einige Dekorationen für deine Wohngebiete.</string>
     <string name="ci_budget_title_nomoney">Finanzen (theoretisch)</string>
     <string name="dialog_notification_cmdok">Ok</string>
     <string name="draft_nuclearplant00_title">Atomkraftwerk</string>
@@ -747,7 +747,7 @@
     <string name="settings_winter">Winter</string>
     <string name="notify_riot_noreason">Wir haben hier ohne Grund einen Aufstand!</string>
     <string name="notify_riot_reason">Wir haben hier einen Aufstand wegen %1$s!</string>
-    <string name="notify_demonstration">Hier findet eine Demo wegen %1s statt! Unternimm etwas, um Schlimmeres zu verhindern!</string>
+    <string name="notify_demonstration">Hier findet eine Demo wegen %1$s statt! Unternimm etwas, um Schlimmeres zu verhindern!</string>
     <string name="draft_marker_powermarker_title">Energieversorgung</string>
     <string name="draft_marker_watermarker_title">Wasserversorgung</string>
     <string name="draft_road04_title">Allee</string>
@@ -774,7 +774,7 @@
     <string name="draft_rnk_town_medium_title">Gemeinde</string>
     <string name="rank_needed_people">Mindestens %1$,d Einwohner</string>
     <string name="draft_decoroad00_title">Allee Dekoration</string>
-    <string name="draft_decoroad00_text">.</string>
+    <string name="draft_decoroad00_text">Etwas Natur und Schatten für belebte Stadtzentren.</string>
     <string name="settings_experimental">Experimentelle Funktionen</string>
     <string name="about_thanks">Besonderen Dank an</string>
     <string name="about_community">Und die restliche Community</string>
@@ -1450,7 +1450,7 @@ Mit Zugriff auf den externen Speicher werden Städte im Ordner TheoTown/maps auf
 
 
     <string name="dialog_halftunnelprice_title">Halber Tunnelpreis</string>
-    <string name="dialog_halftunnelprice_text">Lust Diamanten zu sparen? Dieser Boost reduziert die Kosten pro Tunnelstück um 50 für %s.</string>
+    <string name="dialog_halftunnelprice_text">Lust, Diamanten zu sparen? Dieser Boost reduziert die Kosten pro Tunnelstück um 50%% für %s.</string>
     <string name="game_remaining_halftunnelprice">Halber Tunnelpreis %s</string>
     <string name="shop_diamonds_sole">%s Diamanten</string>
     <string name="dialog_diamondshop_bestvalue">Bester Wert</string>
@@ -1500,28 +1500,28 @@ Mit Zugriff auf den externen Speicher werden Städte im Ordner TheoTown/maps auf
     <string name="draft_draft_hsp_text">Zufriedenheit über Sportangebot.</string>
     <string name="draft_draft_hgen_title">Allgemeine Zufriedenheit</string>
     <string name="draft_draft_hgen_text">Die allgemeine Zufriedenheit.</string>
-    <string name="influence_passenger_bus_title">Bus transport</string>
-    <string name="influence_passenger_bus_text">If people use busses there will be less traffic.</string>
-    <string name="influence_passenger_train_title">Train transport</string>
-    <string name="influence_passenger_train_text">If people use trains there will be less traffic on the road.</string>
-    <string name="influence_residential_title">Residential area</string>
-    <string name="influence_residential_text">People prefer to live in a residential area.</string>
-    <string name="influence_commercial_title">Commercial area</string>
-    <string name="influence_commercial_text">Commercials are often groupes togther to attract customers.</string>
-    <string name="influence_industrial_title">Industrial area</string>
-    <string name="influence_industrial_text">People don\'t want to live nearby.</string>
-    <string name="influence_level_low_title">low level</string>
-    <string name="influence_level_low_text">Buildings of this level are usually poor.</string>
-    <string name="influence_level_middle_title">Medium level</string>
-    <string name="influence_level_middle_text">Buildings of this level are not that poor.</string>
-    <string name="influence_level_high_title">High level</string>
-    <string name="influence_level_high_text">Buildings of this level are usually rich.</string>
-    <string name="influence_density_title">Density</string>
-    <string name="influence_density_text">High buildings are typically more dense.</string>
-    <string name="influence_nature_title">Nature</string>
-    <string name="influence_nature_text">Parks and especially forest have a great nature influence.</string>
-    <string name="influence_waste_disposal_title">Waste disposal</string>
-    <string name="influence_waste_disposal_text">Waste should be removed in order to make you inhabitants happy..</string>
+    <string name="influence_passenger_bus_title">Busverkehr</string>
+    <string name="influence_passenger_bus_text">Wenn Menschen Busse nutzen, gibt es weniger Verkehr.</string>
+    <string name="influence_passenger_train_title">Zugverkehr</string>
+    <string name="influence_passenger_train_text">Wenn Menschen Züge nutzen, gibt es weniger Straßenverkehr.</string>
+    <string name="influence_residential_title">Wohngebiet</string>
+    <string name="influence_residential_text">Menschen leben lieber in einem Wohngebiet.</string>
+    <string name="influence_commercial_title">Gewerbegebiet</string>
+    <string name="influence_commercial_text">Geschäfte liegen oft nah beieinander, um Kunden anzuziehen.</string>
+    <string name="influence_industrial_title">Industriegebiet</string>
+    <string name="influence_industrial_text">Menschen möchten nicht in der Nähe wohnen.</string>
+    <string name="influence_level_low_title">Niedrige Stufe</string>
+    <string name="influence_level_low_text">Gebäude dieser Stufe sind normalerweise ärmer.</string>
+    <string name="influence_level_middle_title">Mittlere Stufe</string>
+    <string name="influence_level_middle_text">Gebäude dieser Stufe sind nicht ganz so arm.</string>
+    <string name="influence_level_high_title">Hohe Stufe</string>
+    <string name="influence_level_high_text">Gebäude dieser Stufe sind normalerweise wohlhabend.</string>
+    <string name="influence_density_title">Dichte</string>
+    <string name="influence_density_text">Hohe Gebäude haben normalerweise eine höhere Dichte.</string>
+    <string name="influence_nature_title">Natur</string>
+    <string name="influence_nature_text">Parks und besonders Wälder haben einen großen Einfluss auf die Natur.</string>
+    <string name="influence_waste_disposal_title">Müllentsorgung</string>
+    <string name="influence_waste_disposal_text">Müll sollte entsorgt werden, damit deine Einwohner zufrieden sind.</string>
     <string name="draft_bus_road00_title">Busstraße</string>
     <string name="draft_bus_road00_text">Eine Straße auf der nur Busse fahren dürfen.</string>
     <string name="draft_bus_oneway_road00_title">Bus-Einbahnstraße</string>
@@ -1735,7 +1735,7 @@ Mit Zugriff auf den externen Speicher werden Städte im Ordner TheoTown/maps auf
 
 
     <string name="draft_feature_doubledincome00_title">Doppeltes Einkommen</string>
-    <string name="draft_feature_doubledincome00_text">Verdoppelt das Einkomen deiner Stadt.</string>
+    <string name="draft_feature_doubledincome00_text">Verdoppelt das Einkommen deiner Stadt.</string>
     <string name="features_duration">Dauer %s</string>
     <string name="draft_roaddeco_crosswalk00_title">Zebrastreifen</string>
     <string name="draft_roaddeco_crosswalk00_text">Es ist gefährlich die Straße einfach so zu überqueren!</string>
@@ -1999,7 +1999,7 @@ Nachtteile: Langweilig</string>
     <string name="influence_body_disposal_title">Bestattung</string>
     <string name="influence_body_disposal_text">Ruhe für die Toten.</string>
     <string name="influence_traffic_title">Verkehr</string>
-    <string name="influence_traffic_text">Einwohner mögen den von Verkehr verursachten Lärm und die Verschmuztung nicht.</string>
+    <string name="influence_traffic_text">Einwohner mögen den von Verkehr verursachten Lärm und die Verschmutzung nicht.</string>
     <string name="ci_neighbor_wastedisposal">Müllentsorgung</string>
     <string name="ci_neighbor_bodydisposal">Bestattungsservice</string>
     <string name="wastedisposal_transport">%1$,dL/d</string>
@@ -2139,8 +2139,8 @@ Nachtteile: Langweilig</string>
 
 
     <string name="settings_sound_master">Master</string>
-    <string name="draft_cemetery01_title">Big Cemetery</string>
-    <string name="draft_cemetery01_text">A place where the remains of dead people are buried. This cemetery has a lot of space.</string>
+    <string name="draft_cemetery01_title">Großer Friedhof</string>
+    <string name="draft_cemetery01_text">Ein Ort, an dem Verstorbene bestattet werden. Dieser Friedhof bietet viel Platz.</string>
 
 
     <string name="settings_bigger_minimap">Größere Minimap</string>
@@ -2186,7 +2186,7 @@ Nachtteile: Langweilig</string>
     <string name="dialog_reported_text">Danke für deine Meldung. Wir werden den Inhalt untersuchen und bei Befund entsprechend handeln.\nFalls nötig kannst du uns weitere Informationen an report@theotown.com zukommen lassen.</string>
     <string name="dialog_report_cmd">Melden</string>
     <string name="stage_comment_reportsubject">der Kommentar von %1$s</string>
-    <string name="stage_store_reportsubject">das Plguin "%1$s"</string>
+    <string name="stage_store_reportsubject">das Plugin "%1$s"</string>
     <string name="stage_comment_noperm">Du bist nicht befugt hier zu kommentieren.</string>
     <string name="store_modecommented">Kommentare</string>
     <string name="report_sexual">Sexueller Inhalt</string>
@@ -2196,7 +2196,7 @@ Nachtteile: Langweilig</string>
     <string name="report_promotes_terrorism">Unterstützt Terrorismus</string>
     <string name="report_spam_or_misleading">Werbung oder Irreführung</string>
     <string name="report_infringes_my_rights">Verletzt meine Rechte</string>
-    <string name="report_bad_behavior">Bad behavior</string>
+    <string name="report_bad_behavior">Schlechtes Verhalten</string>
     <string name="report_violates_store_rules">Verletzt andere Regeln des Stores</string>
     <string name="stage_comment_cmdsend">Senden</string>
     <string name="stage_comment_cmdsendhint">Kommentieren...</string>
@@ -2385,7 +2385,7 @@ Indem du das Spiel mit einem TheoTown Forum Account verbindest, kannst du in den
     <string name="dialog_removeowner_title">Besitzer entfernen</string>
     <string name="dialog_removeowner_text">Bist du sicher, dass du %1$s von diesem Grundstück entfernen möchtest?\n\nDies kann nicht rückgängig gemacht werden.</string>
     <string name="dialog_removeowner_cmdremove">Entfernen</string>
-    <string name="stage_regioncity_lastplayed">Zuletzt bespielt: %1$s ago</string>
+    <string name="stage_regioncity_lastplayed">Zuletzt bespielt: vor %1$s</string>
     <string name="ci_loan_get_text2">Wert: %1$s
 \nDauer: %2$,d Monate
 \nMonatliche Kosten: %3$s</string>
@@ -2778,7 +2778,7 @@ Drücke eine Taste um sie dieser Aktion zuzuordnen.</string>
     <string name="draft_dsarocketready_requirement">Rakete ist bereit für den Start</string>
     <string name="draft_dsarockettestundone_requirement">vorige Tests sind noch nicht abgeschlossen</string>
     <string name="draft_dsarockettestdone_requirement">vorige Tests sind abgeschlossen</string>
-    <string name="draft_dsarocketfinalundone_requirement">Test ist abgeschlossen</string>
+    <string name="draft_dsarocketfinalundone_requirement">Tests sind noch nicht abgeschlossen</string>
     <string name="draft_dsarocketfinaldone_requirement">Raketen Tests sind abgeschlossen</string>
     <string name="draft_dsaHELIUM_requirement">benötigt: Helium 3 im Weltall entdeckt</string>
     <string name="draft_dsaDYSON_requirement">benötigt: Dysons Sphere im Weltall</string>
@@ -2800,7 +2800,7 @@ Drücke eine Taste um sie dieser Aktion zuzuordnen.</string>
     <string name="draft_dsacontainingwalls_text">unzerstörbare Mauer, die designd wurde, um zerstörerische Substanzen im Schach zu halten.</string>
     <string name="draft_dsa_tree_destroyer_title">Baumschneider 42-069</string>
     <string name="draft_dsa_tree_destroyer_text">eine excellente Maschine, die Bäume für 50% mehr Geld fällt.</string>
-    <string name="draft_tool_disaster_blackhole_title">SChwarzes Loch</string>
+    <string name="draft_tool_disaster_blackhole_title">Schwarzes Loch</string>
     <string name="draft_tool_disaster_blackhole_text">ein besonderes Desaster für Hacker.</string>
     <string name="draft_tool_disaster_blackhole_cmd">sauge alles ein</string>
     <string name="draft_blackhole_dsa_title">Event Horizont</string>
@@ -2808,10 +2808,10 @@ Drücke eine Taste um sie dieser Aktion zuzuordnen.</string>
     <string name="draft_blackhole_dsa_static_title">Singularität</string>
     <string name="draft_blackhole_dsa_static_text">Eine Region in der Raumzeit und die Gezeiten der Gravitationskraft unendlich werden.</string>
     <string name="draft_tool_disaster_gliu44_title">Geliumium</string>
-    <string name="draft_tool_disaster_gliu44_text">Ein Virus, unbekannter Herkunf, hat erstaunlich zerstörerische Wirkungen.</string>
+    <string name="draft_tool_disaster_gliu44_text">Ein Virus unbekannter Herkunft mit extrem zerstörerischer Wirkung.</string>
     <string name="draft_tool_disaster_gliu44_cmd"> Lass es sich verteilen</string>
     <string name="draft_gliu44_title">Geliumium</string>
-    <string name="draft_gliu44_text">Ein Virus, unbekannter Herkunf, hat erstaunlich zerstörerische Wirkungen.</string>
+    <string name="draft_gliu44_text">Ein Virus unbekannter Herkunft mit extrem zerstörerischer Wirkung.</string>
     <string name="draft_gialodathomyle00_title">Gialodathomyle</string>
     <string name="draft_gialodathomyle00_text">Eine mutierte Variante von Geliumium, welche Geliumium zerstört, aber sonst ungefährlich ist.</string>
     <string name="draft_dsa_moon_drillingstation_template00_title">Mine</string>
@@ -2838,7 +2838,7 @@ Drücke eine Taste um sie dieser Aktion zuzuordnen.</string>
     <string name="draft_dsarocket_upg6_title">Errichte SDI</string>
     <string name="draft_dsarocket_upg6_text">Schicke eine Serie von Raketen in eine Erdumlaufbahn, um eine Verteidingungsstruktur gegen Angriffe aus dem All zu haben.\nMaterialien: ${_dsareadiness}/15000</string>
     <string name="draft_Olsken.LobbysCake_title">Lobby Cake</string>
-    <string name="draft_Olsken.LobbysCake_text">A limited edition cake made specifically for Lobby from the community!\nHappy Birthday to Lobby!</string>
+    <string name="draft_Olsken.LobbysCake_text">Ein Kuchen in limitierter Auflage, den die Community eigens für Lobby gemacht hat!\nAlles Gute zum Geburtstag, Lobby!</string>
     <string name="draft_dsa_notify00_text">Guten Tag, ich bin der CEO von der DSA und ich werde ihnen helfen alle lokalen DSA Operationen zu managen.</string>
     <string name="draft_dsa_notify01_text">ES SCHEINT ALS GEBE ES EIN ERDBEBEN!</string>
     <string name="draft_dsa_notify02_text">Bürgermeister, aufgrund der Gefahr eines Erdbebens ziehen wir Mittel ab, um die Region im Falle eines Erdbeben damit zu versorgen.</string>
@@ -2879,7 +2879,7 @@ Drücke eine Taste um sie dieser Aktion zuzuordnen.</string>
     <string name="draft_ja_picklehuge01_text">Scheint der Herrscher über die Gewürzgurken zu sein, die wir in dieser Region gefunden haben.</string>
     <string name="draft_ja_tinypickle00_title">Gewürzgurke</string>
     <string name="draft_ja_tinypickle00_text">Scheint eine Form intelligenten Lebens zu sein.</string>
-    <string name="draft_moon_artifact_ja00_title">ALien Artefakt</string>
+    <string name="draft_moon_artifact_ja00_title">Alien-Artefakt</string>
     <string name="draft_moon_artifact_ja00_text">Nutzen und Zweck dieser Struktur sind unbekannt.</string>
     <string name="draft_dsa_time_machine00_title">Zeit Maschine</string>
     <string name="draft_dsa_time_machine00_text">klassiefiziert</string>
@@ -2948,7 +2948,7 @@ Drücke eine Taste um sie dieser Aktion zuzuordnen.</string>
     <string name="draft_space_storyline_cancel00">Es tut mir leid, aber ich werde dir nichts erzählen!</string>
     <string name="draft_space_storyline_busy00">Entschuldige, ich habe dir momentan nichts zu sagen.</string>
     <string name="draft_space_storyline_intro00">Ơ̶̮̤̠̲̆̚h̴̫͒ ̶̣͑̈́̾h̴à͓̪͔̿̈́l̵̫̘͔͉̂l̶͍͉̞̼͒̓̽̀o hiẻ̴̡̩͔̗̿̉r̶̻̪̠͛!</string>
-    <string name="draft_space_storyline_intro01">Bitte greife uns nicht an, wir kommen in Frienden.</string>
+    <string name="draft_space_storyline_intro01">Bitte greife uns nicht an, wir kommen in Frieden.</string>
     <string name="draft_space_storyline_intro02">Naja, abgestürzt wäre wohl der passendere Ausdruck.</string>
     <string name="draft_space_storyline_intro03">Wir vertrauen darauf, dass du uns nichts tun wirst. Wirst du doch nicht, oder?</string>
     <string name="draft_space_storyline_intro_refused00">Nun gut. Du kannst mit uns machen was du willst, aber wir werden dir nichts erzählen.</string>
@@ -2994,9 +2994,9 @@ Drücke eine Taste um sie dieser Aktion zuzuordnen.</string>
     <string name="draft_space_storyline_stage_7_04_notyetbuilt">Ich sehe, dass die Rakete noch immer nicht fertig ist</string>
     <string name="draft_space_storyline_stage_8_cutscene">Gurken begeben sich auf das Fluggerät</string>
     <string name="draft_space_storyline_ending_cutscene">Rakete hebt ab</string>
-    <string name="draft_dsa_park00_title">Akial square</string>
-    <string name="draft_dsa_park00_text">A tribute to the first animal ever launched into Earth orbit.</string>
-    <string name="draft_rocket_akial_requirement">Need: Animal carriage test</string>
+    <string name="draft_dsa_park00_title">Akial-Platz</string>
+    <string name="draft_dsa_park00_text">Eine Hommage an das erste Tier, das je in die Erdumlaufbahn gebracht wurde.</string>
+    <string name="draft_rocket_akial_requirement">Benötigt: Tiertransporttest</string>
 
     <string name="draft_space_storyline_stage_4_06">Oh, du hast keine verfügbar? Lass mich einen Zaubertrick machen...</string>
     <string name="draft_tollbooth00_passedbycars">Vorbeigefahrene Autos: </string>
@@ -3153,10 +3153,10 @@ Plugins, die zur Funktion die Skriptausführung erfordern, funktionieren möglic
     <string name="tip_topic_traffic_networking_text">Oft können Orte wie Autobahnen und Industriegebiete durch Verkehr überlastet werden. Ein ordentliches Straßennetz ist notwendig, um dies zu beheben. Einbahnstraßen und Kreuzungen können dabei helfen. Es gibt vorgefertigte Kreuzungen sowohl im Spiel als auch als Plugins. Du kannst auch deine eigenen erstellen, indem du reale Kreuzungen als Beispiel verwendest. Dies würde einen besseren Verkehrsfluss ermöglichen und den Verkehr in deiner Stadt reduzieren.</string>
     <string name="tip_topic_traffic_volume_title">Du kannst das Verkehrsaufkommen in den Einstellungen anpassen, um den Verkehr zu reduzieren</string>
     <string name="tip_topic_traffic_volume_text">Um das Verkehrsaufkommen in den Einstellungen anzupassen, aktiviere zuerst den Debug-Modus, dieser sollte ebenfalls dort sein. Sobald der Debug-Modus aktiviert ist, wird Ihnen die Option angeboten, den Verkehr zu verringern oder zu erhöhen. Welchen Prozentsatz du wählst, hängt davon ab, wie viel Verkehr du hast und wie viel Herausforderung gewünscht ist.</string>
-    <string name="tip_topic_more_cash_title">Um mehr Geld zu bekommen, nehme einen Kredit auf</string>
+    <string name="tip_topic_more_cash_title">Um mehr Geld zu bekommen, nimm einen Kredit auf</string>
     <string name="tip_topic_more_cash_text">Drücke auf das Einkommenssymbol und wechsel dann zum Reiter mit dem grünen Geldsymbol. Dann drücke auf "erhöhen". Die Höhe des angebotenen Geldes hängt vom Anwesen ab und es können bis zu fünf Kredite gleichzeitig aufgenommen werden.</string>
     <string name="tip_topic_loan_repayment_title">Kredite werden automatisch jeden Monat zurückgezahlt</string>
-    <string name="tip_topic_loan_repayment_text">Kreditzahlungen werden automatisch jeden Monat automatisch vom Spiel abgezogen. Sie müssen nicht manuell bezahlt werden, obwohl du die monatlichen Ausgaben reduzieren könntest, indem du dies tust. Die Rückzahlungsfrist kann im Kredit-Tab eingesehen werden.</string>
+    <string name="tip_topic_loan_repayment_text">Kreditzahlungen werden jeden Monat automatisch vom Spiel abgezogen. Sie müssen nicht manuell bezahlt werden, obwohl du die monatlichen Ausgaben reduzieren könntest, indem du dies tust. Die Rückzahlungsfrist kann im Kredit-Tab eingesehen werden.</string>
     <string name="tip_topic_discord_title">Es gibt einen offiziellen Discord-Server!</string>
     <string name="tip_topic_discord_text">Der offizielle Discord-Server ist ein Ort, an dem Spieler und Entwickler sich treffen, ihre Kreationen zeigen und Freundschaften schließen. Der Link kann im Spiel in den Einstellungen gefunden werden.</string>
     <string name="tip_topic_making_plugins_title">Du kannst deine eigenen Plugins erstellen. Es ist einfach™</string>
@@ -3302,9 +3302,9 @@ Plugins, die zur Funktion die Skriptausführung erfordern, funktionieren möglic
     <string name="regionlist_cat_tags">Tags</string>
     <string name="settings_highrescitypreview">Verwende hochauflösende Stadtvorschau</string>
     <string name="draft_native_snow_plow_depot00_title">Schneepflugdepot</string>
-    <string name="draft_native_snow_plow_depot00_text">Eine spezielle Einrichtung, die deine Straßen im Winter frei hält. Schickt Schneepflüge los, die Eis und Schnee von der Fahrbahn entfernen, um den ungehinderten Verkehftsfluss zu gewährleisten.</string>
+    <string name="draft_native_snow_plow_depot00_text">Eine spezielle Einrichtung, die deine Straßen im Winter frei hält. Schickt Schneepflüge los, die Eis und Schnee von der Fahrbahn entfernen, um den ungehinderten Verkehrsfluss zu gewährleisten.</string>
     <string name="settings_road_snow_overlay">Straßenschneebedeckung</string>
-    <string name="settings_ground_snow_overlay">Bodenscheebedeckung</string>
+    <string name="settings_ground_snow_overlay">Bodenschneebedeckung</string>
     <string name="dialog_scenarios_cmdopen">Szenarios</string>
     <string name="dialog_scenarios_title">Szenarios</string>
     <string name="dialog_scenarios_generalinfo_title">Was sind Szenarios?</string>
@@ -3319,7 +3319,7 @@ Plugins, die zur Funktion die Skriptausführung erfordern, funktionieren möglic
     <string name="dialog_scenarios_reset_text">Bist du dir sicher, dass du deinen Fortschritt in diesem Szenario zurücksetzen möchtest? Du kannst die Stadt entweder zu deinen Individualstädten verschieben um sie weiter zu bespielen, oder aber ganz löschen.</string>
     <string name="dialog_scenarios_empty">Es sind momentan keine Szenarios verfügbar.</string>
     <string name="dialog_scenarios_notplayedyet">Noch nicht gespielt</string>
-    <string name="region_download_city">Stadt herunterladen City</string>
+    <string name="region_download_city">Stadt herunterladen</string>
     <string name="region_download_region">Region herunterladen</string>
     <string name="toolaction_removelast">Letzte entfernen</string>
     <string name="ci_transportation_title">Verkehrssysteme</string>
@@ -3565,7 +3565,7 @@ Plugins, die zur Funktion die Skriptausführung erfordern, funktionieren möglic
     <string name="legend_protected_buildings">Denkmalgeschützt</string>
     <string name="legend_density_low">Geringe Dichte</string>
     <string name="legend_density_high">Hohe Dichte</string>
-    <string name="legend_traffic_low">Geriner Verkehr</string>
+    <string name="legend_traffic_low">Geringer Verkehr</string>
     <string name="legend_traffic_high">Hoher Verkehr</string>
     <string name="legend_happy">Glücklich</string>
     <string name="legend_unhappy">Unglücklich</string>
@@ -3578,5 +3578,34 @@ Plugins, die zur Funktion die Skriptausführung erfordern, funktionieren möglic
     <string name="legend_mixed_voltage">Beides</string>
     <string name="legend_metro">U-Bahn</string>
     <string name="legend_ts_edit">%s (in Bearbeitung)</string>
+
+
+    <string name="dialog_url_title">Website öffnen?</string>
+    <string name="dialog_url_text">Das Plugin „%s“ möchte eine externe Website öffnen. Diese kann Werbung enthalten. Fahre nur fort, wenn du dem Plugin vertraust:</string>
+    <string name="dialog_url_cmdopen">Öffnen</string>
+    <string name="settings_adaptive_ground_blending">Adaptives Gelände-Blending</string>
+
+    <string name="empty_cause_unknown">Aus unbekannten Gründen verlassen.</string>
+    <string name="empty_cause_low_demand">Aufgrund geringer Nachfrage verlassen.</string>
+    <string name="empty_cause_low_happiness">Aufgrund geringer Zufriedenheit mit %s verlassen.</string>
+    <string name="empty_cause_crime">Aufgrund von Kriminalität (%s) verlassen.</string>
+    <string name="empty_cause_illness">Aufgrund Kontamination verlassen.</string>
+    <string name="stage_files_folderfiles">Enthält %d Datei(en)</string>
+
+    <string name="notbuildablereason_generic">Bauen hier nicht möglich</string>
+    <string name="notbuildablereason_land">Benötigt Land</string>
+    <string name="notbuildablereason_water">Benötigt Wasser</string>
+    <string name="notbuildablereason_zone">Falsche Zone</string>
+    <string name="notbuildablereason_maxcount">Baulimit erreicht</string>
+    <string name="notbuildablereason_terrain">Ungeeignetes Gelände</string>
+    <string name="notbuildablereason_nomoney">Nicht genug Geld</string>
+    <string name="notbuildablereason_blocked">Bereich ist blockiert</string>
+
+    <string name="recovery_mode_title">Oops</string>
+    <string name="recovery_mode_text">TheoTown konnte mehrmals hintereinander nicht gestartet werden.\n\nMöchtest du das Spiel im Recovery Mode starten?\n\nDer Recovery Mode deaktiviert vorübergehend alle Plugins, sodass du fehlerhafte Plugins entfernen oder reparieren kannst. Beim nächsten Spielstart werden Plugins wieder normal geladen.</string>
+    <string name="recovery_mode_normal">Normal starten</string>
+    <string name="recovery_mode_recovery">Recovery Mode</string>
+
+    <string name="settings_draw_neighbors">Benachbarte Städte zeichnen</string>
 
 </resources>

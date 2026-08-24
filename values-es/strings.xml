@@ -3,7 +3,7 @@
     <string name="settings_title">Ajustes</string>
     <string name="loadcity_title">Cargar Ciudad</string>
     <string name="createcity_title">Nueva Ciudad</string>
-    <string name="settings_defaults">Predeteminado</string>
+    <string name="settings_defaults">Predeterminado</string>
     <string name="settings_apply">Aplicar</string>
     <string name="createcity_mapsize">Tamaño:</string>
     <string name="createcity_cityname">Nombre:</string>
@@ -132,7 +132,7 @@
     <string name="settings_shader">Sombreado</string>
     <string name="shader_colorful">Atractivo</string>
     <string name="shader_gray">Gris</string>
-    <string name="shader_fancy">Fantastico</string>
+    <string name="shader_fancy">Fantástico</string>
     <string name="settings_category_graphics">Gráficos</string>
     <string name="settings_category_audio">Sonido</string>
     <string name="settings_category_other">Otro</string>
@@ -165,7 +165,7 @@
     <string name="budget_park">Parques</string>
     <string name="budget_education">Educación</string>
     <string name="budget_firebrigade">Brigada de bomberos</string>
-    <string name="budget_police">Policias</string>
+    <string name="budget_police">Policías</string>
     <string name="budget_award">Regalos</string>
     <string name="budget_energy">Energía</string>
     <string name="budget_water">Agua</string>
@@ -224,8 +224,8 @@
     <string name="settings_energysaving">Modo de ahorro de energía</string>
     <string name="about_idea">Idea:</string>
     <string name="about_programming">Programación:</string>
-    <string name="about_graphics">Graficos:</string>
-    <string name="about_music">Musica:</string>
+    <string name="about_graphics">Gráficos:</string>
+    <string name="about_music">Música:</string>
     <string name="about_engine">Motor gráfico:</string>
     <string name="draft_police00_title">Estación de Policía</string>
     <string name="draft_police00_text">Para mayor seguridad.</string>
@@ -258,7 +258,7 @@
     <string name="draft_busdepot00_title">Estación de autobuses</string>
     <string name="draft_busdepot00_text">Se necesita un depósito para turnar las salidas de los autobuses a diferentes sitios.</string>
     <string name="settings_debugmode">Modo de depuración</string>
-    <string name="unknown">Pan de salchicha</string>
+    <string name="unknown">Wurstbrot</string>
     <string name="draftselector_titleremove">Retirar</string>
     <string name="draftselector_titleview">Ver</string>
     <string name="toolremove_default_title">Eliminar</string>
@@ -293,7 +293,7 @@
     <string name="ci_rci_res2">Res ₮₮₮</string>
     <string name="ci_rci_com0">Com ₮</string>
     <string name="ci_rci_com1">Com ₮₮</string>
-    <string name="ci_rci_com2">Com ₮₮₮₮</string>
+    <string name="ci_rci_com2">Com ₮₮₮</string>
     <string name="ci_rci_ind0">Ind ₮</string>
     <string name="ci_rci_ind1">Ind ₮₮</string>
     <string name="ci_rci_ind2">Ind ₮₮₮</string>
@@ -301,7 +301,7 @@
     <string name="ci_general_population1">Habitantes medios (₮₮): %1$,d</string>
     <string name="ci_general_population2">Habitantes ricos (₮₮₮): %1$,d</string>
     <string name="draft_footballfield00_title">Campo de fútbol</string>
-    <string name="draft_footballfield00_text">Un campo de fútbol hará que sus habitantes esten felices.</string>
+    <string name="draft_footballfield00_text">Un campo de fútbol hará que sus habitantes estén felices.</string>
     <string name="loadcity_kbsize">%1$,d KB</string>
     <string name="draftselector_upgrades">%1$,d Actualización(es) disponibles</string>
     <string name="buildinginfo_upgrades">%1$,d/%2$,d Actualización(es)</string>
@@ -480,7 +480,7 @@
     <string name="buildinginfo_influences">Influencias</string>
     <string name="ci_loan_title">Préstamos</string>
     <string name="ci_loan_donate">Mendigar</string>
-    <string name="ci_loan_get">Prestamo</string>
+    <string name="ci_loan_get">Préstamo</string>
     <string name="ci_loan_donate_text">Por favor, dame un centavo, lo necesito tanto :(</string>
     <string name="draft_crater4x4_title">Cráter de meteorito</string>
     <string name="draft_crater4x4_text">Un enorme cráter de un meteoro, debes quitarlo.</string>
@@ -512,7 +512,7 @@
     <string name="requirement_peoplecount_all">Necesidad: Una población de %1$,d</string>
     <string name="requirement_peoplecount_poor">Necesidad: Una población pobre de %1$,d</string>
     <string name="requirement_peoplecount_middle">Necesidad: Una población de clase media de %1$,d</string>
-    <string name="requirement_peoplecount_rich">Necesidad: Una población rica de%1$,d</string>
+    <string name="requirement_peoplecount_rich">Necesidad: Una población rica de %1$,d</string>
     <string name="requirement_building">Falta: %1$s</string>
     <string name="draftselector_onlyone">Solo se puede construir una vez</string>
     <string name="draftselector_onlyn">Solo se puede construir %1$,d veces</string>
@@ -529,12 +529,12 @@
     <string name="ci_health_title">Salud</string>
     <string name="ci_education_schools">Escuelas: %1$,d</string>
     <string name="ci_education_needed">Necesarias: %1$,d</string>
-    <string name="ci_education_provided">Previstas: %1$,d</string>
+    <string name="ci_education_provided">Proporcionada: %1$,d</string>
     <string name="ci_education_reached">Alcanzado: %1$,d</string>
     <string name="ci_education_low">Educación Baja</string>
     <string name="ci_education_high">Educación superior</string>
     <string name="ci_health_buildings">Edificios: %1$,d</string>
-    <string name="ci_health_provided">Previstas: %1$,d</string>
+    <string name="ci_health_provided">Proporcionada: %1$,d</string>
     <string name="ci_health_reached">Alcanzado: %1$,d</string>
     <string name="ci_health_needed">Necesarias: %1$,d</string>
     <string name="influence_pollution_title">Contaminación</string>
@@ -613,14 +613,14 @@
     <string name="buildinginfo_waterwaste">Agua desperdiciada: %1$.1f%%</string>
     <string name="ci_water_waste">Perdido: %1$.1f%%</string>
     <string name="shader_fancy2">X-Fancy</string>
-    <string name="draft_sewerpipe00_title">Tuberia de drenaje</string>
-    <string name="draft_sewerpipe00_text">Disminuye la contaminación del agua al liberar agua desperdiciada a la naturaleza. Tiene una mala influencia.</string>
+    <string name="draft_sewerpipe00_title">Tubería de alcantarillado</string>
+    <string name="draft_sewerpipe00_text">Libera aguas residuales sin tratar, contaminando la zona cercana. Una solución rápida y sucia para los problemas de tratamiento de aguas.</string>
     <string name="settings_lowresmapscreenshot">Baja resolución para captura de pantalla del mapa</string>
     <string name="draft_marina00_title">Puerto pequeño</string>
     <string name="draft_marina00_text">Entretenimiento para los habitantes ricos.</string>
     <string name="loadcity_version">Versión %1$,d</string>
     <string name="loadcity_memdialog_title">No hay acceso a la memoria externa</string>
-    <string name="loadcity_memdialog_text">Las ciudades se guardarán en almacenamiento interno. No tendrás acceso a ellos.</string>
+    <string name="loadcity_memdialog_text">Las ciudades se guardarán en almacenamiento interno. No tendrás acceso a ellas.</string>
     <string name="loadcity_memdialog_cmdremind">Recuérdame</string>
     <string name="loadcity_memdialog_cmdok">No importa</string>
     <string name="about_translation">Traducción:</string>
@@ -634,9 +634,9 @@
     <string name="draft_buoy00_title">Boya</string>
     <string name="draft_buoy00_text">Ayuda a los buques a encontrar el camino.</string>
     <string name="ci_general_seed">Semilla: %1$s</string>
-    <string name="draft_decores00_text">.</string>
-    <string name="draft_decocom00_text">.</string>
-    <string name="draft_decoind00_text">.</string>
+    <string name="draft_decores00_text">Algunas decoraciones para tus zonas residenciales.</string>
+    <string name="draft_decocom00_text">Algunas decoraciones para tus zonas comerciales.</string>
+    <string name="draft_decoind00_text">Algunas decoraciones para tus zonas industriales.</string>
     <string name="ci_budget_title_nomoney">Finanzas (teóricas)</string>
     <string name="dialog_notification_cmdok">Ok</string>
     <string name="draft_nuclearplant00_title">Central nuclear</string>
@@ -728,7 +728,7 @@
     <string name="dialog_copycity_cmdcancel">Cancelar</string>
     <string name="waiting_screenshot">Sacando foto</string>
     <string name="waiting_copycity">Copiando la ciudad</string>
-    <string name="app_name_premium">La prima de TheoTown</string>
+    <string name="app_name_premium">TheoTown Premium</string>
     <string name="busstopinfo_title">Parada de autobús</string>
     <string name="roadinfo_title">La carretera</string>
     <string name="roadinfo_trafficlights_on">Semáforos encendidos</string>
@@ -753,7 +753,7 @@
     <string name="draft_road04_text">Un bonito camino con árboles.</string>
     <string name="draft_marker_watermarker_title">Agua</string>
     <string name="draft_road05_text">El camino perfecto para conectar áreas distantes.</string>
-    <string name="notify_demonstration">¡Hay un alboroto en la ciudad debido a %1s! ¡Haz algo!</string>
+    <string name="notify_demonstration">¡Hay un alboroto en la ciudad debido a %1$s! ¡Haz algo!</string>
     <string name="draft_road05_title">Autopista</string>
     <string name="draft_road04_title">Avenida</string>
     <string name="happiness_general">Felicidad general</string>
@@ -776,7 +776,7 @@
     <string name="draft_rnk_town_big_title">Gran pueblo</string>
     <string name="draft_rnk_metropolis_title">Metrópolis</string>
     <string name="draft_rnk_megalopolis_title">Megalópolis</string>
-    <string name="draft_decoroad00_text">.</string>
+    <string name="draft_decoroad00_text">Un poco de naturaleza y sombra para los concurridos centros urbanos.</string>
     <string name="settings_experimental">Características experimentales</string>
     <string name="about_thanks">Agradecimientos especiales a:</string>
     <string name="about_community">Y al resto de nuestra comunidad</string>
@@ -800,7 +800,7 @@
     <string name="draft_wasteincinerator00_title">Incinerador de desechos</string>
     <string name="rank_title">Nuevo rango de la ciudad</string>
     <string name="rank_reward">Obtienes %1$s como recompensa.</string>
-    <string name="rank_newrank">¡Felicitaciónes!, ¡La ciudad %1$s ha alcanzado un nuevo rango!:</string>
+    <string name="rank_newrank">¡Felicitaciones! La ciudad %1$s ha alcanzado un nuevo rango:</string>
     <string name="rank_available">Ya disponible:</string>
     <string name="draftselector_titlemilitary">Militar</string>
     <string name="draft_zonemilitary_title">Área Militar</string>
@@ -876,11 +876,11 @@
     <string name="dialog_present_cmdok">¡Gracias!</string>
     <string name="settings_saveminimap">Guardar el minimapa en una memoria externa</string>
     <string name="ci_budget_doublemoney_title">Multiplica el dinero</string>
-    <string name="ci_budget_doublemoney_text">El dinero se duplicará.</string>
+    <string name="ci_budget_doublemoney_text">Duplica tus ingresos durante %1$,d días.</string>
     <string name="ci_budget_getmoney_title">Obtener %1$s</string>
     <string name="ci_budget_getmoney_text">Intercambiar %1$s por un poco de compensación</string>
     <string name="notify_badattribute">Tenemos que mejorar la felicidad de %1$s para que %2$s pueda mudarse a nuestra ciudad.</string>
-    <string name="game_remaining_doubleincome">Duplica el ingreso para %1$,d dias</string>
+    <string name="game_remaining_doubleincome">Ingresos duplicados durante %1$,d días</string>
     <string name="dialog_diamondshop_title">Tienda</string>
     <string name="features_notenough">No hay suficiente %1$s</string>
     <string name="dialog_getrank_text">Puedes desbloquear este rango inmediatamente, si lo deseas.</string>
@@ -918,7 +918,7 @@
     <string name="task_reachrank_text">Felicitaciones, la ciudad alcanzó un nuevo rango.\n\nCada rango desbloquea algunos edificios y obtienes recompensa por ello.</string>
     <string name="menu_achievements">Logros</string>
     <string name="menu_leaderboards">Tablas de clasificación</string>
-    <string name="menu_screenshot">Tomar una screenshot</string>
+    <string name="menu_screenshot">Tomar una captura de pantalla</string>
     <string name="menu_mapscreenshot">Tomar foto del mapa</string>
     <string name="menu_save">Guardar</string>
     <string name="menu_title">Menú</string>
@@ -959,7 +959,7 @@
     <string name="draft_decoconstruction00_title">Construcción</string>
     <string name="draft_decoconstruction00_text">Algunas decoraciones de construcción.</string>
     <string name="draft_mltry_deco00_title">Decoración Militar</string>
-    <string name="draft_mltry_deco00_text">Decoraciónes para la base militar.</string>
+    <string name="draft_mltry_deco00_text">Decoraciones para la base militar.</string>
     <string name="shader_smooth">Suave</string>
     <string name="topic_dumbledore">Dumbledore no habría permitido que suceda.</string>
     <string name="draft_mltry_missilesilo00_title">Silo de Misiles</string>
@@ -1256,7 +1256,7 @@
     <string name="ci_airport_unlocking">Desbloqueo</string>
     <string name="ci_airport_cmdspeedup">Acelerar</string>
     <string name="dialog_renamelane_title">Renombrar pista</string>
-    <string name="dialog_renamelane_text">Introduzca un nuevo nombre para el pista:</string>
+    <string name="dialog_renamelane_text">Introduzca un nuevo nombre para la pista:</string>
     <string name="dialog_redeemcode_title">Canjear código</string>
     <string name="dialog_redeemcode_text">Ingresa el código de canje aquí para canjearlo:</string>
     <string name="dialog_redeemcode_cmdredeem">Redimir</string>
@@ -1276,8 +1276,8 @@
     <string name="settings_usezoneradius">Usar el radio de la zona</string>
     <string name="draft_airplane01_title">T380</string>
     <string name="draft_airplane01_text">Un avión de doble cubierta, y de largo alcance, diseñada por TheoAir, tiene mucho espacio.</string>
-    <string name="dialog_waitingtime_title">Reducir el tiempo de espera</string>
-    <string name="dialog_waitingtime_text">¿Desea acortar un poco el tiempo de espera?\n%1$s restante.</string>
+    <string name="dialog_waitingtime_title">Desbloquear inmediatamente</string>
+    <string name="dialog_waitingtime_text">¿Desea desbloquear esta pista inmediatamente?\nQuedan %1$s.</string>
     <string name="topic_rate">¡Por favor, ayúdenos y califique TheoTown!</string>
     <string name="ci_airport_lane_unassign">Descarte</string>
     <string name="tool_airplanelane_title">Toque en una pista libre</string>
@@ -1295,7 +1295,7 @@
     <string name="requirement_upgrade">Necesita actualización %1$s</string>
     <string name="requirement_upgrade_invert">No se puede combinar con %1$s</string>
     <string name="draft_deco_chr_present00_title">Presente!</string>
-    <string name="draft_deco_chr_present00_text">Solo es un regalo</string>
+    <string name="draft_deco_chr_present00_text">Solo es un regalo. Prueba a tocarlo.</string>
     <string name="settings_touch_rotate">Girar al tacto</string>
     <string name="disaster_green_slime_title">Limo verde</string>
     <string name="disaster_green_slime_text">Un verde limo siempre en expansión que consumirá poco a poco todo lo que está a la vista.</string>
@@ -1386,7 +1386,7 @@
     <string name="dialog_gameplay_title">Carga de juego</string>
     <string name="dialog_gameplay_text">Al habilitar la carga de juego nos permite subir su partida a nuestros servidores, vea el aviso legal para más información.</string>
     <string name="control_enable">Permitir</string>
-    <string name="dialog_gameplay_disclaimer">No permitir</string>
+    <string name="dialog_gameplay_disclaimer">Mostrar aviso legal</string>
     <string name="busgame_newbus">Añadir %d. bus</string>
     <string name="busgame_route">Ruta</string>
     <string name="busgame_speed">Velocidad</string>
@@ -1419,12 +1419,12 @@
     <string name="control_accept">Aceptar</string>
     <string name="control_dismiss">Descartar</string>
     <string name="settings_citytasks">Tareas</string>
-    <string name="dialog_disabletasks_title">Desabilitar las tareas</string>
+    <string name="dialog_disabletasks_title">Deshabilitar las tareas</string>
     <string name="dialog_disabletasks_text">Has descartado varias tareas, ¿así que quieres deshabilitarlas en esta ciudad?</string>
-    <string name="control_disable">Desabilitar</string>
+    <string name="control_disable">Deshabilitar</string>
     <string name="draft_arcdetriomphe00_title">Arco del triunfo</string>
     <string name="draft_arcdetriomphe00_text">El Arco del triunfo en París, honra a los que lucharon y murieron en la Revolución Francesa.</string>
-    <string name="featureselector_shortbuildtime">Reducir el tiempo de construcción en por %1$s</string>
+    <string name="featureselector_shortbuildtime">Tiempo de construcción reducido durante %1$s</string>
     <string name="game_remaining_shortbuildtime">Reducir el tiempo de construcción por %s</string>
     <string name="shop_open_features">Gastar diamantes</string>
     <string name="draft_feature_shortbuildingtime00_title">Reducir el tiempo de construcción</string>
@@ -1467,7 +1467,7 @@
     <string name="draft_draft_prk_title">Parque</string>
     <string name="draft_draft_prk_text">Indicador de disponibilidad de los parques.</string>
     <string name="draft_draft_sp_title">Deporte</string>
-    <string name="draft_draft_sp_text">Indicador de disponibilidad de puntos.</string>
+    <string name="draft_draft_sp_text">Indicador de disponibilidad de instalaciones deportivas.</string>
     <string name="draft_draft_fth_title">Fe</string>
     <string name="draft_draft_fth_text">Indicador de la fe de los habitantes.</string>
     <string name="draft_draft_hlth_title">Salud</string>
@@ -1484,7 +1484,7 @@
     <string name="draft_draft_hzn_text">Felicidad sobre las zonas cercanas.</string>
     <string name="draft_draft_hspl_title">Felicidad por el suministro</string>
     <string name="draft_draft_hspl_text">Felicidad sobre la energía y el agua disponibles.</string>
-    <string name="draft_draft_hft_title">Felicidad en el iempo libre</string>
+    <string name="draft_draft_hft_title">Felicidad en el tiempo libre</string>
     <string name="draft_draft_hft_text">Felicidad sobre las instalaciones para el tiempo libre.</string>
     <string name="draft_draft_henv_title">Felicidad sobre el ambiente</string>
     <string name="draft_draft_henv_text">Felicidad sobre el medio ambiente.</string>
@@ -1507,7 +1507,7 @@
     <string name="influence_commercial_title">Área comercial</string>
     <string name="influence_commercial_text">Los comerciales son a menudo grupos juntos para atraer a clientes.</string>
     <string name="influence_industrial_title">Área industrial</string>
-    <string name="influence_industrial_text">La gente no quiere vivir cerca de esta área.</string>
+    <string name="influence_industrial_text">Las industrias producen y fabrican productos, bienes, materiales y recursos que se venden en edificios comerciales. La gente no quiere vivir cerca.</string>
     <string name="influence_level_low_title">Nivel bajo</string>
     <string name="influence_level_low_text">Los edificios de este nivel son generalmente pobres.</string>
     <string name="influence_level_middle_title">Nivel medio</string>
@@ -1531,8 +1531,8 @@
     <string name="task_build_parks">Construya %s parques.</string>
     <string name="task_get_inhabitants">Consigue %s nuevos habitantes.</string>
     <string name="task_get_money">Ganar %s₮.</string>
-    <string name="task_spend_money">Comprar %s₮.</string>
-    <string name="task_spend_diamonds">Comprar %s diamantes.</string>
+    <string name="task_spend_money">Gasta %s₮.</string>
+    <string name="task_spend_diamonds">Gasta %s diamantes.</string>
     <string name="task_tap_screen">Pulse %s veces en la pantalla.</string>
     <string name="task_current">Tarea actual</string>
 
@@ -1678,8 +1678,8 @@
     <string name="draft_stbasilcathedral00_text">La Catedral de San Basilio es una iglesia en Moscú, Rusia. Se completó en 1561 y ahora es un museo. Su altura asciende a 115 metros.</string>
 
 
-    <string name="draft_toji00_title">Ō-ji</string>
-    <string name="draft_toji00_text">Ō-ji es un templo budista en Kyoto, Japón, se completó en 796 y tiene una altura de 55 metros.</string>
+    <string name="draft_toji00_title">Tō-ji</string>
+    <string name="draft_toji00_text">Tō-ji es un templo budista en Kioto, Japón. Se completó en 796 y tiene una altura de 55 metros.</string>
     <string name="ca_wastedisposal_text2">Transporte de residuos: %1$,d/%2$,d L/d</string>
     <string name="notify_waste_needer00">No se recoge la basura para este edificio.</string>
     <string name="notify_waste_producer00">¡Este vertedero está lleno, debería limpiarlo!</string>
@@ -1696,7 +1696,7 @@
     <string name="settings_new_content_marker">Resalte nuevo contenido en la barra de herramientas</string>
 
 
-    <string name="tool_removeroaddeco_title">Quitar la decorarion de la carretera</string>
+    <string name="tool_removeroaddeco_title">Quitar la decoración de la carretera</string>
     <string name="tool_removeroaddeco_text">Utilice esta herramienta para quitar los recubrimientos de decoración vial.</string>
 
 
@@ -1730,7 +1730,7 @@
     <string name="draft_roaddeco_border04_title">Pared de cristal</string>
     <string name="draft_roaddeco_border04_text">Puedes ver los coches a través de él.</string>
     <string name="draft_roaddeco_border05_title">Alumbrado urbano</string>
-    <string name="draft_roaddeco_border05_text">No hay noche y sin embargo hay luces.</string>
+    <string name="draft_roaddeco_border05_text">Hay farolas para iluminar la calle por la noche.</string>
 
     <string name="draft_cat_roaddeco00_title">Decoración vial</string>
 
@@ -1804,11 +1804,11 @@
 
     <string name="draft_church10_title">Iglesia barroca</string>
     <string name="draft_church10_text">Una hermosa iglesia y convento para tu ciudad.</string>
-    <string name="draft_roaddeco_construction00_title">Ensacadora</string>
-    <string name="draft_roaddeco_construction00_text">Una ensacadora en el medio de la carretera no suena como una buena idea, ¿o sí?</string>
+    <string name="draft_roaddeco_construction00_title">Retroexcavadora</string>
+    <string name="draft_roaddeco_construction00_text">Una retroexcavadora en medio de la carretera no suena como una buena idea, ¿verdad?</string>
 
 
-    <string name="infoline_freetunnels">%d túneles a la izquierda</string>
+    <string name="infoline_freetunnels">Quedan %d túneles</string>
     <string name="buildinginfo_idletime">Tiempo de inactividad: %s (si no estás en la ciudad)</string>
     <string name="dialog_wb_completed">Felicitaciones, %d edificios se han completado desde su última visita.</string>
     <string name="draft_roaddeco_barrier01_title">Barricadas</string>
@@ -1934,7 +1934,7 @@ Contras: Menos desafíos</string>
     <string name="store_downloads">%,d descargas</string>
     <string name="store_acquire">Descargar</string>
     <string name="store_downlaod">Descargar</string>
-    <string name="store_downloaded">Descargar</string>
+    <string name="store_downloaded">Descargado</string>
     <string name="dialog_storedownlaod_title">Descargar</string>
     <string name="dialog_storedownload_text">Quieres descargar %s?</string>
     <string name="dialog_storerestart_title">Reiniciar</string>
@@ -2038,10 +2038,10 @@ Contras: Menos desafíos</string>
     <string name="draft_trainstation_prebuilt01_title">Estación</string>
     <string name="draft_trainstation_prebuilt01_text">Una estación más grande para tráfico local.</string>
     <string name="draft_trainstation_prebuilt02_title">Gran estación</string>
-    <string name="draft_trainstation_prebuilt02_text">Una enorme estación de tren que sirve para   T O D O  tipo de tráfico </string>
+    <string name="draft_trainstation_prebuilt02_text">Una gran estación de tren que sirve al tráfico local y de larga distancia.</string>
     <string name="draft_cat_train00_parts00_title">Partes</string>
-    <string name="draft_raildeco_crane00_title">Contenedor</string>
-    <string name="draft_raildeco_crane00_text">Un contenedor de carga para tu vía.</string>
+    <string name="draft_raildeco_crane00_title">Grúa</string>
+    <string name="draft_raildeco_crane00_text">Una grúa de carga para tu ferrocarril.</string>
     <string name="draft_raildeco_traincrossing00_title">Cruce para trenes</string>
     <string name="draft_raildeco_traincrossing00_text">Un alegre cruce de trenes para tu ciudad.</string>
     <string name="draft_raildeco_mast00_title">Poste para el tendido aéreo</string>
@@ -2063,7 +2063,7 @@ Contras: Menos desafíos</string>
     <string name="region_individualcities">Ciudades Individuales</string>
     <string name="draft_redwood_tree00_title">Árbol de Redwood</string>
     <string name="draft_redwood_tree00_text">Árbol típico del bosque Redwood en Califorinia.</string>
-    <string name="buildinginfo_daysbuilt">Construida: %1$,d day(s) ago</string>
+    <string name="buildinginfo_daysbuilt">Construido hace %1$,d día(s)</string>
     <string name="createcity_terrain">Relieve</string>
     <string name="draft_tool_terrain_increase00_title">Elevar</string>
     <string name="draft_tool_terrain_increase00_text">Eleva el terreno para crear montañas.</string>
@@ -2090,7 +2090,7 @@ Contras: Menos desafíos</string>
     <string name="music_next">Siguiente canción</string>
     <string name="createcity_generating">Generando ciudad</string>
     <string name="dialog_notenoughmoneyp_title">Fondos insuficientes</string>
-    <string name="dialog_notenoughmoneyp_text">No tenemos dinero suficiente para eso :(</string>
+    <string name="dialog_notenoughmoneyp_text">No tenemos suficiente dinero para comprar esto ahora mismo :(\n\nFaltan %1$s</string>
     <string name="game_region">Región %1$d/%2$d</string>
     <string name="gamemode_sandbox_title">Sandbox </string>
     <string name="gamemode_sandbox_text">Usa este modo para experimentar cosas sin dinero. Tus ciudadanos aún tendrán necesidades que debes cubrir.</string>
@@ -2161,7 +2161,7 @@ Contras: Menos desafíos</string>
     <string name="forum_loginerror">Error al iniciar sesión</string>
     <string name="forum_networkerror">Error de conexión</string>
     <string name="stage_account_other">Otras cuentas</string>
-    <string name="stage_account_connected">%s - Connectado</string>
+    <string name="stage_account_connected">%s - Conectado</string>
     <string name="stage_account_steam">Steam</string>
     <string name="stage_gallery_update">Actualizar</string>
     <string name="stage_gallery_noimages">Aún no se han subido imágenes.</string>
@@ -2197,10 +2197,10 @@ Contras: Menos desafíos</string>
     <string name="report_hateful_or_abusive">Contenido abusivo o que incita al odio</string>
     <string name="report_dangerous">Contenido peligroso</string>
     <string name="report_promotes_terrorism">Promueve el terrorismo</string>
-    <string name="report_spam_or_misleading">Spam</string>
+    <string name="report_spam_or_misleading">Spam o contenido engañoso</string>
     <string name="report_infringes_my_rights">Infringe mis derechos</string>
     <string name="report_bad_behavior">Mal comportamiento</string>
-    <string name="report_violates_store_rules">Viola las reglas de otras tiendas</string>
+    <string name="report_violates_store_rules">Viola otras reglas de la tienda</string>
     <string name="stage_comment_cmdsend">Enviar</string>
     <string name="stage_comment_cmdsendhint">Escribe tu comentario aquí...</string>
     <string name="dialog_storerestart_cmdlater">Después</string>
@@ -2697,12 +2697,12 @@ Presiona una tecla para asignarlo a esta acción.</string>
     <string name="dialog_migratefb_title">Acción necesaria</string>
     <string name="dialog_migratefb_text">Parece que ha iniciado sesión con una cuenta de Facebook. Desafortunadamente, este tipo de acceso está obsoleto y ya no es compatible.\nPor favor, inicie sesión utilizando una cuenta de los foros para traspasar tus datos.</string>
     <string name="dialog_migratefb_cmdaccountsettings">Ajustes de cuenta</string>
-    <string name="draft_feature_opera00_title">Ópera</string>
-    <string name="draft_feature_opera00_text">¡Libera la magia de la cultura con nuestro Paquete de Delicias Culturales! Vive la grandeza de una Ópera, acompañado por un parque sereno y una fuente encantadora. Eleva la atmósfera de tu ciudad e inspira a tus ciudadanos con la armoniosa mezcla de la música, naturaleza y encanto artístico. ¡Actualiza ahora y deja que tu ciudad brille como una obra maestra cultural!</string>
-    <string name="draft_opera00_title">Oasis operístico</string>
-    <string name="draft_opera00_text">¡Adéntrese en la Mansión Melody, el latido cultural de tu ciudad! Esta Ópera increíble añade un toque de elegancia y delicadeza a tu metrópoli. Observa como influencia a tus ciudadanos, conviertiéndolos en refinados conocedores de las artes. ¡Deja que las vibraciones armoniosas fluyan y las risas suban!</string>
-    <string name="draft_opera_park00_title">Parque de la Sinfonía Serena</string>
-    <string name="draft_opera_park00_text">Ubicado al lado de la Ópera, el Parque de la Sinfonía Serena es un paraíso encantador en donde la naturaleza baila a las melodías de la ópera. Relájate en sus exuberantes espacios verdes, disfruta de las actuaciones improvisadas, y deja la fusión armónica entre la cultura y la naturaleza rejuvenezca tu alma.</string>
+    <string name="draft_feature_opera00_title">Complejo de la Ópera</string>
+    <string name="draft_feature_opera00_text">Desbloquea permanentemente la Ópera y el Parque de la Ópera adyacente. Estos edificios culturales realzan el carácter visual de tu ciudad y pueden servir como un monumento central dentro de los distritos urbanos.</string>
+    <string name="draft_opera00_title">Ópera</string>
+    <string name="draft_opera00_text">Un importante monumento cultural que representa la música y las artes escénicas en tu ciudad. La Ópera contribuye al prestigio de la ciudad y aporta un distintivo elemento arquitectónico central.</string>
+    <string name="draft_opera_park00_title">Parque de la Ópera</string>
+    <string name="draft_opera_park00_text">Un parque decorativo diseñado para complementar la Ópera. Añade zonas verdes y atractivo visual al entorno, por lo que resulta ideal para distritos culturales y céntricos.</string>
     <string name="stage_comment_plugin_acquirefirst">Por favor, obten este plugin</string>
 
     <string name="draft_feature_dsa00_title">DSA</string>
@@ -2751,11 +2751,11 @@ Presiona una tecla para asignarlo a esta acción.</string>
     <string name="draft_dsa_deco00_text">Una decoración para tu base de DSA.</string>
     <string name="draft_dsadrill_text">Se puede usar para recolectar recursos valiosos en cuales son vendidos con fines de lucro, pero ten cuidado que puede producir terremotos.</string>
     <string name="draft_dsadrill01_title">Mejora laser</string>
-    <string name="draft_dsadrill01_text">Mejora el laser para ser más fuerte y recolectar recursos mas rápido.</string>
+    <string name="draft_dsadrill01_text">Mejora el láser para que sea más potente y recolecte recursos más rápido.\n\nSolo se permite una mejora a la vez. Las mejoras anteriores se eliminarán.</string>
     <string name="draft_dsadrill02_title">Mejora de eficiencia</string>
-    <string name="draft_dsadrill02_text">Introduce un montón de optimizaciones para incrementar la eficiencia energética de la estación.</string>
+    <string name="draft_dsadrill02_text">Introduce numerosas optimizaciones para aumentar la eficiencia energética de la estación.\n\nSolo se permite una mejora a la vez. Las mejoras anteriores se eliminarán.</string>
     <string name="draft_dsa_drill_upgrade_no_earthquake_title">Mejora de estabilidad</string>
-    <string name="draft_dsa_drill_upgrade_no_earthquake_text">Mejora la estación para recolectar recursos sin interferir con el medio ambiente.</string>
+    <string name="draft_dsa_drill_upgrade_no_earthquake_text">Mejora la estación para recolectar recursos sin interferir con el medio ambiente.\n\nSolo se permite una mejora a la vez. Las mejoras anteriores se eliminarán.</string>
     <string name="draft_dsahouse00_title">Casa del CEO</string>
     <string name="draft_dsahouse00_text">El CEO de DSA vive aquí y asegura que DSA haga su trabajo.</string>
     <string name="draft_dsahouse01_title">Mansión de JustAnyone</string>
@@ -2786,7 +2786,7 @@ Presiona una tecla para asignarlo a esta acción.</string>
     <string name="draft_dsaDYSON_requirement">Necesitas: Esfera de Dyson construida en el espacio</string>
     <string name="draft_dsaLORE10_requirement">Falta Conocimiento</string>
     <string name="draft_dsapower00_title">Central de fusión</string>
-    <string name="draft_dsapower00_text">La energía de fusión se ha demostrado ser mas eficiente y limpia que otro tipo de energía, pero cuesta más a cambio.</string>
+    <string name="draft_dsapower00_text">La energía de fusión se ha demostrado ser más eficiente y limpia que otro tipo de energía, pero cuesta más a cambio.</string>
     <string name="draft_dsapower01_title">Antena de microondas</string>
     <string name="draft_dsapower01_text">La antena es usada para transmitir energía desde la Esfera de Dyson a Theonia usando ondas de radio de microondas.\n\nNota: La potencia de salida es de alto voltaje.</string>
     <string name="draft_dsawater00_title">Planta de agua molecular</string>
@@ -2801,7 +2801,7 @@ Presiona una tecla para asignarlo a esta acción.</string>
     <string name="draft_dsacontainingwalls_title">Muros de contención</string>
     <string name="draft_dsacontainingwalls_text">Muros indestructibles diseñados para mantener las sustancias destructivas acorraladas.</string>
     <string name="draft_dsa_tree_destroyer_title">CortArboles 42-069</string>
-    <string name="draft_dsa_tree_destroyer_text">Una máquina excelente usado para cortar árboles para obtener un 50% más de dinero.</string>
+    <string name="draft_dsa_tree_destroyer_text">Una máquina excelente para talar árboles y obtener el triple de dinero.</string>
     <string name="draft_tool_disaster_blackhole_title">Agujero negro</string>
     <string name="draft_tool_disaster_blackhole_text">Un desastre especial para hackers.</string>
     <string name="draft_tool_disaster_blackhole_cmd">Aspirarlo</string>
@@ -2845,7 +2845,7 @@ Presiona una tecla para asignarlo a esta acción.</string>
     <string name="draft_dsa_notify01_text">¡Parece que la tierra comenzó a temblar!</string>
     <string name="draft_dsa_notify02_text">Alcalde, debido a una amenaza de un terremoto, estamos retirando fondos de recuperación ante desastres.</string>
     <string name="draft_dsa_notify03_text">Oye alcalde, puedes construir algunos perforadores en tu ciudad para extraer y vender minerales, pero tienen una pequeña posibilidad de causar un terremoto.</string>
-    <string name="draft_dsa_notify04_text">Alcalde, nuestros sistemas han detectado una ciudad desconocida la cual está destruyendo todo en su camino.</string>
+    <string name="draft_dsa_notify04_text">Alcalde, nuestros sistemas han detectado una sustancia desconocida que está destruyendo todo a su paso.</string>
     <string name="draft_dsa_notify05_text">Todo el mundo, ¡prepárense para un despegue!</string>
     <string name="draft_dsa_notify06_text">Hola alcalde. He empezado a construir mi pequeña casa aqui como me has permitido hacerlo.</string>
     <string name="draft_dsa_notify07_text">Esto se está saliendo de las manos... Hora para el protocolo „Parada Explosiva“.</string>
@@ -2958,11 +2958,11 @@ Presiona una tecla para asignarlo a esta acción.</string>
     <string name="draft_space_storyline_intro_affirmed01">Soy LiderGenéricoPepinilloGigante#01 - lider de la Galaxia Pepino.</string>
     <string name="draft_space_storyline_intro_affirmed02">Todo lo que necesitamos es una pequeña ayuda. A cambio, puedes tener todo nuestro conocimiento.</string>
     <string name="draft_space_storyline_intro_affirmed03">Te diré los detalles exactos más tarde, necesito descansar ahora.</string>
-    <string name="draft_space_storyline_stage_2_00">¿Has vuelto? Bien, pensabamos que habias huido.</string>
-    <string name="draft_space_storyline_stage_3_00">Gracias por encargarte de eso. Ahora entiendo que dependes de esas estaciones para conseguir fondos.</string>
+    <string name="draft_space_storyline_stage_2_00">¿Has vuelto? Bien, ¡pensábamos que habías huido!</string>
+    <string name="draft_space_storyline_stage_3_00">Entiendo que dependes de esos minerales para obtener recursos...</string>
     <string name="draft_space_storyline_stage_4_00">Bien, bien</string>
-    <string name="draft_space_storyline_stage_5_00">Estoy pidiendo una vez más su apoyo financiero</string>
-    <string name="draft_space_storyline_stage_7_00">¿Has sobrevivido? ¡Eso es genial!</string>
+    <string name="draft_space_storyline_stage_5_00">Una vez más, solicito tu apoyo financiero</string>
+    <string name="draft_space_storyline_stage_7_00">Tengo un último favor que pedirte, alcalde</string>
     <string name="draft_space_storyline_stage_2_01">Queremos ver si tienes la fuerza de voluntad y lo que se necesita para la tarea</string>
     <string name="draft_space_storyline_stage_2_02">Destruye todas las estaciones mineras que estan destruyendo este bello lugar.</string>
     <string name="draft_space_storyline_stage_2_notdone">Aún puedo ver las estaciones mineras funcionando, vuelve otra vez cuando todas estan desactivadas.</string>
@@ -2976,31 +2976,31 @@ Presiona una tecla para asignarlo a esta acción.</string>
     <string name="draft_space_storyline_stage_5_01">Necesito todo de lo que llamais Theons.</string>
     <string name="draft_space_storyline_stage_5_02">¿Me puedes dar todos los Theons?</string>
     <string name="draft_space_storyline_stage_5_02_refused">Que lástima, espero que puedas cambiar de opinión más tarde.</string>
-    <string name="draft_space_storyline_stage_7_01">No me preguntes como hice eso</string>
-    <string name="draft_space_storyline_stage_7_02">Lo puedes llamar magia...</string>
-    <string name="draft_space_storyline_stage_7_03">...o simplemente un super duper Deorbitador Satelital 3000!</string>
-    <string name="draft_space_storyline_stage_7_04">¿Nada elegante, sabes?</string>
-    <string name="draft_space_storyline_stage_8_00">Gracias por quest completion. ¡Eso será útil!</string>
-    <string name="draft_space_storyline_stage_8_01">Pero, Me temo que esta es la última vez que nos vemos.</string>
-    <string name="draft_space_storyline_stage_8_02">Cuando puedas, porfavor ensambla la nave espacial. Nosotros lo abordaremos por nuestra cuenta.</string>
+    <string name="draft_space_storyline_stage_7_01">Supongo que estás familiarizado con la construcción de cohetes</string>
+    <string name="draft_space_storyline_stage_7_02">¿Podrías construir un cohete según estos planos?</string>
+    <string name="draft_space_storyline_stage_7_03">Como soy un pepinillo generoso, ya he conseguido todos los recursos necesarios</string>
+    <string name="draft_space_storyline_stage_7_04">¿Qué dices?</string>
+    <string name="draft_space_storyline_stage_8_00">Me temo que esta es la última vez que nos vemos.</string>
+    <string name="draft_space_storyline_stage_8_01">Ya estamos listos para volver a nuestra galaxia natal y reconstruirla, siempre que quede algo de ella.</string>
+    <string name="draft_space_storyline_stage_8_02">Ahora iremos a toda prisa hacia el cohete.</string>
     <string name="draft_space_storyline_ending_00">Supongo que esto es todo. Gracias por aydarnos.</string>
     <string name="draft_space_storyline_ending_01">A cambio, nos gustaría darle este medio de almacenamiento.</string>
     <string name="draft_space_storyline_ending_02">Contiene todo nuestro conocimiento guardado.</string>
-    <string name="draft_space_storyline_ending_03">Cuando estes listo, inicia el tiro estelar.</string>
+    <string name="draft_space_storyline_ending_03">Cuando estés listo, inicia el lanzamiento.</string>
     <string name="draft_space_storyline_ending_04">¡Adios amigos!</string>
     <string name="draft_dsa_award00_title">Una piedra</string>
     <string name="draft_dsa_award00_text">Ahora, ¿de donde ha salido esta piedra?</string>
     <string name="draft_dsa_moon_pickle_rocket00_title">Cohete pepinillo</string>
     <string name="draft_dsa_moon_pickle_rocket00_text">Un cohete gigante especificamente diseñado para que quepan muchos pepinillos en su interior.</string>
-    <string name="draft_space_storyline_stage_3_04">¡Venga, prueba a investigar lo0s artefactos!</string>
-    <string name="draft_space_storyline_stage_4_05">¡No seas tímido ahora, contruye una mina de Poccolono!</string>
-    <string name="draft_space_storyline_stage_5_03">Confiame, lo pondre en buen uso.</string>
-    <string name="draft_space_storyline_stage_7_04_notyetbuilt">Puedo ver que la contrucción del cohete sigue en marcha</string>
+    <string name="draft_space_storyline_stage_3_04">¡Venga, prueba a investigar los artefactos!</string>
+    <string name="draft_space_storyline_stage_4_05">¡No seas tímido, construye una mina de Poccolonum!</string>
+    <string name="draft_space_storyline_stage_5_03">Confía en mí, le daré un buen uso.</string>
+    <string name="draft_space_storyline_stage_7_04_notyetbuilt">Veo que la construcción del cohete sigue en marcha</string>
     <string name="draft_space_storyline_stage_8_cutscene">Los Pepinillos suben al vehículo</string>
     <string name="draft_space_storyline_ending_cutscene">El cohete despega</string>
-    <string name="draft_dsa_park00_title">Akial square</string>
-    <string name="draft_dsa_park00_text">A tribute to the first animal ever launched into Earth orbit.</string>
-    <string name="draft_rocket_akial_requirement">Need: Animal carriage test</string>
+    <string name="draft_dsa_park00_title">Plaza Akial</string>
+    <string name="draft_dsa_park00_text">Un homenaje al primer animal enviado a la órbita terrestre.</string>
+    <string name="draft_rocket_akial_requirement">Requisito: prueba de transporte de animales</string>
 
     <string name="draft_space_storyline_stage_4_06">Oh, ¿no tienes ninguno disponible? Dejame hacer un truco de magia...</string>
     <string name="draft_tollbooth00_passedbycars">Coches cruzados: </string>
@@ -3136,11 +3136,15 @@ Presiona una tecla para asignarlo a esta acción.</string>
     <string name="buildingicon_crimeriot">Está ocurriendo un motín aquí.</string>
     <string name="dialog_scriptpolicy_title">Política de Scripts para Plugins</string>
     <string name="dialog_scriptpolicy_help_title">Los Scrpts de Plugins pueden ser peligrosos</string>
-    <string name="dialog_scriptpolicy_help_text">TÚ tienes el poder de permitir la ejecución de Scripts para plugins externos. Solo autoriza scripts de fuentes confiables (ej. tú mismo, si estás trabajando en un plugin).\n
+    <string name="dialog_scriptpolicy_help_text">Los scripts son fragmentos de código que definen comportamientos y funciones de los plugins. Pueden controlar mecánicas del juego, añadir nuevas funciones o automatizar acciones. Sin embargo, también pueden causar errores o incluso bloquear el juego.\n
 \n
-En caso de duda, NO habilites la ejecución de scripts de plugins sin inspeccionar el código por ti mismo.\n
+Los scripts tienen restringido el acceso a tus archivos personales, la modificación de ajustes del sistema y la ejecución de código fuera del juego.\n
 \n
-Plugins que requiera la ejecución de scripts para funcionar puede no funcionar si lo deshabilitas. Necesitarás reiniciar el juego para que surta efecto.</string>
+TÚ tienes el poder de permitir la ejecución de scripts para plugins externos. Solo autoriza scripts de fuentes de confianza (p. ej., tú mismo si estás trabajando en un plugin).\n
+\n
+En caso de duda, NO habilites la ejecución de scripts sin inspeccionar el código por ti mismo.\n
+\n
+Los plugins que requieran scripts pueden no funcionar como se espera si su ejecución está deshabilitada. Debes reiniciar el juego para que los cambios surtan efecto.</string>
     <string name="settings_openscriptpolicy">Política de Scripts para Plugins</string>
     <string name="stage_files_itemcount">%d elemento(s)</string>
     <string name="tips_title">Consejos</string>
@@ -3332,7 +3336,7 @@ No todos los edificios tienen frames de rotación
     Algunos edificios del juego base no tienen frames de rotación, pero esto es más prevalente con los plugins debido a que los autores no suelen dibujarlos. Para ver qué edificios tienen frames de rotación, dale clic en un edificio y mira si se puede cambiar de variante con los botones en la esquina superior derecha. No tener frames de rotación permite más edificios variados.
     </string>
     <string name="tip_topic_map_rotation_title">
-Camvia la rotación del mapa con el minimapa
+Cambia la orientación del mapa con el minimapa
     </string>
     <string name="tip_topic_map_rotation_text">
 El minimapa puede ser usado como una herramienta para girar el mapa. Dale clic al minimapa y luego a las flechas para girar el mapa a la izquierda o a la derecha. Ten en cuenta que algunos edificios no rotarán debidamente ya que no tienen provistos con frames de rotación.
@@ -3386,7 +3390,7 @@ Para reducir el lag, deshabilita el zoom suave
 Si sientes que el juego va con lag, considera deshabilitar el zoom suave. Esta opción se encuentra en los ajustes del juego.
     </string>
     <string name="tip_topic_building_bridges_title">
-Eleva las carrteras con las opciones arriba a la derecha
+Eleva las carreteras con las opciones de la derecha
     </string>
     <string name="tip_topic_building_bridges_text">
 Cuando estés construyendo una carretera, primero presiona el punto de inicio, luego dale la opción de ir arriba (arriba a la derecha) y presiona el punto final para construir un puente hacia arriba. Para bajar, primero selecciona el punto de inicio sobre el puente, luego le das a la opción de ir hacia abajo y pones el punto final. También existe una opción para construir un puente automáticamente llamado puente. Ten en cuenta que no todas las carreteras permiten puentes.
@@ -3610,21 +3614,21 @@ Cuando estés construyendo una carretera, primero presiona el punto de inicio, l
     <string name="ts_location_north">%s Norte</string>
     <string name="ts_location_east">%s Este</string>
     <string name="ts_location_center">%s Centro</string>
-    <string name="ts_location_inner">%s Alto</string>
-    <string name="ts_location_outer">%s Bajo</string>
+    <string name="ts_location_inner">%s Interior</string>
+    <string name="ts_location_outer">%s Exterior</string>
     <string name="ts_location_edge">Limites de %s</string>
     <string name="ts_names_residential_maplestreet">Calle del Pilar</string>
-    <string name="ts_names_residential_elmwooddrive">Avenida de loz Azulejos</string>
+    <string name="ts_names_residential_elmwooddrive">Avenida de los Azulejos</string>
     <string name="ts_names_residential_oaklane">Paseo de la Giralda</string>
     <string name="ts_names_residential_villagegreen">Calle del Naranjo</string>
     <string name="ts_names_commercial_marketsquare">Plaza del Mercado</string>
-    <string name="ts_names_commercial_mainstreetmall">Avenida del Centro Comerical</string>
+    <string name="ts_names_commercial_mainstreetmall">Avenida del Centro Comercial</string>
     <string name="ts_names_commercial_commerceplaza">Plaza de España</string>
     <string name="ts_names_commercial_downtowncenter">Casco Antiguo</string>
-    <string name="ts_names_commercial_shoppingdistrict">Distrito Comerical</string>
+    <string name="ts_names_commercial_shoppingdistrict">Distrito Comercial</string>
     <string name="ts_names_industrial_industrialpark">Parque Industrial</string>
     <string name="ts_names_industrial_factorygate">Calle del Polígono</string>
-    <string name="ts_names_industrial_warehouserow">Avendia Logística</string>
+    <string name="ts_names_industrial_warehouserow">Avenida Logística</string>
     <string name="ts_names_industrial_freightyard">Ronda del Ferrocarril</string>
     <string name="ts_names_industrial_commercedrive">Calle del Comercio</string>
     <string name="ts_names_harbor_harbourfront">Ronda del Puerto</string>
@@ -3645,7 +3649,7 @@ Cuando estés construyendo una carretera, primero presiona el punto de inicio, l
     <string name="ts_names_airport_aviationway">Avenida de la Aviación</string>
     <string name="ts_names_airport_flyerstop">Aeropuerto Llegadas</string>
     <string name="ts_names_airport_airportgate">Aeropuerto Salidas</string>
-    <string name="ts_names_military_basegate">Avenidad de las Fuerzas Armadas</string>
+    <string name="ts_names_military_basegate">Avenida de las Fuerzas Armadas</string>
     <string name="ts_names_military_fortmain">Calle del Ejercito del Aire</string>
     <string name="ts_names_military_barracksstop">Parada de la Armada</string>
     <string name="ts_names_military_arsenalroad">Paseo del Ejército de Tierra</string>
@@ -3687,7 +3691,7 @@ Cuando estés construyendo una carretera, primero presiona el punto de inicio, l
     <string name="ts_tool_add_random_station">Agregar estación aleatoria</string>
     <string name="ts_reached_vehicle_limit">No se pueden asignar más de %d vehículos a esta ruta!</string>
     <string name="musictype_game">Juego</string>
-    <string name="musictype_action">Action</string>
+    <string name="musictype_action">Acción</string>
     <string name="musictype_default">%s (predeterminado)</string>
     <string name="dialog_unlink_steam_title">¿Desvincular cuenta?</string>
     <string name="dialog_unlink_steam_text">Esto desvincula tu cuenta del foro de tu cuenta de Steam. Esto puede tener efectos secundarios y solo se debe hacer si es necesario. El juego se reiniciará después de desvincular.</string>
@@ -3722,5 +3726,34 @@ Cuando estés construyendo una carretera, primero presiona el punto de inicio, l
     <string name="legend_mixed_voltage">Ambos</string>
     <string name="legend_metro">Metro</string>
     <string name="legend_ts_edit">%s (editando)</string>
+
+
+    <string name="dialog_url_title">¿Abrir sitio web?</string>
+    <string name="dialog_url_text">El complemento "%s" quiere abrir un sitio web externo. Puede contener anuncios. Continúa solo si confías en la fuente:</string>
+    <string name="dialog_url_cmdopen">Abrir</string>
+    <string name="settings_adaptive_ground_blending">Mezcla adaptativa del terreno</string>
+
+    <string name="empty_cause_unknown">Se fue por razones desconocidas.</string>
+    <string name="empty_cause_low_demand">Se fue debido a la baja demanda.</string>
+    <string name="empty_cause_low_happiness">Se fue debido a la baja satisfacción con %s.</string>
+    <string name="empty_cause_crime">Se fue debido a la criminalidad (%s).</string>
+    <string name="empty_cause_illness">Se fue debido a la contaminación.</string>
+    <string name="stage_files_folderfiles">Contiene %d archivo(s)</string>
+
+    <string name="notbuildablereason_generic">No se puede construir aquí</string>
+    <string name="notbuildablereason_land">Requiere tierra</string>
+    <string name="notbuildablereason_water">Requiere agua</string>
+    <string name="notbuildablereason_zone">Zona incorrecta</string>
+    <string name="notbuildablereason_maxcount">Límite de construcción alcanzado</string>
+    <string name="notbuildablereason_terrain">Terreno inadecuado</string>
+    <string name="notbuildablereason_nomoney">Fondos insuficientes</string>
+    <string name="notbuildablereason_blocked">El área está bloqueada</string>
+
+    <string name="recovery_mode_title">¡Uy!</string>
+    <string name="recovery_mode_text">TheoTown no pudo iniciarse varias veces.\n\n¿Te gustaría iniciar el juego en Modo de Recuperación?\n\nEl Modo de Recuperación desactiva temporalmente todos los complementos, lo que te permite eliminar o corregir cualquier complemento que pueda estar causando el problema. Los complementos se cargarán normalmente de nuevo la próxima vez que reinicies el juego.</string>
+    <string name="recovery_mode_normal">Inicio normal</string>
+    <string name="recovery_mode_recovery">Modo de Recuperación</string>
+
+    <string name="settings_draw_neighbors">Dibujar ciudades vecinas</string>
 
 </resources>

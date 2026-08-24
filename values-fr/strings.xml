@@ -165,7 +165,7 @@
     <string name="budget_firebrigade">Pompiers</string>
     <string name="budget_police">Police</string>
     <string name="budget_award">Lieux uniques</string>
-    <string name="budget_energy">Energie</string>
+    <string name="budget_energy">Énergie</string>
     <string name="budget_water">Eau</string>
     <string name="budget_public">Lieux publics</string>
     <string name="budget_medic">Santé</string>
@@ -315,7 +315,7 @@
     <string name="draft_pool00_title">Piscine</string>
     <string name="draft_pool00_text">Une piscine extérieure pour s\'amuser.</string>
     <string name="draft_pool00_waterslide_title">Toboggan</string>
-    <string name="draft_pool00_waterslide_text">Toboggan et bains de soleils.</string>
+    <string name="draft_pool00_waterslide_text">Toboggan et bains de soleil.</string>
     <string name="blank_text">Vous pourriez mettre votre publicité ici</string>
     <string name="draft_middlepark00_title">Parc moyen</string>
     <string name="draft_middlepark00_text">Les habitants vont aimer à coup sûr.</string>
@@ -328,7 +328,7 @@
     <string name="draft_middlepark00_clock_title">Horloge</string>
     <string name="draft_middlepark00_clock_text">L\'horloge indique l\'heure aux habitants.</string>
     <string name="notify_power_low">Il n\'y a plus d\'énergie. Vous devriez construire de nouvelles centrales.</string>
-    <string name="notify_water_low">Vous n\'avez pas assez d\'eau. Vous devriez contruire de nouvelles pompes.</string>
+    <string name="notify_water_low">Vous n\'avez pas assez d\'eau. Vous devriez construire de nouvelles pompes.</string>
     <string name="notify_religion">Pourriez-vous nous construire des édifices religieux ?</string>
     <string name="notify_park">Nous aimerions davantage de parcs.</string>
     <string name="notify_sport">Nous voulons faire du sport.</string>
@@ -421,7 +421,7 @@
     <string name="tutorial_buildwire_b">Placez-les le long des marqueurs.</string>
     <string name="tutorial_buildwire_c">Bien joué !</string>
     <string name="tutorial_buildwater_a">Essayons de construire un château d\'eau pour fournir de l\'eau.</string>
-    <string name="tutorial_buildwater_b">Placez-le le sur les marqueurs.</string>
+    <string name="tutorial_buildwater_b">Placez-le sur les marqueurs.</string>
     <string name="tutorial_buildwater_c">C\'est ça !</string>
     <string name="tutorial_buildpipe_a">Un château d\'eau seul n\'est pas suffisant. Vous devez construire des canalisations.</string>
     <string name="tutorial_buildpipe_b">Placez les canalisations le long des marqueurs.</string>
@@ -632,9 +632,9 @@
     <string name="draft_buoy00_title">Bouée</string>
     <string name="draft_buoy00_text">Aide les navires à trouver le bon cap.</string>
     <string name="ci_general_seed">Graine : %1$s</string>
-    <string name="draft_decores00_text">.</string>
-    <string name="draft_decocom00_text">.</string>
-    <string name="draft_decoind00_text">.</string>
+    <string name="draft_decores00_text">Quelques décorations pour vos zones résidentielles.</string>
+    <string name="draft_decocom00_text">Quelques décorations pour vos zones commerciales.</string>
+    <string name="draft_decoind00_text">Quelques décorations pour vos zones industrielles.</string>
     <string name="ci_budget_title_nomoney">Finances (théoriques)</string>
     <string name="dialog_notification_cmdok">Ok</string>
     <string name="draft_nuclearplant00_title">Centrale nucléaire</string>
@@ -691,7 +691,7 @@
     <string name="influence_management_text">Contrôle de votre ville.</string>
     <string name="happiness_management">Gestion</string>
     <string name="dialog_oldmap_title">Ancienne ville</string>
-    <string name="dialog_oldmap_text">TheoTown a bencoup évolué depuis la création de cette ville. Cela pourrait ne pas fonctionner comme prévu. S\'il vous plait, ne nous détestez pas (◕‿◕✿)</string>
+    <string name="dialog_oldmap_text">TheoTown a beaucoup évolué depuis la création de cette ville. Cela pourrait ne pas fonctionner comme prévu. S\'il vous plaît, ne nous détestez pas (◕‿◕✿)</string>
     <string name="dialog_oldmap_cmdproceed">Procéder</string>
     <string name="dialog_oldmap_cmdcancel">Annuler</string>
     <string name="notify_bad_health">Mauvaise santé. Vous devriez améliorer l\'environnement ou construire des établissements médicaux.</string>
@@ -721,7 +721,7 @@
     <string name="draft_road04_text">Une jolie route avec des arbres.</string>
     <string name="draft_marker_watermarker_title">Eau</string>
     <string name="draft_road05_text">La route parfaite pour relier des zones distantes.</string>
-    <string name="notify_demonstration">Il y a une manifestation dans notre ville à cause de %1s ! Faites quelque chose ou quelque chose de grave va arriver !</string>
+    <string name="notify_demonstration">Il y a une manifestation dans notre ville à cause de %1$s ! Faites quelque chose avant que la situation ne s\'aggrave !</string>
     <string name="draft_road05_title">Autoroute double voie</string>
     <string name="draft_road04_title">Avenue</string>
     <string name="happiness_general">Satisfaction générale</string>
@@ -744,7 +744,7 @@
     <string name="draft_rnk_town_big_title">Grande Bourgade</string>
     <string name="draft_rnk_metropolis_title">Métropole</string>
     <string name="draft_rnk_megalopolis_title">Mégalopole</string>
-    <string name="draft_decoroad00_text">.</string>
+    <string name="draft_decoroad00_text">Un peu de nature et d\'ombre pour les centres-villes animés.</string>
     <string name="settings_experimental">Fonctionnalités expérimentales</string>
     <string name="about_thanks">Remerciements spéciaux à</string>
     <string name="about_community">Et au reste de notre communauté</string>
@@ -1573,7 +1573,7 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="draft_onerafflesplace00_title">Une place pour les rafles</string>
     <string name="draft_onerafflesplace00_text">La One Raffles Place est un gratte-ciel de la ville de Singapour construit en 1986 et dont la taille est de 280 mètres.</string>
     <string name="draft_willistower00_title">Tour Willis</string>
-    <string name="draft_willistower00_text">La Tour Willis (aussi connue sous le nom de Tour Sears) est un gratte-ciel situé à San Francisco, aux États-Unis. La tour a été construite en 1973 et mesure 442 mètres de haut.</string>
+    <string name="draft_willistower00_text">La Tour Willis (aussi connue sous le nom de Tour Sears) est un gratte-ciel situé à Chicago, aux États-Unis. La tour a été construite en 1973 et mesure 442 mètres de haut.</string>
     <string name="draft_feature_landmarks01_title">Monuments II</string>
     <string name="draft_feature_landmarks01_text">Contient les bâtiments suivants pour utilisation permanente :</string>
 
@@ -1584,7 +1584,7 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="draft_cat_train00_title">Train</string>
     <string name="draft_cat_recent00_title">Récent</string>
     <string name="draft_cat_service00_title">Services</string>
-    <string name="draft_tool_eyedropper00_title">Gouttes d\'eau</string>
+    <string name="draft_tool_eyedropper00_title">Pipette</string>
     <string name="draft_tool_eyedropper00_text">Envie de construire une route ou un bâtiment spécifique ? Utilise cet outil en tapant avec. Ne marche pas sur toutes les structures.</string>
     <string name="draft_cat_level00_title">Niveau ₮</string>
     <string name="draft_cat_level01_title">Niveau ₮₮</string>
@@ -1841,7 +1841,7 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="tool_removemetrotunnel_text">Supprimons quelques tunnels de métro.</string>
 
 
-    <string name="draft_windmill00_title">Vieux Moulin Allemand</string>
+    <string name="draft_windmill00_title">Vieux moulin hollandais</string>
     <string name="draft_windmill00_text">Un vieux moulin pour votre campagne urbaine.</string>
     <string name="draft_taxi_depot00_title">Dépôt de taxis</string>
     <string name="draft_taxi_depot00_text">Une forme simple de transport public.</string>
@@ -2605,7 +2605,7 @@ Appuyez sur cette touche pour la lier à cette action.</string>
     <string name="draft_deco_chr_manger00_text">Une boîte ouverte surdimensionnée dans laquelle les chevaux, les vaches et d\'autres animaux se nourrissent.</string>
     <string name="settings_diagonalroadtool">Construire la route en diagonale si possible</string>
     <string name="settings_smoothzoom">Zoom addouci</string>
-    <string name="settings_smoothzoom_off">De</string>
+    <string name="settings_smoothzoom_off">Désactivé</string>
     <string name="settings_smoothzoom_nearest">Carré</string>
     <string name="settings_smoothzoom_linear">Floue</string>
     <string name="settings_smoothzoom_fast">Rapide</string>
@@ -2619,11 +2619,11 @@ Appuyez sur cette touche pour la lier à cette action.</string>
     <string name="forum_cmdforgot">Oublié ?</string>
     <string name="store_rating">Notation</string>
     <string name="store_rating_unrated">NON NOTÉ</string>
-    <string name="store_rating_verynegative">TRÉS NÉGATIF</string>
+    <string name="store_rating_verynegative">TRÈS NÉGATIF</string>
     <string name="store_rating_negative">NÉGATIF</string>
     <string name="store_rating_mixed">MITIGÉ</string>
     <string name="store_rating_positive">POSITIF</string>
-    <string name="store_rating_verypositive">TRÉS POSITIF</string>
+    <string name="store_rating_verypositive">TRÈS POSITIF</string>
     <string name="draft_draft_wst_title">Satisfaction gestion des déchets</string>
     <string name="draft_draft_wst_text">Satisfaction concernant la gestion des déchets</string>
     <string name="settings_plugin_texture_cache">Cache de texture des plugin</string>
@@ -3017,8 +3017,8 @@ NOTE: pour des raisons de sécurité, l\'IA a été retirée de ce modèle.</str
     <string name="draft_space_storyline_ending_cutscene">La fusée décolle</string>
     <string name="draft_space_storyline_stage_4_06">Oh, tu n\'en as pas de disponible ? Laisse-moi faire un tour de magie...</string>
 
-    <string name="draft_tollbooth00_passedbycars">Passed by cars : </string>
-    <string name="draft_tollbooth00_chargedmoney">Charged money : </string>
+    <string name="draft_tollbooth00_passedbycars">Véhicules passés : </string>
+    <string name="draft_tollbooth00_chargedmoney">Argent collecté : </string>
     <string name="draft_tollbooth00_setup">Ici, vous pouvez définir le montant à facturer.</string>
     <string name="draft_cat_monorail00_title">Monorail</string>
     <string name="draft_tool_car_follower00_novehicle">Aucun véhicule utilisable disponible.</string>
@@ -3026,9 +3026,9 @@ NOTE: pour des raisons de sécurité, l\'IA a été retirée de ce modèle.</str
     <string name="settings_modifymouse">Modifier le curseur</string>
     <string name="settings_cursorstyle">Style du curseur</string>
     <string name="settings_cursorstyle_default">Par défaut</string>
-    <string name="settings_cursorstyle_dark">Paramètres_styledecurseur_sombre</string>
+    <string name="settings_cursorstyle_dark">Sombre</string>
     <string name="settings_cursorstyle_blue">Bleu</string>
-    <string name="settings_cursorstyle_gold">Gold</string>
+    <string name="settings_cursorstyle_gold">Or</string>
     <string name="shop_restore">Restaurer les achats précédents</string>
     <string name="shop_restored_dialog_title">Achats restaurés</string>
     <string name="shop_restored_dialog_text">Tous vos achats précédents ont été restaurés. Vous devrez peut-être redémarrer le jeu pour voir un effet.</string>
@@ -3086,11 +3086,11 @@ NOTE: pour des raisons de sécurité, l\'IA a été retirée de ce modèle.</str
     <string name="tut_plugins00">Tu verras, nous avons beaucoup de contenus. Prends ton temps pour les explorer tous. Après cela, tu seras peut-être prêt à visiter notre boutique de plugins pour débloquer des milliers de contenus supplémentaires.</string>
     <string name="region_unlock_immediately">Débloquer immédiatement</string>
     <string name="dialog_unlockcity_im_title">Débloquer la ville instantanément</string>
-    <string name="dialog_unlockcity_im_text">Ready to dive into the fun ? Unlock this awesome zone now and start your very own city adventure without the wait for those population requirements.\n\nNo more waiting – let\'s build some epic cities together !</string>
+    <string name="dialog_unlockcity_im_text">Prêt à t\'amuser ? Débloque cette superbe zone maintenant et lance ta propre aventure urbaine sans attendre d\'atteindre les conditions de population.\n\nPlus besoin d\'attendre : construisons ensemble des villes extraordinaires !</string>
     <string name="draft_dirt_track_00_title">Piste de terre</string>
     <string name="draft_dirt_track_00_text">Route en terre compactée. Pas chère, mais lente à parcourir. Idéale pour les zones rurales.</string>
     <string name="draft_lookout_tower00_title">Tour de guet</string>
-    <string name="draft_lookout_tower00_text">Look out ! A wooden lookout tower that can for example be used to watch out for fires.</string>
+    <string name="draft_lookout_tower00_text">Attention ! Une tour de guet en bois qui peut notamment servir à surveiller les incendies.</string>
     <string name="draft_boulders00_title">Rochers</string>
     <string name="draft_boulders00_text">Formation rocheuse énorme de formes variées.</string>
     <string name="draft_highway_sign00_title">Panneau Autoroute</string>
@@ -3114,8 +3114,8 @@ NOTE: pour des raisons de sécurité, l\'IA a été retirée de ce modèle.</str
     <string name="draft_dsarocket_launchbutton">Lancer</string>
     <string name="draft_dsarocket_requirement_alreadyCompleted">Déjà lancé</string>
     <string name="draft_dsarocket_requirement_launchOngoing">Le lancement est en cours</string>
-    <string name="draft_dsarocket_requirement_supplies">Supplies : %s/%s</string>
-    <string name="draft_dsarocket_requirement_price">Price : %s</string>
+    <string name="draft_dsarocket_requirement_supplies">Approvisionnement : %s/%s</string>
+    <string name="draft_dsarocket_requirement_price">Prix : %s</string>
     <string name="draft_dsarocket_test_text">Lancez une fusée expérimentale vide dans l\'espace pour recueillir des informations et préparer d\'autres lancements et opérations.</string>
     <string name="draft_dsarocket_animal_text">Lancez une fusée avec un chat à l\'intérieur nommé Akial dans l\'espace pour recueillir des informations vitales.</string>
     <string name="draft_dsarocket_navigation_text">Lancez une fusée avec un homme dans l\'espace pour effectuer des tests de navigation.</string>
@@ -3125,8 +3125,8 @@ NOTE: pour des raisons de sécurité, l\'IA a été retirée de ce modèle.</str
     <string name="stage_createcity_terrain">Terrain...</string>
     <string name="dialog_terrain_title">Terrain</string>
     <string name="dialog_missingmanifest_title">Fichiers de Manifeste de Plugin Manquants</string>
-    <string name="dialog_missingmanifest_text">The following plugins do not define a plugin manifest file (plugin.manifest). This can cause issues with other plugins and online mode. Future compatibility cannot be guaranteed :</string>
-    <string name="dialog_missingmanifest_cmdhelp">What\'s that ?</string>
+    <string name="dialog_missingmanifest_text">Les plugins suivants ne définissent pas de fichier manifeste (plugin.manifest). Cela peut entraîner des problèmes avec d\'autres plugins et le mode en ligne. La compatibilité future ne peut pas être garantie :</string>
+    <string name="dialog_missingmanifest_cmdhelp">Qu\'est-ce que c\'est ?</string>
     <string name="createcity_rivers">Rivières</string>
     <string name="createcity_roughness">Rugosité</string>
     <string name="createcity_roughness_flat">Plat</string>
@@ -3160,11 +3160,11 @@ Plugins that require script execution to work may not function as expected if di
     <string name="tips_title">Conseils</string>
     <string name="tips_cmd_random">Un autre</string>
     <string name="tip_topic_culture_title">
-Culture is provided by some landmarks, awards and plugins !
+La culture est fournie par certains monuments, récompenses et plugins !
     </string>
     <string name="tip_topic_culture_text">La plupart des petits monuments jusqu\'à la tour Eiffel produisent une influence culturelle ainsi que des récompenses ayant une signification culturelle dans le monde réel. Plus de plugins qui fournissent de la culture peuvent être téléchargés via la boutique de plugins et le forum.</string>
     <string name="tip_topic_fire_too_frequent_title">
-If buildings catch fire too often, place a fire station close by !
+Si les bâtiments prennent feu trop souvent, placez une caserne de pompiers à proximité !
     </string>
     <string name="tip_topic_fire_too_frequent_text">Si les bâtiments prennent feu trop souvent, c\'est un bon indicateur que la portée d\'influence de votre caserne de pompiers ne les couvre pas. Les bâtiments résidentiels, commerciaux et industriels nécessitent une caserne de pompiers, veillez donc à couvrir toute la carte avec des influences de casernes de pompiers. Cela aidera à éviter les incendies à l\'avenir.</string>
     <string name="tip_topic_pollution_distance_title">Gardez les zones résidentielles loin de la pollution</string>
@@ -3177,17 +3177,17 @@ If buildings catch fire too often, place a fire station close by !
     <string name="tip_topic_traffic_volume_text">Pour ajuster le volume du trafic dans les paramètres, activez d\'abord le mode debug, il devrait également y être. Une fois le mode debug activé, l\'option de diminuer ou d\'augmenter le trafic vous est proposée. Le pourcentage que vous choisissez dépend de la quantité de trafic que vous avez et du niveau de défi que vous souhaitez.</string>
     <string name="tip_topic_more_cash_title">Pour obtenir plus d\'argent, contractez un prêt</string>
     <string name="tip_topic_more_cash_text">
-Press the income icon and then switch to the tab with the green cash icon. Then press "raise". The amount of money offered on the loan depends on the estate and up to 5 loans can be taken out at a time.
+Appuyez sur l\'icône de revenu puis passez à l\'onglet avec l\'icône de billets verts. Appuyez ensuite sur « raise ». Le montant d\'argent proposé pour le prêt dépend du solde et jusqu\'à 5 prêts peuvent être contractés à la fois.
     </string>
     <string name="tip_topic_loan_repayment_title">Les prêts sont remboursés automatiquement chaque mois</string>
     <string name="tip_topic_loan_repayment_text">Les remboursements de prêts sont automatiquement déduits chaque mois par le jeu. Ils n\'ont pas besoin d\'être payés manuellement, bien que vous pourriez réduire les dépenses mensuelles en le faisant. La période de remboursement peut être consultée dans l\'onglet des prêts.</string>
     <string name="tip_topic_discord_title">
-There\'s an official discord server !
+Il existe un serveur Discord officiel !
     </string>
     <string name="tip_topic_discord_text">Le serveur Discord officiel est un lieu où les joueurs et les créateurs se retrouvent, montrent leurs créations et se font des amis. Le lien peut être trouvé dans le jeu dans les paramètres.</string>
     <string name="tip_topic_making_plugins_title">Vous pouvez créer vos propres plugins. C\'est facile™</string>
     <string name="tip_topic_making_plugins_text">
-It might seem a bit intimidating at first but making plugins is easy. To make textures, you can use something like paint.net on PC and Pixly on mobile. To do the json or "code", you can write your own with the help of the forums or use https://pca.svetikas.lt/. If you have any questions, we can answer them on discord or the forums !
+Cela peut sembler intimidant au début, mais créer des plugins est facile. Pour faire des textures, vous pouvez utiliser paint.net op PC of Pixly on mobile. Pour le JSON ou le « code », vous pouvez écrire le vôtre à l\'aide des forums ou utiliser https://pca.svetikas.lt/. Si vous avez des questions, nous pouvons y répondre sur Discord ou sur les forums !
     </string>
     <string name="tip_topic_online_collaboration_title">Collaborez sur une région en utilisant le mode en ligne</string>
     <string name="tip_topic_online_collaboration_text">En appuyant sur le bouton en ligne dans la vue de la région, vous pouvez collaborer avec des amis ou d\'autres membres pour créer une belle région. Le jeu ne permet pas à plus d\'un joueur de travailler sur la même carte mais vous pouvez visiter d\'autres villes et vous inspirer.</string>
@@ -3195,7 +3195,7 @@ It might seem a bit intimidating at first but making plugins is easy. To make te
     <string name="tip_topic_online_upload_text">Des diamants (mobile) et des pièces de région (PC) sont attribués pour la connexion quotidienne. Le coût de téléchargement d\'une région varie en fonction de la taille. Lors du téléchargement d\'une carte, le créateur peut choisir de définir un mot de passe et quelques règles. Une fois créé, le mot de passe ne peut être ajouté ou supprimé.</string>
     <string name="tip_topic_diamonds_title">Vous pouvez obtenir des diamants en vous connectant quotidiennement</string>
     <string name="tip_topic_diamonds_text">
-Logging in everyday (mobile) is rewarded by diamonds. By logging in every day over the week, you get more rewards. Once you get the final reward, it resets and it starts again. You can additionally watch videos for diamonds every 30 minutes - but remember to turn off any ad block so that they will show !
+Se connecter tous les jours (mobile) est récompensé par des diamants. En vous connectant chaque jour de la semaine, vous obtenez plus de récompenses. Une fois que vous avez obtenu la récompense finale, elle est réinitialisée et recommence. Vous pouvez également regarder des vidéos pour obtenir des diamants toutes les 30 minutes — mais n\'oubliez pas de désactiver tout bloqueur de publicité pour qu\'elles s\'affichent !
     </string>
     <string name="tip_topic_supplies_title">Les fournitures pour les fusées sont fournies par certains bâtiments industriels</string>
     <string name="tip_topic_supplies_text">Les bâtiments qui fournissent du pétrole sont répartis à travers les différents niveaux de l\'industrie. Cela comprend les bâtiments d\'extraction de pétrole, les bâtiments de stockage et les bâtiments de traitement. Ils fourniront des fournitures à votre fusée. Avoir plus de bâtiments proches de la fusée aidera à l\'approvisionner plus rapidement.</string>
@@ -3215,7 +3215,7 @@ Logging in everyday (mobile) is rewarded by diamonds. By logging in every day ov
     <string name="tip_topic_price_increase_text">Placer plus de bâtiments et de routes augmente leur prix. Plus ils sont utilisés, plus le prix augmentera. Ceci reste vrai pour les routes, les décorations, les zones et tous les types de bâtiments.</string>
     <string name="tip_topic_creative_gameplay_title">Pour plus de liberté créative, jouez en mode bac à sable/uber</string>
     <string name="tip_topic_creative_gameplay_text">
-A lot of experienced players prefer to play on sandbox or uber mode to express more of their creative freedom. This allows them to build without the limitation of funds and in the case of uber mode, without having to worry about happiness or needs. Often buildings are placed manually to create amazing works. Do not fret if this does not sound like you, everyone builds differently !
+De nombreux joueurs expérimentés préfèrent jouer en mode bac à sable ou uber pour exprimer davantage leur liberté créative. Cela leur permet de construire sans limitation de fonds et, dans le cas du mode uber, sans avoir à se soucier du bonheur ou des besoins. Souvent, les bâtiments sont placés manuellement pour créer des œuvres incroyables. Ne vous inquiétez pas si cela ne vous ressemble pas, tout le monde construit différemment !
     </string>
     <string name="tip_topic_toggle_disasters_title">Vous pouvez désactiver les catastrophes automatiques dans les paramètres du jeu</string>
     <string name="tip_topic_toggle_disasters_text">Les catastrophes peuvent être désactivées dans les paramètres et vous pouvez choisir avec quelles catastrophes, le cas échéant, vous souhaitez jouer. Si les stations minières de la DSA ou les silos de missiles militaires sont utilisés, la ville peut toujours être exposée à des risques de tremblements de terre ou d\'autres catastrophes.</string>
@@ -3226,7 +3226,7 @@ A lot of experienced players prefer to play on sandbox or uber mode to express m
     <string name="tip_topic_moon_title">Utilisez la DSA pour aller sur la lune</string>
     <string name="tip_topic_moon_text">Débloquez la DSA et améliorez les bâtiments pour aller sur la lune. La fusée aura besoin de fournitures et une fois totalement approvisionnée, elle a une chance d\'aller sur la lune ou de s\'écraser. Si le lancement vers la lune est réussi, la carte de la lune peut être trouvée sous les villes individuelles pour des visites ultérieures. En exploitant certains minerais dans l\'espace, vous pouvez débloquer certains bâtiments pour la carte qui a été utilisée pour aller sur la lune.</string>
     <string name="tip_topic_icbm_title">
-Careful ! The ICBM will blow up your whole city
+Attention ! L\'ICBM fera exploser toute votre ville
     </string>
     <string name="tip_topic_icbm_text">L\'ICBM n\'est pas une catastrophe naturelle et ne peut être déclenchée que par la DSA. Soyez prudent lorsque vous utilisez l\'ICBM, car il fera exploser toute la ville, qu\'importe sa taille, en quelques secondes. Vous pouvez sauvegarder ou dupliquer la ville pour éviter les regrets après avoir testé l\'ICBM dessus.</string>
     <string name="tip_topic_normalzone_densezone_title">Les zones denses peuvent accueillir plus de personnes, mais sont plus coûteuses à placer</string>
@@ -3247,7 +3247,7 @@ Careful ! The ICBM will blow up your whole city
     <string name="tip_topic_game_extentions_text">Les extensions officielles du jeu sont publiées sur la boutique de plugins par l\'utilisateur Lobby. Elles sont généralement gratuites car ce sont des extensions officielles du jeu.</string>
     <string name="tip_topic_inspiration_title">Ne comparez pas avec les villes d\'autres joueurs, inspirez-vous</string>
     <string name="tip_topic_inspiration_text">
-Different players have different styles. Instead of getting jealous of other players\' cities, try pinpointing exactly what draws you to it. Why do you like it so much exactly ? Once you figure that out, try implementing it in your cities little by little and watch the city grow.
+Chaque joueur a son style. Au lieu d\'être jaloux des villes des autres joueurs, essayez d\'identifier ce qui vous attire exactement. Pourquoi l\'aimez-vous autant ? Une fois que vous avez compris cela, essayez de l\'implémenter petit à petit dans vos villes et regardez la ville grandir.
     </string>
     <string name="tip_topic_road_connection_title">Utilisez la connexion automatique des routes lors de la construction de réseaux routiers</string>
     <string name="tip_topic_road_connection_text">Appuyez sur la route de votre choix, puis appuyez sur "joindre la route" dans le coin supérieur droit pour relier automatiquement la route en cours de construction. Cela aidera à éviter que les routes ne fonctionnent pas correctement à cause d\'un mauvais raccordement.</string>
@@ -3355,7 +3355,7 @@ Veuillez vérifier les mises à jour pour pouvoir jouer à ce scénario.</string
     <string name="dialog_scenarios_cmdmove">Déplacer</string>
     <string name="dialog_scenarios_cmdinfo">Info</string>
     <string name="dialog_scenarios_cmdplay">Jouer</string>
-    <string name="dialog_scenarios_cmdstart">Start</string>
+    <string name="dialog_scenarios_cmdstart">Démarrer</string>
     <string name="dialog_scenarios_reset_title">Réinitialiser</string>
     <string name="dialog_scenarios_reset_text">Êtes-vous sûr de vouloir réinitialiser votre progression? Vous pouvez soit la déplacer vers vos villes individuelles pour continuer à jouer, soit la supprimer complètement.</string>
     <string name="dialog_scenarios_empty">Il n\'y a pas de scénarios disponibles pour le moment.</string>
@@ -3477,7 +3477,7 @@ Valeur : %s</string>
     <string name="control_copy">Copier</string>
     <string name="control_paste">Coller</string>
     <string name="dialog_colorpicker_title">Sélectionnez une couleur</string>
-    <string name="ts_location_west">%s West</string>
+    <string name="ts_location_west">%s Ouest</string>
     <string name="ts_location_south">%s Sud</string>
     <string name="ts_location_north">%s Nord</string>
     <string name="ts_location_east">%s Est</string>
@@ -3594,5 +3594,34 @@ Valeur : %s</string>
     <string name="legend_mixed_voltage">Les deux</string>
     <string name="legend_metro">Métro</string>
     <string name="legend_ts_edit">%s (en édition)</string>
+
+
+    <string name="dialog_url_title">Ouvrir le site web ?</string>
+    <string name="dialog_url_text">Le plugin « %s » souhaite ouvrir un site web externe. Il peut contenir des publicités. Continuez uniquement si vous faites confiance à la source :</string>
+    <string name="dialog_url_cmdopen">Ouvrir</string>
+    <string name="settings_adaptive_ground_blending">Fusion adaptative du terrain</string>
+
+    <string name="empty_cause_unknown">Parti pour des raisons inconnues.</string>
+    <string name="empty_cause_low_demand">Parti en raison d\'une faible demande.</string>
+    <string name="empty_cause_low_happiness">Parti en raison d\'une faible satisfaction concernant %s.</string>
+    <string name="empty_cause_crime">Parti en raison de la criminalité (%s).</string>
+    <string name="empty_cause_illness">Parti en raison d\'une maladie ou pollution.</string>
+    <string name="stage_files_folderfiles">Contient %d fichier(s)</string>
+
+    <string name="notbuildablereason_generic">Impossible de construire ici</string>
+    <string name="notbuildablereason_land">Nécessite de la terre</string>
+    <string name="notbuildablereason_water">Nécessite de l\'eau</string>
+    <string name="notbuildablereason_zone">Mauvaise zone</string>
+    <string name="notbuildablereason_maxcount">Limite de construction atteinte</string>
+    <string name="notbuildablereason_terrain">Terrain inapproprié</string>
+    <string name="notbuildablereason_nomoney">Fonds insuffisants</string>
+    <string name="notbuildablereason_blocked">La zone est bloquée</string>
+
+    <string name="recovery_mode_title">Oups</string>
+    <string name="recovery_mode_text">TheoTown n\'a pas pu démarrer plusieurs fois.\n\nSouhaitez-vous lancer le jeu en mode de récupération ?\n\nLe mode de récupération désactive temporairement tous les plug-ins, ce qui vous permet de supprimer ou de réparer tout plug-in susceptible de causer le problème. Les plug-ins seront à nouveau chargés normalement lors du prochain redémarrage du jeu.</string>
+    <string name="recovery_mode_normal">Démarrage normal</string>
+    <string name="recovery_mode_recovery">Mode de récupération</string>
+
+    <string name="settings_draw_neighbors">Dessiner les villes voisines</string>
 
 </resources>

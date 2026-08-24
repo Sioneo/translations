@@ -105,7 +105,7 @@
     <string name="draft_medic01_text">Rumah sakit untuk penyakit yang membutuhkan penanganan lebih lanjut.</string>
     <string name="draft_school00_title">Sekolah dasar</string>
     <string name="draft_school00_text">Di sini anak-anak belajar pengetahuan dasar.</string>
-    <string name="draft_school01_title">Sekolah menengah</string>
+    <string name="draft_school01_title">Perguruan Tinggi</string>
     <string name="draft_school01_text">Sekolah untuk remaja di mana mereka belajar pengetahuan tingkat lanjut.</string>
     <string name="draft_museum00_title">Museum</string>
     <string name="draft_museum00_text">Artefak-artefak disimpan di sini.</string>
@@ -221,7 +221,7 @@
     <string name="dialog_screenshot_error">Tidak dapat menyimpan gambar di %1$s. Mohon periksa izin aplikasi di pengaturan.</string>
     <string name="settings_energysaving">Mode hemat energi</string>
     <string name="about_idea">Ide</string>
-    <string name="about_programming">Programming</string>
+    <string name="about_programming">Pemrograman</string>
     <string name="about_graphics">Grafik</string>
     <string name="about_music">Musik</string>
     <string name="about_engine">Mesin Grafik</string>
@@ -251,7 +251,7 @@
     <string name="draft_busstop00_text">Di sini para penduduk bisa menggunakan bus untuk mencapai bagian kota lainnya.</string>
     <string name="settings_orientation">Orientasi layar</string>
     <string name="settings_orientationlandscape">Lanskap</string>
-    <string name="settings_orientationportrait">Portrait</string>
+    <string name="settings_orientationportrait">Potret</string>
     <string name="settings_orientationauto">Otomatis</string>
     <string name="draft_busdepot00_title">Terminal bus</string>
     <string name="draft_busdepot00_text">Bus akan muncul dari sini. Pastikan bahwa busnya sudah diberi rute!</string>
@@ -260,7 +260,7 @@
     <string name="draftselector_titleremove">Hapus</string>
     <string name="draftselector_titleview">Lihat</string>
     <string name="toolremove_default_title">Hapus</string>
-    <string name="toolremove_default_text">Anda bisa menghapus apa pun dengan alat ini. Kecuali beberapa benda,anda bisa menghapusnya menggunakan alat hapus yang ditentukan.</string>
+    <string name="toolremove_default_text">Anda bisa menghapus apa pun dengan alat ini. Kecuali beberapa benda, Anda bisa menghapusnya menggunakan alat hapus yang ditentukan.</string>
     <string name="toolremove_pipe_text">Alat ini bisa digunakan untuk menghilangkan pipa air.</string>
     <string name="toolremove_pipe_title">Hapus pipa</string>
     <string name="draftselector_cmdremove">Hapus</string>
@@ -662,7 +662,7 @@
     <string name="budget_railstation">Stasiun kereta</string>
     <string name="draft_marker_ticketmarker_title">Tiket</string>
     <string name="draft_marker_ticketmarker_text">Menunjukkan tingkat kepuasan tiket.</string>
-    <string name="trainstationinfo_usage">Antrean: %2$,d/%3$,d\nUsage: %1$.1f%%</string>
+    <string name="trainstationinfo_usage">Antrean: %2$,d/%3$,d\nPemakaian: %1$.1f%%</string>
     <string name="draft_firedepartment01_title">Pos damkar</string>
     <string name="draft_firedepartment01_text">Mencegah dan memadamkan api. Punya jangkauan pendek dan hanya memiliki satu truk damkar.</string>
     <string name="draft_police01_title">Pos polisi</string>
@@ -746,7 +746,7 @@
     <string name="control_continue">Lanjutkan</string>
     <string name="settings_winter">Musim dingin</string>
     <string name="notify_riot_reason">Ada kerusuhan akibat %1$s!</string>
-    <string name="notify_riot_noreason">Ada kerusuhan tanpa akibat!</string>
+    <string name="notify_riot_noreason">Ada kerusuhan tanpa sebab!</string>
     <string name="notify_demonstration">Ada demo di kota karena %1$s! Lakukan sesuatu atau sesuatu yang buruk akan terjadi!</string>
     <string name="draft_marker_powermarker_title">Listrik</string>
     <string name="draft_marker_watermarker_title">Air</string>
@@ -774,7 +774,7 @@
     <string name="draft_rnk_megalopolis_title">Megalopolis</string>
     <string name="rank_needed_people">Setidaknya %1$,d penduduk</string>
     <string name="draft_decoroad00_title">Pohon median</string>
-    <string name="draft_decoroad00_text">.</string>
+    <string name="draft_decoroad00_text">Sedikit alam dan keteduhan untuk pusat kota yang ramai.</string>
     <string name="settings_experimental">Fitur eksperimen</string>
     <string name="about_thanks">Terima kasih untuk</string>
     <string name="about_community">Dan bagian komunitas lainnya</string>
@@ -805,7 +805,7 @@
     <string name="rank_title">Tingkat baru kota</string>
     <string name="ci_rank_title">Tingkat</string>
     <string name="draft_firedepartment02_heli00_title">Helipad</string>
-    <string name="draft_firedepartment02_heli00_text">Helikopter dapat mendarat dan lepas landas di sini.\n\nIncreses the range of the fire department.</string>
+    <string name="draft_firedepartment02_heli00_text">Pasang helipad agar helikopter dapat lepas landas dan mendarat.\nMeningkatkan jangkauan pemadam kebakaran.</string>
     <string name="settings_reset_title">Reset pengaturan</string>
     <string name="settings_reset_text">Semua pengaturan akan diatur ulang. Apakah kamu yakin?</string>
     <string name="settings_leftsidetraffic">Lalu lintas kiri</string>
@@ -1175,7 +1175,7 @@ Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direk
     <string name="draft_prm_park00_title">Air Mancur Besar</string>
     <string name="draft_prm_park00_text">Air mancur indah yang akan menyenangkan penduduk %1$s dan kamu juga.</string>
     <string name="draft_feature_fountain00_title">Air Mancur Besar</string>
-    <string name="draft_feature_fountain00_text">Air mancur indah yang akan menyenangkan penduduk %1$s dan kamu juga.</string>
+    <string name="draft_feature_fountain00_text">Buka secara permanen taman dengan air mancur besar untuk ditempatkan di kotamu. Taman ini menjadi pusat perhatian dan memperindah area di sekitarnya.</string>
 
     <string name="draft_rnk_galaxy_small_title">Galaksi Kecil</string>
     <string name="draft_rnk_galaxy_medium_title">Galaksi</string>
@@ -1584,7 +1584,7 @@ Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direk
     <string name="draft_tool_movebuilding00_title">Pindahkan bangunan</string>
     <string name="draft_tool_movebuilding00_text">Pilih sebuah bangunan untuk memindahkannya ke tempat lain. Tidak semua bangunan bisa dipindahkan.</string>
     <string name="tool_movebuilding_cmd">Pilih bangunan</string>
-    <string name="draft_cat_root00_title">All</string>
+    <string name="draft_cat_root00_title">Semua</string>
 
     <string name="draft_cat_residential00_title">Bangunan pdd</string>
     <string name="draft_cat_commercial00_title">Bangunan kom</string>
@@ -1661,7 +1661,7 @@ Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direk
 
     <string name="draft_toji00_title">Tō-ji</string>
     <string name="draft_toji00_text">Tō-ji adalah sebuah kuil Buddha di Kyoto, Jepang. Diselesaikan pada 796 dengan tinggi 55 meter.</string>
-    <string name="ca_wastedisposal_text2">Pembuangan sampah: %1$,d/%2$,d L/h</string>
+    <string name="ca_wastedisposal_text2">Pengangkutan sampah: %1$,d/%2$,d L/hari</string>
     <string name="notify_waste_needer00">Sampah belum diambil untuk bangunan ini.</string>
     <string name="notify_waste_producer00">TPA ini penuh, kamu harus membersihkannya!</string>
     <string name="draft_landfill00_text">Tempat yang luas untuk mengumpulkan semua sampah. Hanya bisa dihapus jika kosong.</string>
@@ -1695,7 +1695,7 @@ Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direk
 
     <string name="game_remaining_doubledincometime">Pemasukan ganda selama %s</string>
     <string name="draft_taipei101_title">Taipei 101</string>
-    <string name="draft_taipei101_text">Pusat Finansial Taipei di Taipei adalah sebuah gedung pencakar langit super tinggi di Taiwan. Memiliki ketinggian 510 meters dan merupakan gedung tertinggi di dunia hingga 2010. Rampung pada 2004.</string>
+    <string name="draft_taipei101_text">Pusat Finansial Taipei di Taipei adalah gedung pencakar langit supertinggi di Taiwan. Tingginya 510 meter dan pernah menjadi gedung tertinggi di dunia hingga 2010. Rampung pada 2004.</string>
     <string name="draft_roaddeco_border00_title">Penunjuk jalan</string>
     <string name="draft_roaddeco_border00_text">Membantu mobil tetap di jalurnya.</string>
     <string name="draft_roaddeco_border01_title">Batas batu</string>
@@ -1916,8 +1916,8 @@ Kon: Kurang tantangan</string>
     <string name="store_modeinstalled">Terpasang</string>
     <string name="draft_feature_freefastspeed00_title">Kecepatan Cepat Tidak Terbatas</string>
     <string name="draft_feature_freetunnels00_title">Terowongan Tidak Terbatas</string>
-    <string name="dialog_storedelete_title">Uninstall</string>
-    <string name="dialog_storedelete_text">Apakah kamu yakin ingin menghapus plugin ini?</string>
+    <string name="dialog_storedelete_title">Copot pemasangan</string>
+    <string name="dialog_storedelete_text">Apakah kamu yakin ingin menghapus plugin ini? Tindakan ini tidak bisa dibatalkan.</string>
     <string name="dialog_storedelete_cmddelete">Hapus</string>
     <string name="store_modefeatured">Unggulan</string>
     <string name="store_modecategory">Kategori</string>
@@ -1962,8 +1962,8 @@ Kon: Kurang tantangan</string>
     <string name="influence_traffic_text">Penduduk tidak suka polusi dan kebisingan lalu lintas.</string>
     <string name="ci_neighbor_wastedisposal">Pelayanan pembuangan sampah</string>
     <string name="ci_neighbor_bodydisposal">Pelayanan pemakaman</string>
-    <string name="wastedisposal_transport">%1$,dL/h</string>
-    <string name="bodydisposal_transport">%1$,d/h</string>
+    <string name="wastedisposal_transport">%1$,dL/hari</string>
+    <string name="bodydisposal_transport">%1$,d/hari</string>
     <string name="draft_cat_elevatedtrain00_title">Kereta Layang</string>
     <string name="draft_cat_metro00_title">MRT</string>
     <string name="draft_cat_tree00_title">Tumbuhan</string>
@@ -2643,7 +2643,7 @@ Tekan suatu tombol untuk menetapkan tindakannya.</string>
 
 
     <string name="dialog_migratefb_title">Diperlukan tindakan! PENTING!</string>
-    <string name="dialog_migratefb_text">Sepertinya Anda login menggunakan akun Facebook.  Sayangnya, jenis akses ini sudah tidak digunakan lagi dan tidak lagi didukung.\Harap masuk menggunakan akun forum untuk memindahkan data Anda.</string>
+    <string name="dialog_migratefb_text">Sepertinya Anda masuk menggunakan akun Facebook. Sayangnya, jenis akses ini sudah usang dan tidak lagi didukung.\nHarap masuk menggunakan akun forum untuk memindahkan data Anda.</string>
     <string name="dialog_migratefb_cmdaccountsettings">Pengaturan akun</string>
     <string name="draft_feature_opera00_title">Gedung Opera</string>
     <string name="draft_feature_opera00_text">Lepaskan keajaiban budaya dengan Bundel Cultural Delight kami!  Rasakan kemegahan Gedung Opera, disertai dengan taman yang tenang dan air mancur yang mempesona.  Tingkatkan suasana kota Anda dan inspirasi warga Anda dengan perpaduan harmonis antara musik, alam, dan daya pikat artistik.  Tingkatkan sekarang dan biarkan kota Anda bersinar sebagai mahakarya budaya!</string>
@@ -2720,7 +2720,7 @@ Tekan suatu tombol untuk menetapkan tindakannya.</string>
     <string name="draft_dsaARR_requirement">Kebutuhan: Penelitian peroketan tingkat lanjut</string>
     <string name="draft_dsaFTR_requirement">Kebutuhan: Penelitian teknologi futuristik</string>
     <string name="draft_dsarocketnotready_requirement">Roket belum siap</string>
-    <string name="draft_dsarocketready_requirement">Rocket siap diluncurkan</string>
+    <string name="draft_dsarocketready_requirement">Roket siap diluncurkan</string>
     <string name="draft_dsarockettestundone_requirement">Tes roket sebelumnya tidak lengkap</string>
     <string name="draft_dsarockettestdone_requirement">Tes roket sebelumnya dilakukan</string>
     <string name="draft_dsarocketfinalundone_requirement">Tes roket tidak lengkap</string>
@@ -2816,7 +2816,7 @@ Tekan suatu tombol untuk menetapkan tindakannya.</string>
     <string name="draft_space_shuttle_ja_title">Base Utama Bulan</string>
     <string name="draft_space_shuttle_ja_text">Tempat Di Mana Astronot Mendarat.</string>
     <string name="draft_ja_picklehuge01_title">Acar</string>
-    <string name="draft_ja_picklehuge01_text">.</string>
+    <string name="draft_ja_picklehuge01_text">Sepertinya ini adalah penguasa acar yang ditemukan di wilayah ini.</string>
     <string name="draft_ja_tinypickle00_title">Acar</string>
     <string name="draft_ja_tinypickle00_text">Sepertinya Alien?.</string>
     <string name="draft_moon_artifact_ja00_title">Artefak Alien</string>
@@ -3347,8 +3347,8 @@ Tekan jalan yang ingin dibangun. Kemudian, saat berada di menu pembangunan, teka
 
 
     <string name="settings_category_notifications">Notifikasi</string>
-    <string name="settings_notify_low_power">Low power</string>
-    <string name="settings_notify_low_water">Low water</string>
+    <string name="settings_notify_low_power">Daya listrik rendah</string>
+    <string name="settings_notify_low_water">Pasokan air rendah</string>
     <string name="settings_notify_no_power">Tidak ada listrik</string>
     <string name="settings_notify_no_water">Tidak ada air</string>
     <string name="settings_notify_no_road">Tidak ada jalan</string>
@@ -3420,8 +3420,7 @@ Tekan jalan yang ingin dibangun. Kemudian, saat berada di menu pembangunan, teka
     <string name="regionlist_cat_tags">Tagar</string>
     <string name="settings_highrescitypreview">Render pratinjau kota resolusi tinggi</string>
     <string name="draft_native_snow_plow_depot00_title">Depot Pembajak Salju</string>
-    <string name="draft_native_snow_plow_depot00_text">Fasilitas khusus yang didesain untuk menjaga jalan tetap bersih sepanjang musim dingin. Menyebarkan pembajak salju yang dengan cepat menyingkirkan es dan salju sehingga memastikan arus lalu lintas tidak terganggu
-        .</string>
+    <string name="draft_native_snow_plow_depot00_text">Fasilitas khusus yang didesain untuk menjaga jalan tetap bersih sepanjang musim dingin. Mengoperasikan pembajak salju yang dengan cepat menyingkirkan es dan salju sehingga arus lalu lintas tidak terganggu.</string>
     <string name="settings_road_snow_overlay">Lapisan salju jalanan</string>
     <string name="settings_ground_snow_overlay">Lapisan salju tanah</string>
     <string name="dialog_scenarios_cmdopen">Skenario</string>
@@ -3668,8 +3667,37 @@ Tekan jalan yang ingin dibangun. Kemudian, saat berada di menu pembangunan, teka
     <string name="legend_bad">Buruk</string>
     <string name="legend_low_voltage">Tegangan normal</string>
     <string name="legend_high_voltage">Tegangan Tinggi</string>
-    <string name="legend_mixed_voltage">Legenda tegangan campuran</string>
+    <string name="legend_mixed_voltage">Keduanya</string>
     <string name="legend_metro">Metro</string>
     <string name="legend_ts_edit">%s (sedang diedit)</string>
+
+
+    <string name="dialog_url_title">Buka situs web?</string>
+    <string name="dialog_url_text">Plugin "%s" ingin membuka situs web eksternal. Ini mungkin berisi iklan. Lanjutkan hanya jika Anda mempercayai sumbernya:</string>
+    <string name="dialog_url_cmdopen">Buka</string>
+    <string name="settings_adaptive_ground_blending">Pencampuran tanah adaptif</string>
+
+    <string name="empty_cause_unknown">Pergi karena alasan yang tidak diketahui.</string>
+    <string name="empty_cause_low_demand">Pergi karena permintaan rendah.</string>
+    <string name="empty_cause_low_happiness">Pergi karena kepuasan rendah tentang %s.</string>
+    <string name="empty_cause_crime">Pergi karena kejahatan (%s).</string>
+    <string name="empty_cause_illness">Pergi karena kontaminasi.</string>
+    <string name="stage_files_folderfiles">Berisi %d file</string>
+
+    <string name="notbuildablereason_generic">Tidak dapat membangun di sini</string>
+    <string name="notbuildablereason_land">Membutuhkan daratan</string>
+    <string name="notbuildablereason_water">Membutuhkan air</string>
+    <string name="notbuildablereason_zone">Zona yang salah</string>
+    <string name="notbuildablereason_maxcount">Batas bangunan tercapai</string>
+    <string name="notbuildablereason_terrain">Medan tidak cocok</string>
+    <string name="notbuildablereason_nomoney">Uang tidak cukup</string>
+    <string name="notbuildablereason_blocked">Area terblokir</string>
+
+    <string name="recovery_mode_title">Ups</string>
+    <string name="recovery_mode_text">TheoTown gagal memulai beberapa kali.\n\nApakah Anda ingin menjalankan game dalam Mode Pemulihan?\n\nMode Pemulihan menonaktifkan sementara semua plugin, memungkinkan Anda untuk menghapus atau memperbaiki plugin apa pun yang mungkin menyebabkan masalah. Plugin akan dimuat secara normal kembali saat Anda memulai ulang game di lain waktu.</string>
+    <string name="recovery_mode_normal">Mulai normal</string>
+    <string name="recovery_mode_recovery">Mode Pemulihan</string>
+
+    <string name="settings_draw_neighbors">Gambar kota tetangga</string>
 
 </resources>

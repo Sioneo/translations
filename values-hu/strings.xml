@@ -6,13 +6,13 @@
     <string name="settings_defaults">Alapértelmezett</string>
     <string name="settings_apply">Alkalmaz</string>
     <string name="createcity_mapsize">Méret:</string>
-    <string name="createcity_cityname">Város Neve:</string>
+    <string name="createcity_cityname">Város neve:</string>
     <string name="control_back">Vissza</string>
-    <string name="createcity_start">Start</string>
+    <string name="createcity_start">Indítás</string>
     <string name="loadcity_load">Indítás</string>
 
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
-    <string name="game_habitants">lakosság: %1$,d</string>
+    <string name="game_habitants">Lakosság: %1$,d</string>
     <string name="game_cityname">%1$s</string>
     <string name="createcity_seed">Mag:</string>
     <string name="createcity_sizesmall">Kicsi</string>
@@ -20,7 +20,7 @@
     <string name="createcity_sizebig">Nagy</string>
     <string name="createcity_sizeother">Más</string>
     <string name="game_monthlyincome">%1$,+d</string>
-    <string name="game_estate">Birtok: %1$s</string>
+    <string name="game_estate">Egyenleg: %1$s</string>
     <string name="game_rating">%1$,d</string>
     <string name="settings_resolutionlowlow">Nagyon alacsony</string>
     <string name="settings_resolutionlow">Alacsony</string>
@@ -34,8 +34,8 @@
     <string name="dialog_nocities_cmdnewcity">Új város</string>
     <string name="settings_drawcars">Kocsik megjelenítése</string>
     <string name="settings_drawsmoke">Füst megjelenítése</string>
-    <string name="settings_transparencybuildmode">Átláthatóság építkezés módban (build mode)</string>
-    <string name="settings_buildgrid">Rács építési módban (build mode)</string>
+    <string name="settings_transparencybuildmode">Átlátszóság építési módban</string>
+    <string name="settings_buildgrid">Rács építési módban</string>
     <string name="settings_doublecardrawing">Dupla autó rajz</string>
     <string name="settings_drawwatersparkle">Rajzolj vízszikrát</string>
     <string name="settings_drawmapedges">Pálya széle mutatása</string>
@@ -43,7 +43,7 @@
     <string name="loadcity_errordialog_text">Nem sikerült betölteni a várost, a fájl sérültnek tűnik.\n\nSajnáljuk.</string>
     <string name="loadcity_errordialog_cmdcancel">Mégse</string>
     <string name="dialog_screenshot_title">Képernyőfelvétel elkészült</string>
-    <string name="dialog_screenshot_text">A kép a %1$s nevű mappába lett elmentve</string>
+    <string name="dialog_screenshot_text">A kép %1$s néven lett elmentve.</string>
     <string name="dialog_screenshot_cmdok">OK, köszönöm</string>
     <string name="draftselector_titleparks">Parkok</string>
     <string name="draftselector_titlepublics">Közösségi</string>
@@ -66,7 +66,7 @@
     <string name="dialog_leave_text">Tényleg ki akarsz lépni a TheoTown-ból?</string>
     <string name="dialog_leave_title">Kilépés a TheoTown-ból</string>
     <string name="dialog_leave_cmdcancel">Mégse</string>
-    <string name="dialog_leave_cmdleave">Kilépés :,(</string>
+    <string name="dialog_leave_cmdleave">Kilépés</string>
     <string name="savewaiting_title">Város mentése</string>
     <string name="loadwaiting_title">Város betöltése</string>
     <string name="dialog_invalidcityname_title">Helytelen név</string>
@@ -100,7 +100,7 @@
     <string name="draft_bigpark00_title">Nagy park</string>
     <string name="draft_bigpark00_text">A lakóknak tetszeni fog a nagy park.</string>
     <string name="draft_park03_text">A lakóknak tetszeni fog.</string>
-    <string name="draft_medic00_title">Doktor</string>
+    <string name="draft_medic00_title">Kis klinika</string>
     <string name="draft_medic00_text">A lakosok láthatják a doktort.</string>
     <string name="draft_medic01_title">Kórház</string>
     <string name="draft_medic01_text">A lakosok biztonságosabban érzik magukat egy kórház közelében.</string>
@@ -109,7 +109,7 @@
     <string name="draft_school01_title">Középiskola</string>
     <string name="draft_school01_text">Hely, ahol az idősebb gyerekek tanulnak.</string>
     <string name="draft_museum00_title">Múzeum</string>
-    <string name="draft_museum00_text">Hely, ahol az idősebb emberek tanulnak.</string>
+    <string name="draft_museum00_text">A művészet, a tudomány és a kultúra felfedezésének helye. Mindkét oktatási szintet jelentősen támogatja.</string>
     <string name="draft_pipe00_title">Vízcső</string>
     <string name="draft_pipe00_text">A csövek segítségével vizet szállíthatsz az épületeidhez.</string>
     <string name="draft_waterpump00_title">Vízszivattyú</string>
@@ -136,14 +136,14 @@
     <string name="settings_category_audio">Hang</string>
     <string name="settings_category_other">Továbbiak</string>
     <string name="draft_management00_title">Rendőrség</string>
-    <string name="draft_management00_text">Az erőssebb biztonságért.</string>
+    <string name="draft_management00_text">A nagyobb biztonságért.</string>
     <string name="draft_firedepartment00_title">Tűzoltóság</string>
     <string name="draft_firedepartment00_text">Megakadályozza, és kioltja a tüzeket. 2 kocsival, és egy megfelelő hatáskörrel rendelkezik.</string>
     <string name="draft_statue00_title">Szobor</string>
     <string name="draft_statue00_text">A városi tanács elnökének szobora.</string>
     <string name="draft_gillender00_title">Gillender Építmény</string>
     <string name="draft_gillender00_text">A Gillender építmény. Köszönjük a 250,000 letöltést :D</string>
-    <string name="topic_thanks">Köszönjük a nagy támogatásotokat!</string>
+    <string name="topic_thanks">Köszönjük a nagyszerű támogatásotokat!</string>
     <string name="topic_cake">A torta egy hazugság!</string>
     <string name="topic_panic">Ne pánikolj.</string>
     <string name="draft_bigschool00_title">Nagy Általános Iskola</string>
@@ -220,14 +220,14 @@
     <string name="buildinginfo_worker">Munkások: %1$,d/%2$,d</string>
     <string name="topic_giveup">Soha ne add fel!</string>
     <string name="dialog_screenshot_error">Nem hozható létre mentési könyvtár a %1$s-hez. Kérlek, ellenőrizd az alkalmazás engedélyeit.</string>
-    <string name="settings_energysaving">Energia mentési mód</string>
+    <string name="settings_energysaving">Energiatakarékos mód</string>
     <string name="about_idea">Ötlet</string>
     <string name="about_programming">Programozás</string>
     <string name="about_graphics">Grafika</string>
     <string name="about_music">Zene</string>
     <string name="about_engine">Grafikai motor</string>
     <string name="draft_police00_title">Rendőrség</string>
-    <string name="draft_police00_text">Az erőssebb biztonságért</string>
+    <string name="draft_police00_text">A nagyobb biztonságért</string>
     <string name="settings_showinfluencepreview">Hatás előnézete</string>
     <string name="draftselector_titletransport">Közlekedés</string>
     <string name="draftselector_titlezone">Zónák</string>
@@ -251,13 +251,13 @@
     <string name="draft_busstop00_title">Buszmegálló</string>
     <string name="draft_busstop00_text">A lakosok busszal el tudnak jutni a város más részeire.</string>
     <string name="settings_orientation">Képernyő orientációja</string>
-    <string name="settings_orientationlandscape">Szélességi</string>
-    <string name="settings_orientationportrait">Hosszúsági</string>
+    <string name="settings_orientationlandscape">Fekvő</string>
+    <string name="settings_orientationportrait">Álló</string>
     <string name="settings_orientationauto">Automatikus</string>
     <string name="draft_busdepot00_title">Busztelep</string>
     <string name="draft_busdepot00_text">A busztelep szükséges a buszok elindításához.</string>
     <string name="settings_debugmode">Debug mód</string>
-    <string name="unknown">Ismeretlen</string>
+    <string name="unknown">Wurstbrot</string>
     <string name="draftselector_titleremove">Eltávolítás</string>
     <string name="draftselector_titleview">Megjelenítés</string>
     <string name="toolremove_default_title">Eltávolítás</string>
@@ -268,7 +268,7 @@
     <string name="draftselector_cmdview">Megjelenítés</string>
     <string name="busstopinfo_usage">Várakozás: %2$,d/%3$,d\nHasználat: %1$.1f%%</string>
     <string name="ci_rating_title">Értékelés</string>
-    <string name="ci_energy_networks">%1$,d hálózat(másodperc)</string>
+    <string name="ci_energy_networks">%1$,d hálózat</string>
     <string name="ci_energy_produced">Termelt: %1$,.0fkW (%2$,d épület)</string>
     <string name="ci_energy_consumed">Használt: %1$,.0fkW (%2$,d épület)</string>
     <string name="ci_energy_ratio">Használat: %1$.1f%%</string>
@@ -276,7 +276,7 @@
     <string name="ci_energy_single">Egyedüli</string>
     <string name="ci_water_all">Általános</string>
     <string name="ci_water_single">Egyedüli</string>
-    <string name="ci_water_networks">%1$,d hálózat(másodperc)</string>
+    <string name="ci_water_networks">%1$,d hálózat</string>
     <string name="ci_water_consumed">Használt: %1$,.0fL/h (%2$,d épület)</string>
     <string name="ci_water_produced">Termelt: %1$,.0fL/h (%2$,d épület)</string>
     <string name="ci_water_ratio">Használat: %1$.1f%%</string>
@@ -297,7 +297,7 @@
     <string name="ci_rci_ind1">Ipari ͲͲ</string>
     <string name="ci_rci_ind2">Ipari ͲͲͲ</string>
     <string name="ci_general_population0">Szegény lakosok (Ͳ): %1$,d</string>
-    <string name="ci_general_population1">Középső lakosok (ͲͲ): %1$,d</string>
+    <string name="ci_general_population1">Középosztálybeli lakosok (ͲͲ): %1$,d</string>
     <string name="ci_general_population2">Gazdag lakosok (ͲͲͲ): %1$,d</string>
     <string name="draft_footballfield00_title">Focipálya</string>
     <string name="draft_footballfield00_text">A focipálya a lakosokat boldogítja.</string>
@@ -314,7 +314,7 @@
     <string name="buildinginfo_upgradenotavail">Nem elérhető</string>
     <string name="buildinginfo_upgrade">Fejlesztés(ek)</string>
     <string name="draft_pool00_title">Medence</string>
-    <string name="draft_pool00_text">Nézzük a új nyitott medencébe.</string>
+    <string name="draft_pool00_text">Mindenki szeret csobbanni egyet.\n\nA gazdag lakosok értékelik a jó sportlétesítményeket.</string>
     <string name="draft_pool00_waterslide_title">Vízcsúszdák</string>
     <string name="draft_pool00_waterslide_text">Vízcsúszdák és napárnyékok.</string>
     <string name="blank_text">Itt lehetne reklám</string>
@@ -336,12 +336,12 @@
     <string name="buildinginfo_happiness">Összes boldogság: %1$.0f%%</string>
     <string name="notify_noenergy">Vannak épületek, amelyek nem jutnak áramhoz!</string>
     <string name="notify_nowater">Vannak épületek, amelyek nem jutnak vízhez!</string>
-    <string name="draft_footballstadion00_roof_title">Fedélzet</string>
+    <string name="draft_footballstadion00_roof_title">Tető</string>
     <string name="draft_footballstadion00_roof_text">A fedélzeten a játékok bármilyen időjárás mellett lehetnek.</string>
-    <string name="draft_footballstadion00_fanshop_title">Kedvencek boltja</string>
-    <string name="draft_footballstadion00_fanshop_text">Itt lehet kedvenceket vásárolni.</string>
-    <string name="notify_requirementbuilding">Megoldva %1$s.</string>
-    <string name="notify_requirementupgrade">Gratulálunk, megoldottad a %1$s fejlesztést a %2$s épületért!</string>
+    <string name="draft_footballstadion00_fanshop_title">Szurkolói bolt</string>
+    <string name="draft_footballstadion00_fanshop_text">Kiegészítőket, harapnivalókat és ajándéktárgyakat árulnak itt.</string>
+    <string name="notify_requirementbuilding">Feloldottad: %1$s.</string>
+    <string name="notify_requirementupgrade">Gratulálunk, feloldottad a(z) %1$s fejlesztést a(z) %2$s épülethez!</string>
     <string name="draftselector_titlesports">Sport</string>
     <string name="draftselector_titlealert">Vészhelyzetek</string>
     <string name="notify_fire">Tűz van! Hívd a tűzoltót a tűz elhárítására. Gondold át, lehet hogy több tűzoltó állomás kell.</string>
@@ -353,11 +353,11 @@
     <string name="draft_alert_police00_text">Hívd a rendőröket a bűnözők elfogására.</string>
     <string name="draft_alert_fire00_title">Hívd a tűzoltókat</string>
     <string name="draft_alert_fire00_text">Hívd a tűzoltókat, ha valami ég a tűzben.</string>
-    <string name="draft_alert_medic00_title">Hívd ki a orvost.</string>
+    <string name="draft_alert_medic00_title">Küldj mentőt</string>
     <string name="draft_alert_medic00_text">Ha egy baleset történik, ki kell hívnod egy orvost.</string>
     <string name="buildinginfo_powerusage">Használat: %1$.01f%%</string>
     <string name="buildinginfo_waterusage">Használat: %1$.1f%%</string>
-    <string name="settings_maxzoomout">Maximális kinagyítás</string>
+    <string name="settings_maxzoomout">Maximális kicsinyítés</string>
     <string name="notify_noise">Túl sok a zaj!</string>
     <string name="happiness_energy">Energia</string>
     <string name="happiness_gamemode">Játékmód</string>
@@ -514,7 +514,7 @@
     <string name="draftselector_onlyn">Csak %1$,d alkalommal építhető</string>
     <string name="draft_church02_title">Kis templom</string>
     <string name="draft_church02_text">Egy templom kisvárosok számára.</string>
-    <string name="draft_mosque01_title">Lle mecset</string>
+    <string name="draft_mosque01_title">Közepes mecset</string>
     <string name="draft_mosque01_text">Egy mecset kisvárosok számára.</string>
     <string name="settings_sound_ui">UI hang</string>
     <string name="settings_sound_game">Játékon belüli hang</string>
@@ -606,8 +606,8 @@
     <string name="topic_nature">Védd a természetet</string>
     <string name="topic_time">Szánj rá időt</string>
     <string name="topic_big">Csinálj valami nagyot</string>
-    <string name="buildinginfo_waterwaste">Elpazarolt víz: %1$.1f%%</string>
-    <string name="ci_water_waste">Pazarlás: %1$.1f%%</string>
+    <string name="buildinginfo_waterwaste">Szennyvíz: %1$.1f%%</string>
+    <string name="ci_water_waste">Szennyvíz: %1$.1f%%</string>
     <string name="shader_fancy2">X-Fancy</string>
     <string name="draft_sewerpipe00_title">Szennyvízcső</string>
     <string name="draft_sewerpipe00_text">Csökkenti a vízszennyezést azzal, hogy a szennyvizet a természetbe engedi. Rossz hatással van a környezetre.</string>
@@ -627,12 +627,12 @@
     <string name="settings_shadertype_normal">Normál</string>
     <string name="settings_shadertype_fancy">Díszes</string>
     <string name="settings_shadertype_xfancy">X-Díszes</string>
-    <string name="draft_buoy00_title">Bójá</string>
+    <string name="draft_buoy00_title">Bója</string>
     <string name="draft_buoy00_text">Segít a hajóknak megtalálni az utat.</string>
     <string name="ci_general_seed">Mag: %1$s</string>
-    <string name="draft_decores00_text">.</string>
-    <string name="draft_decocom00_text">.</string>
-    <string name="draft_decoind00_text">.</string>
+    <string name="draft_decores00_text">Lakóövezeti dekoráció, a polgáraid itt végzik tevékenységeiket.</string>
+    <string name="draft_decocom00_text">Kereskedelmi övezeti dekoráció.</string>
+    <string name="draft_decoind00_text">Ipari övezeti dekoráció.</string>
     <string name="ci_budget_title_nomoney">Pénzügyek (elméleti)</string>
     <string name="dialog_notification_cmdok">Oké</string>
     <string name="draft_nuclearplant00_title">Atomerőmű</string>
@@ -704,8 +704,8 @@
     <string name="dialog_renameauthor_title">Szerző átnevezése</string>
     <string name="dialog_renameauthor_text">Írd be az új szerzőt.</string>
     <string name="ci_general_authorname">Szerző: %1$s</string>
-    <string name="loadcity_author">by %1$s</string>
-    <string name="game_cityauthor">by %1$s</string>
+    <string name="loadcity_author">készítette: %1$s</string>
+    <string name="game_cityauthor">készítette: %1$s</string>
     <string name="control_ok">Oké</string>
     <string name="control_cancel">Mégse</string>
     <string name="createcity_settings">Több...</string>
@@ -745,7 +745,7 @@
     <string name="settings_winter">Tél</string>
     <string name="notify_riot_reason">Zavargás tört ki a következő miatt: %1$s!</string>
     <string name="notify_riot_noreason">Zavargás tört ki ok nélkül!</string>
-    <string name="notify_demonstration">Demonstráció van a városunkban a következő miatt: %1s! Tegyél valamit, vagy baj lesz!</string>
+    <string name="notify_demonstration">Demonstráció van a városunkban a következő miatt: %1$s! Tegyél valamit, vagy baj lesz!</string>
     <string name="draft_marker_powermarker_title">Energia</string>
     <string name="draft_marker_watermarker_title">Víz</string>
     <string name="draft_road04_title">Köz</string>
@@ -772,7 +772,7 @@
     <string name="draft_rnk_megalopolis_title">Megalopolisz</string>
     <string name="rank_needed_people">Legalább %1$,d lakos</string>
     <string name="draft_decoroad00_title">Fás utcák</string>
-    <string name="draft_decoroad00_text">.</string>
+    <string name="draft_decoroad00_text">Egy kis természet és árnyék a forgalmas városközpontokba.</string>
     <string name="settings_experimental">Kísérleti funkciók</string>
     <string name="about_thanks">Külön köszönet</string>
     <string name="about_community">És a közösség többi tagjának</string>
@@ -790,7 +790,7 @@
     <string name="draft_mltry_hq00_title">Központ</string>
     <string name="draft_mltry_baracks00_title">Laktanya</string>
     <string name="draft_mltry_depot00_title">Raktár</string>
-    <string name="draft_mltry_tankbase00_title">Tartálybázis</string>
+    <string name="draft_mltry_tankbase00_title">Harckocsibázis</string>
     <string name="draft_mltry_rocketlauncher00_title">Rakétavető</string>
     <string name="draft_landfill00_title">Hulladéklerakó</string>
     <string name="draft_wasteincinerator00_title">Hulladékégető</string>
@@ -981,8 +981,8 @@
     <string name="menu_hideui">Felhasználói felület elrejtése</string>
     <string name="ci_neighbor_title">Szomszédsági kereskedelem</string>
     <string name="ci_neighbor_notavailable">Jelenleg nem elérhető</string>
-    <string name="ci_neighbor_import">Import</string>
-    <string name="ci_neighbor_export">Export</string>
+    <string name="ci_neighbor_import">Importálás</string>
+    <string name="ci_neighbor_export">Exportálás</string>
     <string name="energy">%1$,dkW</string>
     <string name="water">%1$,dL/h</string>
     <string name="ci_neighbor_power">Energia</string>
@@ -998,7 +998,6 @@
     <string name="dialog_presentdaily_text">Holnap többet kapsz.</string>
     <string name="dialog_presentdaily_day">%1$,d. nap</string>
     <string name="rank_needed_xp">Legalább %1$,d várospont szükséges</string>
-    <string name="currency_symbol" translatable="false">Ͳ</string>
     <string name="settings_shortmoney">Pénz rövidítése</string>
     <string name="dialog_newsign_title">Új címke</string>
     <string name="dialog_newsign_text">Adj nevet ennek a területnek.</string>
@@ -1264,7 +1263,7 @@
     <string name="dialog_redeemfailure_title">Sikertelen</string>
     <string name="dialog_redeemfialire_text">A megadott kódot nem lehetett beváltani. Ellenőrizd a gépelési hibákat.</string>
     <string name="shop_redeemcode">Kód beváltása</string>
-    <string name="draft_ap_tower00_title">Torny</string>
+    <string name="draft_ap_tower00_title">Torony</string>
     <string name="draft_ap_tower00_text">Egy repülőtérnek legalább egy toronyra van szüksége a megfelelő működéshez.</string>
     <string name="draft_ap_hall00_title">Bejárat</string>
     <string name="draft_ap_hall00_text">A repülőtérnek szüksége van bejáratra, hogy az emberek be tudjanak menni.</string>
@@ -1470,11 +1469,11 @@
     <string name="draft_draft_hedu_text">Elégedettség az oktatás elérhetőségével kapcsolatban.</string>
     <string name="draft_draft_hlvl_title">Szomszédsági elégedettség</string>
     <string name="draft_draft_hlvl_text">Elégedettség a szomszédos épületek szintjével kapcsolatban.</string>
-    <string name="draft_draft_htx_title">Adóelégédettség</string>
+    <string name="draft_draft_htx_title">Adóelégedettség</string>
     <string name="draft_draft_htx_text">Elégedettség az adókkal kapcsolatban.</string>
     <string name="draft_draft_htr_title">Közlekedési elégedettség</string>
     <string name="draft_draft_htr_text">Elégedettség a közlekedéssel kapcsolatban.</string>
-    <string name="draft_draft_hzn_title">Zónaelégédettség</string>
+    <string name="draft_draft_hzn_title">Zónaelégedettség</string>
     <string name="draft_draft_hzn_text">Elégedettség a közeli zónákkal kapcsolatban.</string>
     <string name="draft_draft_hspl_title">Ellátottsági elégedettség</string>
     <string name="draft_draft_hspl_text">Elégedettség az elérhető energia- és vízellátással kapcsolatban.</string>
@@ -1525,8 +1524,8 @@
     <string name="task_build_parks">Építs %s parkot.</string>
     <string name="task_get_inhabitants">Szerezz %s új lakost.</string>
     <string name="task_get_money">Keress %s₮.</string>
-    <string name="task_spend_money">Költ %s₮.</string>
-    <string name="task_spend_diamonds">Költ %s gyémántot.</string>
+    <string name="task_spend_money">Költs %s₮-t.</string>
+    <string name="task_spend_diamonds">Költs %s gyémántot.</string>
     <string name="task_tap_screen">Érints %s-szer a képernyőn.</string>
     <string name="task_current">Jelenlegi feladat</string>
     <string name="dialog_adreward_title">Jutalmazott hirdetés</string>
@@ -1534,7 +1533,7 @@
     <string name="dialog_adreward_cmdwatch">Szerezd meg most</string>
     <string name="draftselector_titlelandmark">Nevezetességek</string>
     <string name="draft_bigben00_title">Big Ben</string>
-    <string name="draft_bigben00_text">A Big Ben egy harangtorny Londonban, 96 m magas, és 1859-ben épült.</string>
+    <string name="draft_bigben00_text">A Big Ben egy harangtorony Londonban, 96 m magas, és 1859-ben épült.</string>
     <string name="draft_angelofindependence00_title">A Függetlenség Angyala</string>
     <string name="draft_angelofindependence00_text">A Függetlenség Angyala egy emlékmű Mexikóvárosban, amelyet 1910-ben építettek Mexikó Függetlenségi Háborújának emlékére.</string>
     <string name="draft_statueofliberty00_title">Szabadság Szobor</string>
@@ -1586,7 +1585,7 @@
     <string name="draft_cat_industrial00_title">Ipari épületek</string>
     <string name="offerstage_saving">Megtakarítás %d%%</string>
     <string name="draft_pickle00_title">Mindenható uborka</string>
-    <string name="draft_pickle00_text">.</string>
+    <string name="draft_pickle00_text">Egy mindenható uborka.</string>
 
     <string name="settings_newtoolbar">Eszköztár használata</string>
 
@@ -1607,7 +1606,7 @@
     <string name="dialog_gallerypolicy_cmdcancel">Nem értek egyet</string>
     <string name="settings_pushnotifications">Értesítések</string>
     <string name="draft_leaningtowerofpisa00_title">Pisai ferde torony</string>
-    <string name="draft_leaningtowerofpisa00_text">A Pisai ferde torony egy harangtorny Pisa városában, Olaszországban. 1372-ben fejeződött be, magassága 56 méter.</string>
+    <string name="draft_leaningtowerofpisa00_text">A pisai ferde torony egy harangtorony Pisa városában, Olaszországban. 1372-ben fejezték be, magassága 56 méter.</string>
     <string name="draft_burjalarab00_title">Burj Al Arab</string>
     <string name="draft_burjalarab00_text">A Burj Al Arab egy luxusszálloda Dubajban, Egyesült Arab Emírségek. 1999-ben fejeződött be, magassága 321 méter.</string>
     <string name="draft_hearsttower00_title">Hearst Tower</string>
@@ -1658,10 +1657,10 @@
     <string name="notify_waste_needer00">Ehhez az épülethez nem gyűjtik a szemetet.</string>
     <string name="notify_waste_producer00">Ez a hulladéklerakó tele van! Koppints rá a tisztításhoz!</string>
     <string name="draft_landfill00_text">Rengeteg hely az összes szemét gyűjtésére. Csak üresen távolítható el.</string>
-    <string name="waste_clear">HUZZ a szeméten a tisztításhoz.</string>
+    <string name="waste_clear">HÚZD végig az ujjad a szeméten a megtisztításhoz.</string>
     <string name="waste_cmdclear">Tisztítás most</string>
     <string name="dialog_wasteclear_title">Tisztítás most</string>
-    <string name="dialog_wasteclear_text">Eltávolíthatjuk a hulladéklerakót neked.</string>
+    <string name="dialog_wasteclear_text">Kiüríthetjük neked a hulladéklerakót.</string>
     <string name="draft_wasteincinerator00_text">Gyors és piszkos módja a szemét eltávolításának.</string>
     <string name="budget_waste_disposal">Hulladékkezelés</string>
     <string name="draft_alert_garbage00_title">Hívd a kukásautót</string>
@@ -2058,12 +2057,12 @@
     <string name="gamemenu_gameidcopied">Játék ID másolva a vágólapra</string>
     <string name="draft_cat_intersections00_title">Csomópontok</string>
     <string name="draft_intersection00_title">Felüljáró</string>
-    <string name="draft_intersection00_text">Országút, ami hidon keresztül kapcsolódik a sík autópályához.</string>
+    <string name="draft_intersection00_text">Országút, amely hídon keresztül kapcsolódik a sík autópályához.</string>
     <string name="draft_intersection01_title">Aluljáró</string>
     <string name="draft_intersection01_text">Országút, ami egy emelt autópályához kapcsolódik.</string>
     <string name="draft_intersection02_title">Keresztút</string>
     <string name="draft_intersection02_text">Két autópálya metszéspontja. Az egyik emelt.</string>
-    <string name="draft_intersection_complex00_title">Négyleveleű csomópont</string>
+    <string name="draft_intersection_complex00_title">Lóhere-csomópont</string>
     <string name="draft_intersection_complex00_text">Két sík autópálya, amelyet egy hatalmas komplex szerkezet kapcsol össze.</string>
     <string name="tool_removefence_title">Kerítés eltávolítása</string>
     <string name="tool_removefence_text">Ez az eszköz csak kerítés eltávolítására használható.</string>
@@ -2080,7 +2079,7 @@
     <string name="draft_fence_real05_title">Kőfal</string>
     <string name="draft_fence_real05_text">Alacsony, masszív kőfal.</string>
     <string name="draft_fence_real06_title">Vas kerítés</string>
-    <string name="draft_fence_real06_text">Nehez vasrudak téglafalak között.</string>
+    <string name="draft_fence_real06_text">Nehéz vasrudak téglafalak között.</string>
     <string name="draft_cat_fence00_title">Kerítés</string>
     <string name="ci_neighbor_notrading">Nincsenek szomszédos városok, amelyekkel kereskedhetnél.</string>
     <string name="settings_sound_master">Főhang</string>
@@ -2393,7 +2392,7 @@
     <string name="dialog_uploadregiontoobig_text">Ez a régió túl nagy a feltöltéshez :/</string>
     <string name="channel_onlinemode_title">Online mód</string>
     <string name="channel_onlinemode_text">Új információk a városaidról az online módban.</string>
-    <string name="dialog_externalstorage_proceedwithout">Folyatod saját felelősségre</string>
+    <string name="dialog_externalstorage_proceedwithout">Folytatás saját felelősségre</string>
     <string name="dialog_externalstorage_title">Nincs hozzáférés a külső tárhelyhez</string>
     <string name="dialog_externalstorage_explanation">A TheoTown a külső tárhely engedélyt használja, hogy a városokat és régiókat felhasználó által elérhető módon mentse.
     Ezzel elkerülhetjük az esetleges adatvesztést az alkalmazás frissítése vagy újratelepítése során.
@@ -2459,7 +2458,7 @@
     <string name="stage_files_importhere">Importálás ide</string>
     <string name="stage_files_currentdir">Jelenlegi mappa</string>
     <string name="stage_files_actions">Műveletek</string>
-    <string name="stage_files_actionexport">Export</string>
+    <string name="stage_files_actionexport">Exportálás</string>
     <string name="stage_files_actionrename">Átnevezés</string>
     <string name="stage_files_actionrename_text">Átnevezed a %1$s fájlt:</string>
     <string name="stage_files_renamecollision_title">Névütközés</string>
@@ -3000,7 +2999,7 @@
     <string name="settings_units_metric">Metrikus (pl. km)</string>
     <string name="settings_units_imperial">Imperiális (pl. mi)</string>
     <string name="draft_fence_tallwooden00_title">Magas fa kerítés</string>
-    <string name="draft_fence_tallwooden00_text">Az intrikusok távol tartására.</string>
+    <string name="draft_fence_tallwooden00_text">A betolakodók távol tartására.</string>
     <string name="draft_fence_chainlink00_title">Drótkerítés</string>
     <string name="draft_fence_chainlink00_text">Magas kerítés fémszövettel.</string>
     <string name="draft_fence_metalrailing00_title">Fém korlát</string>
@@ -3042,7 +3041,7 @@
     <string name="buildingicon_deadbodiesoverloaded">Ez a temető tele van.</string>
     <string name="buildingicon_crimegraffiti">Valaki illegális graffiti-t festett ide.</string>
     <string name="buildingicon_crimeburglary">Valaki betört ide.</string>
-    <string name="buildingicon_crimemurder">Valaki megölték itt.</string>
+    <string name="buildingicon_crimemurder">Valakit meggyilkoltak itt.</string>
     <string name="buildingicon_crimeriot">Az emberek itt lázadnak.</string>
     <string name="dialog_scriptpolicy_title">Plugin Script Szabályzat</string>
     <string name="dialog_scriptpolicy_help_title">A plugin scriptek kockázatosak lehetnek</string>
@@ -3491,48 +3490,48 @@
     <string name="ts_location_inner">%s Belváros</string>
     <string name="ts_location_outer">%s Külső</string>
     <string name="ts_location_edge">%s Széle</string>
-    <string name="ts_names_residential_maplestreet">Maple Street Megálló</string>
-    <string name="ts_names_residential_elmwooddrive">Elmwood Drive</string>
-    <string name="ts_names_residential_oaklane">Oak Lane</string>
-    <string name="ts_names_residential_villagegreen">Village Green</string>
-    <string name="ts_names_commercial_marketsquare">Market Square</string>
-    <string name="ts_names_commercial_mainstreetmall">Main Street Mall</string>
-    <string name="ts_names_commercial_commerceplaza">Commerce Plaza</string>
-    <string name="ts_names_commercial_downtowncenter">Downtown Center</string>
-    <string name="ts_names_commercial_shoppingdistrict">Shopping District</string>
-    <string name="ts_names_industrial_industrialpark">Ipari Park</string>
+    <string name="ts_names_residential_maplestreet">Juharfa utca megálló</string>
+    <string name="ts_names_residential_elmwooddrive">Szilfa út</string>
+    <string name="ts_names_residential_oaklane">Tölgyfa köz</string>
+    <string name="ts_names_residential_villagegreen">Falusi tér</string>
+    <string name="ts_names_commercial_marketsquare">Piactér</string>
+    <string name="ts_names_commercial_mainstreetmall">Főutcai bevásárlóközpont</string>
+    <string name="ts_names_commercial_commerceplaza">Kereskedelmi tér</string>
+    <string name="ts_names_commercial_downtowncenter">Belvárosi központ</string>
+    <string name="ts_names_commercial_shoppingdistrict">Bevásárlónegyed</string>
+    <string name="ts_names_industrial_industrialpark">Ipari park</string>
     <string name="ts_names_industrial_factorygate">Gyárkapu</string>
     <string name="ts_names_industrial_warehouserow">Raktársor</string>
     <string name="ts_names_industrial_freightyard">Teherpályaudvar</string>
-    <string name="ts_names_industrial_commercedrive">Commerce Drive</string>
-    <string name="ts_names_harbor_harbourfront">Kikötőfront</string>
-    <string name="ts_names_harbor_waterfrontpier">Waterfront Pier</string>
-    <string name="ts_names_harbor_riversidedocks">Riverside Docks</string>
-    <string name="ts_names_harbor_seawallstop">Seawall Stop</string>
-    <string name="ts_names_farm_farmroad">Farm Road</string>
-    <string name="ts_names_farm_countryside">Countryside</string>
-    <string name="ts_names_farm_fieldsstop">Fields Stop</string>
-    <string name="ts_names_farm_orchard">Orchard</string>
-    <string name="ts_names_farm_pastures">Pastures</string>
-    <string name="ts_names_farm_ruralgate">Rural Gate</string>
-    <string name="ts_names_park_centralpark">Central Park</string>
-    <string name="ts_names_park_meadowpark">Meadow Park</string>
-    <string name="ts_names_park_woodlandgardens">Woodland Gardens</string>
-    <string name="ts_names_airport_airportterminal">Airport Terminal</string>
-    <string name="ts_names_airport_terminalshuttle">Terminal Shuttle</string>
-    <string name="ts_names_airport_aviationway">Aviation Way</string>
-    <string name="ts_names_airport_flyerstop">Flyer Stop</string>
-    <string name="ts_names_airport_airportgate">Airport Gate</string>
+    <string name="ts_names_industrial_commercedrive">Kereskedelmi út</string>
+    <string name="ts_names_harbor_harbourfront">Kikötőpart</string>
+    <string name="ts_names_harbor_waterfrontpier">Vízparti móló</string>
+    <string name="ts_names_harbor_riversidedocks">Folyóparti dokkok</string>
+    <string name="ts_names_harbor_seawallstop">Tengerparti megálló</string>
+    <string name="ts_names_farm_farmroad">Tanya út</string>
+    <string name="ts_names_farm_countryside">Vidék</string>
+    <string name="ts_names_farm_fieldsstop">Mezei megálló</string>
+    <string name="ts_names_farm_orchard">Gyümölcsös</string>
+    <string name="ts_names_farm_pastures">Legelők</string>
+    <string name="ts_names_farm_ruralgate">Vidéki kapu</string>
+    <string name="ts_names_park_centralpark">Központi park</string>
+    <string name="ts_names_park_meadowpark">Réti park</string>
+    <string name="ts_names_park_woodlandgardens">Erdei kertek</string>
+    <string name="ts_names_airport_airportterminal">Repülőtéri terminál</string>
+    <string name="ts_names_airport_terminalshuttle">Termináljárat</string>
+    <string name="ts_names_airport_aviationway">Repülőtéri út</string>
+    <string name="ts_names_airport_flyerstop">Repülős megálló</string>
+    <string name="ts_names_airport_airportgate">Repülőtéri kapu</string>
     <string name="ts_names_military_basegate">Báziskapu</string>
-    <string name="ts_names_military_fortmain">Fort Main</string>
-    <string name="ts_names_military_barracksstop">Barracks Stop</string>
-    <string name="ts_names_military_arsenalroad">Arsenal Road</string>
-    <string name="ts_names_military_garrisondepot">Garrison Depot</string>
-    <string name="ts_names_water_riverside">Riverside</string>
-    <string name="ts_names_water_riverbank">Riverbank</string>
-    <string name="ts_names_water_lakeside">Lakeside</string>
-    <string name="ts_names_water_seaside">Seaside</string>
-    <string name="ts_names_water_beachfront">Beachfront</string>
+    <string name="ts_names_military_fortmain">Erődközpont</string>
+    <string name="ts_names_military_barracksstop">Laktanya megálló</string>
+    <string name="ts_names_military_arsenalroad">Arzenál út</string>
+    <string name="ts_names_military_garrisondepot">Helyőrségi raktár</string>
+    <string name="ts_names_water_riverside">Folyópart</string>
+    <string name="ts_names_water_riverbank">Folyópart</string>
+    <string name="ts_names_water_lakeside">Tópart</string>
+    <string name="ts_names_water_seaside">Tengerpart</string>
+    <string name="ts_names_water_beachfront">Strandpart</string>
 
     <!-- Monorail -->
     <string name="draft_pmono_tracks00_title">Monorail Sínek</string>
@@ -3567,7 +3566,7 @@
     <string name="ts_tool_add_random_station">Véletlenszerű állomás hozzáadása</string>
     <string name="ts_reached_vehicle_limit">Nem lehet több mint %d járművet hozzárendelni ehhez az útvonalhoz!</string>
     <string name="musictype_game">Játék</string>
-    <string name="musictype_action">Action</string>
+    <string name="musictype_action">Akció</string>
     <string name="musictype_default">%s (alapértelmezett)</string>
     <string name="dialog_unlink_steam_title">Fiók leválasztása?</string>
     <string name="dialog_unlink_steam_text">Ez a művelet leválasztja a fórum fiókodat a Steam fiókodról. Ez mellékhatásokkal járhat és csak szükséges esetben végezze el. A játék újraindul a leválasztás után.</string>
@@ -3602,5 +3601,34 @@
     <string name="legend_mixed_voltage">Mindkettő</string>
     <string name="legend_metro">Metró</string>
     <string name="legend_ts_edit">%s (szerkesztés alatt)</string>
+
+
+    <string name="dialog_url_title">Weboldal megnyitása?</string>
+    <string name="dialog_url_text">A(z) „%s” bővítmény egy külső weboldalt szeretne megnyitni. Ez tartalmazhat hirdetéseket. Csak akkor folytasd, ha megbízol a forrásban:</string>
+    <string name="dialog_url_cmdopen">Megnyitás</string>
+    <string name="settings_adaptive_ground_blending">Adaptív terepkeverés</string>
+
+    <string name="empty_cause_unknown">Ismeretlen okokból elhagyva.</string>
+    <string name="empty_cause_low_demand">Alacsony kereslet miatt elhagyva.</string>
+    <string name="empty_cause_low_happiness">Alacsony elégedettség miatt elhagyva (%s).</string>
+    <string name="empty_cause_crime">Bűnözés miatt elhagyva (%s).</string>
+    <string name="empty_cause_illness">Szennyeződés miatt elhagyva.</string>
+    <string name="stage_files_folderfiles">%d fájlt tartalmaz</string>
+
+    <string name="notbuildablereason_generic">Ide nem lehet építeni</string>
+    <string name="notbuildablereason_land">Szárazföldet igényel</string>
+    <string name="notbuildablereason_water">Vizet igényel</string>
+    <string name="notbuildablereason_zone">Rossz zóna</string>
+    <string name="notbuildablereason_maxcount">Építési korlát elérve</string>
+    <string name="notbuildablereason_terrain">Alkalmatlan terep</string>
+    <string name="notbuildablereason_nomoney">Nincs elég pénz</string>
+    <string name="notbuildablereason_blocked">A terület blokkolva van</string>
+
+    <string name="recovery_mode_title">Hoppá</string>
+    <string name="recovery_mode_text">A TheoTown többször nem tudott elindulni.\n\nSzeretné elindítani a játékot helyreállítási módban?\n\nA Helyreállítási mód ideiglenesen letiltja az összes bővítményt, lehetővé téve a probléma okozójának eltávolítását vagy javítását. A bővítmények a következő újraindításkor ismét normálisan töltődnek be.</string>
+    <string name="recovery_mode_normal">Normál indítás</string>
+    <string name="recovery_mode_recovery">Helyreállítási mód</string>
+
+    <string name="settings_draw_neighbors">Szomszédos városok kirajzolása</string>
 
 </resources>

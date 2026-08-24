@@ -39,7 +39,7 @@
     <string name="settings_drawwatersparkle">Lukis pantulan air</string>
     <string name="settings_drawmapedges">Lukis sisi peta</string>
     <string name="loadcity_errordialog_title">Muatan gagal</string>
-    <string name="loadcity_errordialog_text">Tidak mugkin menemui bandar.Fail ini mungkin telah rosak.\n\nMaaf.</string>
+    <string name="loadcity_errordialog_text">Tidak dapat memuatkan bandar. Fail ini mungkin telah rosak.\n\nMaaf.</string>
     <string name="loadcity_errordialog_cmdcancel">Batalkan</string>
     <string name="dialog_screenshot_title">Tangkapan gambar diambil</string>
     <string name="dialog_screenshot_text">Gambar telah disimpan sebagai %1$s.</string>
@@ -57,7 +57,7 @@
     <string name="draftselector_monthlyprice">Harga bulanan: %s</string>
     <string name="draftselector_id">ID: %1$s</string>
     <string name="loadcity_cmddelete">Buang</string>
-    <string name="loadcity_deletedialog_text">Betulkah anda ingin untuk membuang bandar ini?</string>
+    <string name="loadcity_deletedialog_text">Adakah anda pasti mahu memadam bandar ini? Tindakan ini tidak boleh dibuat asal.</string>
     <string name="loadcity_deletedialog_title">Buang bandar</string>
     <string name="loadcity_deletedialog_cmdcancel">Batalkan</string>
     <string name="loadcity_deletedialog_cmddelete">Buang</string>
@@ -72,7 +72,7 @@
     <string name="dialog_invalidcityname_text">Sila guna nama lain untuk bandar anda. Ia tidak boleh ditinggalkan kosong.</string>
     <string name="dialog_invalidcityname_cmdok">Ok</string>
     <string name="dialog_hugesize_title">Peta Lebih besar</string>
-    <string name="dialog_hugesize_text">Saiz ini hanya untuk tujuan ujian dan boleh memberi kesan kepada peranti anda. Betulkah anda ingin memerlukannya?</string>
+    <string name="dialog_hugesize_text">Saiz ini masih dalam percubaan dan mungkin tidak berfungsi pada peranti anda. Adakah anda pasti mahu mencipta peta yang sangat besar?</string>
     <string name="dialog_hugesize_cmdyes">Ya</string>
     <string name="dialog_hugesize_cmdno">Tidak</string>
     <string name="draft_church00_title">Gereja</string>
@@ -172,7 +172,7 @@
     <string name="ci_budget_income">Pendapatan (bulanan)</string>
     <string name="ci_budget_spending">Perbelanjaan (bulanan)</string>
     <string name="ci_budget_taxes">Cukai</string>
-    <string name="money">%1$s</string>
+    <string name="money">%1$,d₮</string>
     <string name="ci_water_title">Bekalan air</string>
     <string name="ci_energy_title">Bekalan tenaga</string>
     <string name="ci_info_title">Pandangan keseluruhan bandar</string>
@@ -213,7 +213,7 @@
     <string name="buildinginfo_habitants">Penduduk: %1$,d/%2$,d</string>
     <string name="buildinginfo_worker">Pekerja: %1$,d/%2$,d</string>
     <string name="topic_giveup">Usah berputus asa</string>
-    <string name="dialog_screenshot_error">Tidak boleh cekupanskrin untuk %1$s. Sila semak kebenaran aplikasi.</string>
+    <string name="dialog_screenshot_error">Tidak dapat mencipta direktori simpanan untuk %1$s. Sila semak kebenaran aplikasi.</string>
     <string name="settings_energysaving">Mod Jimat Tenaga</string>
     <string name="about_idea">Idea</string>
     <string name="about_programming">Pra program</string>
@@ -249,7 +249,7 @@
     <string name="settings_orientationportrait">Portret</string>
     <string name="settings_orientationauto">Auto</string>
     <string name="draft_busdepot00_title">Terminal bas</string>
-    <string name="draft_busdepot00_text">Digunakan untuk mengeluarkan bas</string>
+    <string name="draft_busdepot00_text">Menghantar dan menyelenggara bas bandar. Laluan bas tidak akan berfungsi tanpanya.</string>
     <string name="settings_debugmode">Mod debug</string>
     <string name="unknown">Wurstbrot</string>
     <string name="draftselector_titleremove">Buang</string>
@@ -335,7 +335,7 @@
     <string name="draft_footballstadion00_fanshop_title">Kedai sukan</string>
     <string name="draft_footballstadion00_fanshop_text">Perhiasan sukan dijual di sini.</string>
     <string name="notify_requirementbuilding">Anda telah membuka %1$s.</string>
-    <string name="notify_requirementupgrade">Tahniah, anda telah membuka %1$s kerana membina %2$s!</string>
+    <string name="notify_requirementupgrade">Tahniah, anda telah membuka naik taraf %1$s untuk bangunan %2$s!</string>
     <string name="draftselector_titlesports">Sukan</string>
     <string name="draftselector_titlealert">Kecemasan</string>
     <string name="notify_fire">Kebakaran! Hantar bomba untuk memadam api. Sila bina lebih banyak balai bomba.</string>
@@ -620,9 +620,9 @@
     <string name="draft_buoy00_title">Boya</string>
     <string name="draft_buoy00_text">Membantu kapal untuk mencari laluan.</string>
     <string name="ci_general_seed">Kod peta: %1$s</string>
-    <string name="draft_decores00_text">.</string>
-    <string name="draft_decocom00_text">.</string>
-    <string name="draft_decoind00_text">.</string>
+    <string name="draft_decores00_text">Beberapa hiasan untuk kawasan perumahan anda.</string>
+    <string name="draft_decocom00_text">Beberapa hiasan untuk kawasan komersial anda.</string>
+    <string name="draft_decoind00_text">Beberapa hiasan untuk kawasan perindustrian anda.</string>
     <string name="ci_budget_title_nomoney">Kewangan (teoritikal)</string>
     <string name="dialog_notification_cmdok">Ok</string>
     <string name="draft_nuclearplant00_title">Stesen kuasa nuklear</string>
@@ -725,7 +725,7 @@
     <string name="tutorial_buildbridge_c">Jadi, kita sudah selesai dengan pembinaan.</string>
     <string name="draft_beachnearwater00_title">Pantai</string>
     <string name="draft_beachnearwater00_text">Berseronoklah di pantai.</string>
-    <string name="loadcity_version_premium">Versi %1$,d (Pemium)</string>
+    <string name="loadcity_version_premium">Versi %1$,d (Premium)</string>
     <string name="loadcity_preview">Bandar contoh</string>
     <string name="settings_autorestoresamples">Pulihara bandar contoh</string>
     <string name="settings_autountouchable">Tetapkan bangunan sendiri tidak boleh disentuh</string>
@@ -733,9 +733,9 @@
     <string name="draft_alert_swat00_text">Jika berlaku rusuhan, hanya pasukan S.W.A.T boleh menanganinya.</string>
     <string name="control_continue">Teruskan</string>
     <string name="settings_winter">Musim sejuk</string>
-    <string name="notify_riot_reason">Terdapat rusuhan disebabkan %1s!</string>
-    <string name="notify_riot_noreason">Terdapat rusuhan tanpa sebab!</string>
-    <string name="notify_demonstration">Terdapat demonstrasi disebabkan %1s! Buat sesuatu atau sesuatu buruk akan berlaku!</string>
+    <string name="notify_riot_reason">Bandar sedang bergolak kerana %1$s! Kerahkan penguat kuasa untuk memulihkan ketenteraman dan tingkatkan kebahagiaan.</string>
+    <string name="notify_riot_noreason">Bandar sedang bergolak! Kerahkan penguat kuasa untuk memulihkan ketenteraman dan tingkatkan kebahagiaan.</string>
+    <string name="notify_demonstration">Penduduk sedang membantah kerana %1$s! Panggil polis atau tingkatkan tahap kebahagiaan sebelum keadaan menjadi lebih buruk.</string>
     <string name="draft_marker_powermarker_title">Tenaga</string>
     <string name="draft_marker_watermarker_title">Air</string>
     <string name="draft_road04_title">Lorong</string>
@@ -762,14 +762,14 @@
     <string name="draft_rnk_megalopolis_title">Megalopolis</string>
     <string name="rank_needed_people">Sekurang-kurangnya %1$,d penduduk</string>
     <string name="draft_decoroad00_title">Pokok pada lorong</string>
-    <string name="draft_decoroad00_text">.</string>
+    <string name="draft_decoroad00_text">Sedikit unsur alam dan teduhan untuk pusat bandar yang sibuk.</string>
     <string name="settings_experimental">Ciri-ciri bereksperimental</string>
     <string name="about_thanks">Sebanyak-banyak terima kasih kepada</string>
     <string name="about_community">Dan komuniti yang selanjutnya</string>
     <string name="dialog_tosandbox_title">Sandbox</string>
-    <string name="dialog_tosandbox_text">Tukar bandar kepada mod pembangun?\n\nIni tidak akan boleh berpatah balik!</string>
+    <string name="dialog_tosandbox_text">Tukar bandar kepada mod sandbox?\n\nTindakan ini tidak boleh dibuat asal!</string>
     <string name="dialog_tosandbox_cmdconvert">Sandbox</string>
-    <string name="requirement_rank">Sekurang-kurangnya %1$s</string>
+    <string name="requirement_rank">Sekurang-kurangnya %1$s (%2$,d)</string>
     <string name="ca_wastedisposal_text">Pelupusan sampah: %1$,d/%2$,d</string>
     <string name="ca_bodydisposal_text">Pengebumian: %1$,d/%2$,d</string>
     <string name="draftselector_titledecoration">Dekorasi</string>
@@ -786,7 +786,7 @@
     <string name="draft_wasteincinerator00_title">Pembakar sampah</string>
     <string name="draft_firedepartment02_title">Stesen bomba utama</string>
     <string name="draft_cemetery00_title">Tapak perkuburan</string>
-    <string name="draft_crematory00_title">Makam</string>
+    <string name="draft_crematory00_title">Krematorium</string>
     <string name="rank_newrank">Tahniah, bandar anda %1$s mencapai pangkat baharu:</string>
     <string name="rank_reward">Anda dapat %1$s sebagai hadiah.</string>
     <string name="rank_available">Sekarang disediakan:</string>
@@ -865,7 +865,7 @@
     <string name="gamemode_hard_desc">Anda seorang pakar dalam TheoTown? Dan ini adalah mod permainan yang tepat untuk anda. Anda mula dengan amaun duit yang kecil dan ia adalah sukar dari keseluruhannya</string>
     <string name="dialog_ffwd_title">Lajukan masa</string>
     <string name="dialog_ffwd_text">Percepatkan permainan untuk %1$,d hari.</string>
-    <string name="dialog_ffwd_cmdplayad">Iklan video</string>
+    <string name="dialog_ffwd_cmdplayad">Percuma</string>
     <string name="game_ramaining_ffwd">%1$,d baki laju hari</string>
     <string name="settings_useservices">Gunakan perkhidmatan permainan</string>
     <string name="diamonds">%1$,d</string>
@@ -874,7 +874,7 @@
     <string name="dialog_present_cmdok">Terima kasih!</string>
     <string name="settings_saveminimap">Simpan peta kecil lebihan</string>
     <string name="ci_budget_doublemoney_title">Gandakan duit anda</string>
-    <string name="ci_budget_doublemoney_text">Duit anda akan digandakan.</string>
+    <string name="ci_budget_doublemoney_text">Pendapatan anda digandakan selama %1$,d hari.</string>
     <string name="ci_budget_getmoney_title">Dapatkan %1$s</string>
     <string name="ci_budget_getmoney_text">Tukarkan %1$s untuk sekadar imbangan.</string>
     <string name="notify_badattribute">Kita perlu tingkatkan %1$s kepuasan supaya %2$s dapat berpindah ke bandar kita.</string>
@@ -921,10 +921,10 @@
     <string name="menu_save">Simpan</string>
     <string name="menu_title">Menu</string>
     <string name="region_maxconcurrentunlocks">Tidak boleh membuka lebih daripada %1$,d peta sekali gus.</string>
-    <string name="dialog_unlocktime_title">Percepatkan masa</string>
-    <string name="dialog_unlocktime_text">Ia adalah kerja yang banyak untuk membuka sebuah peta. Inginkah anda untuk menyokong kami? Ini boleh mengurangkan masa sebanyak 30 minit.</string>
-    <string name="region_speedup">Lajukannya</string>
-    <string name="region_waitingtime">Kami sedang membuka peta ini untuk anda.</string>
+    <string name="dialog_unlocktime_title">Buka serta-merta</string>
+    <string name="dialog_unlocktime_text">Adakah anda mahu membuka peta ini serta-merta?</string>
+    <string name="region_speedup">Buka sekarang</string>
+    <string name="region_waitingtime">Tunggu sementara peta ini sedang dibuka...</string>
     <string name="settings_autoload">Muat auto bandar akhir</string>
     <string name="dialog_renameregion_title">Namakan semula daerah</string>
     <string name="dialog_renameregion_text">Masukkan nama baru daerah di sini:</string>
@@ -1109,7 +1109,7 @@
     <string name="draft_weather_machine00_fog00_text">Mesin kabus besar yang boleh membuat kabus untuk seluruh bandar.</string>
     <string name="dialog_cancelupgrade">Batalkan kemaskini</string>
     <string name="draft_feature_ranger00_title">Pondok Hutan</string>
-    <string name="draft_feature_ranger00_text">Sometimes trees have to be replanted if the environment is too polluted. The Forester\'s Lodge replants trees automatically.</string>
+    <string name="draft_feature_ranger00_text">Kadangkala pokok perlu ditanam semula apabila alam sekitar terlalu tercemar. Pondok Perhutanan menanam semula pokok secara automatik.</string>
     <string name="draft_ranger00_title">Pondok Penghutanan</string>
     <string name="draft_ranger00_text">Kadangkala pokok perlu ditanam semula jika alam sekitar terlalu tercemar. Rumah ini menanam semula pokok secara automatik.</string>
 
@@ -1127,7 +1127,7 @@
     <string name="draft_feature_letters00_title">Hiasan abjad</string>
     <string name="draft_feature_letters00_text">Abjad yang boleh ditempatkan untuk kegunaan hiasan.</string>
 
-    <string name="tool_eye_dropper">Pilih bangunan</string>
+    <string name="tool_eye_dropper">Pilih jalan atau bangunan</string>
     <string name="settings_language">Bahasa</string>
     <string name="settings_language_hint">Anda mungkin mulakan semula aplikasi ini untuk mengubah bahasa secara lengkap.</string>
     <string name="settings_language_default">Asalan (%s)</string>
@@ -1217,7 +1217,7 @@
     <string name="topic_work">Mungkin mempunyai jejak berkerja keras</string>
     <string name="topic_funfun">Sekarang dengan keseronokan</string>
 
-    <string name="settings_lesscars">Isnin trafik</string>
+    <string name="settings_lesscars">Jumlah trafik</string>
     <string name="settings_uploadgameplay">Muat naik permainan (id anda: %s)</string>
     <string name="settings_uploadgameplaymobile">Benarkan muat naik permainan tanpa sambungan Wifi (mungkin dikenakan caj!)</string>
     <string name="createcity_sizebigbigextra">Raksasa</string>
@@ -1274,8 +1274,8 @@
     <string name="settings_usezoneradius">Gunakan zon radius</string>
     <string name="draft_airplane01_title">T380</string>
     <string name="draft_airplane01_text">Sebuah kapal terbang dua tingkat jarak jauh dari TheoAir. Mempunyai banyak ruang.</string>
-    <string name="dialog_waitingtime_title">Kurangkan masa menunggu</string>
-    <string name="dialog_waitingtime_text">Adakah anda mahu mengurangkan masa?\n%1$s baki.</string>
+    <string name="dialog_waitingtime_title">Buka serta-merta</string>
+    <string name="dialog_waitingtime_text">Adakah anda mahu membuka landasan ini serta-merta?\nBaki %1$s.</string>
 
     <string name="topic_rate">Bantu kami nilaikan TheoTown</string>
     <string name="ci_airport_lane_unassign">Buang</string>
@@ -1533,7 +1533,7 @@
     <string name="task_get_money">Dapatkan %s₮.</string>
     <string name="task_spend_money">Belanja %s₮.</string>
     <string name="task_spend_diamonds">Belanja %s berlian.</string>
-    <string name="task_tap_screen">Kecik %s kali ke skrin.</string>
+    <string name="task_tap_screen">Ketik skrin %s kali.</string>
     <string name="task_current">Tugasan Semasa</string>
 
 
@@ -1893,10 +1893,10 @@ Kekurangan: Kurang cabaran</string>
     <string name="dialog_cemeteryclear_text">Saya fikir kita boleh gunakan semula ruang di sini.</string>
     <string name="cemetery_cmdclear">Kosongkan sekarang</string>
     <string name="cemetery_clear">SAPU untuk kosongkan ruang.</string>
-    <string name="draft_cemetery00_text">Sebuah tempat di mana tinggalan mayat dibakar.</string>
+    <string name="draft_cemetery00_text">Tempat di mana jenazah dikebumikan.</string>
     <string name="draft_crematory00_text">Mayat dibakar di sini.</string>
     <string name="notify_bodydisposal_needer00">Datuk bandar, Saya mohon untuk bina tapak perkuburan untuk menanam mayat.</string>
-    <string name="notify_bodydisposal_producer00">Tidak ada ruang lagi dalam tapak perkuburan ini. Bersihkannya atau bina tapak perkuburan atau makam baru.</string>
+    <string name="notify_bodydisposal_producer00">Tiada ruang lagi di tanah perkuburan ini. Kosongkannya atau bina tanah perkuburan atau krematorium baharu.</string>
     <string name="draft_halloween_pumpkin00_title">Labu</string>
     <string name="draft_halloween_pumpkin00_text">Halloween nak dekat! Semua orang sukakan labu, betul tak?</string>
     <string name="draft_halloween_tree00_title">Pokok mati</string>
@@ -1906,7 +1906,7 @@ Kekurangan: Kurang cabaran</string>
     <string name="draft_marker_hackedmarkermarker_title">VERSI INI TELAH DIGODAM!</string>
 
 
-    <string name="settings_dedicatedplugintexture">More plugin texture space (needs a restart; may be unstable)</string>
+    <string name="settings_dedicatedplugintexture">Lebih banyak ruang tekstur plugin (perlu dimulakan semula; mungkin tidak stabil)</string>
     <string name="draft_haunted_house00_title">Rumah berhantu</string>
     <string name="draft_haunted_house00_text">Sebuah rumah agam lama yang kelihatan berbahaya. IT mungkin tinggal sini.</string>
     <string name="notify_illness">Terdapat wabak epidemik, kita perlu bertindak segera. Hantarkan doktor!</string>
@@ -2033,7 +2033,7 @@ Kekurangan: Kurang cabaran</string>
     <string name="draft_train_freight_station01_title">Depoh barangan 2</string>
     <string name="draft_train_freight_station02_title">Depoh barangan 3</string>
     <string name="draft_train_freight_station03_title">Depoh barangan 4</string>
-    <string name="draft_train_freight_station04_title">Depoh barangan </string>
+    <string name="draft_train_freight_station04_title">Depoh barangan 5</string>
     <string name="draft_trainstation_prebuilt00_title">Stesen kecil</string>
     <string name="draft_trainstation_prebuilt00_text">Sebuah stesen kereta api kecil untuk trafik setempat sahaja.</string>
     <string name="draft_trainstation_prebuilt01_title">Stesen</string>
@@ -2145,7 +2145,7 @@ Kekurangan: Kurang cabaran</string>
     <string name="ci_neighbor_notrading">Tiada bandar kejiranan untuk didagangkan.</string>
     <string name="settings_sound_master">Master</string>
     <string name="draft_cemetery01_title">Tanah perkuburan besar</string>
-    <string name="draft_cemetery01_text">Sebuah tempat di mana mayat dibakar. Tanah perkuburan ini mempunyai banyak ruang.</string>
+    <string name="draft_cemetery01_text">Tempat di mana jenazah dikebumikan. Tanah perkuburan ini mempunyai banyak ruang.</string>
 
 
     <string name="settings_bigger_minimap">Peta mini lebih besar</string>
@@ -2161,7 +2161,7 @@ Kekurangan: Kurang cabaran</string>
     <string name="forum_cmdlogout">Log keluar</string>
     <string name="forum_success">Berjaya</string>
     <string name="forum_loginerror">Log masuk gagal</string>
-    <string name="forum_networkerror">Sambungan gagalr</string>
+    <string name="forum_networkerror">Ralat sambungan</string>
     <string name="stage_account_other">Akaun lain</string>
     <string name="stage_account_connected">%s - Disambung</string>
     <string name="stage_account_steam">Steam</string>
@@ -2202,7 +2202,7 @@ Kekurangan: Kurang cabaran</string>
     <string name="report_spam_or_misleading">Spam atau mengelirukan</string>
     <string name="report_infringes_my_rights">Melanggar hak saya</string>
     <string name="report_bad_behavior">Tingkah laku buruk</string>
-    <string name="report_violates_store_rules">Melanggar peraturan stor lains</string>
+    <string name="report_violates_store_rules">Melanggar peraturan stor lain</string>
     <string name="stage_comment_cmdsend">Hantar</string>
     <string name="stage_comment_cmdsendhint">Masukkan komen anda di sini...</string>
     <string name="dialog_storerestart_cmdlater">Kemudian</string>
@@ -2278,7 +2278,7 @@ Anda boleh tinggalkan komen dengan sambung permainan ini ke akaun Forum TheoTown
     <string name="draft_destroyed_tree00_title">Pokok terbakar</string>
     <string name="draft_destroyed_tree00_text">Anda mungkin membuang pokok terbakar tersebut.</string>
     <string name="region_acquiremap">Peroleh</string>
-    <string name="dialog_acquiremapfreemium_title">Memperoleh peta</string>de
+    <string name="dialog_acquiremapfreemium_title">Peroleh peta</string>
     <string name="dialog_acquiremapfreemium_text">Tahniah, ini merupakan tempat kosong di mana anda peroleh untuk membina bandar anda sendiri.</string>
     <string name="settings_sound_plugins">Plugin</string>
     <string name="createregion_title">Wilayah baru</string>
@@ -2324,7 +2324,7 @@ Mata wang ini membolehkan kami menawarkan perkhidmatan dalam talian kami secara 
     <string name="dialog_acquirecityaccount_title">Akaun diperlukan</string>
     <string name="dialog_acquirecityaccount_text">Anda perlu menyambung ke TheoTown dengan akaun TheoTown untuk meneruskan perolehan kawasan dalam wilayah di talian.</string>
     <string name="region_onlinecity_free">Kawasan ini bebas, anda boleh perolehnya.</string>
-    <string name="region_onlinecity_acquired">Ini kawasan anda. Anda boleh cari bandar di sini.</string>
+    <string name="region_onlinecity_acquired">Ini kawasan anda. Anda boleh mengasaskan bandar di sini.</string>
     <string name="region_onlinecity_wait">Tunggu sedikit masa sebelum anda boleh peroleh bandar lain dalam wilayah tersebut.</string>
 
 
@@ -2509,7 +2509,7 @@ Lalai: %2$s\n
 \n
 Tekan kekunci untuk menetapkannya ke tindakan ini.</string>
     <string name="settings_toolbarnames">Tunjukkan nama dalam bar alat</string>
-    <string name="settings_toolbarprices">unjukkan harga dalam bar alat</string>
+    <string name="settings_toolbarprices">Tunjukkan harga dalam bar alat</string>
 
 
     <string name="shader_default2">Asalan</string>
@@ -2612,10 +2612,10 @@ Tekan kekunci untuk menetapkannya ke tindakan ini.</string>
     <string name="draft_deco_chr_manger00_text">Sebuah kotak terbuka bersaiz besar di mana kuda, lembu, dan haiwan lain memakan makanannya.</string>
     <string name="settings_diagonalroadtool">Bina jalan secara serong jika disokong</string>
     <string name="settings_smoothzoom">Zoom Halus</string>
-    <string name="settings_smoothzoom_off">Tetapan_zoomlancar_off</string>
+    <string name="settings_smoothzoom_off">Mati</string>
     <string name="settings_smoothzoom_nearest">Berkotak-Kotak</string>
     <string name="settings_smoothzoom_linear">Kabur</string>
-    <string name="settings_smoothzoom_fast">Pantasan</string>
+    <string name="settings_smoothzoom_fast">Pantas</string>
     <string name="settings_regionoriginbackup">Pilihan untuk menetapkan semula bandar dalam kawasan yang baru dijana</string>
     <string name="settings_translateplugins">Terjemahkan plugin</string>
     <string name="stage_region_greeter_welcome">Selamat datang di</string>
@@ -2639,16 +2639,16 @@ Tekan kekunci untuk menetapkannya ke tindakan ini.</string>
     <string name="draft_tree_alder00_title">Pokok Alder</string>
     <string name="draft_tree_alder00_text">Sebuah pokok yang boleh membesar sehingga 30 meter dan kelihatan agak biasa.</string>
     <string name="stage_gallery_loadingimages">Memuatkan gambar...</string>
-    <string name="ci_neighbor_help">Here, you can import/export energy, water, waste, and deceased bodies from/to neighboring cities.</string>
-    <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
-    <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
+    <string name="ci_neighbor_help">Di sini anda boleh mengimport atau mengeksport tenaga, air, sampah dan jenazah dari atau ke bandar jiran.</string>
+    <string name="ci_budget_help">Di sini anda boleh melihat dan melaraskan cukai serta melihat perbelanjaan bulanan. Penduduk dan pekerja yang lebih kaya membayar lebih banyak cukai. Cukai yang terlalu tinggi akan menyebabkan penduduk tidak gembira dan meninggalkan bandar, lalu menurunkan tahap kebahagiaan cukai. Kami mengesyorkan kadar cukai antara 6.5 hingga 8.0.</string>
+    <string name="ci_budget_help_nomoney">Di sini anda boleh melihat dan melaraskan cukai serta melihat perbelanjaan bulanan. Penduduk dan pekerja yang lebih kaya membayar lebih banyak cukai. Cukai yang terlalu tinggi akan menyebabkan penduduk tidak gembira dan meninggalkan bandar, lalu menurunkan tahap kebahagiaan cukai. Kami mengesyorkan kadar cukai antara 6.5 hingga 8.0.</string>
 
 
     <string name="stage_account_pro_gallery">Muat naik tangkapan skrin bandar anda ke galeri dalam talian</string>
     <string name="comments_locked">Bahagian komen ini telah dikunci</string>
     <string name="comments_cmd_lock">Kunci</string>
     <string name="comments_cmd_unlock">Buka kunci</string>
-    <string name="store_cat_officialgameextensions">Penghujung Rasmi Permainan</string>
+    <string name="store_cat_officialgameextensions">Sambungan Rasmi Permainan</string>
     <string name="dialog_screenshot_cmdshare">Kongsi</string>
     <string name="settings_targetfps">Sasaran FPS</string>
     <string name="settings_targetfps_auto">Auto</string>
@@ -2701,7 +2701,7 @@ Tekan kekunci untuk menetapkannya ke tindakan ini.</string>
     <string name="draft_biomeMaker_dialogreplace_cmdProceed">Teruskan</string>
     <string name="draft_biomeMaker_cmdselect">Pilih</string>
     <string name="draft_biomeMaker_toastempty">Ini kosong</string>
-    <string name="store_recommended_plugin">Plugin yang direkomendasi</string>
+    <string name="store_recommended_plugin">Plugin yang disyorkan</string>
 
 
     <string name="dialog_migratefb_title">Tindakan diperlukan</string>
@@ -2709,11 +2709,11 @@ Tekan kekunci untuk menetapkannya ke tindakan ini.</string>
 Sila log masuk menggunakan akaun forum untuk memindahkan data anda.</string>
     <string name="dialog_migratefb_cmdaccountsettings">Tetapan akaun</string>
     <string name="draft_feature_opera00_title">Kompleks Opera</string>
-    <string name="draft_feature_opera00_text">Buka secara kekal Rumah Opera dan Taman Opera bersebelahan. Bangunan-bangunan budaya ini meningkatkan karakter visual bandar anda dan boleh berfungsi sebagai tanda aras pusat dalam daerah bandar.</string>
+    <string name="draft_feature_opera00_text">Buka secara kekal Rumah Opera dan Taman Opera yang bersebelahan. Bangunan kebudayaan ini meningkatkan ciri visual bandar anda dan boleh berfungsi sebagai mercu tanda pusat di dalam kawasan bandar.</string>
     <string name="draft_opera00_title">Rumah Opera</string>
-    <string name="draft_opera00_text">Sebuah tanda aras budaya utama yang mewakili muzik dan seni persembahan di kota anda. Rumah Opera menyumbang kepada prestij kota dan menyediakan pusat arkitektur yang khas.</string>
+    <string name="draft_opera00_text">Mercu tanda kebudayaan utama yang mewakili seni muzik dan persembahan di bandar anda. Rumah Opera menyumbang kepada prestij bandar dan menyediakan pusat seni bina yang tersendiri.</string>
     <string name="draft_opera_park00_title">Taman Opera</string>
-    <string name="draft_opera_park00_text">Taman hiasan yang direka untuk melengkapkan Rumah Opera. Ia menambah ruang hijau dan daya tarikan visual ke kawasan sekeliling, menjadikannya sangat sesuai untuk distrik budaya dan pusat.</string>
+    <string name="draft_opera_park00_text">Taman hiasan yang direka untuk melengkapkan Rumah Opera. Ia menambah ruang hijau dan tarikan visual kepada kawasan sekitar, menjadikannya sangat sesuai untuk daerah kebudayaan dan pusat.</string>
     <string name="stage_comment_plugin_acquirefirst">Sila peroleh plugin ini dahulu</string>
 
 
@@ -2733,7 +2733,7 @@ Sila log masuk menggunakan akaun forum untuk memindahkan data anda.</string>
     <string name="draft_dsahqupHW_title">Tetapkan ESD</string>
     <string name="draft_dsahqupHW_text">Menubuhkan jabatan DSA untuk perkhidmatan kecemasan yang meningkatkan keselamatan awam dengan menghantar pasukan khas.</string>
     <string name="draft_dsahqupAR_title">Tubuhkan RD</string>
-    <string name="draft_dsahqupAR_text">Mendirikan jabatan DSA untuk penelitian yang mengawasi pusat-pusat penelitian dan basis di kawasan tersebut.</string>
+    <string name="draft_dsahqupAR_text">Menubuhkan jabatan penyelidikan DSA yang menyelia pusat penyelidikan dan pangkalan di kawasan ini.</string>
     <string name="draft_dsahqupMS_title">Tetapkan RMD</string>
     <string name="draft_dsahqupMS_text">Menubuhkan Jabatan Pengurusan Sumber DSA yang mengurus pengumpulan sumber di kawasan ini.</string>
     <string name="draft_dsa_outpost00_title">Pejabat DSA</string>
@@ -2764,10 +2764,10 @@ Sila log masuk menggunakan akaun forum untuk memindahkan data anda.</string>
     <string name="draft_dsa_award00_title">Sebatu</string>
     <string name="draft_dsa_award00_text">Daripada mana batu ini datang?</string>
     <string name="draft_dsa_park00_title">Akial square</string>
-    <string name="draft_dsa_park00_text">A tribute to the first animal ever launched into Earth orbit.</string>
-    <string name="draft_dsadrill_text">Digunakan untuk mengumpul sumber daya bernilai yang dijual untuk mendapatkan keuntungan, namun perlu berwaspada kerana ia mempunyai kemampuan untuk menyebabkan gempa bumi.</string>
-    <string name="draft_dsadrill01_title">Laser upgrade</string>
-    <string name="draft_dsadrill01_text">Tingkatkan kekuatan laser untuk mengumpul sumber daya lebih cepat. \n
+    <string name="draft_dsa_park00_text">Penghormatan kepada haiwan pertama yang pernah dilancarkan ke orbit Bumi.</string>
+    <string name="draft_dsadrill_text">Digunakan untuk mengumpul sumber berharga yang boleh dijual untuk mendapatkan keuntungan, namun berhati-hati kerana ia boleh menyebabkan gempa bumi.</string>
+    <string name="draft_dsadrill01_title">Naik taraf laser</string>
+    <string name="draft_dsadrill01_text">Tingkatkan kuasa laser untuk mengumpul sumber dengan lebih cepat. \n
 \n
 Hanya satu peningkatan yang dibenarkan dalam satu masa. Peningkatan lama akan dibuang.</string>
     <string name="draft_dsadrill02_title">Naik taraf kecekapan</string>
@@ -2790,7 +2790,7 @@ Hanya satu naik taraf dibenarkan pada satu masa. Naik taraf lama akan dibuang.</
     <string name="draft_prison00_title">Penjara</string>
     <string name="draft_prison00_text">Tempat keras yang direka untuk mengekang semua pelaku jahat.</string>
     <string name="draft_prison_upgrade00_title">Program Kepintaran</string>
-    <string name="draft_prison_upgrade00_text">Ajar penjara asas-asas perkara yang mengurangkan peluang mereka menjadi penjenayah sekali lagi.</string>
+    <string name="draft_prison_upgrade00_text">Ajar banduan kemahiran asas untuk mengurangkan kemungkinan mereka menjadi penjenayah semula.</string>
     <string name="draft_dsacommand_requirement">Keperluan: Ibu pejabat DSA</string>
     <string name="draft_dsaRD_requirement">Keperluan: Jabatan Penyelidikan</string>
     <string name="draft_dsaRMD_requirement">Keperluan: Jabatan RMD</string>
@@ -2804,12 +2804,12 @@ Hanya satu naik taraf dibenarkan pada satu masa. Naik taraf lama akan dibuang.</
     <string name="draft_dsarockettestdone_requirement">Ujian sebelumnya telah selesai</string>
     <string name="draft_dsarocketfinalundone_requirement">Ujian tidak lengkap</string>
     <string name="draft_dsarocketfinaldone_requirement">Ujian roket telah selesai</string>
-    <string name="draft_rocket_akial_requirement">Need: Animal carriage test</string>
+    <string name="draft_rocket_akial_requirement">Keperluan: Ujian pengangkutan haiwan</string>
     <string name="draft_dsaHELIUM_requirement">Keperluan: Helium 3 ditemui di angkasa</string>
     <string name="draft_dsaDYSON_requirement">Keperluan: Dyson Sphere dibina di angkasa</string>
     <string name="draft_dsaLORE10_requirement">Bantu acar besar di bulan</string>
-    <string name="draft_dsapower00_title">Loji Kuasa Fusi</string>
-    <string name="draft_dsapower00_text">Tenaga dari fusi terbukti lebih efisien dan lebih bersih daripada tenaga lain, tetapi ia memerlukan kos yang lebih tinggi sebagai gantinya.</string>
+    <string name="draft_dsapower00_title">Loji Kuasa Pelakuran</string>
+    <string name="draft_dsapower00_text">Tenaga daripada pelakuran terbukti lebih cekap dan lebih bersih berbanding sumber tenaga lain, tetapi kosnya lebih tinggi.</string>
     <string name="draft_dsapower01_title">Antena gelombang mikro</string>
     <string name="draft_dsapower01_text">Antena digunakan untuk menghantar kuasa dari Dyson sphere kembali ke Theonia menggunakan gelombang radio mikro.\n
 \n
@@ -2828,14 +2828,14 @@ Nota: kuasa yang dikeluarkan berada pada voltan yang sangat tinggi.</string>
     <string name="draft_dsa_tree_destroyer_title">Pemotong Pokok 42-069</string>
     <string name="draft_dsa_tree_destroyer_text">Mesin yang cemerlang digunakan untuk menebang pokok dengan tiga kali ganda wang tunai.</string>
     <string name="draft_tool_disaster_blackhole_title">Lubang hitam</string>
-    <string name="draft_tool_disaster_blackhole_text">Bencana khas untuk peretas.</string>
+    <string name="draft_tool_disaster_blackhole_text">Bencana khas untuk penggodam.</string>
     <string name="draft_tool_disaster_blackhole_cmd">Sedut semuanya</string>
     <string name="draft_blackhole_dsa_title">Horizon peristiwa</string>
     <string name="draft_blackhole_dsa_text">Titik di mana tarikan graviti objek berat menjadi begitu besar sehingga mustahil untuk melarikan diri.</string>
     <string name="draft_blackhole_dsa_static_title">Kesatuan</string>
     <string name="draft_blackhole_dsa_static_text">Sebuah kawasan dalam ruang masa di mana daya tarikan graviti pasang surut menjadi tanpa hingga.</string>
     <string name="draft_tool_disaster_gliu44_title">Geliumium</string>
-    <string name="draft_tool_disaster_gliu44_text">Sebuah virus ber asal yang tidak diketahui yang menunjukkan sifat pemusnahan yang gila.</string>
+    <string name="draft_tool_disaster_gliu44_text">Virus yang tidak diketahui asalnya dan mempunyai sifat pemusnah yang luar biasa.</string>
     <string name="draft_tool_disaster_gliu44_cmd">Biarkan ia merebak</string>
     <string name="draft_gliu44_title">Geliumium</string>
     <string name="draft_gliu44_text">Sejenis virus dari asal yang tidak diketahui yang menunjukkan sifat pemusnahan yang sangat hebat.</string>
@@ -2859,7 +2859,7 @@ Bekalan: ${_dsareadiness}/1000</string>
     <string name="draft_dsarocket_upg2_title">Pengangkutan Haiwan</string>
     <string name="draft_dsarocket_upg2_text">Lancarkan roket dengan kucing bernama Akial di dalamnya ke angkasa untuk mengumpul maklumat penting.\n
 Bekalan: ${_dsareadiness}/2500</string>
-    <string name="draft_dsarocket_upg3_title">Navigation</string>
+    <string name="draft_dsarocket_upg3_title">Navigasi</string>
     <string name="draft_dsarocket_upg3_text">Lancarkan roket dengan seorang lelaki ke angkasa untuk menjalankan ujian navigasi.\n
 Bekalan: ${_dsareadiness}/5000</string>
     <string name="draft_dsarocket_upg4_title">Satelit</string>
@@ -2872,11 +2872,11 @@ Bekalan: ${_dsareadiness}/10000</string>
     <string name="draft_dsarocket_upg6_text">Lancarkan siri roket ke angkasa untuk membina inisiatif pertahanan angkasa.\n
 Bekalan: ${_dsareadiness}/15000</string>
     <string name="draft_Olsken.LobbysCake_title">Kek Lobby</string>
-    <string name="draft_Olsken.LobbysCake_text">A limited edition cake made specifically for Lobby from the community!\nHappy Birthday to Lobby!</string>
+    <string name="draft_Olsken.LobbysCake_text">Kek edisi terhad yang dibuat khas untuk Lobby oleh komuniti!\nSelamat hari jadi, Lobby!</string>
     <string name="draft_dsa_notify00_text">Hai! Saya adalah CEO DSA dan saya akan membantu anda menguruskan semua operasi DSA setempat.</string>
     <string name="draft_dsa_notify01_text">Rupanya seolah-olah tanah mula bergoncang!</string>
-    <string name="draft_dsa_notify02_text">Walikota, disebabkan ancaman gempa bumi, kami menarik dana pemulihan bencana.</string>
-    <string name="draft_dsa_notify03_text">Hei datuk bandar, anda boleh membina beberapa pengeboran di bandar anda untuk mengekstrak dan menjual mineral, tetapi mereka mempunyai peluang kecil untuk menyebabkan gempa bumi.</string>
+    <string name="draft_dsa_notify02_text">Datuk Bandar, disebabkan ancaman gempa bumi, kami mengeluarkan dana pemulihan bencana.</string>
+    <string name="draft_dsa_notify03_text">Hei Datuk Bandar, anda boleh membina beberapa pelantar penggerudian di bandar untuk mengekstrak dan menjual mineral, tetapi terdapat sedikit risiko ia menyebabkan gempa bumi.</string>
     <string name="draft_dsa_notify04_text">Datuk Bandar, sistem kita mengesan suatu bahan yang tidak diketahui sedang merosakkan segala-galanya di jalanannya.</string>
     <string name="draft_dsa_notify05_text">Semua orang, bersedia untuk berlepas!</string>
     <string name="draft_dsa_notify06_text">Helo Datuk Bandar. Saya telah mula membina rumah kecil saya di sini seperti yang anda izinkan saya lakukan.</string>
@@ -2892,18 +2892,18 @@ Adakah anda ingin melihatnya?</string>
     <string name="draft_dsa_landing_notify00_text">Memulakan prosedur pendaratan, pegang erat-erat!</string>
     <string name="draft_dsa_moon_notify00_text">Anda boleh mengeksploitasi deposit bijih yang kelihatan dengan stesen pengeboran untuk mendapatkan pendapatan!</string>
     <string name="draft_dsa_moon_notify01_text">Rupanya, para penjajah kelaparan. Berikan mereka makanan yang cukup!</string>
-    <string name="draft_dsa_moon_notify02_text">Deposit bijih telah kehabisan!</string>
-    <string name="draft_dsa_moon_notify03_text">Oof, minta maaf kerana pendaratan yang kasar itu. Kami perlu mengubahsuai beberapa teknologi untuk berfungsi di sini.</string>
-    <string name="draft_dsa_moon_notify04_text">Seperti yang anda mungkin turut perasan, saya telah memindahkan 10 juta theon untuk membina sebuah pos luar yang kecil.</string>
+    <string name="draft_dsa_moon_notify02_text">Deposit bijih telah habis!</string>
+    <string name="draft_dsa_moon_notify03_text">Maaf atas pendaratan kasar itu. Kami perlu mengubah suai beberapa teknologi agar dapat berfungsi di sini.</string>
+    <string name="draft_dsa_moon_notify04_text">Seperti yang mungkin anda perasan, saya telah memindahkan 10 juta theon untuk membina sebuah pos kecil.</string>
     <string name="draft_dsa_moon_notify05_text">Sila gunakan dana tersebut dengan bijaksana kerana ini peluang anda yang satu-satunya.</string>
-    <string name="draft_dsa_moon_notify06_text">Untuk pendanaan lanjutan, anda boleh mencuba untuk mengeksploitasi deposit bijih tersebut.</string>
-    <string name="draft_dsa_moon_notify07_text">Walau apa pun, semoga berjaya, datuk bandar! Ingat, anda boleh kembali ke sini dengan mencari peta dalam senarai bandar anda yang tunggal.</string>
+    <string name="draft_dsa_moon_notify06_text">Untuk pembiayaan selanjutnya, anda boleh cuba mengeksploitasi deposit bijih tersebut.</string>
+    <string name="draft_dsa_moon_notify07_text">Apa-apa pun, semoga berjaya, Datuk Bandar! Ingat, anda boleh kembali ke sini dengan mencari peta ini dalam senarai bandar pemain tunggal anda.</string>
     <string name="draft_dsa_bear_lua_notify00_text">Selamat Hari Jadi yang hebat daripada saya dan komuniti! Saya harap anda memiliki hari yang indah!</string>
     <string name="draft_dsa_lua_notify00_text">Semasa perjalanan penjelajahan angkasa ini, kami mengesan sebuah objek yang cukup besar untuk mendarat.\n
 Menyambungkan anda ke pusat komando angkasa...</string>
     <string name="draft_dsa_lua_notify01_text">Perjalanan penjelajahan angkasa ini tidak menghasilkan apa-apa yang menarik.</string>
-    <string name="draft_dsa_lua_notify02_text">Ah, ya, oof, roket itu sedang dalam kursus bertembung dengan bumi...SELAMAT MENYERONOKKAN!</string>
-    <string name="draft_dsa_lua_notify03_text">Tahniah datuk bandar, kita telah menubuhkan rangkaian SDI di atas kawasan ini. Ia akan melindungi bandar dari serangan meteor dan invasi UFO.</string>
+    <string name="draft_dsa_lua_notify02_text">Ah, roket itu sedang berada di laluan perlanggaran dengan Bumi... SELAMAT BERSERONOK!</string>
+    <string name="draft_dsa_lua_notify03_text">Tahniah, Datuk Bandar. Kita telah menubuhkan rangkaian SDI di atas kawasan ini. Ia akan melindungi bandar daripada serangan meteor dan pencerobohan UFO.</string>
     <string name="draft_dsa_lua_notify04_text">Tahniah! Kita telah membina pencapaian terbesar kita - sfera Dyson!</string>
     <string name="draft_dsa_detect_op00_text">Itu bukanlah tindakan yang sangat berduit darimu.</string>
     <string name="draft_moon_auto_deco00_title">Struktur tidak diketahui</string>
@@ -2917,15 +2917,15 @@ Menyambungkan anda ke pusat komando angkasa...</string>
     <string name="draft_ja_tinypickle00_title">Jeruk</string>
     <string name="draft_ja_tinypickle00_text">Kelihatannya bentuk kehidupan yang cerdas.</string>
     <string name="draft_moon_artifact_ja00_title">Artefak asingan</string>
-    <string name="draft_moon_artifact_ja00_text">Kegunaan atau tujuan objek ini tidak pasti.</string>
+    <string name="draft_moon_artifact_ja00_text">Kegunaan atau tujuan objek ini tidak diketahui.</string>
     <string name="draft_dsa_time_machine00_title">Mesin Masa</string>
     <string name="draft_dsa_time_machine00_text">SULIT</string>
-    <string name="draft_dsa_moon_command00_title">Space Command</string>
-    <string name="draft_dsa_moon_command00_text">Bangunan yang mengendalikan semua operasi lokal dan angkasa di kejiranan.</string>
-    <string name="draft_dsacomingsoon_text">COMING SOON</string>
-    <string name="draft_dsa_moon_spaceport_title">Spaceport</string>
+    <string name="draft_dsa_moon_command00_title">Pusat Pemerintahan Angkasa</string>
+    <string name="draft_dsa_moon_command00_text">Bangunan yang mengendalikan semua operasi tempatan dan angkasa di kawasan ini.</string>
+    <string name="draft_dsacomingsoon_text">AKAN DATANG</string>
+    <string name="draft_dsa_moon_spaceport_title">Pelabuhan angkasa</string>
     <string name="draft_dsa_moon_spaceport_text">Bangunan yang digunakan untuk pengangkutan barang, bahan atau orang dengan mudah di angkasa.</string>
-    <string name="draft_dsa_moon_sport00_title">Fitness center</string>
+    <string name="draft_dsa_moon_sport00_title">Pusat kecergasan</string>
     <string name="draft_dsa_moon_sport00_text">Tempat untuk para penjajah untuk kekal sihat dan cergas.</string>
     <string name="draft_dsa_moon_faith00_title">Rumah Suci</string>
     <string name="draft_dsa_moon_faith00_text">Bangunan untuk kepercayaan dan agama penjajah.</string>
@@ -2934,7 +2934,7 @@ Menyambungkan anda ke pusat komando angkasa...</string>
     <string name="draft_moon_pipe00_title">Paip Air</string>
     <string name="draft_moon_pipe00_text">Paip yang digunakan untuk menghantar air ke pangkalan tempatan anda.</string>
     <string name="draft_moon_water00_title">Stesen Air</string>
-    <string name="draft_moon_water00_text">Buat air daripada cecair badan kolonist atau sintesis.</string>
+    <string name="draft_moon_water00_text">Menghasilkan air daripada cecair badan penghuni koloni atau melalui sintesis.</string>
     <string name="draft_moon_energy00_title">Panel suria</string>
     <string name="draft_moon_energy00_text">Tukar tenaga solar menjadi kuasa untuk menerangi pangkalan anda.</string>
     <string name="draft_moon_wire00_title">Talian Elektrik</string>
@@ -3004,14 +3004,14 @@ NOTA: kerana kebimbangan keselamatan, AI telah dikeluarkan dari model ini.</stri
     <string name="draft_space_storyline_stage_2_01">Kami ingin melihat jika anda mempunyai kekuatan kehendak dan apa yang diperlukan untuk tugasan ini.</string>
     <string name="draft_space_storyline_stage_2_02">Musnahkan semua stesen perlombongan yang merosakkan tempat indah ini!</string>
     <string name="draft_space_storyline_stage_2_notdone">Saya masih boleh melihat beberapa stesen perlombongan masih beroperasi, kembali semula apabila semuanya sudah offline.</string>
-    <string name="draft_space_storyline_stage_3_00">Saya faham yang anda bergantung kepada bijih-bijih tersebut untuk sumberdaya...</string>
-    <string name="draft_space_storyline_stage_3_01">Tetapi pernahkah anda terfikir untuk melabur dalam struktur aneh tersebut, sebaliknya?</string>
-    <string name="draft_space_storyline_stage_3_02">Sumber daya adalah terhad, pengetahuan bukan.</string>
-    <string name="draft_space_storyline_stage_3_03">Bagaimana kalau kamu mencuba itu, eh?</string>
+    <string name="draft_space_storyline_stage_3_00">Saya faham bahawa anda bergantung pada bijih tersebut untuk mendapatkan sumber...</string>
+    <string name="draft_space_storyline_stage_3_01">Tetapi pernahkah anda terfikir untuk melabur dalam struktur aneh tersebut sebagai gantinya?</string>
+    <string name="draft_space_storyline_stage_3_02">Sumber adalah terhad, pengetahuan tidak.</string>
+    <string name="draft_space_storyline_stage_3_03">Apa kata anda mencubanya?</string>
     <string name="draft_space_storyline_stage_3_04">Ayuh, cubalah meneliti artifak!</string>
     <string name="draft_space_storyline_stage_4_00">Bagus, bagus</string>
     <string name="draft_space_storyline_stage_4_01">Kami telah menyedari bahawa saya memerlukan beberapa benda...</string>
-    <string name="draft_space_storyline_stage_4_02">Iaitu, Poccolonum, sumber daya yang sangat bagus yang akan kita gunakan nanti.</string>
+    <string name="draft_space_storyline_stage_4_02">Iaitu Poccolonum, sumber yang sangat berguna dan akan kita gunakan kemudian.</string>
     <string name="draft_space_storyline_stage_4_03">Bina saja stesen perlombongan di atas beberapa bijih hijau.</string>
     <string name="draft_space_storyline_stage_4_04">Kami akan mengambil bijih untuk projek kami sendiri.</string>
     <string name="draft_space_storyline_stage_4_05">Jangan malu sekarang, bina sebuah lombong Poccolonum!</string>
@@ -3019,12 +3019,12 @@ NOTA: kerana kebimbangan keselamatan, AI telah dikeluarkan dari model ini.</stri
     <string name="draft_space_storyline_stage_5_01">Saya perlukan semua benda yang anda panggil theon.</string>
     <string name="draft_space_storyline_stage_5_02">Bolehkah anda berikan saya semua theon anda?</string>
     <string name="draft_space_storyline_stage_5_02_refused">Sayangnya, harap anda dapat ubah fikiran nanti.</string>
-    <string name="draft_space_storyline_stage_5_03">Percayalah padaku, saya akan menggunakannya dengan baik.</string>
-    <string name="draft_space_storyline_stage_7_00">Saya ada satu permintaan terakhir, tuan bandar</string>
+    <string name="draft_space_storyline_stage_5_03">Percayalah kepada saya, saya akan menggunakannya dengan baik.</string>
+    <string name="draft_space_storyline_stage_7_00">Saya ada satu permintaan terakhir, Datuk Bandar</string>
     <string name="draft_space_storyline_stage_7_01">Saya menganggap anda biasa dengan pembinaan roket</string>
     <string name="draft_space_storyline_stage_7_02">Bolehkah anda membina roket mengikut skema ini?</string>
-    <string name="draft_space_storyline_stage_7_03">Menjadi acar yang murah hati seperti saya, saya sudah mendapatkan semua sumber daya untuknya.</string>
-    <string name="draft_space_storyline_stage_7_04">Apa pendapatmu?</string>
+    <string name="draft_space_storyline_stage_7_03">Sebagai acar yang murah hati, saya sudah mendapatkan semua sumber untuknya.</string>
+    <string name="draft_space_storyline_stage_7_04">Apa pendapat anda?</string>
     <string name="draft_space_storyline_stage_7_04_notyetbuilt">Saya lihat pembinaan roket masih dalam proses</string>
     <string name="draft_space_storyline_stage_8_00">Saya takut ini merupakan kali terakhir kita bertemu.</string>
     <string name="draft_space_storyline_stage_8_01">Kita kini bersedia untuk kembali ke galaksi rumah kita dan membina semula, asalkan masih ada sesuatu yang tinggal.</string>
@@ -3172,11 +3172,7 @@ Tidak perlu menunggu lagi - mari kita bina beberapa bandar epik bersama-sama!</s
     <string name="buildingicon_crimeriot">Orang di sini sedang berbuat kacau.</string>
     <string name="dialog_scriptpolicy_title">Dasar Skrip Plugin</string>
     <string name="dialog_scriptpolicy_help_title">Skrip Plugin boleh berisiko</string>
-    <string name="dialog_scriptpolicy_help_text">YOU have the power to approve script execution for external plugins. Only whitelist scripts from sources you trust (e.g. yourself, if you are working on a plugin).\n
-\n
-If in doubt, DO NOT enable script execution without inspecting the code yourself.\n
-\n
-Plugins that require script execution to work may not function as expected if disabled. You have to restart the game for changes to have an effect.</string>
+    <string name="dialog_scriptpolicy_help_text">ANDA mempunyai kuasa untuk meluluskan pelaksanaan skrip untuk pemalam luaran. Hanya benarkan skrip daripada sumber yang anda percayai (contohnya diri anda sendiri, jika anda sedang membangunkan pemalam).\n\nJika ragu-ragu, JANGAN dayakan pelaksanaan skrip tanpa memeriksa kod itu sendiri.\n\nPemalam yang memerlukan pelaksanaan skrip untuk berfungsi mungkin tidak akan berfungsi seperti yang diharapkan jika dinyahdayakan. Anda perlu memulakan semula permainan untuk membolehkan perubahan berkesan.</string>
     <string name="settings_openscriptpolicy">Polisi Skrip Plugin</string>
     <string name="stage_files_itemcount">%d item(s)</string>
     <string name="tips_title">Petua</string>
@@ -3195,7 +3191,7 @@ Plugins that require script execution to work may not function as expected if di
     <string name="tip_topic_traffic_volume_text">Untuk menyesuaikan jumlah lalu lintas dalam tetapan, aktifkan mod debug terlebih dahulu, ia seharusnya juga berada di situ. Sekali mod debug diaktifkan, pilihan untuk mengurangkan atau meningkatkan lalu lintas ditawarkan kepada anda. Peratus yang anda pilih bergantung pada berapa banyak lalu lintas yang anda ada dan sejauh mana cabaran yang diinginkan.</string>
     <string name="tip_topic_more_cash_title">Untuk mendapatkan lebih banyak wang, ambil pinjaman</string>
     <string name="tip_topic_more_cash_text">
-Press the income icon and then switch to the tab with the green cash icon. Then press "raise". The amount of money offered on the loan depends on the estate and up to 5 loans can be taken out at a time.
+Tekan ikon pendapatan dan kemudian tukar ke tab dengan ikon tunai hijau. Kemudian tekan "raise". Jumlah wang yang ditawarkan pada pinjaman bergantung kepada harta dan sehingga 5 pinjaman boleh diambil pada satu-satu masa.
     </string>
     <string name="tip_topic_loan_repayment_title">Pinjaman dibayar balik secara automatik setiap bulan</string>
     <string name="tip_topic_loan_repayment_text">Pembayaran pinjaman akan ditolak secara automatik setiap bulan oleh permainan. Anda tidak perlu membayar secara manual, walaupun anda boleh mengurangkan perbelanjaan bulanan dengan melakukan demikian. Tempoh pembayaran balik boleh dilihat dengan pergi ke tab pinjaman.</string>
@@ -3203,10 +3199,10 @@ Press the income icon and then switch to the tab with the green cash icon. Then 
     <string name="tip_topic_discord_text">Server discord rasmi adalah tempat di mana pemain dan pencipta berkumpul, memperlihatkan ciptaan mereka dan membuat kawan. Pautan boleh ditemui dalam permainan dalam tetapan.</string>
     <string name="tip_topic_making_plugins_title">Anda boleh membuat plugin anda sendiri. Ia mudah™</string>
     <string name="tip_topic_making_plugins_text">Mungkin ia kelihatan agak menakutkan pada mulanya tetapi membuat plugin adalah mudah. Untuk membuat tekstur, anda boleh menggunakan sesuatu seperti paint.net di PC dan Pixly di mudah alih. Untuk membuat json atau "kod", anda boleh menulis sendiri dengan bantuan forum atau gunakan https://pca.svetikas.lt/. Jika ada sebarang pertanyaan, kami boleh menjawabnya di discord atau forum!</string>
-    <string name="tip_topic_online_collaboration_title">Bekerjasama dalam sebuah wilayah menggunakan modus dalam talian</string>
+    <string name="tip_topic_online_collaboration_title">Bekerjasama dalam sebuah wilayah menggunakan mod dalam talian</string>
     <string name="tip_topic_online_collaboration_text">Dengan menekan butang dalam talian dalam pandangan wilayah, anda boleh bekerjasama dengan rakan atau ahli lain untuk mencipta sebuah wilayah yang indah. Permainan ini tidak membenarkan lebih daripada seorang pemain untuk bekerja pada peta yang sama tetapi anda boleh melawat bandar-bandar lain dan mendapatkan inspirasi.</string>
     <string name="tip_topic_online_upload_title">Memuat naik peta ke mod dalam talian memerlukan berlian atau koin wilayah</string>
-    <string name="tip_topic_online_upload_text">Berlian (mudah alih) dan syiling kawasan (PC) diberikan untuk log masuk harian. Kos untuk memuat naik kawasan bervariasi bergantung pada saiz. Semasa memuat naik peta, pencipta boleh memilih untuk tetapkan kata laluan dan beberapa peraturan. Sekali dicipta, kata laluan tidak dapat ditambah atau dibuang.</string>
+    <string name="tip_topic_online_upload_text">Berlian (mudah alih) dan syiling wilayah (PC) diberikan untuk log masuk harian. Kos memuat naik wilayah berbeza-beza mengikut saiz. Semasa memuat naik peta, pencipta boleh memilih untuk menetapkan kata laluan dan beberapa peraturan. Setelah dicipta, kata laluan tidak boleh ditambah atau dibuang.</string>
     <string name="tip_topic_diamonds_title">Anda boleh mendapatkan berlian dengan mendaftar masuk setiap hari</string>
     <string name="tip_topic_diamonds_text">Log masuk setiap hari (mudah alih) diberi ganjaran berlian. Dengan log masuk setiap hari sepanjang minggu, anda mendapat lebih banyak ganjaran. Sekali anda mendapat ganjaran akhir, ia akan direset dan bermula semula. Anda juga boleh menonton video untuk berlian setiap 30 minit - tetapi ingat untuk mematikan sebarang penghalang iklan supaya iklan dapat dipaparkan!</string>
     <string name="tip_topic_supplies_title">Bekalan roket disediakan oleh bangunan industri tertentu</string>
@@ -3216,7 +3212,7 @@ Press the income icon and then switch to the tab with the green cash icon. Then 
     <string name="tip_topic_vandalism_title">Ikon cat sembur menunjukkan vandalisme, bina balai polis</string>
     <string name="tip_topic_vandalism_text">Ikon cat semburan muncul apabila bangunan itu tidak mendapat pengaruh polis. Bangunan kediaman, komersial dan industri memerlukan pengaruh polis jadi pastikan untuk menyediakan bangunan-bangunan ini dengan pengaruh tersebut untuk mengelakkan jenayah di masa hadapan.</string>
     <string name="tip_topic_cemetary_cremetorium_title">Bina tanah perkuburan dan krematorium untuk mengendalikan orang mati</string>
-    <string name="tip_topic_cemetary_cremetorium_text">Jika ikon orang mati muncul di atas satu atau lebih bangunan, ini menunjukkan bahawa anda perlu membina tanah perkuburan atau krematorium. Tanah perkuburan adalah baik ketika memulakan, tetapi seiring dengan pertumbuhan bandar, mereka akan mesti dibersihkan semakin kerap. Oleh itu, sebuah krematorium mungkin solusi jangka panjang yang lebih baik.</string>
+    <string name="tip_topic_cemetary_cremetorium_text">Jika ikon orang mati muncul di atas satu atau lebih bangunan, ini menunjukkan bahawa anda perlu membina tanah perkuburan atau krematorium. Tanah perkuburan sesuai pada peringkat awal, tetapi apabila bandar berkembang, ia perlu dikosongkan semakin kerap. Oleh itu, krematorium mungkin penyelesaian jangka panjang yang lebih baik.</string>
     <string name="tip_topic_neighbourhood_commercial_title">Untuk mendapatkan pendapatan tambahan, tetapkan perdagangan kejiranan</string>
     <string name="tip_topic_neighbourhood_commercial_text">Ini hanya boleh dilakukan di kawasan di mana anda telah membuka bandar-bandar berdekatan. Terdapat tab komersial kejiranan. Dengan menyesuaikan nilai-nilai, anda boleh mengimport atau mengeksport dari bandar-bandar berdekatan. Ini tidak berfungsi dalam mod talian mahupun jika satu atau lebih bandar yang anda cuba set up berada dalam mod pasir atau uber.</string>
     <string name="tip_topic_airport_title">Lapangan terbang adalah pelaburan jangka panjang yang baik</string>
@@ -3290,7 +3286,7 @@ Press the income icon and then switch to the tab with the green cash icon. Then 
     <string name="settings_notify_polluted_pump">Pam yang Tercemar</string>
     <string name="settings_notify_school_overloaded">Sekolah terlalu penuh</string>
     <string name="settings_notify_medic_overloaded">Medik terlalu bebanan</string>
-    <string name="settings_notify_destroyed_tile">Tetapan notifikasi jubin yang dihancurkan</string>
+    <string name="settings_notify_destroyed_tile">Jubin musnah</string>
     <string name="settings_notify_need_low_education">Memerlukan pendidikan rendah</string>
     <string name="settings_notify_need_high_education">Perlukan pendidikan tinggi</string>
     <string name="settings_notify_bad_traffic">Kesesakan trafik</string>
@@ -3319,16 +3315,16 @@ Press the income icon and then switch to the tab with the green cash icon. Then 
     <string name="stage_files_actionopen">Buka</string>
     <string name="stage_files_imageresolution">Resolusi: %dx%d</string>
     <string name="loadcity_outdatedscenario_dialog_title">Versi yang Lapuk</string>
-    <string name="loadcity_outdatedscenario_dialog_text">Skenario ini memerlukan versi %s atau lebih tinggi, tetapi anda sedang menggunakan %s.\n
+    <string name="loadcity_outdatedscenario_dialog_text">Senario ini memerlukan versi %s atau lebih tinggi, tetapi anda sedang menggunakan %s.\n
 \n
-Sila semak untuk kemas kini untuk memainkan skenario ini.</string>
+Sila semak kemas kini untuk memainkan senario ini.</string>
     <string name="comments_language">Bahasa: %s</string>
     <string name="comments_cmdtranslate">Terjemah (terjemahan mungkin tidak tepat)</string>
     <string name="waste_clear_onmouseinput">Klik dan seret pada sampah untuk membersihkannya.</string>
     <string name="cemetery_clear_onmouseinput">Klik dan seret untuk melepaskan beberapa ruang.</string>
     <string name="tutorial_buildroad_b_onmouseinput">Letakkan jalan di sepanjang jubin yang ditandai. Untuk membina, klik untuk menetapkan titik mula, klik sekali lagi untuk menetapkan titik akhir.</string>
     <string name="tutorial_rci_onmouseinput">Klik pada butang ini untuk melihat maklumat permintaan terperinci untuk setiap jenis zon.</string>
-    <string name="tutorial_money_info_onmouseinput">Klik di sudut kanan bawah untuk mendapatkan lebih banyak informasi tentang wang anda atau untuk mengubah cukai.</string>
+    <string name="tutorial_money_info_onmouseinput">Klik di sudut kanan bawah untuk mendapatkan maklumat lanjut tentang wang anda atau untuk mengubah cukai.</string>
     <string name="tutorial_buildbridge_b_onmouseinput">Klik pada titik mula dan akhir jalan yang dirancang. Lihat bagaimana jambatan akan dibina secara automatik melintasi sungai.</string>
     <string name="tool_airplanelane_title_onmouseinput">Klik pada laluan yang kosong</string>
     <string name="draft_deco_chr_present00_text_onmouseinput">Hanya sebuah hadiah. Cuba klik pada ia.</string>
@@ -3339,7 +3335,7 @@ Dengan mengklik "Muat naik sekarang", anda bersetuju bahawa anda menerima dasar 
     <string name="notify_waste_producer00_onmouseinput">Tapak pelupusan ini penuh! Klik pada ia untuk membersihkannya!</string>
     <string name="draft_roaddeco_barrier_open00_text_onmouseinput">Klik kiri pada item tersebut untuk membuka dan menutupnya. Cara yang bagus untuk mencipta kesesakan lalu lintas.</string>
     <string name="draft_gol_dead_text_onmouseinput">Cipta medan permainan kehidupan. Klik pada petak yang sedia ada untuk menukar status mereka. Status asal adalah mati.</string>
-    <string name="loadcity_scenario">Skenario: %s</string>
+    <string name="loadcity_scenario">Senario: %s</string>
     <string name="trainstationinfo_total">Jumlah pemindahan: %1$,d</string>
 
 
@@ -3355,14 +3351,14 @@ Dengan mengklik "Muat naik sekarang", anda bersetuju bahawa anda menerima dasar 
     <string name="settings_ground_snow_overlay">Penutup salji di tanah</string>
     <string name="dialog_scenarios_cmdopen">Senario</string>
     <string name="dialog_scenarios_title">Senario</string>
-    <string name="dialog_scenarios_generalinfo_title">Apakah itu skenario ini?</string>
+    <string name="dialog_scenarios_generalinfo_title">Apakah senario ini?</string>
     <string name="dialog_scenarios_generalinfo_text">Senario dalam TheoTown adalah peta yang dibuat terlebih dahulu dengan keadaan khas. Anda membina bandar anda dengan sekatan tertentu, seperti dana terhad atau peraturan plugin tertentu. Apabila senario berakhir, anda boleh memuat naik bandar anda untuk bertanding dengan orang lain dalam pertandingan yang mesra.</string>
     <string name="dialog_scenarios_cmdreset">Tetap Semula</string>
     <string name="dialog_scenarios_cmdremove">Buang</string>
     <string name="dialog_scenarios_cmdmove">Pindah</string>
     <string name="dialog_scenarios_cmdinfo">Info</string>
     <string name="dialog_scenarios_cmdplay">Main</string>
-    <string name="dialog_scenarios_cmdstart">Start</string>
+    <string name="dialog_scenarios_cmdstart">Mula</string>
     <string name="dialog_scenarios_reset_title">Tetap semula</string>
     <string name="dialog_scenarios_reset_text">Adakah anda pasti ingin menetapkan semula kemajuan anda? Anda boleh memindahkannya ke bandar anda sendiri untuk terus bermain atau hapuskan sepenuhnya.</string>
     <string name="dialog_scenarios_empty">Tiada senario yang tersedia buat masa ini.</string>
@@ -3436,7 +3432,7 @@ Dengan mengklik "Muat naik sekarang", anda bersetuju bahawa anda menerima dasar 
     <string name="ts_dialog_sell_vehicle_cmd_sell">Jual</string>
     <string name="ts_vehicle_count">%d/%d kenderaan</string>
     <string name="ts_vehicle_count_depot_limit">%s (terhad oleh depot)</string>
-    <string name="ts_vehicle_count_station_limit">%s (literhad oleh stesen)</string>
+    <string name="ts_vehicle_count_station_limit">%s (terhad oleh stesen)</string>
     <string name="ts_buy_vehicle">Beli Kenderaan</string>
     <string name="ts_build_depot">Bina Depot</string>
     <string name="ts_vehicle_assign">Tugasan</string>
@@ -3512,7 +3508,7 @@ Dengan mengklik "Muat naik sekarang", anda bersetuju bahawa anda menerima dasar 
     <string name="ts_names_farm_farmroad">Jalan Ladang</string>
     <string name="ts_names_farm_countryside">Luar Bandar</string>
     <string name="ts_names_farm_fieldsstop">Perhentian Padang</string>
-    <string name="ts_names_farm_orchard">Orkid</string>
+    <string name="ts_names_farm_orchard">Dusun</string>
     <string name="ts_names_farm_pastures">Padang rumput</string>
     <string name="ts_names_farm_ruralgate">Pintu Luar Bandar</string>
     <string name="ts_names_park_centralpark">Taman Tengah</string>
@@ -3597,8 +3593,37 @@ Dengan mengklik "Muat naik sekarang", anda bersetuju bahawa anda menerima dasar 
     <string name="legend_bad">Buruk</string>
     <string name="legend_low_voltage">Voltan normal</string>
     <string name="legend_high_voltage">Voltan tinggi</string>
-    <string name="legend_mixed_voltage">Kedua-duanya Voltan Campuran</string>
+    <string name="legend_mixed_voltage">Kedua-duanya</string>
     <string name="legend_metro">Metro</string>
     <string name="legend_ts_edit">%s (sedang mengedit)</string>
+
+
+    <string name="dialog_url_title">Buka laman web?</string>
+    <string name="dialog_url_text">Pemalam "%s" ingin membuka laman web luaran. Ia mungkin mengandungi iklan. Teruskan hanya jika anda mempercayai sumbernya:</string>
+    <string name="dialog_url_cmdopen">Buka</string>
+    <string name="settings_adaptive_ground_blending">Pencampuran tanah adaptif</string>
+
+    <string name="empty_cause_unknown">Ditinggalkan atas sebab yang tidak diketahui.</string>
+    <string name="empty_cause_low_demand">Ditinggalkan kerana permintaan rendah.</string>
+    <string name="empty_cause_low_happiness">Ditinggalkan kerana kepuasan rendah tentang %s.</string>
+    <string name="empty_cause_crime">Ditinggalkan kerana jenayah (%s).</string>
+    <string name="empty_cause_illness">Ditinggalkan kerana pencemaran.</string>
+    <string name="stage_files_folderfiles">Mengandungi %d fail</string>
+
+    <string name="notbuildablereason_generic">Tidak boleh bina di sini</string>
+    <string name="notbuildablereason_land">Memerlukan daratan</string>
+    <string name="notbuildablereason_water">Memerlukan air</string>
+    <string name="notbuildablereason_zone">Zon yang salah</string>
+    <string name="notbuildablereason_maxcount">Had bangunan dicapai</string>
+    <string name="notbuildablereason_terrain">Rupa bumi tidak sesuai</string>
+    <string name="notbuildablereason_nomoney">Wang tidak cukup</string>
+    <string name="notbuildablereason_blocked">Kawasan disekat</string>
+
+    <string name="recovery_mode_title">Alamak</string>
+    <string name="recovery_mode_text">TheoTown tidak dapat dimulakan beberapa kali.\n\nAdakah anda mahu melancarkan permainan dalam Mod Pemulihan?\n\nMod Pemulihan melumpuhkan sementara semua pemalam, membolehkan anda mengalih keluar atau membaiki mana-mana pemalam yang mungkin menyebabkan masalah. Pemalam akan dimuatkan seperti biasa semula apabila anda memulakan semula permainan pada kali berikutnya.</string>
+    <string name="recovery_mode_normal">Mula biasa</string>
+    <string name="recovery_mode_recovery">Mod Pemulihan</string>
+
+    <string name="settings_draw_neighbors">Lukis bandar jiran</string>
 
 </resources>

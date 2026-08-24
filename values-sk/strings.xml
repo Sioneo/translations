@@ -39,7 +39,7 @@
     <string name="settings_doublecardrawing">Dvojité vykresľovanie áut</string>
     <string name="settings_drawwatersparkle">Vykresľovať vodu</string>
     <string name="settings_drawmapedges">Vykreslovať okraje mapy</string>
-    <string name="loadcity_errordialog_title">Načitanie zlyhalo</string>
+    <string name="loadcity_errordialog_title">Načítanie zlyhalo</string>
     <string name="loadcity_errordialog_text">Mesto sa nepodarilo načítať. Súbory môžu byť poškodené.\n\nOspravedlňujeme sa.</string>
     <string name="loadcity_errordialog_cmdcancel">Zrušiť</string>
     <string name="dialog_screenshot_title">Snímka obrazovky zaznamenaná</string>
@@ -55,7 +55,7 @@
     <string name="draftselector_titlefiredepartment">Hasiči</string>
     <string name="draftselector_cmdbuild">Postaviť</string>
     <string name="draftselector_price">Cena: %s</string>
-    <string name="draftselector_monthlyprice">Mesačné výdaje: %s</string>
+    <string name="draftselector_monthlyprice">Mesačné výdavky: %s</string>
     <string name="draftselector_id">ID: %1$s</string>
     <string name="loadcity_cmddelete">Vymazať</string>
     <string name="loadcity_deletedialog_text">Naozaj chcete vymazať mesto? Tento krok sa nedá vrátiť.</string>
@@ -98,7 +98,7 @@
     <string name="draft_waterfountain00_title">Fontána</string>
     <string name="draft_waterfountain00_text">Malý, no elegantný vodný prvok. Skrášľuje okolie a čistí vzduch.\n\nObyvatelia radi pracujú blízko niečoho pekného.</string>
     <string name="draft_bigpark00_title">Veľký park</string>
-    <string name="draft_bigpark00_text">Veľký park vhodný na rozličné udalosti, eventy a zhromaždenia.\n\nObyvatelia majú radi bývanie v blízkosti zelene alebo námestia.</string>
+    <string name="draft_bigpark00_text">Veľký park vhodný na rozličné podujatia a zhromaždenia.\n\nObyvatelia majú radi bývanie v blízkosti zelene alebo námestia.</string>
     <string name="draft_park03_text">Obyvatelia ho majú radi.</string>
     <string name="draft_medic00_title">Doktor</string>
     <string name="draft_medic00_text">Obyvatelia tu môžu navštíviť doktora.</string>
@@ -144,7 +144,7 @@
     <string name="draft_gillender00_title">Budova Gillender</string>
     <string name="draft_gillender00_text">Budova Gillender z New Yorku. Ďakujeme za 250 000 stiahnutí :D</string>
     <string name="topic_thanks">Ďakujeme za úžasnú podporu!</string>
-    <string name="topic_cake">The cake is a lie!</string>
+    <string name="topic_cake">Koláč je lož!</string>
     <string name="topic_panic">Nepanikárte!!!</string>
     <string name="draft_bigschool00_title">Veľká základná škola</string>
     <string name="draft_bigschool00_text">Učia sa tu malé deti, akurát sa ich sem zmestí viac.\nVďaka školstvu budú do mesta prichádzať bohatší obyvatelia.</string>
@@ -172,7 +172,7 @@
     <string name="budget_medic">Zdravotníctvo</string>
     <string name="ci_budget_overall">Celkovo</string>
     <string name="ci_budget_income">Príjem (mesačne)</string>
-    <string name="ci_budget_spending">Výdaje (mesačne)</string>
+    <string name="ci_budget_spending">Výdavky (mesačne)</string>
     <string name="ci_budget_taxes">Dane</string>
     <string name="money">%1$,d₮</string>
     <string name="ci_water_title">Voda</string>
@@ -193,7 +193,7 @@
     <string name="topic_trolls">Nekŕmte trollov.</string>
     <string name="settings_reversedbuildtool">Obrátený pohyb v režime stavby</string>
     <string name="draft_karlsruhecastle00_title">Palác Karlsruhe</string>
-    <string name="draft_karlsruhecastle00_text">Touristi ho milujú.</string>
+    <string name="draft_karlsruhecastle00_text">Turisti ho milujú.</string>
     <string name="shader_old">Staré</string>
     <string name="topic_narcissistic">Nevadí narcistickým ľuďom</string>
     <string name="topic_great">Ľúbim ťa! &lt;3</string>
@@ -251,7 +251,7 @@
     <string name="draft_busstop00_title">Autobusová zastávka</string>
     <string name="draft_busstop00_text">Obyvatelia tu môžu nastúpiť na autobus, a tak cestovať po meste.</string>
     <string name="settings_orientation">Orientácia obrazovky</string>
-    <string name="settings_orientationlandscape">Na širku</string>
+    <string name="settings_orientationlandscape">Na šírku</string>
     <string name="settings_orientationportrait">Na výšku</string>
     <string name="settings_orientationauto">Automaticky</string>
     <string name="draft_busdepot00_title">Autobusová stanica</string>
@@ -285,7 +285,7 @@
     <string name="draftselector_titlerawbuilding">Všetky budovy</string>
     <string name="budget_busdepot">Autobusové stanice</string>
     <string name="ci_budget_overallincome">Celkový príjem</string>
-    <string name="ci_budget_overallspending">Celkové výdaje</string>
+    <string name="ci_budget_overallspending">Celkové výdavky</string>
     <string name="ci_rci_title">Požiadavky zón</string>
     <string name="ci_rci_res0">Oby ₮</string>
     <string name="ci_rci_res1">Oby ₮₮</string>
@@ -426,12 +426,12 @@
     <string name="tutorial_buildwater_c">Skvelá práca!</string>
     <string name="tutorial_buildpipe_a">Samotná vodárenská veža ale nestačí. Na prenos vody je potrebné potrubie.</string>
     <string name="tutorial_buildpipe_b">Umiestnite potrubie na vyznačené políčka.</string>
-    <string name="tutorial_buildpipe_c">Skvelé. Teraz sa môžeme postiť do výstavby zón.</string>
-    <string name="tutorial_buildzones">Zóny označujú, čo sa kde môže vybudovať. Máme tri typy-.</string>
-    <string name="tutorial_buildresidential_a">Postavme obytnú (rezidenčnú) zónu. Obyvatelia si tu môžu postaviť domy a býať tu.</string>
+    <string name="tutorial_buildpipe_c">Skvelé. Teraz sa môžeme pustiť do vytvárania zón.</string>
+    <string name="tutorial_buildzones">Zóny určujú, kto môže kde stavať. Máme tri typy.</string>
+    <string name="tutorial_buildresidential_a">Vyznačme obytnú zónu. Obyvatelia si tam môžu postaviť domy.</string>
     <string name="tutorial_buildresidential_b">Postavte ju na vyznačené políčka.</string>
     <string name="tutorial_buildresidential_c">Super.</string>
-    <string name="tutorial_buildcommercial_a">Pokračujme s obchodnou (komerčnou) zóbou. Budú sa tu nachádzať obchody.</string>
+    <string name="tutorial_buildcommercial_a">Pokračujme komerčnou zónou. Budú sa tu stavať obchody, kancelárie a zábavné podniky.</string>
     <string name="tutorial_buildcommercial_b">Postavte ju na vyznačené políčka.</string>
     <string name="tutorial_buildcommercial_c">Super.</string>
     <string name="tutorial_buildindustrial_a">Posledná, no dôležitá je priemyselná (industriálna) zóna. To je zóna, kde budú továrne.</string>
@@ -450,7 +450,7 @@
     <string name="budget_religion">Náboženstvo</string>
     <string name="population_unit">%1$,d</string>
     <string name="draftselector_titlecatastrophes">Katastrofy</string>
-    <string name="settings_category_disasters">Ktastrofy</string>
+    <string name="settings_category_disasters">Automatické katastrofy</string>
     <string name="settings_disaster_fire">Požiar</string>
     <string name="settings_disaster_meteorite">Meteorit</string>
     <string name="settings_disaster_earthquake">Zemetrasenie</string>
@@ -508,18 +508,18 @@
     <string name="draft_zoneindustrial_lvl2_title">Hustá priemyselná</string>
     <string name="draft_zoneindustrial_lvl2_text">Priemyselná zóna s vyššou hustotou. Husté zóny dokážu pojať viac ľudí do rovnakého priestoru, hlavne vďaka vyšším budovám.</string>
     <string name="draft_zonefarm_title">Farma</string>
-    <string name="draft_zonefarm_text">Lacná zóna pre farmu. Minimálna veľkosť je 4x4.</string>
-    <string name="requirement_peoplecount_all">Potrebuje: Populáciu %1$,d</string>
-    <string name="requirement_peoplecount_poor">Potrebuje: Populácia chudobných obyy %1$,d</string>
-    <string name="requirement_peoplecount_middle">Potrebuje: Populácia stredných obyvateľov %1$,d</string>
-    <string name="requirement_peoplecount_rich">Potrebuje: Populácia bohatých obyvateľov %1$,d</string>
+    <string name="draft_zonefarm_text">Lacná zóna pre farmárske budovy. Minimálna veľkosť farmy je 4x4.\nFarmy uspokojujú iba dopyt po priemysle ₮.</string>
+    <string name="requirement_peoplecount_all">Potrebné: %1$,d obyvateľov</string>
+    <string name="requirement_peoplecount_poor">Potrebné: %1$,d chudobných obyvateľov</string>
+    <string name="requirement_peoplecount_middle">Potrebné: %1$,d obyvateľov strednej triedy</string>
+    <string name="requirement_peoplecount_rich">Potrebné: %1$,d bohatých obyvateľov</string>
     <string name="requirement_building">Potrebuje: %1$s</string>
     <string name="draftselector_onlyone">Môže byť postavené iba raz</string>
     <string name="draftselector_onlyn">Môže byť postavené %1$,d -krát</string>
     <string name="draft_church02_title">Malý kostol</string>
-    <string name="draft_church02_text">Prináša vieru a nábožentvo obyvateľom mesta.</string>
-    <string name="draft_mosque01_title">Malá mešita</string>
-    <string name="draft_mosque01_text">Prináša vieru a nábožentvo obyvateľom mesta.</string>
+    <string name="draft_church02_text">Miesto bohoslužieb pre menšie mesto. Obyvatelia sa tu stretávajú, aby naplnili svoje náboženské potreby.</string>
+    <string name="draft_mosque01_title">Stredná mešita</string>
+    <string name="draft_mosque01_text">Miesto bohoslužieb pre menšie mesto. Obyvatelia sa tu stretávajú, aby naplnili svoje náboženské potreby.</string>
     <string name="settings_sound_ui">Zvuk rozhrania</string>
     <string name="settings_sound_game">Zvuk hry</string>
     <string name="settings_preserveedges">Zachovať hrany</string>
@@ -680,7 +680,7 @@
     <string name="notify_nocomzone">Vybudujte komerčné zóny, aby sme tu mali viac obchodov.</string>
     <string name="notify_noindzone">Hodil by sa nám nejaký priemysel, no najprv vybudujte priemyselné zóny.</string>
     <string name="createcity_sizebigbigbig">Veľmi veľké</string>
-    <string name="locale">lokalizácia</string>
+    <string name="locale">sk</string>
     <string name="draft_police02_title">Základňa zásahovej jednotky.</string>
     <string name="draft_police02_text">Základňa zásahových policajných jednotiek. Táto policajná stanica prinesie do vášho mesta ticho a poriadok.</string>
     <string name="settings_blur">Rozmazanie</string>
@@ -749,7 +749,7 @@
     <string name="settings_winter">Zima</string>
     <string name="notify_riot_reason">Nastala vzbura z dôvodu %1$s!</string>
     <string name="notify_riot_noreason">Nastala vzbura bez hocijakakej príčiny!</string>
-    <string name="notify_demonstration">Máme tu demonštráciu, lebo %1s!  Zavolajte políciu alebo zvýšte spokojnosť obyvateľov, inak sa situácia bude opakovať!</string>
+    <string name="notify_demonstration">Máme tu demonštráciu, lebo %1$s!  Zavolajte políciu alebo zvýšte spokojnosť obyvateľov, inak sa situácia bude opakovať!</string>
     <string name="draft_marker_powermarker_title">Elektrina</string>
     <string name="draft_marker_watermarker_title">Voda</string>
     <string name="draft_road04_title">Alej</string>
@@ -1002,7 +1002,6 @@
     <string name="dialog_presentdaily_text">Zajtra dostanete viac.</string>
     <string name="dialog_presentdaily_day">Deň %1$,d</string>
     <string name="rank_needed_xp">Je potrebných aspoň %1$,d bodov mesta</string>
-    <string name="currency_symbol" translatable="false">₮</string>
     <string name="settings_shortmoney">Skrátiť peniaze</string>
     <string name="dialog_newsign_title">Nové označenie</string>
     <string name="dialog_newsign_text">Zadajte nové meno oblasti.</string>
@@ -1057,7 +1056,7 @@
     <string name="tut_build110">Starosta, nemáme prácu!</string>
     <string name="tut_build12">Poďme sa pozrieť na prehľad požiadaviek.</string>
     <string name="tut_build13">Tu vidíte požiadavky na obytné, komerčné a priemyselné budovy.</string>
-    <string name="tut_build14">Máme tri úrovne budov: ₮, ₮₮ and ₮₮₮, čo znamená chudobné, stredné a bohaté.</string>
+    <string name="tut_build14">Máme tri úrovne bohatstva: ₮, ₮₮ a ₮₮₮, ktoré zodpovedajú chudobným, strednej triede a bohatým.</string>
     <string name="tut_build15">Bohatí ľudia platia viacej daní.</string>
     <string name="tut_build16">Vyznačte komerčnú zónu (obchody).</string>
     <string name="tut_build17">Postavte priemyselnú zónu.</string>
@@ -1566,7 +1565,7 @@ Ak TheoTown povolíte prístup do externej pamäte, bude ukladať mestá do prie
     <string name="draft_sydneyoperahouse00_title">Sydney Opera House</string>
     <string name="draft_sydneyoperahouse00_text">Operna v Sydney je multifunkčné umelecké centrum nachádzajúce sa v Sydney v Austrálii. Bola dokončená v roku 1973 a je vysoká 65 metrov.</string>
     <string name="draft_onerafflesplace00_title">One Raffles Place</string>
-    <string name="draft_onerafflesplace00_text">The One Raffles Place je 280 metrov vysoká mrakodrap v meste Singapur postavený v roku 1986.</string>
+    <string name="draft_onerafflesplace00_text">One Raffles Place je 280 metrov vysoký mrakodrap v Singapure postavený v roku 1986.</string>
     <string name="draft_willistower00_title">Willis Tower</string>
     <string name="draft_willistower00_text">Willis Tower (známa aj ako Sears Tower) je mrakodrap v meste Chicago v USA. Bol postavený v roku 1973 a je 442 metrov vysoký.</string>
     <string name="draft_feature_landmarks01_title">Pamiatky II</string>
@@ -1618,7 +1617,7 @@ Ak TheoTown povolíte prístup do externej pamäte, bude ukladať mestá do prie
     <string name="draft_burjalarab00_title">Burj Al Arab</string>
     <string name="draft_burjalarab00_text">Burj Al Arab je luxusný hotel v Dubaji v Spojených Arabských emirátoch. Bol dokončený v roku 1999 a jeho výška je 321 metrov.</string>
     <string name="draft_hearsttower00_title">Hearst Tower</string>
-    <string name="draft_hearsttower00_text">The Hearst Tower je kancelárska budova v New Yorku, ktorú postavili v roku 2006. Vysoká je 182 metrov.</string>
+    <string name="draft_hearsttower00_text">Hearst Tower je kancelárska budova v New Yorku, ktorú postavili v roku 2006. Je vysoká 182 metrov.</string>
     <string name="draft_feature_landmarks02_title">Pamiatky III</string>
 
     <string name="draft_recyclingyard00_title">Recyklačné centrum</string>
@@ -1632,8 +1631,8 @@ Ak TheoTown povolíte prístup do externej pamäte, bude ukladať mestá do prie
     <string name="settings_smoothcarmovement">Hladký pohyb áut</string>
     <string name="draft_easteregg00_title">Veľkonočné vajíčko</string>
     <string name="draft_easteregg00_text">Obyčajné veľkonočné vajce. Čo s tým urobíš?</string>
-    <string name="draft_notify_easteregg_spawned00_text">Niekde je tu Easter egg. Nájdeš ho?</string>
-    <string name="draft_notify_easteregg_found00_text">Gratulujeme, našiel si Easter egg :)</string>
+    <string name="draft_notify_easteregg_spawned00_text">Niekde je tu veľkonočné vajíčko. Nájdeš ho?</string>
+    <string name="draft_notify_easteregg_found00_text">Gratulujeme, našiel si veľkonočné vajíčko :)</string>
 
     <string name="dialog_removediamondbuildings_title">Odstrániť diamantové budovy</string>
     <string name="dialog_removediamondbuildings_text">Vybrali ste %d budov s cenou diamantu pre odstránenie. Skutočne ich chcete ich odstrániť? Ak ich chcete iba presunúť, máme nástroj na presun budovy</string>
@@ -2210,7 +2209,7 @@ Cons: Žiadna výzva</string>
     <string name="weather_lighting">Búrka</string>
     <string name="weather_auto">Dynamické</string>
     <string name="store_local_plugins">Lokálne pluginy</string>
-    <string name="dialog_missingplugins_localpluginby">•%1$s by %2$s (lokálny plugin)</string>
+    <string name="dialog_missingplugins_localpluginby">•%1$s od %2$s (lokálny plugin)</string>
 
     <string name="dialog_storedisclaimer_title">Je tu toho viac...</string>
     <string name="dialog_storedisclaimer_text">Vitajte v Obchode s pluginmi! Môžete tu nájsť stovky dodatočného obsahu pre TheoTown vytvoreného hráčmi z celého sveta.\n
@@ -2645,14 +2644,14 @@ Stlačte klávesu pre priradenie tejto akcie.</string>
 
     <string name="draft_feature_dsa00_title">DSA</string>
     <string name="draft_feature_dsa00_text">Táto integrácia prináša lepšie dodávateľské systémy, niekoľko nových služobných áut, novú rýchlejšiu a lacnejšiu cestu, novú katastrofu, vlajky DSA, nové budovy, množstvo udalostí, vesmírny rozmer na preskúmanie, nové spôsoby ako zarobiť peniaze a oveľa viac.</string>
-    <string name="draft_dsa_category00_title">Agency</string>
-    <string name="draft_dsa_space_category00_title">Space Base</string>
-    <string name="draft_dsadevcat_title">DSA Debug</string>
-    <string name="draft_dsa_zone_title">DSA zone</string>
+    <string name="draft_dsa_category00_title">Agentúra</string>
+    <string name="draft_dsa_space_category00_title">Vesmírna základňa</string>
+    <string name="draft_dsadevcat_title">Ladenie DSA</string>
+    <string name="draft_dsa_zone_title">Zóna DSA</string>
     <string name="draft_dsa_zone_text">Vyhlasujte časti vášho mesta za teritórium DSA.</string>
     <string name="draft_dsaroad_title">Rýchlostná cesta</string>
     <string name="draft_dsaroad_text">Rýchlejšia ako bežná cesta navrhnutá firmou DSA.</string>
-    <string name="draft_dsa_ultra_road00_title">DSA MK3.2 road</string>
+    <string name="draft_dsa_ultra_road00_title">Cesta DSA MK3.2</string>
     <string name="draft_dsa_ultra_road00_text">Neuveriteľne rýchla cesta navrhnutá spoločnosťou DSA.</string>
     <string name="draft_dsahq_title">Centrála DSA</string>
     <string name="draft_dsahq_text">Centrála pre všetky DSA operácie v tvojej oblasti.</string>
@@ -2666,12 +2665,12 @@ Stlačte klávesu pre priradenie tejto akcie.</string>
     <string name="draft_dsa_outpost00_text">Miestna kancelária DSA s najkvalifikovanejšími zástupcami.</string>
     <string name="draft_tool_disaster_super_nuke00_title">„X-treme“ ICBM</string>
     <string name="draft_tool_disaster_super_nuke00_text">Najsilnejšia medzikontinentálna balistická raketa DSA schopná zničiť čokoľvek, s čím príde do kontaktu.</string>
-    <string name="draft_tool_disaster_super_nuke00_cmd">Pojďme to vyskúšať</string>
-    <string name="draft_dsa_icbm_marker_title">ICBM flare</string>
+    <string name="draft_tool_disaster_super_nuke00_cmd">Poďme to vyskúšať</string>
+    <string name="draft_dsa_icbm_marker_title">Signál ICBM</string>
     <string name="draft_dsa_icbm_marker_text">Záblesk použitý na označenie cieľa pre „X-treme“ medzikontinentálnu balistickú raketu</string>
     <string name="draft_dsaicbmarmed_title">Pripravené silo</string>
     <string name="draft_dsaicbmarmed_text">Raketové silo DSA pripravené na vypustenie ICBM „X-treme“.</string>
-    <string name="draft_dsa_space_command00_title">Space command</string>
+    <string name="draft_dsa_space_command00_title">Vesmírne veliteľstvo</string>
     <string name="draft_dsa_space_command00_text">Budova zodpovedná za všetky lokálne kozmické operácie DSA.</string>
     <string name="draft_dsaresearch_title">Výskumné centrum</string>
     <string name="draft_dsaresearch_text">Domov pre všetky pokročilé technológie DSA schválené výkonnou radou DSA.</string>
@@ -2690,9 +2689,9 @@ Stlačte klávesu pre priradenie tejto akcie.</string>
     <string name="draft_dsa_award00_title">Skala</string>
     <string name="draft_dsa_award00_text">Odkiaľ sa tu vzal tento kameň?</string>
     <string name="draft_dsa_park00_title">Akial square</string>
-    <string name="draft_dsa_park00_text">A tribute to the first animal ever launched into Earth orbit.</string>
+    <string name="draft_dsa_park00_text">Pocta prvému zvieraťu, ktoré bolo vyslané na obežnú dráhu Zeme.</string>
     <string name="draft_dsadrill_text">Používané na zhromažďovanie cenných zdrojov, ktoré sa predávajú so ziskom, ale buďte si vedomí, že to môže spôsobiť zemetrasenia.</string>
-    <string name="draft_dsadrill01_title">Laser upgrade</string>
+    <string name="draft_dsadrill01_title">Vylepšenie lasera</string>
     <string name="draft_dsadrill01_text">Vylepšite laser, aby bol silnejší a získaval zdroje rýchlejšie. \n
 \n
 Je povolená iba jedna vylepšovacia akcia naraz. Staršie vylepšenia budú odstránené.</string>
@@ -2700,7 +2699,7 @@ Je povolená iba jedna vylepšovacia akcia naraz. Staršie vylepšenia budú ods
     <string name="draft_dsadrill02_text">Zavedte mnoho optimalizácií na zvýšenie energetickej účinnosti stanice.\n
 \n
 Súčasne je povolená iba jedna vylepšenie. Staré vylepšenia budú odstránené.</string>
-    <string name="draft_dsa_drill_upgrade_no_earthquake_title">Stability upgrade</string>
+    <string name="draft_dsa_drill_upgrade_no_earthquake_title">Vylepšenie stability</string>
     <string name="draft_dsa_drill_upgrade_no_earthquake_text">Vylepšite stanicu na zbieranie zdrojov bez rušenia životného prostredia.\n
 \n
 Je povolené iba jedno vylepšenie naraz. Staré vylepšenia budú odstránené.</string>
@@ -2730,7 +2729,7 @@ Je povolené iba jedno vylepšenie naraz. Staré vylepšenia budú odstránené.
     <string name="draft_dsarockettestdone_requirement">Predchádzajúce testy sú ukončené</string>
     <string name="draft_dsarocketfinalundone_requirement">Testy sú nedokončené</string>
     <string name="draft_dsarocketfinaldone_requirement">Testy rakiet sú dokončené</string>
-    <string name="draft_rocket_akial_requirement">Need: Animal carriage test</string>
+    <string name="draft_rocket_akial_requirement">Potreba: Test prepravy zvierat</string>
     <string name="draft_dsaHELIUM_requirement">Potreba: Helium 3 nájdené vo vesmíre</string>
     <string name="draft_dsaDYSON_requirement">Potreba: Dysonovu sféru postavenú vo vesmíre</string>
     <string name="draft_dsaLORE10_requirement">Pomôž obrovskej uhorky na mesiaci</string>
@@ -2785,7 +2784,7 @@ Materiály: ${_dsareadiness}/1000</string>
     <string name="draft_dsarocket_upg2_title">Doprava zvierat</string>
     <string name="draft_dsarocket_upg2_text">Vypustite raketu s mačkou menom Akial do vesmíru, aby ste získali životne dôležité informácie.\n
 Zásoby: ${_dsareadiness}/2500</string>
-    <string name="draft_dsarocket_upg3_title">Navigation</string>
+    <string name="draft_dsarocket_upg3_title">Navigácia</string>
     <string name="draft_dsarocket_upg3_text">Spustite raketu s človekom do vesmíru na vykonanie navigačných testov.\n
 Dodávky: ${_dsareadiness}/5000</string>
     <string name="draft_dsarocket_upg4_title">Satelity</string>
@@ -2798,7 +2797,7 @@ Zásoby: ${_dsareadiness}/10000</string>
     <string name="draft_dsarocket_upg6_text">Spustite sériu rakiet do vesmíru, aby ste zložili iniciatívu vesmírnej obrany.\n
 Dodávky: ${_dsareadiness}/15000</string>
     <string name="draft_Olsken.LobbysCake_title">Lobbyho Torta</string>
-    <string name="draft_Olsken.LobbysCake_text">A limited edition cake made specifically for Lobby from the community!\nHappy Birthday to Lobby!</string>
+    <string name="draft_Olsken.LobbysCake_text">Limitovaná edícia torty, ktorú komunita vytvorila špeciálne pre Lobbyho!\nVšetko najlepšie, Lobby!</string>
     <string name="draft_dsa_notify00_text">Dobrý deň! Som generálny riaditeľ DSA a pomôžem vám riadiť všetky miestne operácie DSA.</string>
     <string name="draft_dsa_notify01_text">Zdá sa, akoby sa zem začala triasť!</string>
     <string name="draft_dsa_notify02_text">Starosta, kvôli hrozbe zemetrasenia sťahujeme finančné prostriedky na obnovu po katastrofách.</string>
@@ -3357,7 +3356,7 @@ Zvoľte si cestu a kliknite na políčko, aby ste začali stavať. Počas toho s
     <string name="tips_cmd_visitwebsite">Otvoriť</string>
 
 
-    <string name="settings_category_notifications">Nastavenia_kategória_upozornenia</string>
+    <string name="settings_category_notifications">Upozornenia</string>
     <string name="settings_notify_low_power">Nízky výkon</string>
     <string name="settings_notify_low_water">Nízka hladina vody</string>
     <string name="settings_notify_no_power">Žiadna energia</string>
@@ -3378,7 +3377,7 @@ Zvoľte si cestu a kliknite na políčko, aby ste začali stavať. Počas toho s
     <string name="settings_notify_destroyed_tile">Oznámenie o zničenom políčku</string>
     <string name="settings_notify_need_low_education">Potrebujem základné vzdelanie</string>
     <string name="settings_notify_need_high_education">Potreba vysokej školy</string>
-    <string name="settings_notify_bad_traffic">Zlý dopravný preťaženie</string>
+    <string name="settings_notify_bad_traffic">Hustá premávka</string>
     <string name="settings_notify_waste">Oznámenie o zbere odpadu</string>
     <string name="settings_notify_body_disposal">Odstránenie tela</string>
     <string name="settings_notify_bad_attribute">Zlá hodnota</string>
@@ -3686,5 +3685,34 @@ Hodnota: %s</string>
     <string name="legend_mixed_voltage">Oboje</string>
     <string name="legend_metro">Metro</string>
     <string name="legend_ts_edit">%s (v úprave)</string>
+
+
+    <string name="dialog_url_title">Otvoriť web?</string>
+    <string name="dialog_url_text">Plugin „%s“ chce otvoriť externú webovú stránku. Môže obsahovať reklamy. Pokračujte len ak dôverujete zdroju:</string>
+    <string name="dialog_url_cmdopen">Otvoriť</string>
+    <string name="settings_adaptive_ground_blending">Adaptívne miešanie terénu</string>
+
+    <string name="empty_cause_unknown">Opustené z neznámych dôvodov.</string>
+    <string name="empty_cause_low_demand">Opustené kvôli nízkemu dopytu.</string>
+    <string name="empty_cause_low_happiness">Opustené kvôli nízkej spokojnosti s %s.</string>
+    <string name="empty_cause_crime">Opustené kvôli kriminalite (%s).</string>
+    <string name="empty_cause_illness">Opustené kvôli kontaminácii.</string>
+    <string name="stage_files_folderfiles">Obsahuje %d súbor(ov)</string>
+
+    <string name="notbuildablereason_generic">Tu nie je možné stavať</string>
+    <string name="notbuildablereason_land">Vyžaduje súš</string>
+    <string name="notbuildablereason_water">Vyžaduje vodu</string>
+    <string name="notbuildablereason_zone">Nesprávna zóna</string>
+    <string name="notbuildablereason_maxcount">Dosiahnutý limit budov</string>
+    <string name="notbuildablereason_terrain">Nevhodný terén</string>
+    <string name="notbuildablereason_nomoney">Nedostatok peňazí</string>
+    <string name="notbuildablereason_blocked">Oblasť je zablokovaná</string>
+
+    <string name="recovery_mode_title">Hopsa</string>
+    <string name="recovery_mode_text">TheoTown sa niekoľkokrát nepodarilo spustiť.\n\nChcete hru spustiť v režime zotavenia?\n\nRežim zotavenia dočasně zakáže všetky pluginy, čo vám umožní odstrániť alebo opraviť akýkoľvek plugin, ktorý môže spôsobovať problém. Pluginy budú znovu normálne načítané pri ďalšom reštarte hry.</string>
+    <string name="recovery_mode_normal">Spustiť normálne</string>
+    <string name="recovery_mode_recovery">Režim zotavenia</string>
+
+    <string name="settings_draw_neighbors">Kresliť susedné mestá</string>
 
 </resources>

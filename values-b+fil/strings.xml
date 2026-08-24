@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?><resources>
     <string name="app_name">TheoTown</string>
     <string name="settings_title">Pagsasaayos</string>
-    <string name="loadcity_title">Kinargang Lungsod</string>
+    <string name="loadcity_title">Magkarga ng Lungsod</string>
     <string name="createcity_title">Bagong Lungsod</string>
     <string name="settings_defaults">Karaniwang-Ayos</string>
-    <string name="settings_apply">Iaplay</string>
+    <string name="settings_apply">Ilapat</string>
     <string name="createcity_mapsize">Sukat:</string>
     <string name="createcity_cityname">Lungsod:</string>
     <string name="control_back">Bumalik</string>
@@ -19,7 +19,7 @@
     <string name="createcity_sizebig">Malaki</string>
     <string name="createcity_sizeother">Iba pa</string>
     <string name="game_monthlyincome">%1$,+d</string>
-    <string name="game_estate">Ari-arian: %1$s</string>
+    <string name="game_estate">Balanse: %1$s</string>
     <string name="game_rating">%1$,d</string>
     <string name="settings_resolutionlowlow">Sobrang mababa</string>
     <string name="settings_resolutionlow">Mababa</string>
@@ -28,7 +28,7 @@
     <string name="settings_resolutionbigbig">Sobrang malaki</string>
     <string name="settings_resolution">Resolusyon</string>
     <string name="dialog_nocities_title">Walang nahanap na lungsod</string>
-    <string name="dialog_nocities_text">Maaaring hindi mahanap ang alinmang lungsod.</string>
+    <string name="dialog_nocities_text">Walang mahanap na anumang lungsod.</string>
     <string name="dialog_nocities_cmdback">Kanselahin</string>
     <string name="dialog_nocities_cmdnewcity">Bagong Lungsod</string>
     <string name="settings_drawcars">Ipakita ang mga sasakyan</string>
@@ -42,7 +42,7 @@
     <string name="loadcity_errordialog_text">Maaaring hindi maikarga ang lungsod, tila may sira ang file.\n\nPaumanhin po.</string>
     <string name="loadcity_errordialog_cmdcancel">Kanselahin</string>
     <string name="dialog_screenshot_title">Nakuhang Screenshot</string>
-    <string name="dialog_screenshot_text">Ang retrato ay nailagak bilang %1$s.</string>
+    <string name="dialog_screenshot_text">Ang larawan ay nailagak bilang %1$s.</string>
     <string name="dialog_screenshot_cmdok">OK, salamat</string>
     <string name="draftselector_titleparks">Mga Parke</string>
     <string name="draftselector_titlepublics">Pampubliko</string>
@@ -57,7 +57,7 @@
     <string name="draftselector_monthlyprice">Buwanang Presyo: %s</string>
     <string name="draftselector_id">ID: %1$s</string>
     <string name="loadcity_cmddelete">Burahin</string>
-    <string name="loadcity_deletedialog_text">Sigurado ka po bang buburahin ito?</string>
+    <string name="loadcity_deletedialog_text">Sigurado ka po bang gusto ninyong burahin ito? Hindi na ito mababawi.</string>
     <string name="loadcity_deletedialog_title">Burahin ang Lungsod</string>
     <string name="loadcity_deletedialog_cmdcancel">Kanselahin</string>
     <string name="loadcity_deletedialog_cmddelete">Burahin</string>
@@ -99,8 +99,8 @@
     <string name="draft_bigpark00_title">Malaking Parke</string>
     <string name="draft_bigpark00_text">Magugustuhan ng mga naninirahan ang malaking parke.</string>
     <string name="draft_park03_text">Magugustuhan ito ng mga naninirahan.</string>
-    <string name="draft_medic00_title">Doktor</string>
-    <string name="draft_medic00_text">Dito makikita ng mga naninirahan ang doktor.</string>
+    <string name="draft_medic00_title">Maliit na Klinika</string>
+    <string name="draft_medic00_text">Tinutulungan ng klinika ang mga naninirahan sa mga karaniwang karamdaman at kagipitan.</string>
     <string name="draft_medic01_title">Ospital</string>
     <string name="draft_medic01_text">Ligtas ang pakiramdam ng mga naninirahan sa malapit na ospital.</string>
     <string name="draft_school00_title">Paaralang Elementarya</string>
@@ -111,7 +111,7 @@
     <string name="draft_museum00_text">Ang lugar kung saan natututo ang mga nakatatanda.</string>
     <string name="draft_pipe00_title">Tubo</string>
     <string name="draft_pipe00_text">Ginagamit ang mga tubo sa paghahatid ng tubig sa inyong mga gusali.</string>
-    <string name="draft_waterpump00_title">Sigluyang Tubig</string>
+    <string name="draft_waterpump00_title">Bomba ng Tubig</string>
     <string name="draft_waterpump00_text">Nagbibigay ng tubig sa inyong mga gusali.</string>
     <string name="draft_watertower00_title">Tangke ng Tubig</string>
     <string name="draft_watertower00_text">Nagbibigay ng kaunting tubig sa mga gusali.</string>
@@ -188,7 +188,7 @@
     <string name="topic_letsplay">Tara, maglaro tayo ;)</string>
     <string name="topic_tutorial">May magagamit na tutoryal :)</string>
     <string name="topic_donate">Mayroon pong donate button sa homepage</string>
-    <string name="topic_nice">Nindot imong dakbayan :)</string>
+    <string name="topic_nice">Maganda ang bayan mo :)</string>
     <string name="topic_trolls">Huwag awayin ang trolls</string>
     <string name="settings_reversedbuildtool">Pabaliktad na kilos sa build tool</string>
     <string name="draft_karlsruhecastle00_title">Palasyo ng Karlsruhe</string>
@@ -256,7 +256,7 @@
     <string name="draft_busdepot00_title">Paradahang Bus</string>
     <string name="draft_busdepot00_text">Ang paradahang bus ay kailangan para lumibot ang mga bus.</string>
     <string name="settings_debugmode">Debug mode</string>
-    <string name="unknown">Tinapay</string>
+    <string name="unknown">Wurstbrot</string>
     <string name="draftselector_titleremove">Tanggalin</string>
     <string name="draftselector_titleview">Tingnan</string>
     <string name="toolremove_default_title">Tanggalin</string>
@@ -328,7 +328,7 @@
     <string name="draft_middlepark00_clock_title">Orasan</string>
     <string name="draft_middlepark00_clock_text">Ang orasan ang magsasabi sa mga tao ng kasalukuyang oras.</string>
     <string name="notify_power_low">Kakaunti na lang po ang natitirang enerhiya. Maaari po ba kayong magpatayo ng mga bagong planta-enerhiya.</string>
-    <string name="notify_water_low">Hindi na po sasapat ang inyong tubig. Siguro, dapat na po tayong magpatayo ng mga bagong sigluyang-tubig.</string>
+    <string name="notify_water_low">Hindi na po sasapat ang inyong tubig. Siguro, dapat na po tayong magpatayo ng mga bagong bomba ng tubig.</string>
     <string name="notify_religion">Maaari po ba n\'yo kaming ipagpatayo ng ilang gusali panrelihiyon?</string>
     <string name="notify_park">Gusto po namin magkaroon ng marami pang parke.</string>
     <string name="notify_sport">Gusto po namin maglaro ng isports.</string>
@@ -598,7 +598,7 @@
     <string name="draft_plaza00_text">Liwasang Nayon para sa inyong munisipyo.</string>
     <string name="topic_birthday_theotown">Maligayang Kaarawan TheoTown :D</string>
     <string name="menu_cmddonate">Mag-donate</string>
-    <string name="draft_waterpump01_title">Maliit na Sigluyang Tubig</string>
+    <string name="draft_waterpump01_title">Maliit na Bomba ng Tubig</string>
     <string name="draft_waterpump01_text">Kailangang itayo malapit sa katubigan.</string>
     <string name="draft_filterplant00_title">Plantang Pansala</string>
     <string name="draft_filterplant00_text">Nililinis ang maruming tubig para magamit muli.</string>
@@ -612,7 +612,7 @@
     <string name="ci_water_waste">Maruming Tubig: %1$.1f%%</string>
     <string name="shader_fancy2">X-Magarbo</string>
     <string name="draft_sewerpipe00_title">Alkantarilya</string>
-    <string name="draft_sewerpipe00_text">Sewage. Pinabababa ang polusyon ng tubig sa pamamagitan ng paglalabas ng maruruming tubig sa kalikasan. May masamang impluwensiya.</string>
+    <string name="draft_sewerpipe00_text">Naglalabas ng maruming tubig sa kapaligiran at nagpaparumi sa kalapit na lugar. Mabilis ngunit maruming solusyon sa problema sa paggamot ng tubig.</string>
     <string name="settings_lowresmapscreenshot">Mababang resolusyon para sa screenshot ng mapa</string>
     <string name="draft_marina00_title">Marina</string>
     <string name="draft_marina00_text">Katuwaan ng mga mayayamang tao.</string>
@@ -632,9 +632,9 @@
     <string name="draft_buoy00_title">Boya</string>
     <string name="draft_buoy00_text">Tinutulungan ang mga barko na makahanap ng daan.</string>
     <string name="ci_general_seed">Binhi: %1$s</string>
-    <string name="draft_decores00_text">.</string>
-    <string name="draft_decocom00_text">.</string>
-    <string name="draft_decoind00_text">.</string>
+    <string name="draft_decores00_text">Ilang dekorasyon para sa iyong mga residensyal na lugar.</string>
+    <string name="draft_decocom00_text">Ilang dekorasyon para sa iyong mga komersyal na lugar.</string>
+    <string name="draft_decoind00_text">Ilang dekorasyon para sa iyong mga industriyal na lugar.</string>
     <string name="ci_budget_title_nomoney">Pananalapi (teoretikal)</string>
     <string name="dialog_notification_cmdok">Ok</string>
     <string name="draft_nuclearplant00_title">Planta Nuklear</string>
@@ -678,7 +678,7 @@
     <string name="notify_nocomzone">Magdeklara po tayo ng pook komersiyo para makapagpatayo po ng mga gusaling pangkomersiyo sa ating lungsod.</string>
     <string name="notify_noindzone">Ang mga industriya po ay maaaring itayo sa ating lungsod, pero kailangan po munang magdeklara ng pook para sa kanila.</string>
     <string name="createcity_sizebigbigbig">Higante</string>
-    <string name="locale">fi</string>
+    <string name="locale">fil</string>
     <string name="draft_police02_title">S.W.A.T. HQ</string>
     <string name="draft_police02_text">Ang himpilan ng pulisyang ito ay magdadala ng katahimikan at kaayusan sa iyong lungsod.</string>
     <string name="settings_blur">Malabo</string>
@@ -724,7 +724,7 @@
     <string name="dialog_copycity_text">Magbigay ng pangalan para sa kopya.</string>
     <string name="dialog_copycity_cmdok">Kopyahin</string>
     <string name="dialog_copycity_cmdcancel">Kanselahin</string>
-    <string name="waiting_screenshot">Κinukuhanan ng Retrato</string>
+    <string name="waiting_screenshot">Kinukuhanan ng Larawan</string>
     <string name="waiting_copycity">Kinokopya ang Lungsod</string>
     <string name="app_name_premium">TheoTown Premium</string>
     <string name="busstopinfo_title">Hintuang Bus</string>
@@ -747,7 +747,7 @@
     <string name="settings_winter">Taglamig</string>
     <string name="notify_riot_reason">May kaguluhan po dahil sa %1$s!</string>
     <string name="notify_riot_noreason">May kaguluhan po nang walang dahilan!</string>
-    <string name="notify_demonstration">May demostrasyon po sa ating bayan dahil sa %1s! Kumilos na po tayo o may mangyayaring hindi maganda!</string>
+    <string name="notify_demonstration">May demostrasyon po sa ating bayan dahil sa %1$s! Kumilos na po tayo o may mangyayaring hindi maganda!</string>
     <string name="draft_marker_powermarker_title">Enerhiya</string>
     <string name="draft_marker_watermarker_title">Tubig</string>
     <string name="draft_road04_title">Abenida</string>
@@ -774,13 +774,13 @@
     <string name="draft_rnk_megalopolis_title">Megalopolis</string>
     <string name="rank_needed_people">\'Di bababa sa %1$,d naninirahan</string>
     <string name="draft_decoroad00_title">Puno sa Daan</string>
-    <string name="draft_decoroad00_text">.</string>
+    <string name="draft_decoroad00_text">Kaunting kalikasan at lilim para sa abalang sentro ng lungsod.</string>
     <string name="settings_experimental">Mga Ineeksperimentong Tampok</string>
     <string name="about_thanks">Natatanging pasasalamat kina</string>
     <string name="about_community">At ang lahat ng nasa ating komunidad</string>
-    <string name="dialog_tosandbox_title">Developer Mode</string>
+    <string name="dialog_tosandbox_title">Sandbox</string>
     <string name="dialog_tosandbox_text">Ililipat po ang lungsod sa sandbox mode?\n\nHindi na po ito mababawi!</string>
-    <string name="dialog_tosandbox_cmdconvert">Developer Mode</string>
+    <string name="dialog_tosandbox_cmdconvert">Sandbox</string>
     <string name="requirement_rank">\'Di bababa sa %1$s (%2$,d)</string>
     <string name="ca_wastedisposal_text">Nakokolektang Basura: %1$,d/%2$,d</string>
     <string name="ca_bodydisposal_text">Naihahatid sa hantungan: %1$,d/%2$,d</string>
@@ -916,7 +916,7 @@
     <string name="task_reachrank_text">Pagbati, ang inyo pong lungsod ay nakarating sa bagong ranggo.\n\nAng bawat ranggo po ay may nabubuksang gusali at makatatanggap po kayo ng gantimpala.</string>
     <string name="menu_achievements">Mga Tagumpay</string>
     <string name="menu_leaderboards">Leaderboards</string>
-    <string name="menu_screenshot">Kuhanan ng retrato</string>
+    <string name="menu_screenshot">Kuhanan ng larawan</string>
     <string name="menu_mapscreenshot">Kuhanan ang mapa</string>
     <string name="menu_save">Ilagak (Save)</string>
     <string name="menu_title">Menu</string>
@@ -931,7 +931,7 @@
     <string name="shop_diamonds">%1$s diyamante para sa %2$s</string>
     <string name="draft_townhall02_title">Pamahalaang-Lungsod</string>
     <string name="draft_townhall02_text">Malaking pamahalaang-lungsod para sa malaking lungsod. Ito ay pasasalamat sa 1M pagdawnlowd.</string>
-    <string name="notify_pollutedwaterpump">Ang sigluyang-tubig po na ito ay nakatayo sa mapolusyong lugar. Kailangan po natin \'tong mailipat para mapanatiling malinis ang tubig.</string>
+    <string name="notify_pollutedwaterpump">Ang bomba ng tubig na ito ay nakatayo sa mapolusyong lugar. Kailangan po natin \'tong mailipat para mapanatiling malinis ang tubig.</string>
     <string name="notify_destroyedtiles">Kailangan po nating linisin ang dumi rito bago pa po mapansin ng iba.</string>
     <string name="notify_loweducationneeded">Sa paniniwala ko po, panahon na para bigyan ng edukasyon ang mga bata dito. Magpagawa po ng paaralang elementarya.</string>
     <string name="notify_higheducationneeded">Lumikha po tayo ng mga henyo sa pagtatayo ng mataas na paaralan.</string>
@@ -948,7 +948,7 @@
     <string name="dialog_rate_cmdok">Nagustuhan ko</string>
     <string name="dialog_rate_cmdcancel">Hindi po.</string>
     <string name="dialog_feedback_title">Mag-feedback sa amin</string>
-    <string name="dialog_feedback_text">Bilang panghalip, kung may mga ideya po kayo, huwag mag-atubiling ipaalam sa amin ang mga ito.</string>
+    <string name="dialog_feedback_text">Bilang alternatibo, kung may mga ideya po kayo, huwag mag-atubiling ipaalam sa amin ang mga ito.</string>
     <string name="dialog_feedback_cmdok">Sumulat ng feedback</string>
     <string name="dialog_feedback_cmdcancel">Hindi po.</string>
     <string name="dialog_buildnow_title">Tapusin agad</string>
@@ -1000,7 +1000,6 @@
     <string name="dialog_presentdaily_text">Makakakuha ka pa nang marami búkas.</string>
     <string name="dialog_presentdaily_day">Araw %1$,d</string>
     <string name="rank_needed_xp">\'Di bababa sa %1$,d puntos ng lungsod ang kinakailangan</string>
-    <string name="currency_symbol" translatable="false">₮</string>
     <string name="settings_shortmoney">Paikliin ang pera</string>
     <string name="dialog_newsign_title">Bagong Marka</string>
     <string name="dialog_newsign_text">Magbigay ng pangalan sa lugar na ito.</string>
@@ -1438,14 +1437,14 @@ Kung bibigyan mo ang TheoTown ng akses sa external storage, maglalagak (save) it
     <string name="dialog_wb_cmdtake">Akin na</string>
     <string name="dialog_wb_cmdforfeit">Huwag na</string>
     <string name="dialog_diamondtool_title">Tapusin ang konstruksiyon</string>
-    <string name="dialog_diamondtool_text">Ipapagawa po ba natin \'yan</string>
+    <string name="dialog_diamondtool_text">Ipapagawa po ba natin iyan?</string>
     <string name="draft_feature_valentinesday00_title">Maligayang Araw ng Mga Puso</string>
     <string name="draft_feature_valentinesday00_text">Permanenteng bubuksan ang mga gusali</string>
     <string name="tool_removetunnel_title">Pantanggal Lagusan</string>
     <string name="tool_removetunnel_text">Magtanggal tayo ng kaunting lagusan.</string>
 
     <string name="dialog_halftunnelprice_title">Half tunnel price</string>
-    <string name="dialog_halftunnelprice_text">Gusto mo bang makatipid ng ilang diyamante? Ang boost na ito bumabawas sa presyo nang 50% sa %s.</string>
+    <string name="dialog_halftunnelprice_text">Gusto mo bang makatipid ng ilang diyamante? Binabawasan ng boost na ito ang presyo ng lagusan nang 50%% sa loob ng %s.</string>
     <string name="game_remaining_halftunnelprice">Half tunnel price sa %s</string>
     <string name="shop_diamonds_sole">%s diyamante</string>
     <string name="dialog_diamondshop_bestvalue">Best value</string>
@@ -1597,7 +1596,7 @@ Kung bibigyan mo ang TheoTown ng akses sa external storage, maglalagak (save) it
     <string name="gallery">Galeriya</string>
     <string name="gallery_upload">Upload screenshot</string>
     <string name="dialog_galleryupload_title">Ina-upload</string>
-    <string name="dialog_galleryupload_text">Ina-upload ko po ang inyong retrato :)</string>
+    <string name="dialog_galleryupload_text">Ina-upload ko po ang inyong larawan :)</string>
     <string name="gallery_recent">Kamakailan</string>
     <string name="gallery_trends">Trends</string>
     <string name="gallery_own">Akin</string>
@@ -1636,7 +1635,7 @@ Kung bibigyan mo ang TheoTown ng akses sa external storage, maglalagak (save) it
 
     <string name="dialog_removediamondbuildings_title">Tanggalin ang diyamanteng gusali</string>
     <string name="dialog_removediamondbuildings_text">Napili mo ang may presyong %d diyamanteng gusali sa pagtanggal. Sigurado ka bang tatanggalin ito? May panlipat-gusali po kung gusto lang ninyong ilipat ito.</string>
-    <string name="settings_renderpollution">Magdulot ng polusyon</string>
+    <string name="settings_renderpollution">I-render ang polusyon</string>
 
     <string name="settings_cloudshadow">Anino ng mga ulap</string>
 
@@ -1818,7 +1817,7 @@ Kung bibigyan mo ang TheoTown ng akses sa external storage, maglalagak (save) it
     <string name="draft_discord_statue00_title">Bantayog ng Discord</string>
     <string name="draft_discord_statue00_text">Bantayog ng Discord.</string>
     <string name="notify_discord_statue00_title">Salamat!</string>
-    <string name="notify_discord_statue00_text">Salamat sa 4,000 miyembro sa ating Discord server. Gusto mo ba itong bisitahin ngayon?</string>
+    <string name="notify_discord_statue00_text">Salamat sa %d miyembro sa ating Discord server. Gusto mo ba itong bisitahin ngayon?</string>
     <string name="draftselector_titlebodydisposal">Paglilibing</string>
     <string name="draft_roaddeco_protester00_title">Pekeng protesta</string>
     <string name="draft_roaddeco_protester00_text">Bayaran ang ilang tao para mampeke ng protesta.</string>
@@ -1829,7 +1828,7 @@ Kung bibigyan mo ang TheoTown ng akses sa external storage, maglalagak (save) it
     <string name="draft_roaddeco_roundabout00_text">Isang munting rotonda. Ipuwesto ito sa inyong sangandaan.</string>
     <string name="disaster_blizzard_title">Blizzard</string>
     <string name="disaster_blizzard_text">Humanda ka, paparating na ang taglamig.</string>
-    <string name="disaster_blizzard_cmdtext">Freeze!</string>
+    <string name="disaster_blizzard_cmdtext">Palamigin!</string>
     <string name="draft_snowtile00_title">Permanenteng niyebe</string>
     <string name="draft_snowtile00_text">Paano ang pag-init ng mundo?</string>
     <string name="gamemode_free_title">Malaya</string>
@@ -1839,7 +1838,7 @@ Kung bibigyan mo ang TheoTown ng akses sa external storage, maglalagak (save) it
 Pros: Walang pera, walang kahingian, may opsiyon na makokontrol ang demand\n
 Cons: Kaunti ang hamon</string>
     <string name="draft_medic03_title">Modernong Ospital</string>
-    <string name="draft_medic03_text">Isang moderng ospital na mangangalaga sa maraming pasyente sa maliit na esapsyo.</string>
+    <string name="draft_medic03_text">Isang modernong ospital na mangangalaga sa maraming pasyente sa maliit na espasyo.</string>
     <string name="draft_gol_dead_title">Laro ng Búhay</string>
     <string name="draft_gol_dead_text">Lumikha ng bukiring laro ng búhay. Tapikin ang mga nakalatag na kahon para mabago ang estado nito. Ang karaniwang estado ay nakapatay.</string>
 
@@ -1852,7 +1851,7 @@ Cons: Kaunti ang hamon</string>
     <string name="draft_feature_landmarks05_text">Magkaroon ng mga gusaling tanyag mula sa San Francisco, CA.</string>
     <string name="dialog_cemeteryclear_title">Linisin ngayon</string>
     <string name="dialog_cemeteryclear_text">Sa tingin ko, magagamit natin muli ang ilang espasyo dito.</string>
-    <string name="cemetery_cmdclear">Lininsin na</string>
+    <string name="cemetery_cmdclear">Linisin na</string>
     <string name="cemetery_clear">KUSKUSIN para magkaroon ng kaunting espasyo.</string>
     <string name="draft_cemetery00_text">Ang lugar na pinaghihimlayan ng mga sumakabilang buhay.</string>
     <string name="draft_crematory00_text">Dito sinusunog ang mga namayapa.</string>
@@ -1869,7 +1868,7 @@ Cons: Kaunti ang hamon</string>
     <string name="settings_dedicatedplugintexture">Higit pang espasyo para sa plugin texture (kinakailangang i-restart; maaaring bumagal at hindi matatag)</string>
     <string name="draft_haunted_house00_title">Haunted house</string>
     <string name="draft_haunted_house00_text">Isang lumang mansiyon na tila mapanganib. Malamang na may nakatira DITO.</string>
-    <string name="notify_illness">May biglang pagkalat po ng epidemya, kailangan po nating kumilos agad. Magpadala po ng doktor!</string>
+    <string name="notify_illness">May biglang pagkalat po ng epidemya; kailangan nating kumilos agad. Magpadala ng ambulansiya!</string>
     <string name="notify_illnessnomedic">May biglang pagkalat po ng epidemya at wala po tayong doktor. Kumuha na po NGAYON!</string>
 
     <string name="shader_lol">LOL</string>
@@ -1925,7 +1924,7 @@ Cons: Kaunti ang hamon</string>
     <string name="gamemenu_catcity">Lungsod</string>
     <string name="gamemenu_catcontent">Nilalaman</string>
     <string name="gamemenu_catsocial">Sosyal</string>
-    <string name="gamemenu_catpictures">Retrato</string>
+    <string name="gamemenu_catpictures">Larawan</string>
     <string name="gamemenu_catother">Iba pa</string>
     <string name="store_catcount">%,d plugins</string>
     <string name="store_featured">Tampok</string>
@@ -2611,7 +2610,7 @@ Pindutin ang susi upang maitalaga sa ganoong aksiyon.</string>
     <string name="ci_info_help">Dito mo makikita ang ilang pangkalahatang impormasyon tungkol sa iyong lungsod.</string>
     <string name="ci_education_help">Mahalaga ang edukasyon sa mga naninirahan upang mapabuti ang kanilang mga kondisyon sa pamumuhay at upang maakit ang mga edukadong manggagawa at mamumuhunan.</string>
     <string name="ci_airport_help">Ito mismo ang iyong tore pangkontrol ng trapikong panghimpapawid upang makontrol ang iyong mga paliparan. Makakapili ka ng mga linya mula sa mapa, bumili ng mga eroplano, at magtakda ng eroplano sa mga linya.</string>
-    <string name="ci_water_help">Mahalaga ang tubig sa buhay, ganoon din sa iyong mga naninirahan. Tiyaking nagbibigay ka ng sapat na dami ng tubig at ang lahat ay nakakonekta sa mga tubo. Huwag ipuwesto ang mga sigluyang-tubig sa mapolusyong lugar kung hindi ay magkakasakit ang iyong mga naninirahan.</string>
+    <string name="ci_water_help">Mahalaga ang tubig sa buhay, ganoon din sa iyong mga naninirahan. Tiyaking nagbibigay ka ng sapat na dami ng tubig at ang lahat ay nakakonekta sa mga tubo. Huwag ipuwesto ang mga bomba ng tubig sa mapolusyong lugar kung hindi ay magkakasakit ang iyong mga naninirahan.</string>
     <string name="ci_statistics_help">Makakatulong sa iyo ang mga talangguhit na ito para subaybayan ang pag-unlad ng lungsod. Gamitin ang mga panuro sa bandang kanan upang lumipat sa pagitan ng iba\'t ibang talangguhit. Ang mga pindutan +/- ay magagamit din para sa pag-zoom palaki at paliit.</string>
 
 
@@ -2901,7 +2900,7 @@ Pindutin ang susi upang maitalaga sa ganoong aksiyon.</string>
     <string name="draft_moon_artifact_upgrade00_text">Siyasatin ang artifak at ipadala ang nakolektang datos pabalik sa Punong-himpilan kapalit ang gantimpalang salapi.</string>
     <string name="draft_space_tree00_title">Punong Cyber</string>
     <string name="draft_space_tree00_text">Kaunting pekeng punò upang mapanatiling masaya ang mga kolonista.</string>
-    <string name="moon_region_unsupported">Sa kasamaang-palad, hindi pa nasusuportahan ang mga rehiyong buwan. Isasara na ang lungsod</string>
+    <string name="moon_region_unsupported">Sa kasamaang-palad, hindi pa sinusuportahan ang mga rehiyon sa buwan. Isasara na ang lungsod!</string>
     <string name="draft_dsa_moon_pickle_rocket00_title">Rocket ng Pipino</string>
     <string name="draft_dsa_moon_pickle_rocket00_text">Dambuhalang rocket na espesipikong dinisenyo para magkasya ang napakaraming pipino sa loob nito.</string>
     <string name="draft_space_storyline_cancel00">Patawad, hindi ko masabi sa \'yo ang anumang nakakainteres!</string>
@@ -2946,7 +2945,7 @@ Pindutin ang susi upang maitalaga sa ganoong aksiyon.</string>
     <string name="draft_space_storyline_stage_8_02">Magmamadali na kami patungo sa rocket.</string>
     <string name="draft_space_storyline_stage_8_cutscene">Sumampa ang mga pipino sa sasakyan</string>
     <string name="draft_space_storyline_ending_00">Hula ko, ito na. Maraming salamat po sa pagtulong sa amin.</string>
-    <string name="draft_space_storyline_ending_01">Bilang kapalit, nais naming bigyan ka ng imbakang katamtaman.</string>
+    <string name="draft_space_storyline_ending_01">Bilang kapalit, nais naming ibigay sa iyo ang midyang imbakan na ito.</string>
     <string name="draft_space_storyline_ending_02">Naglalaman ito ng lahat ng aming naitalang kaalaman.</string>
     <string name="draft_space_storyline_ending_03">Kapag handa ka na, umpisahan ang paglunsad.</string>
     <string name="draft_space_storyline_ending_04">Paalam, kaibigan!</string>
@@ -3020,7 +3019,7 @@ Pindutin ang susi upang maitalaga sa ganoong aksiyon.</string>
     <string name="draft_foliage_bushes00_text">Pinaghalong espesye ng maliliit na palumpong. Maganda para sa mga parke at katulad na kagubatan.</string>
     <string name="draft_ancient_temple00_title">Sinaunang Templo</string>
     <string name="draft_ancient_temple00_text">Ang landas pasulong ay hindi kusang ihahayag sa mahihina. Makipagsapalaran nang may lakas.</string>
-    <string name="tut_plugins00">Makikita mo, marami kaming nilalaman. Maglaan ng oras upang tuklasin ang lahat. Pagkatapos nito, Pagkatapos nito, maging handa na bisitahin ang aming tindahan ng plugin upang mabuksan ang libo-libong karagdagang nilalaman.</string>
+    <string name="tut_plugins00">Makikita mo, marami kaming nilalaman. Maglaan ng oras upang tuklasin ang lahat. Pagkatapos nito, maging handa na bisitahin ang aming tindahan ng plugin upang mabuksan ang libo-libong karagdagang nilalaman.</string>
     <string name="region_unlock_immediately">Buksan Agad</string>
     <string name="dialog_unlockcity_im_title">Buksan Agad ang Lungsod</string>
     <string name="dialog_unlockcity_im_text">Handa ka na bang sumisid sa mas masaya? Buksan ngayon ang nakamamanghang pook na ito at magsimula ng sarili mong paglalakbay sa lungsod nang walang hinihintay na kahingiang pampopulasyon.\n\nWalang hinihintay – halina\'t bumuo tayo ng kamangha-manghang lungsod!</string>
@@ -3048,343 +3047,290 @@ Pindutin ang susi upang maitalaga sa ganoong aksiyon.</string>
     <string name="draft_fence_guardrail00_text">Panatilihing ligtas ang iyong sarili sa mga metalikong rehas pantrapikong ito.</string>
 
 
-    <string name="draft_dsarocket_launchbutton">Launch</string>
-    <string name="draft_dsarocket_requirement_alreadyCompleted">Already launched</string>
-    <string name="draft_dsarocket_requirement_launchOngoing">Launch is ongoing</string>
-    <string name="draft_dsarocket_requirement_supplies">Supplies: %s/%s</string>
-    <string name="draft_dsarocket_requirement_price">Price: %s</string>
-    <string name="draft_dsarocket_test_text">Launch an empty experimental rocket to space to gather information and prepare for other launches and operations.</string>
-    <string name="draft_dsarocket_animal_text">Launch a rocket with cat inside named Akial to space to gather vital information.</string>
-    <string name="draft_dsarocket_navigation_text">Launch a rocket with a man to space to conduct navigational tests.</string>
-    <string name="draft_dsarocket_exploration_text">Launch a rocket to the exploration mission to find a suitable place for colonisation.</string>
-    <string name="draft_dsarocket_sdi_text">Launch series of rockets to space to assemble the space defense initiative.</string>
-    <string name="draft_dsarocket_deprecated_text">The launchpad has been updated, you will need to destroy this one and build the new one.</string>
+    <string name="draft_dsarocket_launchbutton">Ilunsad</string>
+    <string name="draft_dsarocket_requirement_alreadyCompleted">Nailunsad na</string>
+    <string name="draft_dsarocket_requirement_launchOngoing">Kasalukuyang inilulunsad</string>
+    <string name="draft_dsarocket_requirement_supplies">Suplay: %s/%s</string>
+    <string name="draft_dsarocket_requirement_price">Presyo: %s</string>
+    <string name="draft_dsarocket_test_text">Maglunsad ng bakanteng eksperimental na rocket papuntang kalawakan upang mangalap ng impormasyon at maghanda para sa iba pang paglulunsad at operasyon.</string>
+    <string name="draft_dsarocket_animal_text">Maglunsad ng rocket na may pusang nasa loob na nagngangalang Akial papuntang kalawakan upang mangalap ng mahalagang impormasyon.</string>
+    <string name="draft_dsarocket_navigation_text">Maglunsad ng rocket na may tao papuntang kalawakan upang magsagawa ng mga pagsusuri sa nabigasyon.</string>
+    <string name="draft_dsarocket_exploration_text">Maglunsad ng rocket para sa misyon ng eksplorasyon upang maghanap ng angkop na lugar para sa kolonisasyon.</string>
+    <string name="draft_dsarocket_sdi_text">Maglunsad ng serye ng mga rocket papuntang kalawakan upang buuin ang inisyatiba sa depensa sa kalawakan.</string>
+    <string name="draft_dsarocket_deprecated_text">Na-update na ang launchpad, kailangan mong sirain ito at magtayo ng bago.</string>
     <string name="stage_createcity_terrain">Lupain...</string>
     <string name="dialog_terrain_title">Lupain</string>
-    <string name="dialog_missingmanifest_title">Missing Plugin Manifest Files</string>
-    <string name="dialog_missingmanifest_text">The following plugins do not define a plugin manifest file (plugin.manifest). This can cause issues with other plugins and online mode. Future compatibility cannot be guaranteed:</string>
-    <string name="dialog_missingmanifest_cmdhelp">Ano to?</string>
-    <string name="createcity_rivers">Ilogs</string>
-    <string name="createcity_roughness">Magaspang</string>
-    <string name="createcity_roughness_flat">Pantag</string>
+    <string name="dialog_missingmanifest_title">Nawawalang mga Plugin Manifest File</string>
+    <string name="dialog_missingmanifest_text">Hindi tumutukoy ng plugin manifest file (plugin.manifest) ang mga sumusunod na plugin. Maaari itong magdulot ng problema sa ibang plugin at online mode. Hindi matitiyak ang pagiging tugma sa hinaharap:</string>
+    <string name="dialog_missingmanifest_cmdhelp">Ano ito?</string>
+    <string name="createcity_rivers">Ilog</string>
+    <string name="createcity_roughness">Kagaspangan</string>
+    <string name="createcity_roughness_flat">Patag</string>
     <string name="createcity_roughness_less">Kaunti</string>
-    <string name="createcity_roughness_default">Pantay</string>
+    <string name="createcity_roughness_default">Karaniwan</string>
     <string name="createcity_roughness_more">Marami</string>
     <string name="createcity_roughness_extreme">Matindi</string>
-    <string name="buildingicon_illness">People in this building are ill. You should send a medic.</string>
-    <string name="buildingicon_noroad">This building is not connected to a suitable road.</string>
-    <string name="buildingicon_noenergy">This building does not receive enough energy.</string>
-    <string name="buildingicon_nowater">This building does not receive enough water.</string>
-    <string name="buildingicon_overloaded">This building is overloaded. Provide more capacities.</string>
-    <string name="buildingicon_unhappy">People in this building are unhappy.</string>
-    <string name="buildingicon_waste">There is non collected garbage in this building.</string>
-    <string name="buildingicon_wasteoverloaded">This landfill is full.</string>
-    <string name="buildingicon_deadbodies">There are uncollected corpses in this building.</string>
-    <string name="buildingicon_deadbodiesoverloaded">This cemetery is full.</string>
-    <string name="buildingicon_crimegraffiti">Someone put illegal graffiti on here.</string>
-    <string name="buildingicon_crimeburglary">Someone broke in here.</string>
-    <string name="buildingicon_crimemurder">Someone was murdered here.</string>
-    <string name="buildingicon_crimeriot">People here are rioting.</string>
-    <string name="dialog_scriptpolicy_title">Plugin Script Policies</string>
-    <string name="dialog_scriptpolicy_help_title">Plugin Scripts can be risky</string>
-    <string name="dialog_scriptpolicy_help_text">YOU have the power to approve script execution for external plugins. Only whitelist scripts from sources you trust (e.g. yourself, if you are working on a plugin).\n
-\n
-If in doubt, DO NOT enable script execution without inspecting the code yourself.\n
-\n
-Plugins that require script execution to work may not function as expected if disabled. You have to restart the game for changes to have an effect.</string>
-    <string name="settings_openscriptpolicy">Plugin Script Policies</string>
-    <string name="stage_files_itemcount">%d item(s)</string>
-    <string name="tips_title">Tips</string>
-    <string name="tips_cmd_random">Another one</string>
-    <string name="tip_topic_culture_title">
-Culture is provided by some landmarks, awards and plugins!
-    </string>
-    <string name="tip_topic_culture_text">
-Most smaller landmarks up to the Eiffel tower produce a culture influence as well as awards with cultural significance in the real world. More plugins which provide culture can be downloaded through the plugin store and forum.
-    </string>
-    <string name="tip_topic_fire_too_frequent_title">
-If buildings catch fire too often, place a fire station close by!
-    </string>
-    <string name="tip_topic_fire_too_frequent_text">
-If buildings catch fire too often, it is a good indicator that your fire station influence range does not cover it. Residential, Commercial and Industrial buildings require a fire station so take care to cover the whole map with fire station influences. This will help avoid fire incidences in the future.
-    </string>
-    <string name="tip_topic_pollution_distance_title">
-Keep residentials far away from pollution
-    </string>
-    <string name="tip_topic_pollution_distance_text">
-Residents do not like pollution. If they are complaining about too much pollution, investigate the source of it. The building producing the influence can be spotted by pressing on the eye tool and then the pollution or by looking for buildings with red circles around them. Move the pollution causing building or demolish it in favor of a more environmentally friendly option.
-    </string>
-    <string name="tip_topic_pollution_trees_title">
-You can reduce pollution by surrounding it with trees
-    </string>
-    <string name="tip_topic_pollution_trees_text">
-Residential buildings do not like pollution. To save the hassle of moving buildings, especially in well-planned cities, you can use trees. Trees deter pollution. Placing more trees will reduce the pollution more. It is often also the more cost effective method as trees are pretty cheap. The number of trees to be placed depends on the amount of pollution and the influence strength from the trees.
-    </string>
-    <string name="tip_topic_traffic_networking_title">
-Use one way roads and intersections to reduce traffic
-    </string>
-    <string name="tip_topic_traffic_networking_text">
-Often, places like highways and industrial areas can get congested with traffic. A proper road network is needed to fix it.  One way roads and intersections can help with this. There are prebuilt intersections in both the game and as plugins. You can also make your own by using real life interchanges as an example. This would allow for a better flow of traffic, reducing it in your city.
-    </string>
-    <string name="tip_topic_traffic_volume_title">
-You can adjust traffic volume in settings to reduce traffic
-    </string>
-    <string name="tip_topic_traffic_volume_text">
-To adjust traffic volume in settings, turn on debug mode first, it should be also there. Once debug is turned on, the option of lowering or increasing the traffic is offered to you. Which percentage you choose depends on how much traffic you have and how much of a challenge is wanted.
-    </string>
-    <string name="tip_topic_more_cash_title">
-To get more cash, take a loan
-    </string>
-    <string name="tip_topic_more_cash_text">
-Press the income icon and then switch to the tab with the green cash icon. Then press "raise". The amount of money offered on the loan depends on the estate and up to 5 loans can be taken out at a time.
-    </string>
-    <string name="tip_topic_loan_repayment_title">
-Loans get repaid automatically each month
-    </string>
-    <string name="tip_topic_loan_repayment_text">
-Loan payments are automatically deducted from your month automatically by the game each month. They do not have to be paid manually, although you could reduce the monthly expenses by doing so. The payback period can be viewed by going into the loans tab.
-    </string>
-    <string name="tip_topic_discord_title">
-There\'s an official discord server!
-    </string>
-    <string name="tip_topic_discord_text">
-The official discord server is a place where players and creators hang out, show off their creations and make friends. The link can be found in-game within the settings.
-    </string>
-    <string name="tip_topic_making_plugins_title">
-You can make your own plugins. It\'s easy™
-    </string>
-    <string name="tip_topic_making_plugins_text">
-It might seem a bit intimidating at first but making plugins is easy. To make textures, you can use something like paint.net on PC and Pixly on mobile. To do the json or "code", you can write your own with the help of the forums or use https://pca.svetikas.lt/. If you have any questions, we can answer them on discord or the forums!
-    </string>
-    <string name="tip_topic_online_collaboration_title">
-Collaborate on a region using online mode
-    </string>
-    <string name="tip_topic_online_collaboration_text">
-By pressing the online button in region view, you can collaborate with friends or other members to create a beautiful region. The game does not allow more than one player to work on the same map but you can visit other cities and get inspired.
-    </string>
-    <string name="tip_topic_online_upload_title">
-Uploading a map to online mode takes diamonds or region coins
-    </string>
-    <string name="tip_topic_online_upload_text">
-Diamonds (mobile) and region coins (PC) are awarded for logging in daily. The cost of uploading a region varies depending on the size. While uploading a map, the creator can choose to set a password and some rules. Once created, password cannot be added or removed.
-    </string>
-    <string name="tip_topic_diamonds_title">
-You can get diamonds by logging in daily
-    </string>
-    <string name="tip_topic_diamonds_text">
-Logging in everyday (mobile) is rewarded by diamonds. By logging in every day over the week, you get more rewards. Once you get the final reward, it resets and it starts again. You can additionally watch videos for diamonds every 30 minutes - but remember to turn off any ad block so that they will show!
-    </string>
-    <string name="tip_topic_supplies_title">
-Rocket supplies are provided by certain industrial buildings
-    </string>
-    <string name="tip_topic_supplies_text">
-The buildings that supply oil are spread across the different levels of industries. These include oil extraction buildings, storage buildings and processing buildings. These will provide your rocket with supplies. Having more buildings close to the rocket will help to supply it faster.
-    </string>
-    <string name="tip_topic_train_bus_usage_title">
-There may be no visible train nor bus usage, but they still have an effect
-    </string>
-    <string name="tip_topic_train_bus_usage_text">
-Buses and Trains may show that there are no passengers for now. However, they already have an effect and the usage data may be updated in the future. Buses and trains do provide transport happiness. So be sure to cover the RCI areas with them.
-    </string>
-    <string name="tip_topic_vandalism_title">
-The spray paint icon indicates vandalism, build a police station
-    </string>
-    <string name="tip_topic_vandalism_text">
-The spray paint icon appears when the buildings are not provided with police influence. Residential, commercial and industrial buildings require police influence so make sure to provide these buildings with it to avoid future crimes.
-    </string>
-    <string name="tip_topic_cemetary_cremetorium_title">
-Build cemeteries and crematoriums to treat dead people
-    </string>
-    <string name="tip_topic_cemetary_cremetorium_text">
-If a dead person icon pops up above one or more buildings, it indicates that you need to build cemeteries or crematoriums. Cemeteries are good when starting out, but as the city grows, they will have to be cleared out more and more often. So a crematorium may be a better long term solution.
-    </string>
-    <string name="tip_topic_neighbourhood_commercial_title">
-To make some extra income, set up neighborhood commercial
-    </string>
-    <string name="tip_topic_neighbourhood_commercial_text">
-This can only be done in regions where you have nearby cities unlocked. There is a neighborhood commercial tab. By adjusting the values, you can import or export from nearby cities. This does not work in online mode nor if one or more of the cities you are trying to set up is in sandbox or uber mode.
-    </string>
-    <string name="tip_topic_airport_title">
-The airport is a good long term investment
-    </string>
-    <string name="tip_topic_airport_text">
-To make an airport functional, build all the airport buildings, add lanes, and assign airplanes to the lanes. The airport often becomes profitable when being used. This means once the initial cost is covered, a good deal of profit can be made.
-    </string>
-    <string name="tip_topic_youtube_title">
-YouTube has some useful tutorials
-    </string>
-    <string name="tip_topic_youtube_text">
-There are a couple of experienced TheoTown players and creators who publish videos on YouTube. These range from inspirational gameplay time-lapse videos to videos that can aid you in enhancing your gameplay experience.
-    </string>
-    <string name="tip_topic_price_increase_title">
-Prices increase in game just like in real life
-    </string>
-    <string name="tip_topic_price_increase_text">
-Placing more buildings and roads increases their price. The more it is used, the higher the price will become. This stays true for roads, decorations, zones and all types of buildings.
-    </string>
-    <string name="tip_topic_creative_gameplay_title">
-For more creative freedom, play on sandbox/uber mode
-    </string>
-    <string name="tip_topic_creative_gameplay_text">
-A lot of experienced players prefer to play on sandbox or uber mode to express more of their creative freedom. This allows them to build without the limitation of funds and in the case of uber mode, without having to worry about happiness or needs. Often buildings are placed manually to create amazing works. Do not fret if this does not sound like you, everyone builds differently!
-    </string>
-    <string name="tip_topic_toggle_disasters_title">
-You can turn off auto disasters in the game settings
-    </string>
-    <string name="tip_topic_toggle_disasters_text">
-Disasters can be turned off in the settings and you can choose what disasters, if any, you want to play with. If the mining stations from the DSA or military missile silos are being used, the city may still be at risk of earthquakes or other disasters.
-    </string>
-    <string name="tip_topic_taxes_percentage_title">
-Most your income is from taxes, but don\'t set it above 9%
-    </string>
-    <string name="tip_topic_taxes_percentage_text">
-Especially early game, 90% or more of the income is being made from taxing the residents. A good amount of tax to collect is between 7% and 9%. If the taxation is higher than that, there is risk of riots and people abandoning the houses and the city.
-    </string>
-    <string name="tip_topic_taxes_adjust_title">
-You can toggle taxes using the + and - buttons
-    </string>
-    <string name="tip_topic_taxes_adjust_text">
-Press the smiley icon and then navigate to the taxes tab, then use the + and - button to toggle the taxation for each building type and income group. Be careful not to set the taxation too high though.
-    </string>
-    <string name="tip_topic_moon_title">
-Use DSA to go to the moon
-    </string>
-    <string name="tip_topic_moon_text">
-Unlock DSA and upgrade the buildings to go to the moon. The rocket will need supplies and once fully supplied, has a chance of going to the moon or crashing. If launch to the moon is successful, the moon map can be located under single cities for revisits. By mining certain ores in space, you can unlock certain buildings for the map which was used to go to the moon.
-    </string>
-    <string name="tip_topic_icbm_title">
-Careful! The ICBM will blow up your whole city
-    </string>
-    <string name="tip_topic_icbm_text">
-The ICBM is not a naturally occurring disaster and can only be set off through DSA. Be careful when using the ICBM though, it will blow up the entire city, no matter how big into scraps within seconds. You can backup or duplicate the city to avoid regrets after testing the ICBM on it.
-    </string>
-    <string name="tip_topic_normalzone_densezone_title">
-Dense zones accommodate more people, but is more expensive to place
-    </string>
-    <string name="tip_topic_normalzone_densezone_text">
-Dense zones are generally more expensive to place than normal zones but can house more people. In turn, they are often taller than normal zones as well. Those differences aside, there is not much else as they have the same needs as normal zones.
-    </string>
-    <string name="tip_topic_forum_plugins_title">
-You can download plugins through the forums
-    </string>
-    <string name="tip_topic_forum_plugins_text">
-Some plugin creators choose to exclusively publish some plugins on the forums. This allows you to download plugins the plugin store may not have. These are free to download and have to be placed in the plugins folder of your device manually. Be careful as these plugins aren\'t moderated.
-    </string>
-    <string name="tip_topic_toll_happiness_title">
-Toll booths give additional income but they make residents unhappy
-    </string>
-    <string name="tip_topic_toll_happiness_text">
-Toll booths can be placed to charge a fine to vehicles driving on roads which help to collect income. The amount charged can be adjusted by pressing on the toll. This does however reduce transport happiness and makes people unhappy.
-    </string>
-    <string name="tip_topic_building_rotation_title">
-Not all buildings have rotation frames
-    </string>
-    <string name="tip_topic_building_rotation_text">
-Some vanilla buildings do have rotation frames but not all. Especially when it comes to plugins, there may not be rotation frames. This is because the author did not make them. To see which buildings have rotation frames, press on a building and see if they have next and previous buttons on the top right corner. Not having rotation frames leaves more space for more varied buildings.
-    </string>
-    <string name="tip_topic_map_rotation_title">
-Change the map orientation using the mini map
-    </string>
-    <string name="tip_topic_map_rotation_text">
-The mini map can be used as a tool to rotate the map. Press the mini map and use the arrows to rotate the map left or right. It is important to note that while the map rotates, not all buildings will rotate if rotation frames were not provided.
-    </string>
-    <string name="tip_topic_demands_title">
-Build zones which are above the demand line
-    </string>
-    <string name="tip_topic_demands_text">
-When the demand is above the demand line, it indicates that people or businesses of the respective demand want to move to your city. So you should provide them with the facilities to do so. When the demand is below the demand line, it indicates to build other zones and support facilities such as parks and police.
-    </string>
-    <string name="tip_topic_happiness_title">
-Press on a building to see their lowest happiness
-    </string>
-    <string name="tip_topic_happiness_text">
-Pressing on a building helps to identify why the house and the houses close by are unhappy. It also gives an average happiness for the house. Once the reason for lowest happiness is identified you can act to fix it. For example if a building is unhappy because of lack of parks you should place one close to the building to increase the happiness.
-    </string>
-    <string name="tip_topic_game_extentions_title">
-There are official game extensions on the plugin store
-    </string>
-    <string name="tip_topic_game_extentions_text">
-Official game extensions are published on the plugin store by the user Lobby. These are usually free as they are official game extensions.
-    </string>
-    <string name="tip_topic_inspiration_title">
-Don\'t compare with other players\' cities, take inspiration
-    </string>
-    <string name="tip_topic_inspiration_text">
-Different players have different styles. Instead of getting jealous of other players\' cities, try pinpointing exactly what draws you to it. Why do you like it so much exactly? Once you figure that out, try implementing it in your cities little by little and watch the city grow.
-    </string>
-    <string name="tip_topic_road_connection_title">
-Use auto connect roads when building road networks
-    </string>
-    <string name="tip_topic_road_connection_text">
-Press the road of choice and then press "join road" in the upper right corner to automatically join the road that is being built. This will help to avoid roads not working due to not being properly connected.
-    </string>
-    <string name="tip_topic_epidemic_prevention_title">
-Place hospitals to avoid epidemics
-    </string>
-    <string name="tip_topic_epidemic_prevention_text">
-If there is a green face above the buildings, it indicates the residentials are sick. To avoid this in the future, build hospitals in range of all the zones. To keep your residents healthy you should also ensure that your water supplies are located in clean areas.
-    </string>
-    <string name="tip_topic_education_title">
-Residentials need both high and low education
-    </string>
-    <string name="tip_topic_education_text">
-To improve educational happiness, both high and low education have to be provided. These are needed for the buildings to become richer. So be sure to cover the residential areas with both influences.
-    </string>
-    <string name="tip_topic_disable_smooth_zoom_title">
-To reduce lag, disable smooth zoom
-    </string>
-    <string name="tip_topic_disable_smooth_zoom_text">
-If you feel the game is laggy, consider turning off smooth zoom options. This option can be found within the game settings. This can help to improve the gameplay experience.
-    </string>
-    <string name="tip_topic_building_bridges_title">
-Elevate roads using the arrow options on the right
-    </string>
-    <string name="tip_topic_building_bridges_text">
-Press the road to be built. Then while in the build menu, press a tile and then build up to build an upward slope. Press an elevated road and build down to build a downward slope. At the same time, press bridge to automatically build a bridge. However, not all roads support building elevated roads.
-    </string>
-    <string name="store_cmd_downloadall_title">Download all</string>
-    <string name="store_cmd_downloadall_text">Download / activate all missing plugins at once</string>
+    <string name="buildingicon_illness">May sakit ang mga tao sa gusaling ito. Dapat kang magpadala ng mediko.</string>
+    <string name="buildingicon_noroad">Hindi nakakonekta ang gusaling ito sa angkop na kalsada.</string>
+    <string name="buildingicon_noenergy">Hindi nakakatanggap ng sapat na enerhiya ang gusaling ito.</string>
+    <string name="buildingicon_nowater">Hindi nakakatanggap ng sapat na tubig ang gusaling ito.</string>
+    <string name="buildingicon_overloaded">Sobra ang karga ng gusaling ito. Magbigay ng mas malaking kapasidad.</string>
+    <string name="buildingicon_unhappy">Hindi masaya ang mga tao sa gusaling ito.</string>
+    <string name="buildingicon_waste">May hindi nakolektang basura sa gusaling ito.</string>
+    <string name="buildingicon_wasteoverloaded">Puno na ang landfill na ito.</string>
+    <string name="buildingicon_deadbodies">May hindi nakolektang mga bangkay sa gusaling ito.</string>
+    <string name="buildingicon_deadbodiesoverloaded">Puno na ang sementeryong ito.</string>
+    <string name="buildingicon_crimegraffiti">May naglagay ng ilegal na graffiti dito.</string>
+    <string name="buildingicon_crimeburglary">May pumasok nang sapilitan dito.</string>
+    <string name="buildingicon_crimemurder">May pinaslang dito.</string>
+    <string name="buildingicon_crimeriot">Nagkakagulo ang mga tao rito.</string>
+    <string name="dialog_scriptpolicy_title">Mga Patakaran sa Script ng Plugin</string>
+    <string name="dialog_scriptpolicy_help_title">Maaaring mapanganib ang mga Plugin Script</string>
+    <string name="dialog_scriptpolicy_help_text">IKAW ang may kapangyarihang payagan ang pagpapatakbo ng script para sa mga panlabas na plugin. I-whitelist lamang ang mga script mula sa mga pinagkakatiwalaan mong pinagmulan (hal. ikaw mismo, kung gumagawa ka ng plugin).\n\nKung may duda, HUWAG paganahin ang pagpapatakbo ng script nang hindi mo muna sinusuri ang code.\n\nMaaaring hindi gumana nang tama ang mga plugin na nangangailangan ng script execution kung naka-disable ito. Kailangan mong i-restart ang laro para magkabisa ang mga pagbabago.</string>
+    <string name="settings_openscriptpolicy">Mga Patakaran sa Script ng Plugin</string>
+    <string name="stage_files_itemcount">%d item</string>
+    <string name="tips_title">Mga Tip</string>
+    <string name="tips_cmd_random">Isa pa</string>
+    <string name="tip_topic_culture_title">Ang kultura ay ibinibigay ng ilang landmark, parangal at plugin!</string>
+    <string name="tip_topic_culture_text">Karamihan sa mas maliliit na landmark hanggang sa Eiffel Tower ay nagbibigay ng impluwensiya sa kultura, gayundin ang mga parangal na may kahalagahang kultural sa totoong mundo. Maaari pang mag-download ng mas maraming plugin na nagbibigay ng kultura mula sa plugin store at forum.</string>
+    <string name="tip_topic_fire_too_frequent_title">Kung masyadong madalas masunog ang mga gusali, maglagay ng istasyon ng bumbero sa malapit!</string>
+    <string name="tip_topic_fire_too_frequent_text">Kung masyadong madalas masunog ang mga gusali, magandang palatandaan ito na hindi naaabot ng impluwensiya ng iyong istasyon ng bumbero ang lugar. Nangangailangan ng istasyon ng bumbero ang mga gusaling residential, commercial at industrial, kaya siguraduhing nasasakop ng impluwensiya ng mga istasyon ng bumbero ang buong mapa. Makakatulong ito upang maiwasan ang sunog sa hinaharap.</string>
+    <string name="tip_topic_pollution_distance_title">Ilayo ang mga tirahan sa polusyon</string>
+    <string name="tip_topic_pollution_distance_text">Ayaw ng mga residente sa polusyon. Kung nagrereklamo sila tungkol sa sobrang polusyon, alamin ang pinagmulan nito. Makikita ang gusaling gumagawa ng impluwensiya sa pamamagitan ng pagpindot sa eye tool at pagkatapos sa polusyon, o sa paghahanap ng mga gusaling may pulang bilog sa paligid. Ilipat ang gusaling nagdudulot ng polusyon o gibain ito kapalit ng mas makakalikasan na opsyon.</string>
+    <string name="tip_topic_pollution_trees_title">Mababawasan mo ang polusyon sa pamamagitan ng pagpapalibot dito ng mga puno</string>
+    <string name="tip_topic_pollution_trees_text">Ayaw ng mga residential building sa polusyon. Para maiwasan ang abala ng paglilipat ng mga gusali, lalo na sa mga maayos na planadong lungsod, maaari kang gumamit ng mga puno. Pinipigilan ng mga puno ang polusyon. Mas maraming puno ang magbabawas pa ng polusyon. Madalas din itong mas sulit dahil mura ang mga puno. Ang dami ng punong ilalagay ay depende sa dami ng polusyon at sa lakas ng impluwensiya ng mga puno.</string>
+    <string name="tip_topic_traffic_networking_title">Gumamit ng one-way roads at intersections upang mabawasan ang trapiko</string>
+    <string name="tip_topic_traffic_networking_text">Madalas magsiksikan ang trapiko sa mga lugar tulad ng highway at industrial areas. Kailangan ng maayos na road network para ayusin ito. Makakatulong dito ang one-way roads at intersections. May mga prebuilt intersection sa laro at bilang plugins. Maaari ka ring gumawa ng sarili mo gamit ang tunay na interchanges bilang halimbawa. Papayagan nito ang mas maayos na daloy ng trapiko at mababawasan ang trapiko sa iyong lungsod.</string>
+    <string name="tip_topic_traffic_volume_title">Maaari mong ayusin ang traffic volume sa settings upang mabawasan ang trapiko</string>
+    <string name="tip_topic_traffic_volume_text">Para ayusin ang traffic volume sa settings, i-on muna ang debug mode; dapat naroon din ito. Kapag naka-on na ang debug, ibibigay sa iyo ang opsyong bawasan o dagdagan ang trapiko. Ang pipiliin mong porsyento ay depende sa dami ng trapiko at sa hamong gusto mo.</string>
+    <string name="tip_topic_more_cash_title">Para makakuha ng mas maraming pera, kumuha ng loan</string>
+    <string name="tip_topic_more_cash_text">Pindutin ang income icon at lumipat sa tab na may berdeng cash icon. Pagkatapos, pindutin ang "raise". Ang halaga ng perang iaalok sa loan ay depende sa estate, at hanggang 5 loan ang maaaring kunin nang sabay.</string>
+    <string name="tip_topic_loan_repayment_title">Awtomatikong nababayaran ang mga loan kada buwan</string>
+    <string name="tip_topic_loan_repayment_text">Awtomatikong ibinabawas ng laro ang bayad sa loan mula sa iyong buwanang kita kada buwan. Hindi kailangang bayaran nang manu-mano, bagaman maaari mong gawin iyon upang mabawasan ang buwanang gastos. Makikita ang panahon ng pagbabayad sa loans tab.</string>
+    <string name="tip_topic_discord_title">May opisyal na Discord server!</string>
+    <string name="tip_topic_discord_text">Ang opisyal na Discord server ay lugar kung saan nagtitipon ang mga manlalaro at creator, ipinapakita ang kanilang mga gawa, at nakikipagkaibigan. Makikita ang link sa loob ng laro sa settings.</string>
+    <string name="tip_topic_making_plugins_title">Maaari kang gumawa ng sarili mong plugins. Madali lang™</string>
+    <string name="tip_topic_making_plugins_text">Maaaring mukhang nakakatakot sa simula, pero madali lang gumawa ng plugins. Para gumawa ng textures, maaari kang gumamit ng paint.net sa PC at Pixly sa mobile. Para sa json o "code", maaari kang magsulat ng sarili mo sa tulong ng forums o gamitin ang https://pca.svetikas.lt/. Kung may tanong ka, masasagot namin ang mga iyon sa Discord o forums!</string>
+    <string name="tip_topic_online_collaboration_title">Makipagtulungan sa isang region gamit ang online mode</string>
+    <string name="tip_topic_online_collaboration_text">Sa pagpindot sa online button sa region view, maaari kang makipagtulungan sa mga kaibigan o ibang miyembro upang lumikha ng magandang region. Hindi pinapayagan ng laro na higit sa isang manlalaro ang gumawa sa parehong mapa, ngunit maaari kang bumisita sa ibang lungsod at kumuha ng inspirasyon.</string>
+    <string name="tip_topic_online_upload_title">Ang pag-upload ng mapa sa online mode ay nangangailangan ng diamonds o region coins</string>
+    <string name="tip_topic_online_upload_text">Iginagawad ang diamonds sa mobile at region coins sa PC sa pamamagitan ng araw-araw na pag-login. Nag-iiba ang halaga ng pag-upload ng region depende sa laki. Habang ina-upload ang mapa, maaaring pumili ang creator na magtakda ng password at ilang patakaran. Kapag nagawa na, hindi na maaaring idagdag o alisin ang password.</string>
+    <string name="tip_topic_diamonds_title">Maaari kang makakuha ng diamonds sa araw-araw na pag-login</string>
+    <string name="tip_topic_diamonds_text">Ang araw-araw na pag-login sa mobile ay ginagantimpalaan ng diamonds. Sa pag-login araw-araw sa buong linggo, makakakuha ka ng mas maraming reward. Kapag nakuha mo na ang huling reward, magre-reset ito at magsisimula ulit. Maaari ka ring manood ng videos para sa diamonds kada 30 minuto - pero tandaan na i-off ang anumang ad block para lumabas ang mga ito!</string>
+    <string name="tip_topic_supplies_title">Ang rocket supplies ay ibinibigay ng ilang industrial buildings</string>
+    <string name="tip_topic_supplies_text">Ang mga gusaling nagbibigay ng langis ay nakakalat sa iba’t ibang level ng industries. Kabilang dito ang oil extraction buildings, storage buildings at processing buildings. Ibibigay ng mga ito ang suplay para sa iyong rocket. Mas maraming gusaling malapit sa rocket ang makakatulong para mas mabilis itong masuplayan.</string>
+    <string name="tip_topic_train_bus_usage_title">Maaaring walang nakikitang paggamit ng tren o bus, pero may epekto pa rin sila</string>
+    <string name="tip_topic_train_bus_usage_text">Maaaring ipakita ng buses at trains na wala pang pasahero sa ngayon. Gayunpaman, mayroon na silang epekto at maaaring ma-update ang usage data sa hinaharap. Nagbibigay ng transport happiness ang buses at trains. Kaya siguraduhing masakop ng mga ito ang RCI areas.</string>
+    <string name="tip_topic_vandalism_title">Ipinapahiwatig ng spray paint icon ang vandalism, magtayo ng police station</string>
+    <string name="tip_topic_vandalism_text">Lumilitaw ang spray paint icon kapag walang police influence ang mga gusali. Nangangailangan ng police influence ang residential, commercial at industrial buildings, kaya siguraduhing ibigay ito sa mga gusaling ito upang maiwasan ang krimen sa hinaharap.</string>
+    <string name="tip_topic_cemetary_cremetorium_title">Magtayo ng mga sementeryo at crematorium para sa mga namatay</string>
+    <string name="tip_topic_cemetary_cremetorium_text">Kung may lumabas na icon ng patay na tao sa itaas ng isa o higit pang gusali, nangangahulugan itong kailangan mong magtayo ng mga sementeryo o crematorium. Maganda ang mga sementeryo sa simula, ngunit habang lumalaki ang lungsod, mas madalas silang kailangang linisin. Kaya maaaring mas magandang pangmatagalang solusyon ang crematorium.</string>
+    <string name="tip_topic_neighbourhood_commercial_title">Para kumita ng dagdag, mag-set up ng neighborhood commercial</string>
+    <string name="tip_topic_neighbourhood_commercial_text">Magagawa lamang ito sa mga region kung saan mayroon kang kalapit na lungsod na naka-unlock. May neighborhood commercial tab. Sa pag-aayos ng mga halaga, maaari kang mag-import o mag-export mula sa mga kalapit na lungsod. Hindi ito gumagana sa online mode o kung isa o higit pa sa mga lungsod na sinusubukan mong i-set up ay nasa sandbox o uber mode.</string>
+    <string name="tip_topic_airport_title">Magandang pangmatagalang investment ang airport</string>
+    <string name="tip_topic_airport_text">Para gumana ang airport, itayo ang lahat ng airport buildings, magdagdag ng lanes, at magtalaga ng airplanes sa lanes. Kadalasang nagiging profitable ang airport kapag ginagamit. Ibig sabihin, kapag nabawi na ang unang gastos, malaki ang maaaring kitain.</string>
+    <string name="tip_topic_youtube_title">May ilang kapaki-pakinabang na tutorial sa YouTube</string>
+    <string name="tip_topic_youtube_text">May ilang bihasang TheoTown players at creators na naglalathala ng videos sa YouTube. Mula ito sa inspirational gameplay time-lapse videos hanggang sa videos na makakatulong sa pagpapahusay ng iyong gameplay experience.</string>
+    <string name="tip_topic_price_increase_title">Tumataas ang presyo sa laro gaya ng sa totoong buhay</string>
+    <string name="tip_topic_price_increase_text">Ang paglalagay ng mas maraming gusali at kalsada ay nagpapataas ng presyo ng mga ito. Habang mas ginagamit ito, mas tataas ang presyo. Totoo ito para sa roads, decorations, zones at lahat ng uri ng buildings.</string>
+    <string name="tip_topic_creative_gameplay_title">Para sa mas malayang pagkamalikhain, maglaro sa sandbox/uber mode</string>
+    <string name="tip_topic_creative_gameplay_text">Maraming bihasang manlalaro ang mas gustong maglaro sa sandbox o uber mode para mas maipahayag ang kanilang malikhaing kalayaan. Pinapayagan silang magtayo nang walang limitasyon sa pondo at, sa kaso ng uber mode, nang hindi kailangang mag-alala sa happiness o needs. Madalas na manu-manong inilalagay ang mga gusali upang makalikha ng kamangha-manghang mga gawa. Huwag mag-alala kung hindi ito tugma sa iyo; iba-iba ang paraan ng pagtatayo ng bawat isa!</string>
+    <string name="tip_topic_toggle_disasters_title">Maaari mong i-off ang auto disasters sa game settings</string>
+    <string name="tip_topic_toggle_disasters_text">Maaaring i-off ang disasters sa settings at maaari mong piliin kung anong disasters, kung mayroon man, ang gusto mong laruin. Kung ginagamit ang mining stations mula sa DSA o military missile silos, maaaring nasa panganib pa rin ang lungsod sa lindol o iba pang disasters.</string>
+    <string name="tip_topic_taxes_percentage_title">Karamihan ng kita mo ay mula sa buwis, pero huwag itong itaas sa 9%</string>
+    <string name="tip_topic_taxes_percentage_text">Lalo na sa simula ng laro, 90% o higit pa ng kita ay mula sa pagbubuwis sa mga residente. Magandang halaga ng buwis ang nasa pagitan ng 7% at 9%. Kung mas mataas dito ang buwis, may panganib ng kaguluhan at pag-abandona ng mga tao sa mga bahay at lungsod.</string>
+    <string name="tip_topic_taxes_adjust_title">Maaari mong baguhin ang buwis gamit ang + at - buttons</string>
+    <string name="tip_topic_taxes_adjust_text">Pindutin ang smiley icon at pumunta sa taxes tab, pagkatapos gamitin ang + at - button upang baguhin ang buwis para sa bawat uri ng gusali at grupo ng kita. Mag-ingat lamang na huwag itakda nang masyadong mataas ang buwis.</string>
+    <string name="tip_topic_moon_title">Gamitin ang DSA para pumunta sa buwan</string>
+    <string name="tip_topic_moon_text">I-unlock ang DSA at i-upgrade ang mga gusali upang pumunta sa buwan. Mangangailangan ng suplay ang rocket at kapag napuno na ang suplay, may tsansa itong makarating sa buwan o bumagsak. Kung matagumpay ang paglunsad papunta sa buwan, makikita ang moon map sa ilalim ng single cities para muling bisitahin. Sa pagmimina ng ilang ore sa kalawakan, maaari mong i-unlock ang ilang gusali para sa mapang ginamit upang pumunta sa buwan.</string>
+    <string name="tip_topic_icbm_title">Mag-ingat! Pasasabugin ng ICBM ang buong lungsod mo</string>
+    <string name="tip_topic_icbm_text">Ang ICBM ay hindi natural na disaster at maaari lamang paganahin sa pamamagitan ng DSA. Mag-ingat sa paggamit ng ICBM dahil pasasabugin nito ang buong lungsod, gaano man ito kalaki, at gagawin itong mga piraso sa loob ng ilang segundo. Maaari kang gumawa ng backup o duplicate ng lungsod upang maiwasan ang pagsisisi pagkatapos subukan dito ang ICBM.</string>
+    <string name="tip_topic_normalzone_densezone_title">Mas maraming tao ang kasya sa dense zones, pero mas mahal itong ilagay</string>
+    <string name="tip_topic_normalzone_densezone_text">Karaniwang mas mahal ilagay ang dense zones kaysa normal zones ngunit mas maraming tao ang maaaring tumira rito. Bilang kapalit, kadalasang mas matataas din ang mga ito kaysa normal zones. Maliban sa mga pagkakaibang iyon, wala nang gaanong iba dahil pareho ang kanilang needs sa normal zones.</string>
+    <string name="tip_topic_forum_plugins_title">Maaari kang mag-download ng plugins sa forums</string>
+    <string name="tip_topic_forum_plugins_text">Pinipili ng ilang plugin creators na ilathala nang eksklusibo ang ilang plugins sa forums. Pinapayagan ka nitong mag-download ng plugins na maaaring wala sa plugin store. Libre itong i-download at kailangang manu-manong ilagay sa plugins folder ng iyong device. Mag-ingat dahil hindi namo-moderate ang mga plugin na ito.</string>
+    <string name="tip_topic_toll_happiness_title">Nagbibigay ng dagdag na kita ang toll booths pero nagpapalungkot sa residents</string>
+    <string name="tip_topic_toll_happiness_text">Maaaring ilagay ang toll booths upang maningil sa mga sasakyang dumadaan sa kalsada, na nakakatulong sa pagkolekta ng kita. Maaaring ayusin ang halagang sinisingil sa pamamagitan ng pagpindot sa toll. Gayunpaman, binabawasan nito ang transport happiness at nagpapalungkot sa mga tao.</string>
+    <string name="tip_topic_building_rotation_title">Hindi lahat ng buildings ay may rotation frames</string>
+    <string name="tip_topic_building_rotation_text">May rotation frames ang ilang vanilla buildings ngunit hindi lahat. Lalo na pagdating sa plugins, maaaring walang rotation frames. Ito ay dahil hindi ito ginawa ng author. Para makita kung aling buildings ang may rotation frames, pindutin ang isang building at tingnan kung may next at previous buttons sa kanang itaas na sulok. Ang kawalan ng rotation frames ay nagbibigay ng mas maraming espasyo para sa mas sari-saring buildings.</string>
+    <string name="tip_topic_map_rotation_title">Baguhin ang orientation ng map gamit ang mini map</string>
+    <string name="tip_topic_map_rotation_text">Maaaring gamitin ang mini map bilang tool para i-rotate ang map. Pindutin ang mini map at gamitin ang mga arrow para i-rotate ang map pakaliwa o pakanan. Mahalagang tandaan na habang umiikot ang map, hindi lahat ng buildings ay iikot kung walang ibinigay na rotation frames.</string>
+    <string name="tip_topic_demands_title">Magtayo ng zones na nasa itaas ng demand line</string>
+    <string name="tip_topic_demands_text">Kapag nasa itaas ng demand line ang demand, ipinapahiwatig nito na ang mga tao o negosyo ng kaukulang demand ay gustong lumipat sa iyong lungsod. Kaya dapat mong ibigay sa kanila ang mga pasilidad para magawa iyon. Kapag nasa ibaba ng demand line ang demand, ipinapahiwatig nito na dapat magtayo ng ibang zones at support facilities tulad ng parks at police.</string>
+    <string name="tip_topic_happiness_title">Pindutin ang isang building para makita ang pinakamababang happiness nito</string>
+    <string name="tip_topic_happiness_text">Ang pagpindot sa isang building ay nakakatulong upang malaman kung bakit hindi masaya ang bahay at ang mga kalapit na bahay. Nagbibigay din ito ng average happiness para sa bahay. Kapag natukoy na ang dahilan ng pinakamababang happiness, maaari kang kumilos para ayusin ito. Halimbawa, kung hindi masaya ang isang building dahil kulang sa parks, dapat kang maglagay ng isa malapit sa building upang tumaas ang happiness.</string>
+    <string name="tip_topic_game_extentions_title">May opisyal na game extensions sa plugin store</string>
+    <string name="tip_topic_game_extentions_text">Ang opisyal na game extensions ay inilalathala sa plugin store ng user na Lobby. Karaniwang libre ang mga ito dahil opisyal silang game extensions.</string>
+    <string name="tip_topic_inspiration_title">Huwag ikumpara sa lungsod ng ibang players, kumuha ng inspirasyon</string>
+    <string name="tip_topic_inspiration_text">Iba-iba ang istilo ng bawat player. Sa halip na mainggit sa lungsod ng ibang players, subukang tukuyin kung ano mismo ang nakakaakit sa iyo rito. Bakit mo ba ito gustong-gusto? Kapag nalaman mo iyon, subukang unti-unting ipatupad ito sa iyong mga lungsod at panoorin ang paglago ng lungsod.</string>
+    <string name="tip_topic_road_connection_title">Gamitin ang auto connect roads kapag gumagawa ng road networks</string>
+    <string name="tip_topic_road_connection_text">Pindutin ang napiling road at pagkatapos ay pindutin ang "join road" sa kanang itaas na sulok upang awtomatikong ikonekta ang road na ginagawa. Makakatulong ito upang maiwasan ang mga kalsadang hindi gumagana dahil hindi maayos ang pagkakakonekta.</string>
+    <string name="tip_topic_epidemic_prevention_title">Maglagay ng hospitals upang maiwasan ang epidemics</string>
+    <string name="tip_topic_epidemic_prevention_text">Kung may berdeng mukha sa ibabaw ng mga gusali, ipinapahiwatig nitong may sakit ang residentials. Upang maiwasan ito sa hinaharap, magtayo ng hospitals na abot ang lahat ng zones. Para mapanatiling malusog ang iyong residents, dapat mo ring tiyaking nasa malilinis na lugar ang iyong water supplies.</string>
+    <string name="tip_topic_education_title">Kailangan ng residentials ang parehong high at low education</string>
+    <string name="tip_topic_education_text">Para mapabuti ang educational happiness, kailangang ibigay ang parehong high at low education. Kailangan ang mga ito para yumaman ang mga buildings. Kaya siguraduhing masakop ng parehong impluwensiya ang residential areas.</string>
+    <string name="tip_topic_disable_smooth_zoom_title">Para mabawasan ang lag, i-disable ang smooth zoom</string>
+    <string name="tip_topic_disable_smooth_zoom_text">Kung nararamdaman mong laggy ang laro, isaalang-alang na i-off ang smooth zoom options. Makikita ang opsyong ito sa game settings. Makakatulong ito upang mapabuti ang gameplay experience.</string>
+    <string name="tip_topic_building_bridges_title">Itaas ang roads gamit ang arrow options sa kanan</string>
+    <string name="tip_topic_building_bridges_text">Pindutin ang road na itatayo. Pagkatapos, habang nasa build menu, pindutin ang isang tile at pagkatapos ay build up upang gumawa ng pataas na slope. Pindutin ang elevated road at build down upang gumawa ng pababang slope. Kasabay nito, pindutin ang bridge upang awtomatikong gumawa ng tulay. Gayunpaman, hindi lahat ng roads ay sumusuporta sa elevated roads.</string>
+    <string name="store_cmd_downloadall_title">I-download lahat</string>
+    <string name="store_cmd_downloadall_text">I-download / i-activate ang lahat ng nawawalang plugin nang sabay-sabay</string>
 
 
-    <string name="tips_cmd_visitwebsite">Open</string>
+    <string name="tips_cmd_visitwebsite">Buksan</string>
 
-
-    <string name="settings_category_notifications">Notifications</string>
-    <string name="settings_notify_low_power">Low power</string>
-    <string name="settings_notify_low_water">Low water</string>
-    <string name="settings_notify_no_power">No power</string>
-    <string name="settings_notify_no_water">No water</string>
-    <string name="settings_notify_no_road">No road</string>
-    <string name="settings_notify_no_park">No park</string>
-    <string name="settings_notify_no_sport">No sport</string>
-    <string name="settings_notify_pollution">Pollution</string>
-    <string name="settings_notify_noise">Noise</string>
-    <string name="settings_notify_water_waste">Water waste</string>
-    <string name="settings_notify_unhappy">Unhappy</string>
-    <string name="settings_notify_unlocked">Unlocked building</string>
-    <string name="settings_notify_low_budget">Low budget</string>
-    <string name="settings_notify_zone_needed">Zone needed</string>
-    <string name="settings_notify_polluted_pump">Polluted pump</string>
-    <string name="settings_notify_school_overloaded">School overloaded</string>
-    <string name="settings_notify_medic_overloaded">Medic overloaded</string>
-    <string name="settings_notify_destroyed_tile">Destroyed tile</string>
-    <string name="settings_notify_need_low_education">Need low education</string>
-    <string name="settings_notify_need_high_education">Need high education</string>
-    <string name="settings_notify_bad_traffic">Bad traffic</string>
-    <string name="settings_notify_waste">Garbage collection</string>
-    <string name="settings_notify_body_disposal">Body disposal</string>
-    <string name="settings_notify_bad_attribute">Bad value</string>
+    <string name="settings_category_notifications">Mga Notipikasyon</string>
+    <string name="settings_notify_low_power">Mababang kuryente</string>
+    <string name="settings_notify_low_water">Mababang tubig</string>
+    <string name="settings_notify_no_power">Walang kuryente</string>
+    <string name="settings_notify_no_water">Walang tubig</string>
+    <string name="settings_notify_no_road">Walang kalsada</string>
+    <string name="settings_notify_no_park">Walang parke</string>
+    <string name="settings_notify_no_sport">Walang pasilidad sa palakasan</string>
+    <string name="settings_notify_pollution">Polusyon</string>
+    <string name="settings_notify_noise">Ingay</string>
+    <string name="settings_notify_water_waste">Aksaya sa tubig</string>
+    <string name="settings_notify_unhappy">Hindi masaya</string>
+    <string name="settings_notify_unlocked">Na-unlock na gusali</string>
+    <string name="settings_notify_low_budget">Mababang badyet</string>
+    <string name="settings_notify_zone_needed">Kailangang zone</string>
+    <string name="settings_notify_polluted_pump">Kontaminadong bomba ng tubig</string>
+    <string name="settings_notify_school_overloaded">Sobra ang pasanin ng paaralan</string>
+    <string name="settings_notify_medic_overloaded">Sobra ang pasanin ng mediko</string>
+    <string name="settings_notify_destroyed_tile">Nasirang tile</string>
+    <string name="settings_notify_need_low_education">Kailangan ng mababang edukasyon</string>
+    <string name="settings_notify_need_high_education">Kailangan ng mataas na edukasyon</string>
+    <string name="settings_notify_bad_traffic">Masamang trapiko</string>
+    <string name="settings_notify_waste">Koleksyon ng basura</string>
+    <string name="settings_notify_body_disposal">Pagtatapon ng bangkay</string>
+    <string name="settings_notify_bad_attribute">Maling halaga</string>
     <string name="show_eula">EULA</string>
 
+    <string name="dialog_uploadregionpolicy_title">Patakaran sa Hindi Aktibong Region</string>
+    <string name="dialog_uploadregionpolicy_text">Tandaan na ang mga region na hindi aktibo nang mahigit isang taon ay maaaring awtomatikong mabura. Ginagawa ito upang magbigay ng espasyo para sa mga bagong region at mapanatili ang magandang karanasan para sa mga aktibong manlalaro. Bago ang anumang pagbura dahil sa hindi aktibidad, aabisuhan ka muna namin.</string>
+    <string name="dialog_loginforreport_title">Kailangan ang Login para Mag-report</string>
+    <string name="dialog_loginforreport_text">Upang matiyak ang integridad ng aming reporting system, tanging mga naka-login na user lamang ang maaaring magsumite ng report. Mangyaring mag-login upang magpatuloy.</string>
 
-    <string name="dialog_uploadregionpolicy_title">Inactive Region Policy</string>
-    <string name="dialog_uploadregionpolicy_text">Note that regions that remain inactive for over a year may be subject to automatic deletion. This measure is necessary to free up space for new regions and ensure an optimal experience for active players. Prior to any deletion due to inactivity, we will notify you in advance.</string>
-    <string name="dialog_loginforreport_title">Login Required to Report</string>
-    <string name="dialog_loginforreport_text">To ensure the integrity of our reporting system, only logged-in users can submit reports. Please log in to continue with your report.</string>
-    <string name="settings_debug_hotkeys">Debug hotkeys</string>
-    <string name="specialoffer_alreadyunlocked">You unlocked this item already.</string>
-    <string name="settings_highlight_hovered_building">Highlight hovered building</string>
-    <string name="settings_cursorscaling">Cursor size</string>
+    <string name="settings_debug_hotkeys">Mga debug hotkey</string>
+    <string name="specialoffer_alreadyunlocked">Na-unlock mo na ang item na ito.</string>
+    <string name="settings_highlight_hovered_building">I-highlight ang gusaling tinutukan</string>
+    <string name="settings_cursorscaling">Laki ng cursor</string>
+
+    <string name="stage_files_actioncopy">Kopyahin sa clipboard</string>
+    <string name="stage_files_actionopen">Buksan</string>
+    <string name="stage_files_imageresolution">Resolusyon: %dx%d</string>
+
+    <string name="loadcity_outdatedscenario_dialog_title">Luma ang bersyon</string>
+    <string name="loadcity_outdatedscenario_dialog_text">Kailangan ng scenario na ito ang bersyong %s o mas mataas, ngunit gumagamit ka ng %s.\n\nPakitingnan ang mga update upang malaro ito.</string>
+
+    <string name="comments_language">Wika: %s</string>
+    <string name="comments_cmdtranslate">Isalin (maaaring hindi eksakto ang pagsasalin)</string>
+
+    <string name="waste_clear_onmouseinput">I-click at i-drag ang basura upang linisin ito.</string>
+    <string name="cemetery_clear_onmouseinput">I-click at i-drag upang magbakante ng espasyo.</string>
+
+    <string name="tutorial_buildroad_b_onmouseinput">Ilagay ang kalsada sa mga markadong tile. Upang itayo ito, i-click para itakda ang simula, at i-click muli para sa dulo.</string>
+    <string name="tutorial_rci_onmouseinput">I-click ang button na ito upang makita ang detalyadong demand para sa bawat uri ng zone.</string>
+    <string name="tutorial_money_info_onmouseinput">I-click sa kanang ibaba upang makita ang impormasyon tungkol sa iyong pera o baguhin ang buwis.</string>
+    <string name="tutorial_buildbridge_b_onmouseinput">I-click ang simula at dulo ng planong kalsada. Makikita kung paano awtomatikong gagawa ng tulay sa ibabaw ng ilog.</string>
+
+    <string name="tool_airplanelane_title_onmouseinput">I-click ang bakanteng lane</string>
+
+    <string name="draft_deco_chr_present00_text_onmouseinput">Isang regalo lang. Subukang i-click ito.</string>
+    <string name="draft_tool_eyedropper00_text_onmouseinput">Gusto mong buuin muli ang isang kalsada o gusali? Gamitin ang tool na ito at i-click ito. Hindi suportado ng lahat ng istruktura.</string>
+
+    <string name="dialog_gallerypolicy_text_onmouseinput">Gusto mo bang i-upload ang screenshot mo sa gallery?\n\nSa pag-click sa \"Upload now\", sumasang-ayon ka sa aming patakaran.</string>
+
+    <string name="notify_waste_producer00_onmouseinput">Puno na ang landfill na ito! I-click ito upang linisin!</string>
+
+    <string name="draft_roaddeco_barrier_open00_text_onmouseinput">I-left click ito upang buksan o isara. Magandang paraan para gumawa ng traffic jam.</string>
+
+    <string name="draft_gol_dead_text_onmouseinput">Gumawa ng game of life field. I-click ang mga tile upang baguhin ang estado nito. Default ay patay.</string>
+
+    <string name="loadcity_scenario">Scenario: %s</string>
+    <string name="trainstationinfo_total">Kabuuang nailipat: %1$,d</string>
+
+    <string name="dialog_configureregion_tags">Mga Tag</string>
+    <string name="dialog_regionrules_tagscat">Mga Tag</string>
+    <string name="dialog_regionrules_notags">- Walang tag -</string>
+    <string name="regionlist_cat_tags">Mga Tag</string>
+
+    <string name="settings_highrescitypreview">I-render ang high res city preview</string>
+
+    <string name="dialog_scenarios_cmdopen">Mga Scenario</string>
+    <string name="dialog_scenarios_title">Mga Scenario</string>
+    <string name="dialog_scenarios_generalinfo_title">Ano ang mga scenario na ito?</string>
+    <string name="dialog_scenarios_generalinfo_text">Ang mga scenario sa TheoTown ay mga pre-made na mapa na may espesyal na kondisyon. Binubuo mo ang lungsod sa ilalim ng ilang limitasyon, tulad ng limitadong pondo o partikular na mga patakaran ng plugin. Kapag natapos ang scenario, maaari mong i-upload ang iyong lungsod upang makipagkumpitensya sa iba sa isang friendly na paligsahan.</string>
+
+    <string name="dialog_scenarios_cmdreset">I-reset</string>
+    <string name="dialog_scenarios_cmdremove">Alisin</string>
+    <string name="dialog_scenarios_cmdmove">Ilipat</string>
+    <string name="dialog_scenarios_cmdinfo">Impormasyon</string>
+    <string name="dialog_scenarios_cmdplay">Maglaro</string>
+    <string name="dialog_scenarios_cmdstart">Simulan</string>
+
+    <string name="dialog_scenarios_reset_title">I-reset</string>
+    <string name="dialog_scenarios_reset_text">Sigurado ka bang gusto mong i-reset ang iyong progreso? Maaari mo itong ilipat sa iyong mga lungsod o tuluyang burahin.</string>
+
+    <string name="dialog_scenarios_empty">Walang available na scenario ngayon.</string>
+    <string name="dialog_scenarios_notplayedyet">Hindi pa nalalaro</string>
+
+    <string name="region_download_city">I-download ang Lungsod</string>
+    <string name="region_download_region">I-download ang Region</string>
+
+    <string name="toolaction_removelast">Alisin ang huli</string>
+
+    <string name="ci_transportation_title">Transportasyon</string>
+
+    <string name="settings_legacy_bus_system">Gamitin ang lumang bus system</string>
+
+    <string name="control_copy">Kopyahin</string>
+    <string name="control_paste">I-paste</string>
+
+    <string name="dialog_colorpicker_title">Pumili ng kulay</string>
+
+    <string name="ts_no_routes">Gumawa ng ruta upang magsimula</string>
+    <string name="ts_no_routes_station">Walang ruta para sa istasyong ito</string>
+    <string name="ts_no_stations">Magtayo ng mga istasyon at ikonekta ang mga ito</string>
+    <string name="ts_no_vehicles">Bumili ng sasakyan upang magsimula</string>
+
+    <string name="store_cat_heightmaps">Heightmaps</string>
+
+    <string name="dialog_restore_title">Ibalik ang Lungsod</string>
+    <string name="dialog_restore_nobackups">Walang backup :(</string>
+    <string name="dialog_restore_current">(aktibo)</string>
+
+    <string name="stage_special_offer_text">Permanenteng ina-unlock ang mga gusaling ito nang walang diamond.</string>
+
+    <string name="settings_edge_gradients">Gradients sa gilid ng screen</string>
+
+    <string name="legend_pipe">Tubo</string>
+    <string name="legend_wet">Basa</string>
+    <string name="legend_dry">Tuyo</string>
+    <string name="legend_protected_buildings">Protektado</string>
+    <string name="legend_density_low">Mababang densidad</string>
+    <string name="legend_density_high">Mataas na densidad</string>
+    <string name="legend_traffic_low">Mababang trapiko</string>
+    <string name="legend_traffic_high">Mataas na trapiko</string>
+    <string name="legend_happy">Masaya</string>
+    <string name="legend_unhappy">Hindi masaya</string>
+    <string name="legend_high">Mataas</string>
+    <string name="legend_low">Mababa</string>
+    <string name="legend_good">Maganda</string>
+    <string name="legend_bad">Masama</string>
+    <string name="legend_low_voltage">Normal na boltahe</string>
+    <string name="legend_high_voltage">Mataas na boltahe</string>
+    <string name="legend_mixed_voltage">Pareho</string>
+    <string name="legend_metro">Metro</string>
+    <string name="legend_ts_edit">%s (ini-edit)</string>
+
+
+    <string name="dialog_url_title">Buksan ang website?</string>
+    <string name="dialog_url_text">Nais ng plugin na "%s" na magbukas ng panlabas na website. Maaaring may kasamang mga patalastas ito. Magpatuloy lamang kung pinagkakatiwalaan mo ang pinagmulan:</string>
+    <string name="dialog_url_cmdopen">Buksan</string>
+    <string name="settings_adaptive_ground_blending">Adaptive na paghalo ng lupa</string>
+
+    <string name="draft_dsa_dyson_upgrade_req3_text">Kailangan: Tulungan ang mga Pickle sa Buwan</string>
     <string name="settings_cursorstyle_citylights">CityLights</string>
     <string name="settings_cursorstyle_aurora">Aurora</string>
     <string name="settings_cursorstyle_steampunk">Steampunk</string>
@@ -3392,154 +3338,103 @@ Press the road to be built. Then while in the build menu, press a tile and then 
     <string name="stats_level00">₮</string>
     <string name="stats_level01">₮₮</string>
     <string name="stats_level02">₮₮₮</string>
-    <string name="stage_files_actioncopy">Copy to clipboard</string>
-    <string name="stage_files_actionopen">Open</string>
-    <string name="stage_files_imageresolution">Resolution: %dx%d</string>
-    <string name="loadcity_outdatedscenario_dialog_title">Outdated version</string>
-    <string name="loadcity_outdatedscenario_dialog_text">This scenario requires version %s or higher, but you are using %s.\n\nPlease check for updates to play this scenario.</string>
-    <string name="comments_language">Language: %s</string>
-    <string name="comments_cmdtranslate">Translate (translation may be inaccurate)</string>
-    <string name="waste_clear_onmouseinput">Click and drag on the garbage to clear it.</string>
-    <string name="cemetery_clear_onmouseinput">Click and drag to free up some space.</string>
-    <string name="tutorial_buildroad_b_onmouseinput">Place the road along the marked tiles. To build it click to set a start point, click again to set the end point.</string>
-    <string name="tutorial_rci_onmouseinput">Click on this button to see detailed demand information for every zone type.</string>
-    <string name="tutorial_money_info_onmouseinput">Click at the bottom right corner to get more information about your money or to change taxes.</string>
-    <string name="tutorial_buildbridge_b_onmouseinput">Click on the start and the end point of the planned road. See how a bridge will be built automatically over the river.</string>
-    <string name="tool_airplanelane_title_onmouseinput">Click on a free lane</string>
-    <string name="draft_deco_chr_present00_text_onmouseinput">Just a present. Try clicking on it.</string>
-    <string name="draft_tool_eyedropper00_text_onmouseinput">Want to build a specific road or building again? Use this tool and click on it. Not supported by all structures.</string>
-    <string name="dialog_gallerypolicy_text_onmouseinput">Do you want to upload your screenshot to our gallery?\n\nBy clicking on \"Upload now\", you agree that you accept our policy.</string>
-    <string name="notify_waste_producer00_onmouseinput">This landfill is full! Click on it to clear it!</string>
-    <string name="draft_roaddeco_barrier_open00_text_onmouseinput">Left click on it to open and close it. A great way to create traffic jams.</string>
-    <string name="draft_gol_dead_text_onmouseinput">Create a game of life field. Click on existing tiles to switch their state. Default state is dead.</string>
-    <string name="loadcity_scenario">Scenario: %s</string>
-    <string name="trainstationinfo_total">Total transferred: %1$,d</string>
-
-
-    <string name="draft_dsa_dyson_upgrade_req3_text">Need: Help Pickles on the Moon</string>
-    <string name="dialog_configureregion_tags">Tags</string>
-    <string name="dialog_regionrules_tagscat">Tags</string>
-    <string name="dialog_regionrules_notags">- No tags applied -</string>
-    <string name="regionlist_cat_tags">Tags</string>
-    <string name="settings_highrescitypreview">Render high res city preview</string>
-    <string name="draft_native_snow_plow_depot00_title">Snow Plow Depot</string>
-    <string name="draft_native_snow_plow_depot00_text">A specialized facility designed to keep roads clear during winter. Deploys plows that swiftly remove ice and snow, ensuring uninterrupted traffic flow.</string>
-    <string name="settings_road_snow_overlay">Road snow overlay</string>
-    <string name="settings_ground_snow_overlay">Ground snow overlay</string>
-    <string name="dialog_scenarios_cmdopen">Scenarios</string>
-    <string name="dialog_scenarios_title">Scenarios</string>
-    <string name="dialog_scenarios_generalinfo_title">What are these scenarios?</string>
-    <string name="dialog_scenarios_generalinfo_text">Scenarios in TheoTown are pre-made maps with special conditions. You build your city under certain restrictions, such as limited funds or specific plugin rules. When the scenario ends, you can upload your city to compete with others in a friendly contest.</string>
-    <string name="dialog_scenarios_cmdreset">Reset</string>
-    <string name="dialog_scenarios_cmdremove">Remove</string>
-    <string name="dialog_scenarios_cmdmove">Move</string>
-    <string name="dialog_scenarios_cmdinfo">Info</string>
-    <string name="dialog_scenarios_cmdplay">Play</string>
-    <string name="dialog_scenarios_cmdstart">Start</string>
-    <string name="dialog_scenarios_reset_title">Reset</string>
-    <string name="dialog_scenarios_reset_text">Are you sure that you want to reset your progress? You can either move it to your individual cities to continue playing or delete it completely.</string>
-    <string name="dialog_scenarios_empty">There are no scenarios available right now.</string>
-    <string name="dialog_scenarios_notplayedyet">Not played yet</string>
-    <string name="region_download_city">Download City</string>
-    <string name="region_download_region">Download Region</string>
-    <string name="toolaction_removelast">Remove last</string>
-    <string name="ci_transportation_title">Transportation</string>
-    <string name="settings_legacy_bus_system">Use legacy bus system</string>
-    <string name="draft_tool_car_follower00_despawn">Vehicle disappeared</string>
-
-
-    <string name="settings_extra_d">Extra D</string>
+    <string name="draft_native_snow_plow_depot00_title">Depot ng Snow Plow</string>
+    <string name="draft_native_snow_plow_depot00_text">Isang espesyal na pasilidad para panatilihing malinis ang mga kalsada tuwing taglamig. Nagpapadala ito ng mga snow plow na mabilis na nag-aalis ng yelo at niyebe para hindi maputol ang daloy ng trapiko.</string>
+    <string name="settings_road_snow_overlay">Snow overlay sa kalsada</string>
+    <string name="settings_ground_snow_overlay">Snow overlay sa lupa</string>
+    <string name="draft_tool_car_follower00_despawn">Nawala ang sasakyan</string>
+    <string name="settings_extra_d">Dagdag na D</string>
     <string name="settings_extra_d_gen">%s D</string>
-    <string name="settings_extra_d_max">3D-ish</string>
-    <string name="settings_stretching">Stretching</string>
-    <string name="settings_stretching_narrow2">Square</string>
-    <string name="settings_stretching_narrow1">Slim</string>
-    <string name="settings_stretching_narrow0">Compact</string>
-    <string name="settings_stretching_wide0">Stretchy</string>
+    <string name="settings_extra_d_max">Parang 3D</string>
+    <string name="settings_stretching">Pag-unat</string>
+    <string name="settings_stretching_narrow2">Parisukat</string>
+    <string name="settings_stretching_narrow1">Payat</string>
+    <string name="settings_stretching_narrow0">Kompakto</string>
+    <string name="settings_stretching_wide0">Nakaunat</string>
     <string name="settings_stretching_wide1">Chungus</string>
-    <string name="settings_stretching_wide2">W I D E</string>
-    <string name="settings_notransformsupport_hint">Transformation is not supported by current %1$s-&gt;%2$s setting</string>
-    <string name="ci_airport_launchedairplanes">Launched airplanes: %s</string>
-    <string name="ci_airport_totalpassengers">Total passengers: %s</string>
-    <string name="ts_routes">Routes</string>
-    <string name="ts_stations">Stations</string>
-    <string name="ts_vehicles">Vehicles</string>
-    <string name="ts_cityview">City view</string>
-    <string name="ts_routemap">Route map</string>
-    <string name="ts_dialog_buy_vehicle_title">Buy a Vehicle</string>
-    <string name="ts_dialog_select_vehicle_title">Select a Vehicle</string>
-    <string name="ts_missing_reqs">Missing Requirements</string>
-    <string name="ts_warn_no_routes">No Routes</string>
-    <string name="ts_warn_hard_to_reach">Hard to reach, add more routes</string>
+    <string name="settings_stretching_wide2">M A L A P A D</string>
+    <string name="settings_notransformsupport_hint">Hindi suportado ang transformation sa kasalukuyang setting na %1$s-&gt;%2$s</string>
+    <string name="ci_airport_launchedairplanes">Mga eroplanong lumipad: %s</string>
+    <string name="ci_airport_totalpassengers">Kabuuang pasahero: %s</string>
+    <string name="ts_routes">Mga ruta</string>
+    <string name="ts_stations">Mga istasyon</string>
+    <string name="ts_vehicles">Mga sasakyan</string>
+    <string name="ts_cityview">Tanaw ng lungsod</string>
+    <string name="ts_routemap">Mapa ng ruta</string>
+    <string name="ts_dialog_buy_vehicle_title">Bumili ng Sasakyan</string>
+    <string name="ts_dialog_select_vehicle_title">Pumili ng Sasakyan</string>
+    <string name="ts_missing_reqs">Kulang ang mga Kinakailangan</string>
+    <string name="ts_warn_no_routes">Walang Ruta</string>
+    <string name="ts_warn_hard_to_reach">Mahirap puntahan, magdagdag ng mga ruta</string>
     <string name="ts_route_name_prefix">L</string>
     <string name="ts_route_copy_suffix">\'</string>
-    <string name="ts_route_invalid">Invalid Route</string>
-    <string name="ts_route_no_vehicle">No Vehicle assigned</string>
-    <string name="ts_route_path_broken">The path is broken</string>
-    <string name="ts_route_usage">Usage:</string>
-    <string name="ts_route_set_vehicle">Set Vehicle</string>
-    <string name="ts_route_edit">Route</string>
-    <string name="ts_route_more">More</string>
-    <string name="ts_route_duplicate">Duplicate</string>
-    <string name="ts_route_rename">Rename</string>
-    <string name="ts_dialog_route_rename_title">Route Name</string>
-    <string name="ts_route_delete">Delete</string>
-    <string name="ts_station_routes_for">Routes for </string>
-    <string name="ts_station_routes">Routes:</string>
-    <string name="ts_station_waiting">Waiting:</string>
-    <string name="ts_station_usage">Usage:</string>
-    <string name="ts_station_locate">Locate</string>
-    <string name="ts_station_rename">Rename</string>
-    <string name="ts_station_recolor">Change color</string>
-    <string name="ts_dialog_station_rename_title">Station Name</string>
-    <string name="ts_station_routes_clear">Clear</string>
-    <string name="ts_add_route">Add Route</string>
-    <string name="ts_station_show_routes">Routes</string>
-    <string name="ts_vehicle_capacity">Capacity:</string>
-    <string name="ts_vehicle_speed">Speed:</string>
-    <string name="ts_vehicle_price">Price:</string>
-    <string name="ts_vehicle_transferred">Total transferred:</string>
-    <string name="ts_vehicle_on_board">On board:</string>
-    <string name="ts_vehicle_assigned_to">Assigned to </string>
-    <string name="ts_vehicle_not_assigned">Not assigned to a route</string>
-    <string name="ts_vehicle_locate">Locate</string>
-    <string name="ts_vehicle_delete">Delete</string>
-    <string name="ts_dialog_sell_vehicle_title">Sell?</string>
-    <string name="ts_dialog_sell_vehicle_text">Do you want to sell `%s`?\nValue: %s</string>
-    <string name="ts_dialog_sell_vehicle_cmd_sell">Sell</string>
-    <string name="ts_vehicle_count">%d/%d vehicles</string>
-    <string name="ts_vehicle_count_depot_limit">%s (limited by depots)</string>
-    <string name="ts_vehicle_count_station_limit">%s (limited by stations)</string>
-    <string name="ts_buy_vehicle">Buy Vehicle</string>
-    <string name="ts_build_depot">Build Depot</string>
-    <string name="ts_vehicle_assign">Assign</string>
-    <string name="ts_vehicle_unassign">Unassign</string>
-    <string name="ts_buy_vehicle_buy_more">Buy a vehicle first to assign it</string>
-    <string name="ts_buy_vehicle_title">Vehicles</string>
-    <string name="ts_buy_vehicle_cmdbuy">Buy</string>
-    <string name="ts_cityinfo_routes">Routes:</string>
-    <string name="ts_cityinfo_stations">Stations:</string>
-    <string name="ts_routes_title">Routes</string>
-    <string name="ts_stations_title">Stations</string>
-    <string name="ts_vehicles_title">Vehicles</string>
-    <string name="ts_mode_one_shot">One Shot</string>
-    <string name="ts_mode_loop">Loop</string>
-    <string name="ts_mode_ping_pong">Ping Pong</string>
+    <string name="ts_route_invalid">Hindi wastong Ruta</string>
+    <string name="ts_route_no_vehicle">Walang nakatalagang Sasakyan</string>
+    <string name="ts_route_path_broken">Putol ang daanan</string>
+    <string name="ts_route_usage">Paggamit:</string>
+    <string name="ts_route_set_vehicle">Itakda ang Sasakyan</string>
+    <string name="ts_route_edit">Ruta</string>
+    <string name="ts_route_more">Higit pa</string>
+    <string name="ts_route_duplicate">Kopyahin</string>
+    <string name="ts_route_rename">Palitan ang pangalan</string>
+    <string name="ts_dialog_route_rename_title">Pangalan ng Ruta</string>
+    <string name="ts_route_delete">Tanggalin</string>
+    <string name="ts_station_routes_for">Mga ruta para sa </string>
+    <string name="ts_station_routes">Mga ruta:</string>
+    <string name="ts_station_waiting">Naghihintay:</string>
+    <string name="ts_station_usage">Paggamit:</string>
+    <string name="ts_station_locate">Hanapin</string>
+    <string name="ts_station_rename">Palitan ang pangalan</string>
+    <string name="ts_station_recolor">Palitan ang kulay</string>
+    <string name="ts_dialog_station_rename_title">Pangalan ng Istasyon</string>
+    <string name="ts_station_routes_clear">Burahin</string>
+    <string name="ts_add_route">Magdagdag ng Ruta</string>
+    <string name="ts_station_show_routes">Mga ruta</string>
+    <string name="ts_vehicle_capacity">Kapasidad:</string>
+    <string name="ts_vehicle_speed">Bilis:</string>
+    <string name="ts_vehicle_price">Presyo:</string>
+    <string name="ts_vehicle_transferred">Kabuuang nailipat:</string>
+    <string name="ts_vehicle_on_board">Sakay:</string>
+    <string name="ts_vehicle_assigned_to">Nakatakda sa </string>
+    <string name="ts_vehicle_not_assigned">Hindi nakatakda sa ruta</string>
+    <string name="ts_vehicle_locate">Hanapin</string>
+    <string name="ts_vehicle_delete">Tanggalin</string>
+    <string name="ts_dialog_sell_vehicle_title">Ibenta?</string>
+    <string name="ts_dialog_sell_vehicle_text">Gusto mo bang ibenta ang `%s`?\nHalaga: %s</string>
+    <string name="ts_dialog_sell_vehicle_cmd_sell">Ibenta</string>
+    <string name="ts_vehicle_count">%d/%d sasakyan</string>
+    <string name="ts_vehicle_count_depot_limit">%s (limitado ng mga depot)</string>
+    <string name="ts_vehicle_count_station_limit">%s (limitado ng mga istasyon)</string>
+    <string name="ts_buy_vehicle">Bumili ng Sasakyan</string>
+    <string name="ts_build_depot">Magtayo ng Depot</string>
+    <string name="ts_vehicle_assign">Italaga</string>
+    <string name="ts_vehicle_unassign">Alisin ang pagtatalaga</string>
+    <string name="ts_buy_vehicle_buy_more">Bumili muna ng sasakyan para maitalaga ito</string>
+    <string name="ts_buy_vehicle_title">Mga sasakyan</string>
+    <string name="ts_buy_vehicle_cmdbuy">Bumili</string>
+    <string name="ts_cityinfo_routes">Mga ruta:</string>
+    <string name="ts_cityinfo_stations">Mga istasyon:</string>
+    <string name="ts_routes_title">Mga ruta</string>
+    <string name="ts_stations_title">Mga istasyon</string>
+    <string name="ts_vehicles_title">Mga sasakyan</string>
+    <string name="ts_mode_one_shot">Isang Takbo</string>
+    <string name="ts_mode_loop">Ulit-ulit (Loop)</string>
+    <string name="ts_mode_ping_pong">Pabalik-balik</string>
     <string name="draft_bus00_title">TB-20</string>
     <string name="draft_bus02_title">TB-35</string>
     <string name="draft_bus04_title">TB-80</string>
     <string name="draft_bus06_title">TB-140A</string>
     <string name="draft_bus08_title">TB-200B</string>
-    <string name="draft_ts_native_bus00_title">Buses</string>
-    <string name="draft_elevated_train_train00_title">Main</string>
-    <string name="draft_elevated_train_train01_title">Secondary</string>
-    <string name="draft_ts_native_elevatedtrain00_title">Elevated Train</string>
-    <string name="draft_train_freighter_coal00_title">Coal Train</string>
-    <string name="draft_train_freighter_wood00_title">Wood Train</string>
-    <string name="draft_train_freighter_car00_title">Car Train</string>
-    <string name="draft_train_freighter_petrol00_title">Petrol Train</string>
-    <string name="draft_train_freighter_container00_title">Container Train</string>
-    <string name="draft_ts_native_freighttrain00_title">Freight Trains</string>
+    <string name="draft_ts_native_bus00_title">Mga Bus</string>
+    <string name="draft_elevated_train_train00_title">Pangunahing</string>
+    <string name="draft_elevated_train_train01_title">Pangalawa</string>
+    <string name="draft_ts_native_elevatedtrain00_title">Nakataas na Tren</string>
+    <string name="draft_train_freighter_coal00_title">Tren ng Uling</string>
+    <string name="draft_train_freighter_wood00_title">Tren ng Kahoy</string>
+    <string name="draft_train_freighter_car00_title">Tren ng Kotse</string>
+    <string name="draft_train_freighter_petrol00_title">Tren ng Gasolina</string>
+    <string name="draft_train_freighter_container00_title">Tren ng Container</string>
+    <string name="draft_ts_native_freighttrain00_title">Mga Tren ng Kargamento</string>
     <string name="draft_ts_metro_train00_title">Metro Unit 69</string>
     <string name="draft_ts_native_metro00_title">Metro</string>
     <string name="draft_train_odeg00_title">ODEG</string>
@@ -3548,23 +3443,16 @@ Press the road to be built. Then while in the build menu, press a tile and then 
     <string name="draft_train_ice00_title">ICE</string>
     <string name="draft_train_regio00_title">Regio</string>
     <string name="draft_train_ic00_title">IC</string>
-    <string name="draft_ts_native_passengertrain00_title">Passenger Trains</string>
-    <string name="ts_no_routes">Create a route to get started</string>
-    <string name="ts_no_routes_station">No routes assigned to this station</string>
-    <string name="ts_no_stations">Build stations and connect them with routes</string>
-    <string name="ts_no_vehicles">Buy a vehicle to begin service</string>
-    <string name="control_copy">Copy</string>
-    <string name="control_paste">Paste</string>
-    <string name="dialog_colorpicker_title">Select a color</string>
-    <string name="ts_location_west">%s West</string>
-    <string name="ts_location_south">%s South</string>
-    <string name="ts_location_north">%s North</string>
-    <string name="ts_location_east">%s East</string>
-    <string name="ts_location_center">%s Center</string>
-    <string name="ts_location_inner">%s Inner</string>
-    <string name="ts_location_outer">%s Outer</string>
-    <string name="ts_location_edge">%s Edge</string>
-    <string name="ts_names_residential_maplestreet">Maple Street Stop</string>
+    <string name="draft_ts_native_passengertrain00_title">Mga Tren ng Pasahero</string>
+    <string name="ts_location_west">%s Kanluran</string>
+    <string name="ts_location_south">%s Timog</string>
+    <string name="ts_location_north">%s Hilaga</string>
+    <string name="ts_location_east">%s Silangan</string>
+    <string name="ts_location_center">Gitna ng %s</string>
+    <string name="ts_location_inner">Loob ng %s</string>
+    <string name="ts_location_outer">Labas ng %s</string>
+    <string name="ts_location_edge">Gilid ng %s</string>
+    <string name="ts_names_residential_maplestreet">Hintuan sa Maple Street</string>
     <string name="ts_names_residential_elmwooddrive">Elmwood Drive</string>
     <string name="ts_names_residential_oaklane">Oak Lane</string>
     <string name="ts_names_residential_villagegreen">Village Green</string>
@@ -3574,104 +3462,96 @@ Press the road to be built. Then while in the build menu, press a tile and then 
     <string name="ts_names_commercial_downtowncenter">Downtown Center</string>
     <string name="ts_names_commercial_shoppingdistrict">Shopping District</string>
     <string name="ts_names_industrial_industrialpark">Industrial Park</string>
-    <string name="ts_names_industrial_factorygate">Factory Gate</string>
+    <string name="ts_names_industrial_factorygate">Pinto ng Pabrika</string>
     <string name="ts_names_industrial_warehouserow">Warehouse Row</string>
     <string name="ts_names_industrial_freightyard">Freight Yard</string>
     <string name="ts_names_industrial_commercedrive">Commerce Drive</string>
     <string name="ts_names_harbor_harbourfront">Harbour Front</string>
     <string name="ts_names_harbor_waterfrontpier">Waterfront Pier</string>
     <string name="ts_names_harbor_riversidedocks">Riverside Docks</string>
-    <string name="ts_names_harbor_seawallstop">Seawall Stop</string>
+    <string name="ts_names_harbor_seawallstop">Hintuan sa Seawall</string>
     <string name="ts_names_farm_farmroad">Farm Road</string>
-    <string name="ts_names_farm_countryside">Countryside</string>
-    <string name="ts_names_farm_fieldsstop">Fields Stop</string>
+    <string name="ts_names_farm_countryside">Kanayunan</string>
+    <string name="ts_names_farm_fieldsstop">Hintuan sa Bukirin</string>
     <string name="ts_names_farm_orchard">Orchard</string>
-    <string name="ts_names_farm_pastures">Pastures</string>
+    <string name="ts_names_farm_pastures">Pastulan</string>
     <string name="ts_names_farm_ruralgate">Rural Gate</string>
     <string name="ts_names_park_centralpark">Central Park</string>
     <string name="ts_names_park_meadowpark">Meadow Park</string>
     <string name="ts_names_park_woodlandgardens">Woodland Gardens</string>
-    <string name="ts_names_airport_airportterminal">Airport Terminal</string>
-    <string name="ts_names_airport_terminalshuttle">Terminal Shuttle</string>
+    <string name="ts_names_airport_airportterminal">Terminal ng Paliparan</string>
+    <string name="ts_names_airport_terminalshuttle">Shuttle ng Terminal</string>
     <string name="ts_names_airport_aviationway">Aviation Way</string>
-    <string name="ts_names_airport_flyerstop">Flyer Stop</string>
-    <string name="ts_names_airport_airportgate">Airport Gate</string>
-    <string name="ts_names_military_basegate">Base Gate</string>
-    <string name="ts_names_military_fortmain">Fort Main</string>
-    <string name="ts_names_military_barracksstop">Barracks Stop</string>
+    <string name="ts_names_airport_flyerstop">Hintuan ng Flyer</string>
+    <string name="ts_names_airport_airportgate">Gate ng Paliparan</string>
+    <string name="ts_names_military_basegate">Gate ng Base</string>
+    <string name="ts_names_military_fortmain">Pangunahing Kuta</string>
+    <string name="ts_names_military_barracksstop">Hintuan ng Barracks</string>
     <string name="ts_names_military_arsenalroad">Arsenal Road</string>
     <string name="ts_names_military_garrisondepot">Garrison Depot</string>
-    <string name="ts_names_water_riverside">Riverside</string>
-    <string name="ts_names_water_riverbank">Riverbank</string>
-    <string name="ts_names_water_lakeside">Lakeside</string>
-    <string name="ts_names_water_seaside">Seaside</string>
-    <string name="ts_names_water_beachfront">Beachfront</string>
-    <string name="draft_pmono_tracks00_title">Monorail Tracks</string>
-    <string name="draft_pmono_tracks00_text">Elevated tracks used for monorail operation.</string>
-    <string name="draft_pmono_roaddeco_roof00_title">Monorail Station Roof</string>
-    <string name="draft_pmono_roaddeco_roof00_text">Roof element for covering monorail station platforms.</string>
-    <string name="draft_pmono_station00_title">Monorail Station</string>
-    <string name="draft_pmono_station00_text">A modular station for local monorail traffic.</string>
-    <string name="draft_pmono_station_prebuilt00_title">Monorail Station</string>
-    <string name="draft_pmono_station_prebuilt00_text">A prebuilt monorail station for local traffic.</string>
-    <string name="draft_pmono_station_prebuilt01_title">Large Monorail Station</string>
-    <string name="draft_pmono_station_prebuilt01_text">A larger prebuilt monorail station with extended capacity.</string>
+    <string name="ts_names_water_riverside">Tabing-ilog</string>
+    <string name="ts_names_water_riverbank">Pampang ng Ilog</string>
+    <string name="ts_names_water_lakeside">Tabing-lawa</string>
+    <string name="ts_names_water_seaside">Tabing-dagat</string>
+    <string name="ts_names_water_beachfront">Harap-dagat</string>
+    <string name="draft_pmono_tracks00_title">Riles ng Monorail</string>
+    <string name="draft_pmono_tracks00_text">Nakataas na riles na ginagamit para sa operasyon ng monorail.</string>
+    <string name="draft_pmono_roaddeco_roof00_title">Bubong ng Istasyon ng Monorail</string>
+    <string name="draft_pmono_roaddeco_roof00_text">Bahagi ng bubong para takpan ang mga platform ng istasyon ng monorail.</string>
+    <string name="draft_pmono_station00_title">Istasyon ng Monorail</string>
+    <string name="draft_pmono_station00_text">Modular na istasyon para sa lokal na trapiko ng monorail.</string>
+    <string name="draft_pmono_station_prebuilt00_title">Istasyon ng Monorail</string>
+    <string name="draft_pmono_station_prebuilt00_text">Handa nang istasyon ng monorail para sa lokal na trapiko.</string>
+    <string name="draft_pmono_station_prebuilt01_title">Malaking Istasyon ng Monorail</string>
+    <string name="draft_pmono_station_prebuilt01_text">Mas malaking handa nang istasyon ng monorail na may dagdag na kapasidad.</string>
     <string name="draft_pmono_train00_title">Monorail 2000</string>
     <string name="draft_ts_native_monorail00_title">Monorail</string>
-
-
-    <string name="stage_musicmanager_title">Music Library</string>
-    <string name="stage_musicmanager_original">Original</string>
-    <string name="stage_musicmanager_import">Import Music</string>
+    <string name="stage_musicmanager_title">Aklatan ng Musika</string>
+    <string name="stage_musicmanager_original">Orihinal</string>
+    <string name="stage_musicmanager_import">Mag-import ng Musika</string>
     <string name="stage_musicmanager_volume">Volume</string>
-    <string name="stage_musicmanager_alreadyimported">`%s` was imported already</string>
-    <string name="control_active">Active</string>
-    <string name="control_inactive">Inactive</string>
-    <string name="control_delete">Delete</string>
-    <string name="dialog_deletemusic_title">Delete Music</string>
-    <string name="dialog_deletemusic_text">Are you sure that you want to delete `%s`?</string>
-    <string name="gamemenu_catmusic">Music</string>
-
-
-    <string name="ts_tool_edit_route">%s (%d stations)</string>
-    <string name="ts_tool_all_routes">%s (%d routes)</string>
-    <string name="ts_tool_add_random_station">Add random station</string>
-    <string name="ts_reached_vehicle_limit">Cannot assign more than %d vehicles to this route!</string>
-    <string name="musictype_game">Game</string>
-    <string name="musictype_action">Action</string>
-    <string name="musictype_default">%s (default)</string>
-    <string name="dialog_unlink_steam_title">Unlink Account?</string>
-    <string name="dialog_unlink_steam_text">This unlinks your forum account from your Steam account. This may have side effects and should only be done if necessary. The game will restart after unlinking.</string>
-    <string name="dialog_unlink_steam_cmdunlink">Unlink account</string>
-
-
-    <string name="store_cat_heightmaps">Heightmaps</string>
+    <string name="stage_musicmanager_alreadyimported">Na-import na ang `%s`</string>
+    <string name="control_active">Aktibo</string>
+    <string name="control_inactive">Hindi aktibo</string>
+    <string name="control_delete">Tanggalin</string>
+    <string name="dialog_deletemusic_title">Tanggalin ang Musika</string>
+    <string name="dialog_deletemusic_text">Sigurado ka bang gusto mong tanggalin ang `%s`?</string>
+    <string name="gamemenu_catmusic">Musika</string>
+    <string name="ts_tool_edit_route">%s (%d istasyon)</string>
+    <string name="ts_tool_all_routes">%s (%d ruta)</string>
+    <string name="ts_tool_add_random_station">Magdagdag ng random na istasyon</string>
+    <string name="ts_reached_vehicle_limit">Hindi maaaring magtalaga ng higit sa %d sasakyan sa rutang ito!</string>
+    <string name="musictype_game">Laro</string>
+    <string name="musictype_action">Aksyon</string>
+    <string name="musictype_default">%s (karaniwang-ayos)</string>
+    <string name="dialog_unlink_steam_title">I-unlink ang Account?</string>
+    <string name="dialog_unlink_steam_text">Tatanggalin nito ang ugnayan ng iyong forum account sa iyong Steam account. Maaari itong magkaroon ng mga side effect at dapat lang gawin kung kinakailangan. Magre-restart ang laro pagkatapos i-unlink.</string>
+    <string name="dialog_unlink_steam_cmdunlink">I-unlink ang account</string>
     <string name="buildinginfo_happiness_line">%2$.0f%% (%1$s)</string>
-    <string name="forum_oremail">or e-mail</string>
-    <string name="dialog_restore_title">Restore City</string>
-    <string name="dialog_restore_nobackups">No backups available :(</string>
-    <string name="dialog_restore_current">(active)</string>
+    <string name="forum_oremail">o e-mail</string>
     <string name="draft_part_of_plugin">Plugin: %s</string>
-    <string name="stage_special_offer_text">Permanently unlocks the following buildings for diamond-free construction.</string>
-    <string name="settings_edge_gradients">Screen edge gradients</string>
-    <string name="legend_pipe">Pipe</string>
-    <string name="legend_wet">Wet</string>
-    <string name="legend_dry">Dry</string>
-    <string name="legend_protected_buildings">Protected</string>
-    <string name="legend_density_low">Low density</string>
-    <string name="legend_density_high">High density</string>
-    <string name="legend_traffic_low">Low traffic</string>
-    <string name="legend_traffic_high">High traffic</string>
-    <string name="legend_happy">Happy</string>
-    <string name="legend_unhappy">Unhappy</string>
-    <string name="legend_high">High</string>
-    <string name="legend_low">Low</string>
-    <string name="legend_good">Good</string>
-    <string name="legend_bad">Bad</string>
-    <string name="legend_low_voltage">Normal voltage</string>
-    <string name="legend_high_voltage">High voltage</string>
-    <string name="legend_mixed_voltage">Both</string>
-    <string name="legend_metro">Metro</string>
-    <string name="legend_ts_edit">%s (editing)</string>
+
+    <string name="empty_cause_unknown">Umalis dahil sa hindi malamang dahilan.</string>
+    <string name="empty_cause_low_demand">Umalis dahil sa mababang demand.</string>
+    <string name="empty_cause_low_happiness">Umalis dahil sa mababang kasiyahan tungkol sa %s.</string>
+    <string name="empty_cause_crime">Umalis dahil sa krimen (%s).</string>
+    <string name="empty_cause_illness">Umalis dahil sa kontaminasyon.</string>
+    <string name="stage_files_folderfiles">Naglalaman ng %d (na) file</string>
+
+    <string name="notbuildablereason_generic">Hindi pwedeng magtayo dito</string>
+    <string name="notbuildablereason_land">Kailangan ng lupa</string>
+    <string name="notbuildablereason_water">Kailangan ng tubig</string>
+    <string name="notbuildablereason_zone">Maling zone</string>
+    <string name="notbuildablereason_maxcount">Naabot na ang limitasyon ng gusali</string>
+    <string name="notbuildablereason_terrain">Hindi angkop na lupain</string>
+    <string name="notbuildablereason_nomoney">Walang sapat na pera</string>
+    <string name="notbuildablereason_blocked">Naka-block ang lugar</string>
+
+    <string name="recovery_mode_title">Oops</string>
+    <string name="recovery_mode_text">Hindi nagawang magsimula ng TheoTown nang ilang beses.\n\nGusto mo bang ilunsad ang laro sa Recovery Mode?\n\nPansamantalang hindi pinapagana ng Recovery Mode ang lahat ng plugin, na nagbibigay-daan sa iyong alisin o ayusin ang anumang plugin na maaaring nagdudulot ng isyu. Ang mga plugin ay normal na ilo-load muli sa susunod na i-restart mo ang laro.</string>
+    <string name="recovery_mode_normal">Magsimula nang normal</string>
+    <string name="recovery_mode_recovery">Recovery Mode</string>
+
+    <string name="settings_draw_neighbors">Iguhit ang mga kalapit na lungsod</string>
 
 </resources>

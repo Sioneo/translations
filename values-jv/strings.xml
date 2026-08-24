@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?><resources>
     <string name="app_name">TheoTown</string>
-    <string name="settings_title">Pengaturan</string>
+    <string name="settings_title">Setelan</string>
     <string name="loadcity_title">Muat kutha</string>
     <string name="createcity_title">Kutha anyar</string>
     <string name="settings_defaults">Gawan</string>
@@ -21,23 +21,23 @@
     <string name="game_monthlyincome">%1$,+d</string>
     <string name="game_estate">Bandha: %1$s</string>
     <string name="game_rating">%1$,d</string>
-    <string name="settings_resolutionlowlow">Rendah banget</string>
-    <string name="settings_resolutionlow">Rendah</string>
+    <string name="settings_resolutionlowlow">Asor banget</string>
+    <string name="settings_resolutionlow">Asor</string>
     <string name="settings_resolutionnormal">Normal</string>
     <string name="settings_resolutionbig">Gedhe</string>
     <string name="settings_resolutionbigbig">Gedhe banget</string>
     <string name="settings_resolution">Resolusi</string>
     <string name="dialog_nocities_title">Kutha ora ditemokke</string>
-    <string name="dialog_nocities_text">Ora ana kutha sing ditemokke siji-sizia.</string>
+    <string name="dialog_nocities_text">Ora ana kutha sing ditemokake.</string>
     <string name="dialog_nocities_cmdback">Bali</string>
     <string name="dialog_nocities_cmdnewcity">Kutha Anyar</string>
-    <string name="settings_drawcars">Tampilke mobil</string>
-    <string name="settings_drawsmoke">Tampilke asep</string>
+    <string name="settings_drawcars">Tuduhake mobil</string>
+    <string name="settings_drawsmoke">Tuduhake asep</string>
     <string name="settings_transparencybuildmode">Transparan pas mbangun</string>
     <string name="settings_buildgrid">Kothak-kothak pas mbangun</string>
     <string name="settings_doublecardrawing">Gambar mobil dobel</string>
-    <string name="settings_drawwatersparkle">Tampilke banyu mengkilap</string>
-    <string name="settings_drawmapedges">Tampilke wates peta</string>
+    <string name="settings_drawwatersparkle">Tuduhake banyu mengkilap</string>
+    <string name="settings_drawmapedges">Tuduhake wates peta</string>
     <string name="loadcity_errordialog_title">Gagal muat</string>
     <string name="loadcity_errordialog_text">Ora bisa muat kutha, file-e ketoke rusak.\n\nSepurane.</string>
     <string name="loadcity_errordialog_cmdcancel">Bali</string>
@@ -56,11 +56,11 @@
     <string name="draftselector_price">Ragad: %s</string>
     <string name="draftselector_monthlyprice">Ragad saben wulan: %s</string>
     <string name="draftselector_id">ID: %1$s</string>
-    <string name="loadcity_cmddelete">Hapus</string>
+    <string name="loadcity_cmddelete">Busak</string>
     <string name="loadcity_deletedialog_text">Apa kowe yakin arep mbusak iki?</string>
-    <string name="loadcity_deletedialog_title">Hapus kutha</string>
+    <string name="loadcity_deletedialog_title">Busak kutha</string>
     <string name="loadcity_deletedialog_cmdcancel">Bali</string>
-    <string name="loadcity_deletedialog_cmddelete">Hapus</string>
+    <string name="loadcity_deletedialog_cmddelete">Busak</string>
     <string name="createcity_sizebigbig">Gedhe Banget</string>
     <string name="dialog_leave_text">Apa kowe yakin arep metu saka TheoTown?</string>
     <string name="dialog_leave_title">Metu TheoTown</string>
@@ -73,7 +73,7 @@
     <string name="dialog_invalidcityname_cmdok">Ok</string>
     <string name="dialog_hugesize_title">Peta gedhe banget</string>
     <string name="dialog_hugesize_text">Ukuran iki eksperimental lan mungkin ora jalan neng HP-mu. Apa kowe yakin butuh peta sing gedhe?</string>
-    <string name="dialog_hugesize_cmdyes">Iya</string>
+    <string name="dialog_hugesize_cmdyes">Iyo</string>
     <string name="dialog_hugesize_cmdno">Ora</string>
     <string name="draft_church00_title">Greja</string>
     <string name="draft_church00_text">Saben kutha cilik butuh greja.</string>
@@ -92,9 +92,9 @@
     <string name="draft_park01_title">Taman cilik</string>
     <string name="draft_park01_text">Taman cilik kanggo kutha cilik sing apik.</string>
     <string name="draft_park02_title">Taman suket cilik</string>
-    <string name="draft_park02_text">Bocah-bocah bisa guling-guling neng kene.</string>
+    <string name="draft_park02_text">Bocah-bocah iso guling-guling neng kene.</string>
     <string name="draft_park03_title">Taman cilik</string>
-    <string name="draft_waterfountain00_title">Air mancur</string>
+    <string name="draft_waterfountain00_title">Pancuran banyu</string>
     <string name="draft_waterfountain00_text">Para pendhudhuk bakal seneng.</string>
     <string name="draft_bigpark00_title">Taman gedhe</string>
     <string name="draft_bigpark00_text">Taman gedhe kanthi desain sing luwih apik.</string>
@@ -105,12 +105,12 @@
     <string name="draft_medic01_text">Rumah sakit kanggo lara sing butuh penanganan luwih lanjut.</string>
     <string name="draft_school00_title">Sekolah dasar</string>
     <string name="draft_school00_text">Neng kene bocah-bocah sinau pengetahuan dasar.</string>
-    <string name="draft_school01_title">Sekolah menengah</string>
+    <string name="draft_school01_title">Perguruan Tinggi</string>
     <string name="draft_school01_text">Sekolah kanggo remaja neng ngendi dheweke sinau pengetahuan tingkat lanjut.</string>
     <string name="draft_museum00_title">Museum</string>
     <string name="draft_museum00_text">Artefak-artefak disimpen neng kene.</string>
     <string name="draft_pipe00_title">Pipa</string>
-    <string name="draft_pipe00_text">Pipa bisa dipake kanggo ngalirke banyu menyang bangunan-bangunan neng kuthamu.</string>
+    <string name="draft_pipe00_text">Pipa iso digunakake kanggo ngalirke banyu menyang bangunan-bangunan neng kuthamu.</string>
     <string name="draft_waterpump00_title">Stasiun Pompa Banyu</string>
     <string name="draft_waterpump00_text">Nyedhiyakake banyu kanggo bangunan kuthamu.</string>
     <string name="draft_watertower00_title">Menara banyu</string>
@@ -120,7 +120,7 @@
     <string name="gamemode_easy">Gampang</string>
     <string name="gamemode_middle">Normal</string>
     <string name="gamemode_hard">Angel</string>
-    <string name="game_infinitemoney">Tanpa Dhuwit</string>
+    <string name="game_infinitemoney">Dolanan bebas</string>
     <string name="about_title">Kredit</string>
     <string name="about_cmdback">Bali</string>
     <string name="settings_music">Musik</string>
@@ -180,15 +180,15 @@
     <string name="ci_water_text">ORA DIPAKE</string>
     <string name="ci_energy_text">ORA DIPAKE</string>
     <string name="ci_general_text">ORA DIPAKE</string>
-    <string name="topic_reddit">Reddit diblokir neng kene, tapi bisa dibuka nganggo VPN</string>
+    <string name="topic_reddit">Halo Reddit :)</string>
     <string name="topic_animals">Ora ana kewan sing disakiti sajrone produksi!</string>
     <string name="topic_users">Lagi golek 100,000 pemain</string>
     <string name="topic_free">Gime gratis!</string>
-    <string name="topic_about">Kowe bisa nutul layar tengen ngisor</string>
+    <string name="topic_about">Kowe iso nutul layar tengen ngisor</string>
     <string name="topic_letsplay">Ayo mulai main ;)</string>
-    <string name="topic_tutorial">Aja skip tutorial plis :)</string>
+    <string name="topic_tutorial">Tutorial wis kasedhiya :)</string>
     <string name="topic_donate">Ana tombol donasi neng halaman utama</string>
-    <string name="topic_nice">Kutha sing apik. Apa kowe bisa mbangun Jakarta?</string>
+    <string name="topic_nice">Kuthamu apik :)</string>
     <string name="topic_trolls">Mudhun neng ngendi bosque? </string>
     <string name="settings_reversedbuildtool">Obahan kewalik ing mode mbangun</string>
     <string name="draft_karlsruhecastle00_title">Istana Karlsruhe</string>
@@ -202,8 +202,8 @@
     <string name="notify_welcome">Halo, sugeng rawuh ing %1$s, lan sugeng mbangun!</string>
     <string name="notify_citysize">Selamet, kuthamu wis tekan populasi %1$,d!</string>
     <string name="game_placedprice">%1$s</string>
-    <string name="draft_waterfountain01_title">Air mancur</string>
-    <string name="draft_waterfountain01_text">Pendhudhuk bakal seneng.</string>
+    <string name="draft_waterfountain01_title">Mancur banyu</string>
+    <string name="draft_waterfountain01_text">Para pendhudhuk bakal seneng.</string>
     <string name="draft_treepark01_title">Taman wit</string>
     <string name="draft_treepark01_text">Sawijining taman cilik kanthi wit-witan. Pendhudhukmu bakal seneng.</string>
     <string name="buildinginfo_res0">Perumahan ₮</string>
@@ -233,13 +233,13 @@
     <string name="draft_zoneresidential_title">Perumahan</string>
     <string name="draft_zoneresidential_text">Para pendhudhuk bakal mbangun omah ing jero zona iki.</string>
     <string name="draft_zonecommercial_title">Komersial</string>
-    <string name="draft_zonecommercial_text">Bangunan komersil bisa dibangun ing jero zona iki.</string>
+    <string name="draft_zonecommercial_text">Bangunan komersil iso dibangun ing jero zona iki.</string>
     <string name="draft_zoneindustrial_title">Industri</string>
     <string name="draft_zoneindustrial_text">Bangunan industri bakal dibangun neng kene.</string>
     <string name="draft_road00_title">Dalan lemah</string>
     <string name="draft_road00_text">Dalan lemah sederhana.</string>
     <string name="draft_road01_title">Dalan aspal</string>
-    <string name="draft_road01_text">Mobil bisa mlayu banter neng dhuwure.</string>
+    <string name="draft_road01_text">Mobil iso mlayu banter neng dhuwure.</string>
     <string name="draftselector_titleterrain">Medan</string>
     <string name="draft_terrainwater_title">Banyu</string>
     <string name="draft_terrainwater_text">Selehke banyu neng petamu.</string>
@@ -248,7 +248,7 @@
     <string name="draft_tree00_title">Wit</string>
     <string name="draft_tree00_text">Selehke wit neng petamu.</string>
     <string name="draft_busstop00_title">Pemberhentian bus</string>
-    <string name="draft_busstop00_text">Neng kene para pendhudhuk bisa nggunakake bus kanggo tekan bagean kutha liyane.</string>
+    <string name="draft_busstop00_text">Neng kene para pendhudhuk iso nggunakake bus kanggo tekan bagean kutha liyane.</string>
     <string name="settings_orientation">Orientasi layar</string>
     <string name="settings_orientationlandscape">Lanskap</string>
     <string name="settings_orientationportrait">Potret</string>
@@ -257,13 +257,13 @@
     <string name="draft_busdepot00_text">Bus bakal metu saka kene. Pastikne bus-e wis diwenehi rute!</string>
     <string name="settings_debugmode">Mode debug</string>
     <string name="unknown">Wurstbrot</string>
-    <string name="draftselector_titleremove">Hapus</string>
+    <string name="draftselector_titleremove">Busak</string>
     <string name="draftselector_titleview">Deleng</string>
-    <string name="toolremove_default_title">Hapus</string>
-    <string name="toolremove_default_text">Kowe bisa mbusak apa wae karo alat iki. Kecuali sawetara benda, kowe bisa mbusak nggunakake alat hapus sing ditemtokake.</string>
-    <string name="toolremove_pipe_text">Alat iki bisa dipake kanggo ngilangke pipa banyu.</string>
-    <string name="toolremove_pipe_title">Hapus pipa</string>
-    <string name="draftselector_cmdremove">Hapus</string>
+    <string name="toolremove_default_title">Busak</string>
+    <string name="toolremove_default_text">Kowe iso mbusak apa wae karo alat iki. Kajaba sawetara benda, kowe iso mbusak nggunakake alat hapus sing ditemtokake.</string>
+    <string name="toolremove_pipe_text">Alat iki iso digunakake kanggo ngilangke pipa banyu.</string>
+    <string name="toolremove_pipe_title">Busak pipa</string>
+    <string name="draftselector_cmdremove">Busak</string>
     <string name="draftselector_cmdview">Deleng</string>
     <string name="busstopinfo_usage">Antrian: %2$,d/%3$,d\nPemakaian: %1$.1f%%</string>
     <string name="ci_rating_title">Biji</string>
@@ -316,7 +316,7 @@
     <string name="draft_pool00_text">Ayo bosque nglangi neng kolam renang terbuka.</string>
     <string name="draft_pool00_waterslide_title">Prosotan banyu</string>
     <string name="draft_pool00_waterslide_text">Prosotan banyu lan meja payungan.</string>
-    <string name="blank_text">Aku ora ngerti ngapa tulisane blank_text neng kene</string>
+    <string name="blank_text">Ing kene bisa kanggo iklanmu</string>
     <string name="draft_middlepark00_title">Taman sedheng</string>
     <string name="draft_middlepark00_text">Para pendhudhuk bakal seneng.</string>
     <string name="draft_basketball00_title">Lapangan basket</string>
@@ -336,7 +336,7 @@
     <string name="notify_noenergy">Ana bangunan sing ora duwe listrik!</string>
     <string name="notify_nowater">Ana bangunan sing ora duwe banyu!</string>
     <string name="draft_footballstadion00_roof_title">Atap</string>
-    <string name="draft_footballstadion00_roof_text">Nganggo atap, para pemain bisa main ing segala cuaca!</string>
+    <string name="draft_footballstadion00_roof_text">Nganggo atap, para pemain iso main ing kabeh cuaca!</string>
     <string name="draft_footballstadion00_fanshop_title">Toko Fans</string>
     <string name="draft_footballstadion00_fanshop_text">Kabeh aksesoris klub didol neng kene.</string>
     <string name="notify_requirementbuilding">Kowe mbukak %1$s.</string>
@@ -384,7 +384,7 @@
     <string name="topic_birthday_lobby">Sugeng ambal warsa Lobby :)</string>
     <string name="topic_birthday_theo">Sugeng ambal warsa theo :)</string>
     <string name="topic_np">P=NP?</string>
-    <string name="topic_42">69</string>
+    <string name="topic_42">42</string>
     <string name="draft_radio00_news_title">RRI</string>
     <string name="draft_radio00_news_text">Nyiarke berita paling anyar babagan kutha. Nambah pengetahuan.
 \n
@@ -638,7 +638,7 @@
     <string name="ci_budget_title_nomoney">Keuangan (teoretis)</string>
     <string name="dialog_notification_cmdok">Ok</string>
     <string name="draft_nuclearplant00_title">PLTN</string>
-    <string name="draft_nuclearplant00_text">Ngasilke listrik sing luwih gedhe kanthi fusi nuklir. Butuh suplai banyu sing gedhe, yen ora bakal njeblug</string>
+    <string name="draft_nuclearplant00_text">Luwih kuat tinimbang pembangkit listrik liyane. Energi nuklir larang lan bisa mbebayani, mula pesthekne pasokan banyu resik tansah cukup.</string>
     <string name="draft_gasplant00_title">PLTG</string>
     <string name="draft_gasplant00_text">Luwih murah tinimbang pembangkit listrik liyane. Sithik polusi.</string>
     <string name="draft_carcinema00_title">Bioskop drive-in</string>
@@ -678,26 +678,26 @@
     <string name="notify_nocomzone">Gawe zona komersial supaya pebisnis bisa mbangun neng kuthamu.</string>
     <string name="notify_noindzone">Industri-industri bisa mbangun neng kuthamu, nanging kowe kudu gawe zona industri dhisik kanggo dheweke.</string>
     <string name="createcity_sizebigbigbig">Sungguh Besar</string>
-    <string name="locale">en</string>
+    <string name="locale">jv</string>
     <string name="draft_police02_title">Markas Besar Brimob</string>
-    <string name="draft_police02_text">Markas Brimob ini akan menegakkan ketenteraman dan ketertiban di kotamu.</string>
-    <string name="settings_blur">Efek Pudar latar belakang</string>
+    <string name="draft_police02_text">Markas Brimob iki bakal negakake katentreman lan katertiban ing kuthamu.</string>
+    <string name="settings_blur">Efek pudar latar mburi</string>
     <string name="happiness_supply">Pasokan</string>
     <string name="happiness_environment">Lingkungan</string>
-    <string name="happiness_freetime">Waktu bebas</string>
-    <string name="notify_noroad">Beberapa bangunan tidak terhubung dengan jalan. Kamu harus memperbaikinya.</string>
-    <string name="notify_water_waste">Kita punya air yang kotor sekali di sini!</string>
+    <string name="happiness_freetime">Wektu luang</string>
+    <string name="notify_noroad">Sawetara bangunan ora kahubung karo dalan. Kowe kudu mbenakne.</string>
+    <string name="notify_water_waste">Kita duwe banyu sing reget banget neng kene!</string>
     <string name="influence_management_title">Manajemen</string>
-    <string name="influence_management_text">Mengontrol kotamu.</string>
+    <string name="influence_management_text">Ngontrol kuthamu.</string>
     <string name="happiness_management">Manajemen</string>
     <string name="dialog_oldmap_title">Kota kuno</string>
-    <string name="dialog_oldmap_text">TheoTown telah banyak berubah sejak kota ini didirikan. Maka, mungkin kota ini tidak bekerja seperti yang seharusnya. Plis jangan ngambek (◕‿◕✿)</string>
-    <string name="dialog_oldmap_cmdproceed">Lanjutkan</string>
+    <string name="dialog_oldmap_text">TheoTown wis akeh owah wiwit kutha iki diedegne. Dadi, mungkin kutha iki ora mlaku kaya samesthine. Tulung aja nesu ya (◕‿◕✿)</string>
+    <string name="dialog_oldmap_cmdproceed">Lanjutke</string>
     <string name="dialog_oldmap_cmdcancel">Kembali</string>
-    <string name="notify_bad_health">Kesehatan tidak memadai. Kamu harus meningkatkan nilai lingkungan atau membangun pos medis. Pandemi dapat terjadi dan mulai jika tidak terbangun.</string>
-    <string name="dialog_rename_cmdok">Namakan ulang</string>
+    <string name="notify_bad_health">Kesehatan ora nyukupi. Kowe kudu ningkatke nilai lingkungan utawa mbangun pos medis. Pandemi bisa kadadeyan yen ora dibangun.</string>
+    <string name="dialog_rename_cmdok">Ganti jeneng</string>
     <string name="dialog_rename_cmdcancel">Batal</string>
-    <string name="dialog_renamecity_title">Ganti nama kota</string>
+    <string name="dialog_renamecity_title">Ganti jeneng kutha</string>
     <string name="dialog_renamecity_text">Lebokna jeneng anyar kanggo kuthamu ing kene.</string>
     <string name="dialog_renamebuilding_title">Ganti jeneng bangunan</string>
     <string name="dialog_renamebuilding_text">Lebokna jeneng anyar kanggo bangunan iki.</string>
@@ -774,7 +774,7 @@
     <string name="draft_rnk_megalopolis_title">Megalopolis</string>
     <string name="rank_needed_people">Setidaknya %1$,d pendhudhuk</string>
     <string name="draft_decoroad00_title">Wit median</string>
-    <string name="draft_decoroad00_text">.</string>
+    <string name="draft_decoroad00_text">Sithik alam lan teduh kanggo pusat kutha sing rame.</string>
     <string name="settings_experimental">Fitur eksperimen</string>
     <string name="about_thanks">Matur nuwun kanggo</string>
     <string name="about_community">Lan bagean komunitas liyane</string>
@@ -990,7 +990,7 @@
     <string name="ci_neighbor_power">Listrik</string>
     <string name="ci_neighbor_water">Banyu</string>
     <string name="dialog_buy_free">Gratis</string>
-    <string name="notify_missiledisaster">Waduh...Ketoke tes roket terakhir micu bencana galaktik.</string>
+    <string name="notify_missiledisaster">Waduh... Ketoke tes roket pungkasan nyebabake bencana galaktik.</string>
     <string name="notification00_title">BERITA: %1$s duwe dhuwit akeh banget!</string>
     <string name="notification00_text">Wali Kutha, kita butuh sampeyan kanggo mbelanjakan kabeh dhuwit!</string>
     <string name="roadinfo_bridgetype">Tipe jembatan</string>
@@ -1097,7 +1097,7 @@
     <string name="draft_mltry_fence01_text">Pager militer kanggo kepentingan dekorasi.</string>
 
     <string name="store_title">TheoTown</string>
-    <string name="store_shortdesc">Bangun kotamu di permainan simulasi kota ini.</string>
+    <string name="store_shortdesc">Bangun kuthamu dhewe ing dolanan simulasi kutha iki.</string>
     <string name="store_longdesc">Gelem mbangun kuthamu dhewe? Ing TheoTown kowe bisa ndeleng kuthamu tuwuh. Nyatakne zona kanggo bangunan perumahan, komersial, utawa industri lan bangun dalan kanggo ngehubungke. Ciptakne kutha sing luwih menarik kanthi mbangun taman, sekolah, lan akeh fasilitas liyane.
 
 Yen TheoTown diwenehi akses menyang panyimpenan eksternal, kutha bakal disimpen ing direktori TheoTown/maps ing pirantimu, dadi kowe duwe akses menyang panggonane.</string>
@@ -1174,7 +1174,7 @@ Yen TheoTown diwenehi akses menyang panyimpenan eksternal, kutha bakal disimpen 
     <string name="draft_prm_park00_title">Air Mancur Gedhe</string>
     <string name="draft_prm_park00_text">Air mancur indah sing bakal nyenengke pendhudhuk %1$s lan kowe uga.</string>
     <string name="draft_feature_fountain00_title">Air Mancur Gedhe</string>
-    <string name="draft_feature_fountain00_text">Air mancur indah sing bakal nyenengke pendhudhuk %1$s lan kowe uga.</string>
+    <string name="draft_feature_fountain00_text">Mbukak taman pancuran gedhe kanthi permanen kanggo dipasang ing kuthamu. Taman iki dadi pusat perhatian lan ndadekake wilayah sakupenge luwih apik.</string>
 
     <string name="draft_rnk_galaxy_small_title">Galaksi Cilik</string>
     <string name="draft_rnk_galaxy_medium_title">Galaksi</string>
@@ -2640,7 +2640,7 @@ Pencet tombol kanggo netepke tindakane.</string>
 
 
     <string name="dialog_migratefb_title">Tindakan diperlokne! PENTING!</string>
-    <string name="dialog_migratefb_text">Kethoke sampeyan login nggunakake akun Facebook. Sayange, jenis akses iki wis ora digunakake meneh lan ora didhukung.\Tulung mlebu nggunakake akun forum kanggo mindahke data sampeyan.</string>
+    <string name="dialog_migratefb_text">Kethoke sampeyan mlebu nggunakake akun Facebook. Sayange, jinis akses iki wis ora digunakake maneh lan ora bisa didhukung.\nTulung mlebu nggunakake akun forum kanggo mindhah data sampeyan.</string>
     <string name="dialog_migratefb_cmdaccountsettings">Pengaturan akun</string>
     <string name="draft_feature_opera00_title">Gedung Opera</string>
     <string name="draft_feature_opera00_text">Ucul keajaiban budaya karo Bundel Cultural Delight kami! Rasakne kemegahan Gedung Opera, dibarengi karo taman sing tenang lan mancur sing mempesona. Tingkatke suasana kuthamu lan inspirasi wargamu karo paduan harmonis antara musik, alam, lan daya pikat artistik. Tingkatke saiki lan jarke kuthamu bersinar minangka mahakarya budaya!</string>
@@ -2741,7 +2741,7 @@ Pencet tombol kanggo netepke tindakane.</string>
     <string name="draft_dsacontainingwalls_title">Dinding penahanan</string>
     <string name="draft_dsacontainingwalls_text">Dinding sing ora bisa dihancurke dirancang kanggo nahan benda-benda sing ngrusak supaya adoh.</string>
     <string name="draft_dsa_tree_destroyer_title">Pemotong Wit 42-069</string>
-    <string name="draft_dsa_tree_destroyer_text">Mesin luar biasa sing digunakake kanggo motong wit kanthi dhuwit tunai 50% luwih akeh.</string>
+    <string name="draft_dsa_tree_destroyer_text">Mesin sing apik kanggo motong wit kanthi asil dhuwit ping telu.</string>
     <string name="draft_tool_disaster_blackhole_title">Bolongan ireng</string>
     <string name="draft_tool_disaster_blackhole_text">Bencana khusus kanggo peretas.</string>
     <string name="draft_tool_disaster_blackhole_cmd">Kosongke</string>
@@ -2810,10 +2810,10 @@ Pencet tombol kanggo netepke tindakane.</string>
     <string name="draft_moon_auto_deco00_text">Struktur Sing Mbuh Apa Sing Nggawe.</string>
     <string name="draft_moon_dsa_rocks00_title">Watu-watu</string>
     <string name="draft_moon_dsa_rocks00_text">Ana Sawetara Mineral Ing Njerone.</string>
-    <string name="draft_space_shuttle_ja_title">Pangkalan Utama Bulan</string>
-    <string name="draft_space_shuttle_ja_text">Panggonan Ing Ngendi Astronot Mendarat.</string>
+    <string name="draft_space_shuttle_ja_title">Kendaraan pendarat</string>
+    <string name="draft_space_shuttle_ja_text">Kendaraan kanggo mendarat ing benda langit liyane.</string>
     <string name="draft_ja_picklehuge01_title">Acar</string>
-    <string name="draft_ja_picklehuge01_text">.</string>
+    <string name="draft_ja_picklehuge01_text">Kayane iki panguwasa acar sing ditemokake ing wilayah iki.</string>
     <string name="draft_ja_tinypickle00_title">Acar</string>
     <string name="draft_ja_tinypickle00_text">Kethoke Alien?.</string>
     <string name="draft_moon_artifact_ja00_title">Artefak Alien</string>
@@ -3047,7 +3047,7 @@ Pencet tombol kanggo netepke tindakane.</string>
     <string name="draft_dsarocket_requirement_supplies">Sadhian: %s/%s</string>
     <string name="draft_dsarocket_requirement_price">Biaya: %s</string>
     <string name="draft_dsarocket_test_text">Luncurke roket percobaan kosong menyang angkasa kanggo ngumpulke informasi lan nyiapke kanggo peluncuran sarta operasi liyane.</string>
-    <string name="draft_dsarocket_animal_text">Luncurkan roket dengan kucing di dalam yang bernama Akial ke angkasa untuk mengumpulkan informasi vital.</string>
+    <string name="draft_dsarocket_animal_text">Luncurke roket karo kucing sing jenenge Akial menyang angkasa kanggo ngumpulke informasi penting.</string>
     <string name="draft_dsarocket_navigation_text">Luncurke roket karo manungsa menyang angkasa kanggo njalanke tes navigasi.</string>
     <string name="draft_dsarocket_exploration_text">Luncurke roket kanggo misi penjelajahan kanggo nemokake panggonan sing cocok kanggo kolonisasi.</string>
     <string name="draft_dsarocket_sdi_text">Luncurke serangkaian roket menyang angkasa kanggo nyusun inisiatif pertahanan ruang angkasa.</string>
@@ -3416,8 +3416,7 @@ Pencet dalan sing pengen dibangun. Banjur, nalika ana ing menu pembangunan, penc
     <string name="regionlist_cat_tags">Tagar</string>
     <string name="settings_highrescitypreview">Render pratinjau kutha resolusi dhuwur</string>
     <string name="draft_native_snow_plow_depot00_title">Depot Pambajak Salju</string>
-    <string name="draft_native_snow_plow_depot00_text">Fasilitas khusus sing didesain kanggo njaga dalan tetep resik sajrone mangsa adhem. Nyebarke pambajak salju sing kanthi cepet nyingkirke es lan salju saengga mesthekne arus lalu lintas ora keganggu
-        .</string>
+    <string name="draft_native_snow_plow_depot00_text">Fasilitas khusus sing dirancang kanggo njaga dalan tetep resik sajrone mangsa adhem. Ngirim pambajak sing cepet nyingkirake es lan salju supaya lalu lintas tetep lancar.</string>
     <string name="settings_road_snow_overlay">Lapisan salju dalanan</string>
     <string name="settings_ground_snow_overlay">Lapisan salju lemah</string>
     <string name="dialog_scenarios_cmdopen">Skenario</string>
@@ -3477,7 +3476,7 @@ Pencet dalan sing pengen dibangun. Banjur, nalika ana ing menu pembangunan, penc
     <string name="ts_route_duplicate">Salin</string>
     <string name="ts_route_rename">Ganti Jeneng</string>
     <string name="ts_dialog_route_rename_title">Jeneng Rute</string>
-    <string name="ts_route_delete">Hapus</string>
+    <string name="ts_route_delete">Busak</string>
     <string name="ts_station_routes_for">Rute kanggo </string>
     <string name="ts_station_routes">Rute:</string>
     <string name="ts_station_waiting">Nunggu:</string>
@@ -3639,34 +3638,63 @@ Pencet dalan sing pengen dibangun. Banjur, nalika ana ing menu pembangunan, penc
     <string name="dialog_unlink_steam_cmdunlink">Pedhot akun</string>
 
 
-    <string name="draft_raildeco_mast00_title">Overhead line mast</string>
-    <string name="store_cat_heightmaps">Heightmaps</string>
+    <string name="draft_raildeco_mast00_title">Tiang kabel udara</string>
+    <string name="store_cat_heightmaps">Peta ketinggian</string>
     <string name="buildinginfo_happiness_line">%2$.0f%% (%1$s)</string>
-    <string name="forum_oremail">or e-mail</string>
-    <string name="dialog_restore_title">Restore City</string>
-    <string name="dialog_restore_nobackups">No backups available :(</string>
-    <string name="dialog_restore_current">(active)</string>
+    <string name="forum_oremail">utawa e-mail</string>
+    <string name="dialog_restore_title">Pulihake Kutha</string>
+    <string name="dialog_restore_nobackups">Ora ana cadangan :(</string>
+    <string name="dialog_restore_current">(aktif)</string>
     <string name="draft_part_of_plugin">Plugin: %s</string>
-    <string name="stage_special_offer_text">Permanently unlocks the following buildings for diamond-free construction.</string>
-    <string name="settings_edge_gradients">Screen edge gradients</string>
-    <string name="legend_pipe">Pipe</string>
-    <string name="legend_wet">Wet</string>
-    <string name="legend_dry">Dry</string>
-    <string name="legend_protected_buildings">Protected</string>
-    <string name="legend_density_low">Low density</string>
-    <string name="legend_density_high">High density</string>
-    <string name="legend_traffic_low">Low traffic</string>
-    <string name="legend_traffic_high">High traffic</string>
-    <string name="legend_happy">Happy</string>
-    <string name="legend_unhappy">Unhappy</string>
-    <string name="legend_high">High</string>
-    <string name="legend_low">Low</string>
-    <string name="legend_good">Good</string>
-    <string name="legend_bad">Bad</string>
-    <string name="legend_low_voltage">Normal voltage</string>
-    <string name="legend_high_voltage">High voltage</string>
-    <string name="legend_mixed_voltage">Both</string>
+    <string name="stage_special_offer_text">Mbukak permanen bangunan ing ngisor iki tanpa biaya berlian.</string>
+    <string name="settings_edge_gradients">Gradasi pinggir layar</string>
+    <string name="legend_pipe">Pipa</string>
+    <string name="legend_wet">Teles</string>
+    <string name="legend_dry">Garing</string>
+    <string name="legend_protected_buildings">Dilindhungi</string>
+    <string name="legend_density_low">Kerapatan rendah</string>
+    <string name="legend_density_high">Kerapatan dhuwur</string>
+    <string name="legend_traffic_low">Lalu lintas sepi</string>
+    <string name="legend_traffic_high">Lalu lintas rame</string>
+    <string name="legend_happy">Seneng</string>
+    <string name="legend_unhappy">Ora seneng</string>
+    <string name="legend_high">Dhuwur</string>
+    <string name="legend_low">Rendah</string>
+    <string name="legend_good">Apik</string>
+    <string name="legend_bad">Ala</string>
+    <string name="legend_low_voltage">Tegangan normal</string>
+    <string name="legend_high_voltage">Tegangan dhuwur</string>
+    <string name="legend_mixed_voltage">Kabeh loro</string>
     <string name="legend_metro">Metro</string>
-    <string name="legend_ts_edit">%s (editing)</string>
+    <string name="legend_ts_edit">%s (lagi diowahi)</string>
+
+
+    <string name="dialog_url_title">Mbukak situs web?</string>
+    <string name="dialog_url_text">Plugin "%s" pengin mbukak situs web eksternal. Bisa uga ngemot iklan. Terusna mung yen sampeyan percaya karo sumberé:</string>
+    <string name="dialog_url_cmdopen">Mbukak</string>
+    <string name="settings_adaptive_ground_blending">Campuran lemah adaptif</string>
+
+    <string name="empty_cause_unknown">Ditinggal amarga alesan sing ora dingerteni.</string>
+    <string name="empty_cause_low_demand">Ditinggal amarga kurang dikarepake.</string>
+    <string name="empty_cause_low_happiness">Ditinggal amarga kurang marem babagan %s.</string>
+    <string name="empty_cause_crime">Ditinggal amarga kejahatan (%s).</string>
+    <string name="empty_cause_illness">Ditinggal amarga kontaminasi.</string>
+    <string name="stage_files_folderfiles">Isine %d berkas</string>
+
+    <string name="notbuildablereason_generic">Ora bisa mbangun ing kene</string>
+    <string name="notbuildablereason_land">Mbutuhake dharatan</string>
+    <string name="notbuildablereason_water">Mbutuhake banyu</string>
+    <string name="notbuildablereason_zone">Zona sing salah</string>
+    <string name="notbuildablereason_maxcount">Watesan bangunan wis tekan</string>
+    <string name="notbuildablereason_terrain">Medan ora cocok</string>
+    <string name="notbuildablereason_nomoney">Dhuwit ora cukup</string>
+    <string name="notbuildablereason_blocked">Wilayah iki diblokir</string>
+
+    <string name="recovery_mode_title">Walah</string>
+    <string name="recovery_mode_text">TheoTown ora bisa diwiwiti kaping pirang-pirang.\n\nApa sampeyan pengin miwiti game ing Mode Pamulihan?\n\nMode Pamulihan mateni kabeh plugin kanggo sementara, supaya sampeyan bisa mbusak utawa ndandani plugin sing bisa nyebabake masalah. Plugin bakal dimuat kaya biasane nalika game diwiwiti maneh sabanjure.</string>
+    <string name="recovery_mode_normal">Miwiti kaya biasane</string>
+    <string name="recovery_mode_recovery">Mode Pamulihan</string>
+
+    <string name="settings_draw_neighbors">Gambar kutha tangga</string>
 
 </resources>
